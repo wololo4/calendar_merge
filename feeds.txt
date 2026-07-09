@@ -1,0 +1,2 @@
+https://cluster.leaguestat.com/components/calendar/ical_add_games.php?client_code=ohl&season_id=88&team_id=1
+https://cluster.leaguestat.com/components/calendar/ical_add_games.php?client_code=ohl&season_id=88&team_id=11
