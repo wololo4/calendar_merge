@@ -1,101 +1,166 @@
 import requests
 from icalendar import Calendar
-from datetime import datetime
-import os
+from collections import defaultdict
 
-OUTPUT_FILE = "calendar.ics"
+
 FEEDS_FILE = "feeds.txt"
 
 
 def load_feeds():
+
+    feeds = []
+
     with open(FEEDS_FILE, "r", encoding="utf-8") as file:
-        return [
-            line.strip()
-            for line in file
-            if line.strip() and not line.startswith("#")
-        ]
+
+        for line in file:
+
+            line = line.strip()
+
+            if not line or line.startswith("#"):
+                continue
+
+            league, url = line.split("|", 1)
+
+            feeds.append(
+                (league.strip(), url.strip())
+            )
+
+    return feeds
+
 
 
 def download_calendar(url):
-    try:
-        response = requests.get(
-            url,
-            timeout=30,
-            headers={
-                "User-Agent": "Mozilla/5.0"
-            }
-        )
-        response.raise_for_status()
-        return Calendar.from_ical(response.content)
 
-    except Exception as e:
-        print(f"Erreur avec {url}")
-        print(e)
-        return None
-
-
-def event_key(event):
-    uid = str(event.get("UID", ""))
-    start = str(event.get("DTSTART", ""))
-    return uid + start
-
-
-def merge_calendars():
-
-    merged = Calendar()
-
-    merged.add(
-        "prodid",
-        "-//Calendrier fusionné//ChatGPT//"
+    response = requests.get(
+        url,
+        timeout=30,
+        headers={
+            "User-Agent": "Mozilla/5.0"
+        }
     )
 
-    merged.add(
+    response.raise_for_status()
+
+    return Calendar.from_ical(
+        response.content
+    )
+
+
+
+def create_calendar():
+
+    cal = Calendar()
+
+    cal.add(
+        "prodid",
+        "-//Hockey Calendar//"
+    )
+
+    cal.add(
         "version",
         "2.0"
     )
 
-    seen = set()
-
-    feeds = load_feeds()
-
-    print(f"{len(feeds)} calendriers trouvés")
-
-    for url in feeds:
-
-        print(f"Chargement : {url}")
-
-        calendar = download_calendar(url)
-
-        if calendar is None:
-            continue
-
-        for component in calendar.walk():
-
-            if component.name != "VEVENT":
-                continue
-
-            key = event_key(component)
-
-            if key in seen:
-                continue
-
-            seen.add(key)
-            merged.add_component(component)
+    return cal
 
 
-    with open(
-        OUTPUT_FILE,
-        "wb"
-    ) as file:
 
-        file.write(
-            merged.to_ical()
-        )
+def event_id(event):
 
-    print(
-        f"{len(seen)} événements créés dans {OUTPUT_FILE}"
+    return (
+        str(event.get("UID"))
+        +
+        str(event.get("DTSTART"))
     )
 
 
+
+def main():
+
+    leagues = defaultdict(list)
+
+    seen = defaultdict(set)
+
+
+    feeds = load_feeds()
+
+
+    for league, url in feeds:
+
+        print(
+            "Téléchargement:",
+            league
+        )
+
+        try:
+
+            calendar = download_calendar(url)
+
+
+            for event in calendar.walk():
+
+                if event.name != "VEVENT":
+                    continue
+
+
+                key = event_id(event)
+
+
+                if key in seen[league]:
+                    continue
+
+
+                seen[league].add(key)
+
+                leagues[league].append(event)
+
+
+        except Exception as e:
+
+            print(
+                "Erreur:",
+                league,
+                e
+            )
+
+
+
+    for league, events in leagues.items():
+
+        output = create_calendar()
+
+
+        for event in events:
+
+            output.add_component(event)
+
+
+        filename = (
+            league.lower()
+            +
+            ".ics"
+        )
+
+
+        with open(
+            filename,
+            "wb"
+        ) as file:
+
+            file.write(
+                output.to_ical()
+            )
+
+
+        print(
+            filename,
+            "créé:",
+            len(events),
+            "matchs"
+        )
+
+
+
 if __name__ == "__main__":
-    merge_calendars()
+
+    main()
