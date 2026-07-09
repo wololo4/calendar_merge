@@ -1,2 +1,31 @@
-https://cluster.leaguestat.com/components/calendar/ical_add_games.php?client_code=ohl&season_id=88&team_id=1
-https://cluster.leaguestat.com/components/calendar/ical_add_games.php?client_code=ohl&season_id=88&team_id=11
+# Format :
+# LIGUE|URL_ICAL
+
+NHL|webcal://ics.ecal.com/ecal-sub/6a4fe2cc78faca000225dc95/NHL.ics
+
+AHL|https://lscluster.hockeytech.com/components/calendar/ical_add_games.php?client_code=ahl&game_ids=1029075,1029082,1029120,1029128,1029137,1029160,1029171,1029182,1029195,1029213,1029227,1029246,1029257,1029271,1029294,1029304,1029315,1029334,1029356,1029368,1029396,1029408,1029427,1029433,1029469,1029474,1029488,1029508,1029513,1029544,1029549,1029563,1029578,1029598,1029610,1029621,1029635,1029649,1029666,1029675,1029686,1029730,1029746,1029752,1029760,1029794,1029807,1029822,1029846,1029859,1029893,1029901,1029911,1029927,1029940,1029960,1029970,1029981,1030008,1030013,1030038,1030072,1030081,1030091,1030109,1030124,1030135,1030149,1030160,1030190,1030205,1030222
+
+ECHL|https://lions3r.com/fr/calendrier-all.ics
+
+OHL|https://cluster.leaguestat.com/components/calendar/ical_add_games.php?client_code=ohl&season_id=88&team_id=1
+OHL|https://cluster.leaguestat.com/components/calendar/ical_add_games.php?client_code=ohl&season_id=88&team_id=11
+
+LHJMQ|https://cluster.leaguestat.com/components/calendar/ical_add_games.php?client_code=lhjmq&season_id=214&team_id=10
+LHJMQ|https://cluster.leaguestat.com/components/calendar/ical_add_games.php?client_code=lhjmq&season_id=214&team_id=15
+
+WHL|https://cluster.leaguestat.com/components/calendar/ical_add_games.php?client_code=whl&season_id=295&team_id=277
+WHL|https://cluster.leaguestat.com/components/calendar/ical_add_games.php?client_code=whl&season_id=295&team_id=213
+WHL|https://cluster.leaguestat.com/components/calendar/ical_add_games.php?client_code=whl&season_id=295&team_id=212
+
+NCAA|https://dartmouthsports.com/api/v2/Calendar/subscribe?type=ics&sportId=9&scheduleId=3302
+NCAA|https://uwbadgers.com/api/v2/Calendar/subscribe?type=ics&sportId=6&scheduleId=739
+NCAA|https://mgoblue.com/api/v2/Calendar/subscribe?type=ics&sportId=11&scheduleId=1895
+NCAA|https://gophersports.com/api/v2/Calendar/subscribe?type=ics&sportId=8&scheduleId=839
+NCAA|https://denverpioneers.com/calendar.ashx/calendar.ics?sport_id=4&_=cmrdsw22f000135afe9gi0xb9
+NCAA|https://wmubroncos.com/calendar.ashx/calendar.ics?sport_id=5&_=cmrdsydfv000135aertsvhapf
+NCAA|https://scsuhuskies.com/api/v2/Calendar/subscribe?type=ics&sportId=7&scheduleId=1483
+NCAA|https://miamiredhawks.com/api/v2/Calendar/subscribe?type=ics&sportId=9&scheduleId=809
+NCAA|https://goterriers.com/api/v2/Calendar/subscribe?type=ics&sportId=5&scheduleId=5771
+NCAA|https://friars.com/api/v2/Calendar/subscribe?type=ics&sportId=5&scheduleId=470
+NCAA|https://msumavericks.com/calendar.ashx/calendar.ics?sport_id=7&_=cmrdt5dxc000135b48kezm6ns
+NCAA|https://bsubeavers.com/calendar.ashx/calendar.ics?sport_id=6&_=cmrdt6eli000135a09ywi35k5
