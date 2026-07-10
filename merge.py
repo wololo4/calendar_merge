@@ -30,20 +30,30 @@ def load_feeds():
 
 
 def download_calendar(url):
+    
+    session = requests.Session()
 
-    response = requests.get(
+    headers = {
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/138.0.0.0 Safari/537.36"
+        ),
+        "Accept": "text/calendar,text/plain,*/*",
+        "Accept-Language": "en-US,en;q=0.9,fr;q=0.8",
+        "Referer": "https://www.khl.ru/",
+    }
+    
+    response = session.get(
         url,
+        headers=headers,
         timeout=30,
-        headers={
-            "User-Agent": "Mozilla/5.0"
-        }
+        allow_redirects=True,
     )
 
     response.raise_for_status()
 
-    return Calendar.from_ical(
-        response.content
-    )
+    return Calendar.from_ical(response.content)
 
 
 
