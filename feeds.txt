@@ -29,3 +29,6 @@ NCAA|https://goterriers.com/api/v2/Calendar/subscribe?type=ics&sportId=5&schedul
 NCAA|https://friars.com/api/v2/Calendar/subscribe?type=ics&sportId=5&scheduleId=470
 NCAA|https://msumavericks.com/calendar.ashx/calendar.ics?sport_id=7&_=cmrdt5dxc000135b48kezm6ns
 NCAA|https://bsubeavers.com/calendar.ashx/calendar.ics?sport_id=6&_=cmrdt6eli000135a09ywi35k5
+
+KHL|https://www.khl.ru/calendar/ics/38;/
+KHL|https://www.khl.ru/calendar/ics/26;/
