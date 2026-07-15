@@ -32,3 +32,5 @@ NCAA|https://bsubeavers.com/calendar.ashx/calendar.ics?sport_id=6&_=cmrdt6eli000
 
 KHL|https://www.khl.ru/calendar/ics/38;/
 KHL|https://www.khl.ru/calendar/ics/26;/
+
+UFA|https://www.backend.ufastats.com/web-v1/games?current&teamID=13
