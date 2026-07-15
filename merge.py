@@ -22,72 +22,77 @@ def parse_chl_json_to_calendar(json_data):
     """Converts raw live Bell Media CHL JSON data into a standard icalendar Calendar object."""
     cal = create_calendar()
 
-    # The production Bell Media endpoint wraps events in a root 'sportsEvents' array
-    games_list = json_data.get("sportsEvents", [])
-
-    for item in games_list:
-        event_data = item.get("event", {})
-        date_gmt = event_data.get("dateGMT")
-
-        # Safety Check: Skip if the game has no timestamp yet
-        if not date_gmt:
+    # FIX: Loop through the date-string keys directly (e.g., "2026-05-22")
+    for date_key, games_list in json_data.items():
+        # Safety: skip if metadata strings are mixed into the root keys
+        if not isinstance(games_list, list):
             continue
 
-        event = Event()
+        for item in games_list:
+            event_data = item.get("event", {})
+            date_gmt = event_data.get("dateGMT")
 
-        # Build Unique Identifier using the internal eventId matrix
-        event_id = item.get("eventId", "unknown")
-        event.add("uid", f"chl-game-{event_id}@chl.ca")
+            # Safety Check: Skip if the game has no timestamp yet
+            if not date_gmt:
+                continue
 
-        try:
-            # Parse the ISO-8601 string (e.g. 2026-05-23T01:00:00) and clamp it to UTC
-            start_dt = datetime.fromisoformat(date_gmt).replace(
-                tzinfo=timezone.utc
-            )
+            event = Event()
 
-            # Estimate duration (Approx. 2.5 hours for a major junior hockey game)
-            end_dt = start_dt + timedelta(hours=2, minutes=30)
+            # Build Unique Identifier using the internal eventId matrix
+            event_id = item.get("eventId", "unknown")
+            event.add("uid", f"chl-game-{event_id}@chl.ca")
 
-            event.add("dtstart", start_dt)
-            event.add("dtend", end_dt)
+            try:
+                # Parse the ISO-8601 string (e.g. 2026-05-23T01:00:00) and clamp it to UTC
+                start_dt = datetime.fromisoformat(date_gmt).replace(
+                    tzinfo=timezone.utc
+                )
 
-        except Exception as parse_err:
-            print(
-                f"Erreur de formatage date pour le match CHL {event_id}: {parse_err}"
-            )
-            continue
+                # Estimate duration (Approx. 2.5 hours for a major junior hockey game)
+                end_dt = start_dt + timedelta(hours=2, minutes=30)
 
-        # Extract team details from 'top' (Away) and 'bottom' (Home) structures
-        top_team = event_data.get("top", {})
-        bottom_team = event_data.get("bottom", {})
+                event.add("dtstart", start_dt)
+                event.add("dtend", end_dt)
 
-        # Extract names gracefully (e.g., "Kitchener Rangers")
-        away_name = (
-            f"{top_team.get('location', '')} {top_team.get('name', '')}"
-        ).strip()
-        home_name = (
-            f"{bottom_team.get('location', '')} {bottom_team.get('name', '')}"
-        ).strip()
-        venue = event_data.get("venue", "CHL Arena")
+            except Exception as parse_err:
+                print(
+                    f"Erreur de formatage date pour le match CHL {event_id}: {parse_err}"
+                )
+                continue
 
-        event.add("summary", f"{away_name} @ {home_name}")
-        event.add("location", venue)
+            # Extract team details from 'top' (Away) and 'bottom' (Home) structures
+            top_team = event_data.get("top", {})
+            bottom_team = event_data.get("bottom", {})
 
-        # Build the description context notes
-        description = [
-            "Official CHL Ice Hockey Match",
-            f"Status: {event_data.get('formattedTime', 'Scheduled')}",
-        ]
+            # Extract names gracefully (e.g., "Kitchener Rangers")
+            away_name = (
+                f"{top_team.get('location', '')} {top_team.get('name', '')}"
+            ).strip()
+            home_name = (
+                f"{bottom_team.get('location', '')} {bottom_team.get('name', '')}"
+            ).strip()
+            venue = event_data.get("venue", "CHL Arena")
 
-        # Attach TSN media video clip highlight urls if they are active in the feed
-        videos = event_data.get("videosTsn", [])
-        if videos and isinstance(videos, list):
-            highlight = videos[0]
-            if highlight.get("description"):
-                description.append(f"\nSummary: {highlight['description']}")
+            event.add("summary", f"{away_name} @ {home_name}")
+            event.add("location", venue)
 
-        event.add("description", "\n".join(description))
-        cal.add_component(event)
+            # Build the description context notes
+            description = [
+                "Official CHL Ice Hockey Match",
+                f"Status: {event_data.get('formattedTime', 'Scheduled')}",
+            ]
+
+            # Attach TSN media video clip highlight urls if they are active in the feed
+            videos = event_data.get("videosTsn", [])
+            if videos and isinstance(videos, list):
+                highlight = videos[0]
+                if isinstance(highlight, dict) and highlight.get(
+                    "description"
+                ):
+                    description.append(f"\nSummary: {highlight['description']}")
+
+            event.add("description", "\n".join(description))
+            cal.add_component(event)
 
     return cal
 
