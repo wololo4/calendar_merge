@@ -1,5 +1,4 @@
 import os
-import json  # <-- CRITICAL ADDITION FOR THE STRIP EXTRACTION
 from collections import defaultdict
 from datetime import datetime, timedelta, timezone
 import requests
@@ -85,7 +84,7 @@ def parse_chl_json_to_calendar(json_data):
         videos = event_data.get("videosTsn", [])
         if videos and isinstance(videos, list):
             highlight = videos[0]
-            if highlight.get("description"):
+            if isinstance(highlight, dict) and highlight.get("description"):
                 description.append(f"\nSummary: {highlight['description']}")
 
         event.add("description", "\n".join(description))
@@ -164,7 +163,7 @@ def download_calendar(url):
             "AppleWebKit/537.36 (KHTML, like Gecko) "
             "Chrome/138.0.0.0 Safari/537.36"
         ),
-        "Accept": "application/json,text/plain,text/calendar,*/*",
+        "Accept": "*/*",  # Let the server respond in its native content format
         "Accept-Language": "en-US,en;q=0.9,fr;q=0.8",
     }
 
@@ -176,26 +175,20 @@ def download_calendar(url):
     )
     response.raise_for_status()
 
-    # --- FIXED INTERCEPTION LOGIC ---
-    # Intercept based directly on domain presence since headers return plain text
-    if "://ufastats.com" in url or "bellmedia.ca" in url:
-        try:
-            # Force string validation conversion to dictionary mapping arrays
-            raw_json = (
-                response.json()
-                if not isinstance(response.content, str)
-                else json.loads(response.text)
-            )
-        except Exception:
-            raw_json = json.loads(response.text)
+    # --- BULLETPROOF API ROUTING ---
+    # First, test if the incoming data payload is clean JSON text.
+    try:
+        raw_json = response.json()
 
+        # If it successfully parses as JSON, evaluate the root structure key signatures
         if "games" in raw_json:
             return parse_ufa_json_to_calendar(raw_json)
         else:
             return parse_chl_json_to_calendar(raw_json)
 
-    # Fallback to normal .ics parsing for standard hockey feeds
-    return Calendar.from_ical(response.content)
+    except (ValueError, TypeError, json.JSONDecodeError):
+        # If it's not a JSON string, it falls back to native standard .ics parsing (like KHL)
+        return Calendar.from_ical(response.content)
 
 
 def create_calendar():
