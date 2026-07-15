@@ -17,36 +17,49 @@ def load_feeds():
             feeds.append((league.strip(), url.strip()))
     return feeds
 
-
 def parse_ufa_json_to_calendar(json_data):
-    """Converts raw UFA JSON data into a standard icalendar Calendar object."""
+    """Converts raw UFA JSON data into a standard icalendar Calendar object safely."""
     cal = create_calendar()
     
+    # Iterate through the games list
     for game in json_data.get("games", []):
+        # 1. Safety Check: Skip matches missing core date/time values (e.g. TBD games)
+        if not game.get("date") or not game.get("time"):
+            print(f"Matchup sauté (Date/Heure manquante): {game.get('awayTeamName')} @ {game.get('homeTeamName')}")
+            continue
+            
         event = Event()
         
         # Build Unique Identifier
-        event.add("uid", f"ufa-game-{game['gameID']}@ufastats.com")
+        event.add("uid", f"ufa-game-{game.get('gameID', 'unknown')}@ufastats.com")
         
-        # Parse start times (Format: YYYY-MM-DD and HH:MM)
-        date_str = game["date"].replace("-", "")
-        time_str = game["time"].replace(":", "") + "00"
-        start_dt = datetime.strptime(f"{date_str}T{time_str}", "%Y%m%dT%H%M%S")
-        
-        # Estimate duration (Approx. 2 hours for Ultimate Frisbee)
-        end_dt = start_dt + timedelta(hours=2)
-        
-        event.add("dtstart", start_dt)
-        event.add("dtend", end_dt)
-        event.add("summary", f"{game['awayTeamName']} @ {game['homeTeamName']}")
+        try:
+            # Parse start times (Format: YYYY-MM-DD and HH:MM)
+            date_str = game["date"].replace("-", "")
+            time_str = game["time"].replace(":", "") + "00"
+            start_dt = datetime.strptime(f"{date_str}T{time_str}", "%Y%m%dT%H%M%S")
+            
+            # Estimate duration (Approx. 2 hours for Ultimate Frisbee)
+            end_dt = start_dt + timedelta(hours=2)
+            
+            event.add("dtstart", start_dt)
+            event.add("dtend", end_dt)
+            
+        except Exception as parse_err:
+            print(f"Erreur de formatage date pour le match {game.get('gameID')}: {parse_err}")
+            continue
+
+        # Add remaining text fields safely using .get() fallbacks
+        away = game.get("awayTeamName", "Away Team")
+        home = game.get("homeTeamName", "Home Team")
+        event.add("summary", f"{away} @ {home}")
         event.add("location", game.get("field", "UFA Field"))
         event.add("description", "Official UFA Ultimate Frisbee Match")
         
         cal.add_component(event)
         
     return cal
-
-
+    
 def download_calendar(url):
     session = requests.Session()
     headers = {
