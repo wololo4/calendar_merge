@@ -69,7 +69,7 @@ def download_calendar(url):
     response.raise_for_status()
 
     # Intercept the pipeline if the request comes from the UFA JSON API
-    if "://ufastats.com" in url or response.headers.get("Content-Type", "").startswith("application/json"):
+    if "www.backend.ufastats.com" in url or response.headers.get("Content-Type", "").startswith("application/json"):
         return parse_ufa_json_to_calendar(response.json())
 
     # Fallback to normal .ics parsing for standard hockey feeds
