@@ -242,7 +242,7 @@ def main():
         with open(filename, "wb") as file:
             file.write(output.to_ical())
 
-        print(filename, "créé:", len(events), "matchs")
+        print(f"{filename} créé: {len(events)} matchs")
 
 
 if __name__ == "__main__":
