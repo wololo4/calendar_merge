@@ -1936,7 +1936,7 @@ BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey at Alaska Anchorage
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_15973-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey at Alaska Anchorage\n
 LOCATION:Anchorage\, Alaska
@@ -1947,7 +1947,7 @@ BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey at Alaska Anchorage
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_15974-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey at Alaska Anchorage\n
 LOCATION:Anchorage\, Alaska
@@ -1959,7 +1959,7 @@ SUMMARY:University of Denver Men's Ice Hockey vs USA Hockey Under-18 Team
  - Exhibition
 DTSTART:20261011T000000Z
 DTEND:20261011T030000Z
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16045-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs USA Hockey Under-18 T
  eam - Exhibition\n
@@ -1971,7 +1971,7 @@ BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs Michigan
 DTSTART:20261017T010000Z
 DTEND:20261017T040000Z
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_15975-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs Michigan\n
 LOCATION:Denver\, Colo.\, Magness Arena
@@ -1982,7 +1982,7 @@ BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs Michigan
 DTSTART:20261018T000000Z
 DTEND:20261018T030000Z
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_15976-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs Michigan\n
 LOCATION:Denver\, Colo.\, Magness Arena
@@ -1994,7 +1994,7 @@ SUMMARY:University of Denver Men's Ice Hockey vs Boston College - Homecomi
  ng Weekend
 DTSTART:20261024T010000Z
 DTEND:20261024T040000Z
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_15977-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs Boston College - Home
  coming Weekend\n
@@ -2007,7 +2007,7 @@ SUMMARY:University of Denver Men's Ice Hockey vs Boston College - Homecomi
  ng Weekend
 DTSTART:20261025T000000Z
 DTEND:20261025T030000Z
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_15978-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs Boston College - Home
  coming Weekend\n
@@ -2019,7 +2019,7 @@ BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs Omaha
 DTSTART:20261031T010000Z
 DTEND:20261031T040000Z
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_15979-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs Omaha\n
 LOCATION:Denver\, Colo.\, Magness Arena
@@ -2030,7 +2030,7 @@ BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs Omaha
 DTSTART:20261101T000000Z
 DTEND:20261101T030000Z
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_15980-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs Omaha\n
 LOCATION:Denver\, Colo.\, Magness Arena
@@ -2041,7 +2041,7 @@ BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey at Arizona State
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_15981-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey at Arizona State\n
 LOCATION:Tempe\, Ariz.
@@ -2052,7 +2052,7 @@ BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey at Arizona State
 DTSTART:20261108T190000Z
 DTEND:20261108T220000Z
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_15982-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey at Arizona State\n
 LOCATION:Tempe\, Ariz.
@@ -2064,7 +2064,7 @@ SUMMARY:University of Denver Men's Ice Hockey vs Lindenwood - Hockey Alumn
  i Weekend
 DTSTART:20261114T020000Z
 DTEND:20261114T050000Z
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_15983-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs Lindenwood - Hockey A
  lumni Weekend\n
@@ -2077,7 +2077,7 @@ SUMMARY:University of Denver Men's Ice Hockey vs Lindenwood - Hockey Alumn
  i Weekend
 DTSTART:20261115T010000Z
 DTEND:20261115T040000Z
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_15984-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs Lindenwood - Hockey A
  lumni Weekend\n
@@ -2090,7 +2090,7 @@ SUMMARY:University of Denver Men's Ice Hockey vs St. Thomas - Hockey Paren
  ts Weekend
 DTSTART:20261121T020000Z
 DTEND:20261121T050000Z
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_15985-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs St. Thomas - Hockey P
  arents Weekend\n
@@ -2103,7 +2103,7 @@ SUMMARY:University of Denver Men's Ice Hockey vs St. Thomas - Hockey Paren
  ts Weekend
 DTSTART:20261122T010000Z
 DTEND:20261122T040000Z
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_15986-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs St. Thomas - Hockey P
  arents Weekend\n
@@ -2115,7 +2115,7 @@ BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey at Boston University
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_15987-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey at Boston University\n
 LOCATION:Boston\, Mass.
@@ -2126,7 +2126,7 @@ BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey at Boston University
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_15988-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey at Boston University\n
 LOCATION:Boston\, Mass.
@@ -2137,7 +2137,7 @@ BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs North Dakota
 DTSTART:20261205T020000Z
 DTEND:20261205T050000Z
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_15989-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs North Dakota\n
 LOCATION:Denver\, Colo.\, Magness Arena
@@ -2148,7 +2148,7 @@ BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs North Dakota
 DTSTART:20261206T010000Z
 DTEND:20261206T040000Z
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_15990-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs North Dakota\n
 LOCATION:Denver\, Colo.\, Magness Arena
@@ -2159,7 +2159,7 @@ BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey at St. Cloud State
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_15991-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey at St. Cloud State\n
 LOCATION:St. Cloud\, Minn.
@@ -2170,7 +2170,7 @@ BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey at St. Cloud State
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_15992-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey at St. Cloud State\n
 LOCATION:St. Cloud\, Minn.
@@ -2181,7 +2181,7 @@ BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey at Bowling Green
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_15993-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey at Bowling Green\n
 LOCATION:Bowling Green\, Ohio
@@ -2192,7 +2192,7 @@ BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey at Bowling Green
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_15994-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey at Bowling Green\n
 LOCATION:Bowling Green\, Ohio
@@ -2203,7 +2203,7 @@ BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey at Western Michigan
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_15995-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey at Western Michigan\n
 LOCATION:Kalamazoo\, Mich.
@@ -2214,7 +2214,7 @@ BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey at Western Michigan
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_15996-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey at Western Michigan\n
 LOCATION:Kalamazoo\, Mich.
@@ -2225,7 +2225,7 @@ BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs Colorado College
 DTSTART:20270117T010000Z
 DTEND:20270117T040000Z
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_15998-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs Colorado College\n
 LOCATION:Denver\, Colo.\, Magness Arena
@@ -2236,7 +2236,7 @@ BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey at Minnesota Duluth
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16000-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey at Minnesota Duluth\n
 LOCATION:Duluth\, Minn.
@@ -2247,7 +2247,7 @@ BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey at Minnesota Duluth
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16001-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey at Minnesota Duluth\n
 LOCATION:Duluth\, Minn.
@@ -2258,7 +2258,7 @@ BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey at Colorado College
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16002-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey at Colorado College\n
 LOCATION:Colorado Springs\, Colo.
@@ -2269,7 +2269,7 @@ BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs Arizona State
 DTSTART:20270206T020000Z
 DTEND:20270206T050000Z
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16003-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs Arizona State\n
 LOCATION:Denver\, Colo.\, Magness Arena
@@ -2280,7 +2280,7 @@ BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs Arizona State
 DTSTART:20270207T010000Z
 DTEND:20270207T040000Z
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16004-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs Arizona State\n
 LOCATION:Denver\, Colo.\, Magness Arena
@@ -2291,7 +2291,7 @@ BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey at Miami
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16005-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey at Miami\n
 LOCATION:Oxford\, Ohio.
@@ -2302,7 +2302,7 @@ BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey at Miami
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16006-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey at Miami\n
 LOCATION:Oxford\, Ohio
@@ -2313,7 +2313,7 @@ BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs St. Cloud State
 DTSTART:20270220T020000Z
 DTEND:20270220T050000Z
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16007-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs St. Cloud State\n
 LOCATION:Denver\, Colo.\, Magness Arena
@@ -2324,7 +2324,7 @@ BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs St. Cloud State
 DTSTART:20270221T010000Z
 DTEND:20270221T040000Z
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16008-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs St. Cloud State\n
 LOCATION:Denver\, Colo.\, Magness Arena
@@ -2336,7 +2336,7 @@ SUMMARY:University of Denver Men's Ice Hockey vs Colorado College - Senior
   Night
 DTSTART:20270227T020000Z
 DTEND:20270227T050000Z
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16009-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs Colorado College - Se
  nior Night\n
@@ -2348,7 +2348,7 @@ BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey at Colorado College
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16010-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey at Colorado College\n
 LOCATION:Colorado Springs\, Colo.
@@ -2360,7 +2360,7 @@ SUMMARY:University of Denver Men's Ice Hockey vs NCHC First Round - Best-o
  f-three series
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270307
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16011-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs NCHC First Round - Be
  st-of-three series\n
@@ -2373,7 +2373,7 @@ SUMMARY:University of Denver Men's Ice Hockey vs NCHC Quarterfinal - #4 se
  ed vs. #5 seed only (Top remaining seed hosts)
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16012-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs NCHC Quarterfinal - #
  4 seed vs. #5 seed only (Top remaining seed hosts)\n
@@ -2385,7 +2385,7 @@ BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs NCHC Semifinals
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16013-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs NCHC Semifinals\n
 LOCATION:Campus Sites
@@ -2397,7 +2397,7 @@ SUMMARY:University of Denver Men's Ice Hockey vs NCHC Championship - Exact
   date to be announced
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16014-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs NCHC Championship - E
  xact date to be announced\n
@@ -2410,7 +2410,7 @@ SUMMARY:University of Denver Men's Ice Hockey vs NCAA Regionals - Hosted b
  y University of Denver
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270328
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16015-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs NCAA Regionals - Host
  ed by University of Denver\n
@@ -2422,7 +2422,7 @@ BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs NCAA Frozen Four
 DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270410
-DTSTAMP:20260715T210909Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16016-denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs NCAA Frozen Four\n
 LOCATION:Washington\, D.C. / Capital One Arena
@@ -2434,7 +2434,7 @@ SUMMARY:Western Michigan University Men's Ice Hockey vs Western Ontario (E
  xhibition)
 DTSTART:20261003T220000Z
 DTEND:20261004T010000Z
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16893-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey vs Western Ontari
  o (Exhibition)\n
@@ -2447,7 +2447,7 @@ SUMMARY:Western Michigan University Men's Ice Hockey vs Ferris State Unive
  rsity
 DTSTART:20261008T230000Z
 DTEND:20261009T020000Z
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16894-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey vs Ferris State U
  niversity\n
@@ -2460,7 +2460,7 @@ SUMMARY:Western Michigan University Men's Ice Hockey at Ferris State Unive
  rsity
 DTSTART:20261009T230000Z
 DTEND:20261010T020000Z
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16895-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey at Ferris State U
  niversity\n
@@ -2473,7 +2473,7 @@ SUMMARY:Western Michigan University Men's Ice Hockey vs University of Notr
  e Dame
 DTSTART:20261016T230000Z
 DTEND:20261017T020000Z
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16896-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey vs University of 
  Notre Dame\n
@@ -2486,7 +2486,7 @@ SUMMARY:Western Michigan University Men's Ice Hockey at University of Notr
  e Dame
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16897-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey at University of 
  Notre Dame\n
@@ -2499,7 +2499,7 @@ SUMMARY:Western Michigan University Men's Ice Hockey at University of Mich
  igan
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16898-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey at University of 
  Michigan\n
@@ -2512,7 +2512,7 @@ SUMMARY:Western Michigan University Men's Ice Hockey vs Long Island Univer
  sity
 DTSTART:20261029T230000Z
 DTEND:20261030T020000Z
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16899-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey vs Long Island Un
  iversity\n
@@ -2525,7 +2525,7 @@ SUMMARY:Western Michigan University Men's Ice Hockey vs Long Island Univer
  sity
 DTSTART:20261030T230000Z
 DTEND:20261031T020000Z
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16900-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey vs Long Island Un
  iversity\n
@@ -2538,7 +2538,7 @@ SUMMARY:Western Michigan University Men's Ice Hockey at University of Nort
  h Dakota
 DTSTART:20261107T010000Z
 DTEND:20261107T040000Z
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16901-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey at University of 
  North Dakota\n
@@ -2551,7 +2551,7 @@ SUMMARY:Western Michigan University Men's Ice Hockey at University of Nort
  h Dakota
 DTSTART:20261108T000000Z
 DTEND:20261108T030000Z
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16902-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey at University of 
  North Dakota\n
@@ -2563,7 +2563,7 @@ BEGIN:VEVENT
 SUMMARY:Western Michigan University Men's Ice Hockey vs Colorado College
 DTSTART:20261114T000000Z
 DTEND:20261114T030000Z
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16903-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey vs Colorado Colle
  ge\n
@@ -2575,7 +2575,7 @@ BEGIN:VEVENT
 SUMMARY:Western Michigan University Men's Ice Hockey vs Colorado College
 DTSTART:20261114T230000Z
 DTEND:20261115T020000Z
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16904-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey vs Colorado Colle
  ge\n
@@ -2588,7 +2588,7 @@ SUMMARY:Western Michigan University Men's Ice Hockey at University of Nebr
  aska at Omaha
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16905-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey at University of 
  Nebraska at Omaha\n
@@ -2601,7 +2601,7 @@ SUMMARY:Western Michigan University Men's Ice Hockey at University of Nebr
  aska at Omaha
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16906-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey at University of 
  Nebraska at Omaha\n
@@ -2614,7 +2614,7 @@ SUMMARY:Western Michigan University Men's Ice Hockey vs Miami University (
  OH)
 DTSTART:20261205T000000Z
 DTEND:20261205T030000Z
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16907-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey vs Miami Universi
  ty (OH)\n
@@ -2627,7 +2627,7 @@ SUMMARY:Western Michigan University Men's Ice Hockey vs Miami University (
  OH)
 DTSTART:20261205T230000Z
 DTEND:20261206T020000Z
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16908-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey vs Miami Universi
  ty (OH)\n
@@ -2640,7 +2640,7 @@ SUMMARY:Western Michigan University Men's Ice Hockey at Arizona State Univ
  ersity
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16909-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey at Arizona State 
  University\n
@@ -2653,7 +2653,7 @@ SUMMARY:Western Michigan University Men's Ice Hockey at Arizona State Univ
  ersity
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16910-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey at Arizona State 
  University\n
@@ -2666,7 +2666,7 @@ SUMMARY:Western Michigan University Men's Ice Hockey vs Great Lakes Invita
  tional
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16911-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey vs Great Lakes In
  vitational\n
@@ -2679,7 +2679,7 @@ SUMMARY:Western Michigan University Men's Ice Hockey vs Great Lakes Invita
  tional
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16912-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey vs Great Lakes In
  vitational\n
@@ -2692,7 +2692,7 @@ SUMMARY:Western Michigan University Men's Ice Hockey vs University of Denv
  er
 DTSTART:20270109T000000Z
 DTEND:20270109T030000Z
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16913-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey vs University of 
  Denver\n
@@ -2705,7 +2705,7 @@ SUMMARY:Western Michigan University Men's Ice Hockey vs University of Denv
  er
 DTSTART:20270109T230000Z
 DTEND:20270110T020000Z
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16914-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey vs University of 
  Denver\n
@@ -2718,7 +2718,7 @@ SUMMARY:Western Michigan University Men's Ice Hockey vs University of Nebr
  aska at Omaha
 DTSTART:20270116T000000Z
 DTEND:20270116T030000Z
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16915-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey vs University of 
  Nebraska at Omaha\n
@@ -2731,7 +2731,7 @@ SUMMARY:Western Michigan University Men's Ice Hockey vs University of Nebr
  aska at Omaha
 DTSTART:20270116T230000Z
 DTEND:20270117T020000Z
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16916-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey vs University of 
  Nebraska at Omaha\n
@@ -2744,7 +2744,7 @@ SUMMARY:Western Michigan University Men's Ice Hockey at University of St.
  Thomas
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16917-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey at University of 
  St. Thomas\n
@@ -2757,7 +2757,7 @@ SUMMARY:Western Michigan University Men's Ice Hockey at University of St.
  Thomas
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16918-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey at University of 
  St. Thomas\n
@@ -2770,7 +2770,7 @@ SUMMARY:Western Michigan University Men's Ice Hockey vs University of Mich
  igan
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16919-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey vs University of 
  Michigan\n
@@ -2783,7 +2783,7 @@ SUMMARY:Western Michigan University Men's Ice Hockey vs St. Cloud State Un
  iversity
 DTSTART:20270206T000000Z
 DTEND:20270206T030000Z
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16920-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey vs St. Cloud Stat
  e University\n
@@ -2796,7 +2796,7 @@ SUMMARY:Western Michigan University Men's Ice Hockey vs St. Cloud State Un
  iversity
 DTSTART:20270206T230000Z
 DTEND:20270207T020000Z
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16921-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey vs St. Cloud Stat
  e University\n
@@ -2808,7 +2808,7 @@ BEGIN:VEVENT
 SUMMARY:Western Michigan University Men's Ice Hockey at Colorado College
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16922-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey at Colorado Colle
  ge\n
@@ -2820,7 +2820,7 @@ BEGIN:VEVENT
 SUMMARY:Western Michigan University Men's Ice Hockey at Colorado College
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16923-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey at Colorado Colle
  ge\n
@@ -2833,7 +2833,7 @@ SUMMARY:Western Michigan University Men's Ice Hockey vs University of Minn
  esota Duluth
 DTSTART:20270220T000000Z
 DTEND:20270220T030000Z
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16924-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey vs University of 
  Minnesota Duluth\n
@@ -2846,7 +2846,7 @@ SUMMARY:Western Michigan University Men's Ice Hockey vs University of Minn
  esota Duluth
 DTSTART:20270220T230000Z
 DTEND:20270221T020000Z
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16925-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey vs University of 
  Minnesota Duluth\n
@@ -2859,7 +2859,7 @@ SUMMARY:Western Michigan University Men's Ice Hockey at Miami University (
  OH)
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16926-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey at Miami Universi
  ty (OH)\n
@@ -2872,7 +2872,7 @@ SUMMARY:Western Michigan University Men's Ice Hockey at Miami University (
  OH)
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16927-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey at Miami Universi
  ty (OH)\n
@@ -2884,7 +2884,7 @@ BEGIN:VEVENT
 SUMMARY:Western Michigan University Men's Ice Hockey vs NCHC First Round
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270307
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16928-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey vs NCHC First Rou
  nd\n
@@ -2896,7 +2896,7 @@ BEGIN:VEVENT
 SUMMARY:Western Michigan University Men's Ice Hockey vs NCHC Semifinals
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16929-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey vs NCHC Semifinal
  s\n
@@ -2908,7 +2908,7 @@ BEGIN:VEVENT
 SUMMARY:Western Michigan University Men's Ice Hockey vs NCHC Championship
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16930-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey vs NCHC Champions
  hip\n
@@ -2920,7 +2920,7 @@ BEGIN:VEVENT
 SUMMARY:Western Michigan University Men's Ice Hockey vs NCAA Regionals
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270328
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16931-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey vs NCAA Regionals
  \n
@@ -2932,7 +2932,7 @@ BEGIN:VEVENT
 SUMMARY:Western Michigan University Men's Ice Hockey vs NCAA Frozen Four
 DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270410
-DTSTAMP:20260715T210910Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16932-wmubroncos.com
 DESCRIPTION:Western Michigan University Men's Ice Hockey vs NCAA Frozen Fo
  ur\n
@@ -2944,7 +2944,7 @@ BEGIN:VEVENT
 SUMMARY:St. Cloud State Men's Hockey at Bemidji State
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260715T205919Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16735-scsuhuskies.com
 DESCRIPTION:St. Cloud State Men's Hockey at Bemidji State\n https://scsuhu
  skies.com/calendar.aspx?game_id=16735&amp\;sport_id=7
@@ -2956,7 +2956,7 @@ BEGIN:VEVENT
 SUMMARY:St. Cloud State Men's Hockey vs Michigan Tech
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-DTSTAMP:20260715T205919Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16736-scsuhuskies.com
 DESCRIPTION:St. Cloud State Men's Hockey vs Michigan Tech\n https://scsuhu
  skies.com/calendar.aspx?game_id=16736&amp\;sport_id=7
@@ -2968,7 +2968,7 @@ BEGIN:VEVENT
 SUMMARY:St. Cloud State Men's Hockey vs Michigan Tech
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20260715T205919Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16737-scsuhuskies.com
 DESCRIPTION:St. Cloud State Men's Hockey vs Michigan Tech\n https://scsuhu
  skies.com/calendar.aspx?game_id=16737&amp\;sport_id=7
@@ -2980,7 +2980,7 @@ BEGIN:VEVENT
 SUMMARY:St. Cloud State Men's Hockey at Boston College
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-DTSTAMP:20260715T205919Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16738-scsuhuskies.com
 DESCRIPTION:St. Cloud State Men's Hockey at Boston College\n https://scsuh
  uskies.com/calendar.aspx?game_id=16738&amp\;sport_id=7
@@ -2992,7 +2992,7 @@ BEGIN:VEVENT
 SUMMARY:St. Cloud State Men's Hockey at Boston College
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20260715T205919Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16739-scsuhuskies.com
 DESCRIPTION:St. Cloud State Men's Hockey at Boston College\n https://scsuh
  uskies.com/calendar.aspx?game_id=16739&amp\;sport_id=7
@@ -3004,7 +3004,7 @@ BEGIN:VEVENT
 SUMMARY:St. Cloud State Men's Hockey vs Arizona State
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-DTSTAMP:20260715T205919Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16645-scsuhuskies.com
 DESCRIPTION:St. Cloud State Men's Hockey vs Arizona State\n https://scsuhu
  skies.com/calendar.aspx?game_id=16645&amp\;sport_id=7
@@ -3016,7 +3016,7 @@ BEGIN:VEVENT
 SUMMARY:St. Cloud State Men's Hockey vs Arizona State
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20260715T205919Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16646-scsuhuskies.com
 DESCRIPTION:St. Cloud State Men's Hockey vs Arizona State\n https://scsuhu
  skies.com/calendar.aspx?game_id=16646&amp\;sport_id=7
@@ -3028,7 +3028,7 @@ BEGIN:VEVENT
 SUMMARY:St. Cloud State Men's Hockey at Omaha
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-DTSTAMP:20260715T205919Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16647-scsuhuskies.com
 DESCRIPTION:St. Cloud State Men's Hockey at Omaha\n https://scsuhuskies.co
  m/calendar.aspx?game_id=16647&amp\;sport_id=7
@@ -3040,7 +3040,7 @@ BEGIN:VEVENT
 SUMMARY:St. Cloud State Men's Hockey at Omaha
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20260715T205919Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16648-scsuhuskies.com
 DESCRIPTION:St. Cloud State Men's Hockey at Omaha\n https://scsuhuskies.co
  m/calendar.aspx?game_id=16648&amp\;sport_id=7
@@ -3052,7 +3052,7 @@ BEGIN:VEVENT
 SUMMARY:St. Cloud State Men's Hockey vs Minnesota Duluth
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20260715T205919Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16649-scsuhuskies.com
 DESCRIPTION:St. Cloud State Men's Hockey vs Minnesota Duluth\n https://scs
  uhuskies.com/calendar.aspx?game_id=16649&amp\;sport_id=7
@@ -3064,7 +3064,7 @@ BEGIN:VEVENT
 SUMMARY:St. Cloud State Men's Hockey vs Minnesota Duluth
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-DTSTAMP:20260715T205919Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16650-scsuhuskies.com
 DESCRIPTION:St. Cloud State Men's Hockey vs Minnesota Duluth\n https://scs
  uhuskies.com/calendar.aspx?game_id=16650&amp\;sport_id=7
@@ -3076,7 +3076,7 @@ BEGIN:VEVENT
 SUMMARY:St. Cloud State Men's Hockey at North Dakota
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20260715T205919Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16651-scsuhuskies.com
 DESCRIPTION:St. Cloud State Men's Hockey at North Dakota\n https://scsuhus
  kies.com/calendar.aspx?game_id=16651&amp\;sport_id=7
@@ -3088,7 +3088,7 @@ BEGIN:VEVENT
 SUMMARY:St. Cloud State Men's Hockey at North Dakota
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20260715T205919Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16668-scsuhuskies.com
 DESCRIPTION:St. Cloud State Men's Hockey at North Dakota\n https://scsuhus
  kies.com/calendar.aspx?game_id=16668&amp\;sport_id=7
@@ -3100,7 +3100,7 @@ BEGIN:VEVENT
 SUMMARY:St. Cloud State Men's Hockey at Vermont
 DTSTART:20261128T000000Z
 DTEND:20261128T030000Z
-DTSTAMP:20260715T205919Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16740-scsuhuskies.com
 DESCRIPTION:St. Cloud State Men's Hockey at Vermont\n https://scsuhuskies.
  com/calendar.aspx?game_id=16740&amp\;sport_id=7
@@ -3112,7 +3112,7 @@ BEGIN:VEVENT
 SUMMARY:St. Cloud State Men's Hockey at Vermont
 DTSTART:20261129T000000Z
 DTEND:20261129T030000Z
-DTSTAMP:20260715T205919Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16741-scsuhuskies.com
 DESCRIPTION:St. Cloud State Men's Hockey at Vermont\n https://scsuhuskies.
  com/calendar.aspx?game_id=16741&amp\;sport_id=7
@@ -3124,7 +3124,7 @@ BEGIN:VEVENT
 SUMMARY:St. Cloud State Men's Hockey vs Denver
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20260715T205919Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16652-scsuhuskies.com
 DESCRIPTION:St. Cloud State Men's Hockey vs Denver\n https://scsuhuskies.c
  om/calendar.aspx?game_id=16652&amp\;sport_id=7
@@ -3136,7 +3136,7 @@ BEGIN:VEVENT
 SUMMARY:St. Cloud State Men's Hockey vs Denver
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20260715T205919Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16653-scsuhuskies.com
 DESCRIPTION:St. Cloud State Men's Hockey vs Denver\n https://scsuhuskies.c
  om/calendar.aspx?game_id=16653&amp\;sport_id=7
@@ -3148,7 +3148,7 @@ BEGIN:VEVENT
 SUMMARY:St. Cloud State Men's Hockey vs Bemidji State
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-DTSTAMP:20260715T205919Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16742-scsuhuskies.com
 DESCRIPTION:St. Cloud State Men's Hockey vs Bemidji State\n https://scsuhu
  skies.com/calendar.aspx?game_id=16742&amp\;sport_id=7
@@ -3160,7 +3160,7 @@ BEGIN:VEVENT
 SUMMARY:St. Cloud State Men's Hockey vs Alaska
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
-DTSTAMP:20260715T205919Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16743-scsuhuskies.com
 DESCRIPTION:St. Cloud State Men's Hockey vs Alaska\n https://scsuhuskies.c
  om/calendar.aspx?game_id=16743&amp\;sport_id=7
@@ -3172,7 +3172,7 @@ BEGIN:VEVENT
 SUMMARY:St. Cloud State Men's Hockey vs Alaska
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
-DTSTAMP:20260715T205919Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16744-scsuhuskies.com
 DESCRIPTION:St. Cloud State Men's Hockey vs Alaska\n https://scsuhuskies.c
  om/calendar.aspx?game_id=16744&amp\;sport_id=7
@@ -3184,7 +3184,7 @@ BEGIN:VEVENT
 SUMMARY:St. Cloud State Men's Hockey at St. Thomas
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
-DTSTAMP:20260715T205919Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16654-scsuhuskies.com
 DESCRIPTION:St. Cloud State Men's Hockey at St. Thomas\n https://scsuhuski
  es.com/calendar.aspx?game_id=16654&amp\;sport_id=7
@@ -3196,7 +3196,7 @@ BEGIN:VEVENT
 SUMMARY:St. Cloud State Men's Hockey at St. Thomas
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
-DTSTAMP:20260715T205919Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16655-scsuhuskies.com
 DESCRIPTION:St. Cloud State Men's Hockey at St. Thomas\n https://scsuhuski
  es.com/calendar.aspx?game_id=16655&amp\;sport_id=7
@@ -3208,7 +3208,7 @@ BEGIN:VEVENT
 SUMMARY:St. Cloud State Men's Hockey vs Miami
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
-DTSTAMP:20260715T205919Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16656-scsuhuskies.com
 DESCRIPTION:St. Cloud State Men's Hockey vs Miami\n https://scsuhuskies.co
  m/calendar.aspx?game_id=16656&amp\;sport_id=7
@@ -3220,7 +3220,7 @@ BEGIN:VEVENT
 SUMMARY:St. Cloud State Men's Hockey vs Miami
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-DTSTAMP:20260715T205919Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16657-scsuhuskies.com
 DESCRIPTION:St. Cloud State Men's Hockey vs Miami\n https://scsuhuskies.co
  m/calendar.aspx?game_id=16657&amp\;sport_id=7
@@ -3232,7 +3232,7 @@ BEGIN:VEVENT
 SUMMARY:St. Cloud State Men's Hockey at Colorado College
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
-DTSTAMP:20260715T205919Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16658-scsuhuskies.com
 DESCRIPTION:St. Cloud State Men's Hockey at Colorado College\n https://scs
  uhuskies.com/calendar.aspx?game_id=16658&amp\;sport_id=7
@@ -3244,7 +3244,7 @@ BEGIN:VEVENT
 SUMMARY:St. Cloud State Men's Hockey at Colorado College
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-DTSTAMP:20260715T205919Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16659-scsuhuskies.com
 DESCRIPTION:St. Cloud State Men's Hockey at Colorado College\n https://scs
  uhuskies.com/calendar.aspx?game_id=16659&amp\;sport_id=7
@@ -3256,7 +3256,7 @@ BEGIN:VEVENT
 SUMMARY:St. Cloud State Men's Hockey at Western Michigan
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
-DTSTAMP:20260715T205919Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16660-scsuhuskies.com
 DESCRIPTION:St. Cloud State Men's Hockey at Western Michigan\n https://scs
  uhuskies.com/calendar.aspx?game_id=16660&amp\;sport_id=7
@@ -3268,7 +3268,7 @@ BEGIN:VEVENT
 SUMMARY:St. Cloud State Men's Hockey at Western Michigan
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-DTSTAMP:20260715T205919Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16661-scsuhuskies.com
 DESCRIPTION:St. Cloud State Men's Hockey at Western Michigan\n https://scs
  uhuskies.com/calendar.aspx?game_id=16661&amp\;sport_id=7
@@ -3280,7 +3280,7 @@ BEGIN:VEVENT
 SUMMARY:St. Cloud State Men's Hockey vs Omaha
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
-DTSTAMP:20260715T205919Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16662-scsuhuskies.com
 DESCRIPTION:St. Cloud State Men's Hockey vs Omaha\n https://scsuhuskies.co
  m/calendar.aspx?game_id=16662&amp\;sport_id=7
@@ -3292,7 +3292,7 @@ BEGIN:VEVENT
 SUMMARY:St. Cloud State Men's Hockey vs Omaha
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
-DTSTAMP:20260715T205919Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16663-scsuhuskies.com
 DESCRIPTION:St. Cloud State Men's Hockey vs Omaha\n https://scsuhuskies.co
  m/calendar.aspx?game_id=16663&amp\;sport_id=7
@@ -3304,7 +3304,7 @@ BEGIN:VEVENT
 SUMMARY:St. Cloud State Men's Hockey at Denver
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
-DTSTAMP:20260715T205919Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16664-scsuhuskies.com
 DESCRIPTION:St. Cloud State Men's Hockey at Denver\n https://scsuhuskies.c
  om/calendar.aspx?game_id=16664&amp\;sport_id=7
@@ -3316,7 +3316,7 @@ BEGIN:VEVENT
 SUMMARY:St. Cloud State Men's Hockey at Denver
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-DTSTAMP:20260715T205919Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16665-scsuhuskies.com
 DESCRIPTION:St. Cloud State Men's Hockey at Denver\n https://scsuhuskies.c
  om/calendar.aspx?game_id=16665&amp\;sport_id=7
@@ -3328,7 +3328,7 @@ BEGIN:VEVENT
 SUMMARY:St. Cloud State Men's Hockey vs St. Thomas
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
-DTSTAMP:20260715T205919Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16666-scsuhuskies.com
 DESCRIPTION:St. Cloud State Men's Hockey vs St. Thomas\n https://scsuhuski
  es.com/calendar.aspx?game_id=16666&amp\;sport_id=7
@@ -3340,7 +3340,7 @@ BEGIN:VEVENT
 SUMMARY:St. Cloud State Men's Hockey vs St. Thomas
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
-DTSTAMP:20260715T205919Z
+DTSTAMP:20260715T211036Z
 UID:vcal_16667-scsuhuskies.com
 DESCRIPTION:St. Cloud State Men's Hockey vs St. Thomas\n https://scsuhuski
  es.com/calendar.aspx?game_id=16667&amp\;sport_id=7
@@ -4955,7 +4955,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey vs Wisconsin
 DTSTART:20261010T000700Z
 DTEND:20261010T030700Z
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_19964-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey vs Wisconsin\nStreaming Video: https
  ://www.flohockey.tv/\n
@@ -4967,7 +4967,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey vs Wisconsin
 DTSTART:20261010T230700Z
 DTEND:20261011T020700Z
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_19965-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey vs Wisconsin\nStreaming Video: https
  ://www.flohockey.tv/\n
@@ -4979,7 +4979,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey at Merrimack
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_19966-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey at Merrimack\n
 LOCATION:North Andover\, Mass.
@@ -4990,7 +4990,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey at Merrimack
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_19967-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey at Merrimack\n
 LOCATION:North Andover\, Mass.
@@ -5001,7 +5001,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey at St. Thomas
 DTSTART:20261024T000700Z
 DTEND:20261024T030700Z
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_19968-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey at St. Thomas\n
 LOCATION:St. Paul\, Minn.
@@ -5012,7 +5012,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey vs St. Thomas
 DTSTART:20261024T230700Z
 DTEND:20261025T020700Z
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_19969-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey vs St. Thomas\nStreaming Video: http
  s://www.flohockey.tv/\n
@@ -5024,7 +5024,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey vs Lake Superior State
 DTSTART:20261031T000700Z
 DTEND:20261031T030700Z
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_19970-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey vs Lake Superior State\nStreaming Vi
  deo: https://www.flohockey.tv/\n
@@ -5036,7 +5036,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey vs Lake Superior State
 DTSTART:20261031T230700Z
 DTEND:20261101T020700Z
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_19971-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey vs Lake Superior State\nStreaming Vi
  deo: https://www.flohockey.tv/\n
@@ -5048,7 +5048,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey at Northern Michigan
 DTSTART:20261107T000700Z
 DTEND:20261107T030700Z
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_19976-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey at Northern Michigan\n
 LOCATION:Marquette\, Mich.
@@ -5059,7 +5059,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey at Northern Michigan
 DTSTART:20261107T230700Z
 DTEND:20261108T020700Z
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_19977-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey at Northern Michigan\n
 LOCATION:Marquette\, Mich.
@@ -5070,7 +5070,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey at Bemidji State
 DTSTART:20261114T010700Z
 DTEND:20261114T040700Z
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_19972-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey at Bemidji State\n
 LOCATION:Bemidji\, Minn.
@@ -5081,7 +5081,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey at Bemidji State
 DTSTART:20261115T000700Z
 DTEND:20261115T030700Z
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_19973-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey at Bemidji State\n
 LOCATION:Bemidji\, Minn.
@@ -5092,7 +5092,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey vs Michigan Tech
 DTSTART:20261121T010700Z
 DTEND:20261121T040700Z
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_19974-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey vs Michigan Tech\nStreaming Video: h
  ttps://www.flohockey.tv/\n
@@ -5104,7 +5104,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey vs Michigan Tech
 DTSTART:20261122T000700Z
 DTEND:20261122T030700Z
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_19975-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey vs Michigan Tech\nStreaming Video: h
  ttps://www.flohockey.tv/\n
@@ -5116,7 +5116,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey at Minnesota
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_20071-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey at Minnesota\n
 LOCATION:Minneapolis\, Minn.
@@ -5127,7 +5127,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey vs Minnesota
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_20072-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey vs Minnesota\nStreaming Video: https
  ://www.flohockey.tv/\n
@@ -5139,7 +5139,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey vs Bowling Green
 DTSTART:20261205T010700Z
 DTEND:20261205T040700Z
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_19978-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey vs Bowling Green\nStreaming Video: h
  ttps://www.flohockey.tv/\n
@@ -5151,7 +5151,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey vs Bowling Green
 DTSTART:20261206T000700Z
 DTEND:20261206T030700Z
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_19979-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey vs Bowling Green\nStreaming Video: h
  ttps://www.flohockey.tv/\n
@@ -5163,7 +5163,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey at Lake Superior State
 DTSTART:20261212T000700Z
 DTEND:20261212T030700Z
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_19980-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey at Lake Superior State\n
 LOCATION:Sault Ste. Marie\, Mich.
@@ -5174,7 +5174,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey at Lake Superior State
 DTSTART:20261212T230700Z
 DTEND:20261213T020700Z
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_19981-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey at Lake Superior State\n
 LOCATION:Sault Ste. Marie\, Mich.
@@ -5185,7 +5185,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey at Ferris State
 DTSTART:20270109T000700Z
 DTEND:20270109T030700Z
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_19982-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey at Ferris State\n
 LOCATION:Big Rapids\, Mich.
@@ -5196,7 +5196,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey at Ferris State
 DTSTART:20270109T230700Z
 DTEND:20270110T020700Z
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_19983-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey at Ferris State\n
 LOCATION:Big Rapids\, Mich.
@@ -5207,7 +5207,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey vs Augustana
 DTSTART:20270116T010700Z
 DTEND:20270116T040700Z
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_19984-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey vs Augustana\nStreaming Video: https
  ://www.flohockey.tv/\n
@@ -5219,7 +5219,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey vs Augustana
 DTSTART:20270117T000700Z
 DTEND:20270117T030700Z
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_19985-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey vs Augustana\nStreaming Video: https
  ://www.flohockey.tv/\n
@@ -5231,7 +5231,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey at Bowling Green
 DTSTART:20270123T000700Z
 DTEND:20270123T030700Z
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_19986-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey at Bowling Green\n
 LOCATION:Bowling Green\, Ohio
@@ -5242,7 +5242,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey at Bowling Green
 DTSTART:20270123T230700Z
 DTEND:20270124T020700Z
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_19987-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey at Bowling Green\n
 LOCATION:Bowling Green\, Ohio
@@ -5253,7 +5253,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey vs Bemidji State
 DTSTART:20270130T010700Z
 DTEND:20270130T040700Z
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_19988-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey vs Bemidji State\nStreaming Video: h
  ttps://www.flohockey.tv/\n
@@ -5265,7 +5265,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey vs Bemidji State
 DTSTART:20270131T000700Z
 DTEND:20270131T030700Z
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_19989-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey vs Bemidji State\nStreaming Video: h
  ttps://www.flohockey.tv/\n
@@ -5277,7 +5277,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey at Michigan Tech
 DTSTART:20270206T000700Z
 DTEND:20270206T030700Z
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_19990-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey at Michigan Tech\n
 LOCATION:Houghton\, Mich.
@@ -5288,7 +5288,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey at Michigan Tech
 DTSTART:20270206T220700Z
 DTEND:20270207T010700Z
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_19991-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey at Michigan Tech\n
 LOCATION:Houghton\, Mich.
@@ -5299,7 +5299,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey vs Northern Michigan
 DTSTART:20270220T010700Z
 DTEND:20270220T040700Z
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_19992-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey vs Northern Michigan\nStreaming Vide
  o: https://www.flohockey.tv/\n
@@ -5311,7 +5311,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey vs Northern Michigan
 DTSTART:20270221T000700Z
 DTEND:20270221T030700Z
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_19993-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey vs Northern Michigan\nStreaming Vide
  o: https://www.flohockey.tv/\n
@@ -5323,7 +5323,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey at Augustana
 DTSTART:20270227T010700Z
 DTEND:20270227T040700Z
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_19994-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey at Augustana\n
 LOCATION:Sioux Falls\, S.D.
@@ -5334,7 +5334,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey at Augustana
 DTSTART:20270228T000700Z
 DTEND:20270228T030700Z
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_19995-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey at Augustana\n
 LOCATION:Sioux Falls\, S.D.
@@ -5346,7 +5346,7 @@ SUMMARY:MSU-Mankato  Men's Hockey vs CCHA Mason Cup Playoffs - First Round
   Series
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270307
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_19996-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey vs CCHA Mason Cup Playoffs - First R
  ound Series\n
@@ -5358,7 +5358,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey vs CCHA Mason Cup Playoffs - Semifinals
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_19997-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey vs CCHA Mason Cup Playoffs - Semifin
  als\n
@@ -5370,7 +5370,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey vs CCHA Mason Cup Championship
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_19998-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey vs CCHA Mason Cup Championship\n
 LOCATION:TBA
@@ -5381,7 +5381,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey vs NCAA Regional
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270328
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_19999-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey vs NCAA Regional\n
 LOCATION:TBA
@@ -5392,7 +5392,7 @@ BEGIN:VEVENT
 SUMMARY:MSU-Mankato  Men's Hockey vs NCAA Frozen Four
 DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270410
-DTSTAMP:20260715T210912Z
+DTSTAMP:20260715T211038Z
 UID:vcal_20000-msumavericks.com
 DESCRIPTION:MSU-Mankato  Men's Hockey vs NCAA Frozen Four\n
 LOCATION:Washington\, D.C.
@@ -5403,7 +5403,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey vs St. Cloud State
 DTSTART:20261003T230700Z
 DTEND:20261004T020700Z
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18512-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey vs St. Cloud State\n
  Radio: FM 92.1\nStreaming Video: https://midcosports.com/streaming/ccha/\n
@@ -5416,7 +5416,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey vs North Dakota
 DTSTART:20261010T000700Z
 DTEND:20261010T030700Z
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18513-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey vs North Dakota\nRad
  io: FM 92.1\nStreaming Video: https://midcosports.com/streaming/ccha/\nStr
@@ -5429,7 +5429,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey at North Dakota
 DTSTART:20261010T230700Z
 DTEND:20261011T020700Z
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18514-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey at North Dakota\nRad
  io: FM 92.1\nStreaming Audio: https://beaverradionetwork.com/\n
@@ -5441,7 +5441,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey at Minnesota Duluth
 DTSTART:20261024T000700Z
 DTEND:20261024T030700Z
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18515-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey at Minnesota Duluth\
  nRadio: FM 92.1\nStreaming Audio: https://beaverradionetwork.com/\n
@@ -5453,7 +5453,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey vs Minnesota Duluth
 DTSTART:20261024T230700Z
 DTEND:20261025T020700Z
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18516-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey vs Minnesota Duluth\
  nRadio: FM 92.1\nStreaming Video: https://midcosports.com/streaming/ccha/\
@@ -5466,7 +5466,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey vs Ferris State
 DTSTART:20261031T000700Z
 DTEND:20261031T030700Z
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18485-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey vs Ferris State\nRad
  io: FM 92.1\nStreaming Video: https://midcosports.com/streaming/ccha/\nStr
@@ -5479,7 +5479,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey vs Ferris State
 DTSTART:20261031T230700Z
 DTEND:20261101T020700Z
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18486-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey vs Ferris State\nRad
  io: FM 92.1\nStreaming Video: https://midcosports.com/streaming/ccha/\nStr
@@ -5492,7 +5492,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey at Bowling Green
 DTSTART:20261107T000700Z
 DTEND:20261107T030700Z
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18487-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey at Bowling Green\nRa
  dio: FM 92.1\nStreaming Video: https://midcosports.com/streaming/ccha/\nSt
@@ -5505,7 +5505,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey at Bowling Green
 DTSTART:20261107T230700Z
 DTEND:20261108T020700Z
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18488-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey at Bowling Green\nRa
  dio: FM 92.1\nStreaming Video: https://midcosports.com/streaming/ccha/\nSt
@@ -5518,7 +5518,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey vs Minnesota State
 DTSTART:20261114T010700Z
 DTEND:20261114T040700Z
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18489-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey vs Minnesota State\n
  Radio: FM 92.1\nStreaming Video: https://midcosports.com/streaming/ccha/\n
@@ -5531,7 +5531,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey vs Minnesota State
 DTSTART:20261115T000700Z
 DTEND:20261115T030700Z
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18490-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey vs Minnesota State\n
  Radio: FM 92.1\nStreaming Video: https://midcosports.com/streaming/ccha/\n
@@ -5544,7 +5544,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey at Lake Superior State
 DTSTART:20261121T000700Z
 DTEND:20261121T030700Z
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18491-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey at Lake Superior Sta
  te\nRadio: FM 92.1\nStreaming Video: https://midcosports.com/streaming/cch
@@ -5557,7 +5557,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey at Lake Superior State
 DTSTART:20261121T230700Z
 DTEND:20261122T020700Z
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18492-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey at Lake Superior Sta
  te\nRadio: FM 92.1\nStreaming Video: https://midcosports.com/streaming/cch
@@ -5570,7 +5570,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey vs St. Thomas
 DTSTART:20261126T000700Z
 DTEND:20261126T030700Z
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18517-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey vs St. Thomas\nRadio
  : FM 92.1\nStreaming Video: https://midcosports.com/streaming/ccha/\nStrea
@@ -5583,7 +5583,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey at St. Thomas
 DTSTART:20261129T000700Z
 DTEND:20261129T030700Z
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18518-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey at St. Thomas\nRadio
  : FM 92.1\nStreaming Audio: https://beaverradionetwork.com/\n
@@ -5595,7 +5595,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey at Augustana (SD)
 DTSTART:20261205T010700Z
 DTEND:20261205T040700Z
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18493-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey at Augustana (SD)\nR
  adio: FM 92.1\nStreaming Video: https://midcosports.com/streaming/ccha/\nS
@@ -5608,7 +5608,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey at Augustana (SD)
 DTSTART:20261206T000700Z
 DTEND:20261206T030700Z
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18494-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey at Augustana (SD)\nR
  adio: FM 92.1\nStreaming Video: https://midcosports.com/streaming/ccha/\nS
@@ -5621,7 +5621,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey vs Michigan Tech
 DTSTART:20261212T010700Z
 DTEND:20261212T040700Z
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18495-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey vs Michigan Tech\nRa
  dio: FM 92.1\nStreaming Video: https://midcosports.com/streaming/ccha/\nSt
@@ -5634,7 +5634,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey vs Michigan Tech
 DTSTART:20261213T000700Z
 DTEND:20261213T030700Z
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18496-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey vs Michigan Tech\nRa
  dio: FM 92.1\nStreaming Video: https://midcosports.com/streaming/ccha/\nSt
@@ -5647,7 +5647,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey at St. Cloud State
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18519-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey at St. Cloud State\n
  Radio: FM 92.1\nStreaming Audio: https://beaverradionetwork.com/\n
@@ -5660,7 +5660,7 @@ SUMMARY:Bemidji State University Men's Ice Hockey at Minnesota - (Exhibiti
  on)
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18564-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey at Minnesota - (Exhi
  bition)\nRadio: FM 92.1\nStreaming Audio: https://beaverradionetwork.com/\
@@ -5673,7 +5673,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey at Northern Michigan
 DTSTART:20270109T000700Z
 DTEND:20270109T030700Z
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18497-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey at Northern Michigan
  \nRadio: FM 92.1\nStreaming Video: https://midcosports.com/streaming/ccha/
@@ -5686,7 +5686,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey at Northern Michigan
 DTSTART:20270109T230700Z
 DTEND:20270110T020700Z
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18498-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey at Northern Michigan
  \nRadio: FM 92.1\nStreaming Video: https://midcosports.com/streaming/ccha/
@@ -5699,7 +5699,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey vs Bowling Green
 DTSTART:20270116T010700Z
 DTEND:20270116T040700Z
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18499-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey vs Bowling Green\nRa
  dio: FM 92.1\nStreaming Video: https://midcosports.com/streaming/ccha/\nSt
@@ -5712,7 +5712,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey vs Bowling Green
 DTSTART:20270117T000700Z
 DTEND:20270117T030700Z
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18500-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey vs Bowling Green\nRa
  dio: FM 92.1\nStreaming Video: https://midcosports.com/streaming/ccha/\nSt
@@ -5725,7 +5725,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey at Minnesota State
 DTSTART:20270130T010700Z
 DTEND:20270130T040700Z
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18501-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey at Minnesota State\n
  Radio: FM 92.1\nStreaming Video: https://midcosports.com/streaming/ccha/\n
@@ -5738,7 +5738,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey at Minnesota State
 DTSTART:20270131T000700Z
 DTEND:20270131T030700Z
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18502-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey at Minnesota State\n
  Radio: FM 92.1\nStreaming Video: https://midcosports.com/streaming/ccha/\n
@@ -5751,7 +5751,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey vs Lake Superior State
 DTSTART:20270206T010700Z
 DTEND:20270206T040700Z
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18503-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey vs Lake Superior Sta
  te\nRadio: FM 92.1\nStreaming Video: https://midcosports.com/streaming/cch
@@ -5764,7 +5764,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey vs Lake Superior State
 DTSTART:20270207T000700Z
 DTEND:20270207T030700Z
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18504-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey vs Lake Superior Sta
  te\nRadio: FM 92.1\nStreaming Video: https://midcosports.com/streaming/cch
@@ -5777,7 +5777,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey at Ferris State
 DTSTART:20270213T000700Z
 DTEND:20270213T030700Z
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18505-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey at Ferris State\nRad
  io: FM 92.1\nStreaming Video: https://midcosports.com/streaming/ccha/\nStr
@@ -5790,7 +5790,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey at Ferris State
 DTSTART:20270213T230800Z
 DTEND:20270214T020800Z
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18506-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey at Ferris State\nRad
  io: FM 92.1\nStreaming Video: https://midcosports.com/streaming/ccha/\nStr
@@ -5803,7 +5803,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey vs Augustana (SD)
 DTSTART:20270220T010700Z
 DTEND:20270220T040700Z
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18507-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey vs Augustana (SD)\nR
  adio: FM 92.1\nStreaming Video: https://midcosports.com/streaming/ccha/\nS
@@ -5816,7 +5816,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey vs Augustana (SD)
 DTSTART:20270221T000700Z
 DTEND:20270221T030700Z
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18508-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey vs Augustana (SD)\nR
  adio: FM 92.1\nStreaming Video: https://midcosports.com/streaming/ccha/\nS
@@ -5829,7 +5829,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey at Michigan Tech
 DTSTART:20270227T000700Z
 DTEND:20270227T030700Z
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18510-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey at Michigan Tech\nRa
  dio: FM 92.1\nStreaming Video: https://midcosports.com/streaming/ccha/\nSt
@@ -5842,7 +5842,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey at Michigan Tech
 DTSTART:20270227T230700Z
 DTEND:20270228T020700Z
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18511-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey at Michigan Tech\nRa
  dio: FM 92.1\nStreaming Video: https://midcosports.com/streaming/ccha/\nSt
@@ -5855,7 +5855,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey vs CCHA Quarterfinals
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270307
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18520-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey vs CCHA Quarterfinal
  s\nRadio: FM 92.1\nStreaming Video: https://midcosports.com/streaming/ccha
@@ -5868,7 +5868,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey vs CCHA Semifinal
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18521-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey vs CCHA Semifinal\nR
  adio: FM 92.1\nStreaming Video: https://midcosports.com/streaming/ccha/\nS
@@ -5881,7 +5881,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey vs CCHA Championship
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18522-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey vs CCHA Championship
  \nRadio: FM 92.1\nStreaming Video: https://midcosports.com/streaming/ccha/
@@ -5894,7 +5894,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey vs NCAA Regionals
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270328
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18523-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey vs NCAA Regionals\nR
  adio: FM 92.1\nStreaming Audio: https://beaverradionetwork.com/\n
@@ -5906,7 +5906,7 @@ BEGIN:VEVENT
 SUMMARY:Bemidji State University Men's Ice Hockey vs NCAA Frozen Four
 DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270410
-DTSTAMP:20260715T210913Z
+DTSTAMP:20260715T211038Z
 UID:vcal_18524-bsubeavers.com
 DESCRIPTION:Bemidji State University Men's Ice Hockey vs NCAA Frozen Four\
  nRadio: FM 92.1\nStreaming Audio: https://beaverradionetwork.com/\n
