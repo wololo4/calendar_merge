@@ -17,6 +17,8 @@ WHL|https://cluster.leaguestat.com/components/calendar/ical_add_games.php?client
 WHL|https://cluster.leaguestat.com/components/calendar/ical_add_games.php?client_code=whl&season_id=295&team_id=213
 WHL|https://cluster.leaguestat.com/components/calendar/ical_add_games.php?client_code=whl&season_id=295&team_id=212
 
+CHL Memorial Cup|https://next-gen.sports.bellmedia.ca/v2/schedule/sports/hockey/leagues/chl
+
 NCAA|https://dartmouthsports.com/api/v2/Calendar/subscribe?type=ics&sportId=9&scheduleId=3302
 NCAA|https://uwbadgers.com/api/v2/Calendar/subscribe?type=ics&sportId=6&scheduleId=739
 NCAA|https://mgoblue.com/api/v2/Calendar/subscribe?type=ics&sportId=11&scheduleId=1895
