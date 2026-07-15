@@ -1,11 +1,11 @@
 import os
-from collections import defaultdict
+import json  # <-- Fixed: Added to prevent the NameError on KHL/UFA fallback
 from datetime import datetime, timedelta, timezone
+from collections import defaultdict
 import requests
 from icalendar import Calendar, Event
 
 FEEDS_FILE = "feeds.txt"
-
 
 def load_feeds():
     feeds = []
@@ -17,7 +17,6 @@ def load_feeds():
             league, url = line.split("|", 1)
             feeds.append((league.strip(), url.strip()))
     return feeds
-
 
 def parse_chl_json_to_calendar(json_data):
     """Converts raw live Bell Media CHL JSON data into a standard icalendar Calendar object."""
@@ -84,14 +83,13 @@ def parse_chl_json_to_calendar(json_data):
         videos = event_data.get("videosTsn", [])
         if videos and isinstance(videos, list):
             highlight = videos[0]
-            if isinstance(highlight, dict) and highlight.get("description"):
+            if highlight.get("description"):
                 description.append(f"\nSummary: {highlight['description']}")
 
         event.add("description", "\n".join(description))
         cal.add_component(event)
 
     return cal
-
 
 def parse_ufa_json_to_calendar(json_data):
     """Converts raw UFA JSON data into a standard icalendar Calendar object using exact API structural keys."""
@@ -153,8 +151,7 @@ def parse_ufa_json_to_calendar(json_data):
         cal.add_component(event)
 
     return cal
-
-
+    
 def download_calendar(url):
     session = requests.Session()
     headers = {
@@ -163,10 +160,10 @@ def download_calendar(url):
             "AppleWebKit/537.36 (KHTML, like Gecko) "
             "Chrome/138.0.0.0 Safari/537.36"
         ),
-        "Accept": "*/*",  # Let the server respond in its native content format
+        "Accept": "*/*",
         "Accept-Language": "en-US,en;q=0.9,fr;q=0.8",
     }
-
+    
     response = session.get(
         url,
         headers=headers,
@@ -175,21 +172,16 @@ def download_calendar(url):
     )
     response.raise_for_status()
 
-    # --- BULLETPROOF API ROUTING ---
-    # First, test if the incoming data payload is clean JSON text.
+    # Safe try-except block that leaves old KHL .ics handling perfectly operational
     try:
         raw_json = response.json()
-
-        # If it successfully parses as JSON, evaluate the root structure key signatures
         if "games" in raw_json:
             return parse_ufa_json_to_calendar(raw_json)
         else:
             return parse_chl_json_to_calendar(raw_json)
-
     except (ValueError, TypeError, json.JSONDecodeError):
-        # If it's not a JSON string, it falls back to native standard .ics parsing (like KHL)
+        # Native fallback for normal .ics files (like KHL)
         return Calendar.from_ical(response.content)
-
 
 def create_calendar():
     cal = Calendar()
@@ -226,8 +218,7 @@ def main():
         except Exception as e:
             print("Erreur:", league, e)
 
-    # --- SAVING TARGET TO CALENDARS FOLDER ---
-    OUTPUT_DIR = "calendars"
+    OUTPUT_DIR = "calendars"                    # Target folder name
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
     for league, events in leagues.items():
@@ -242,7 +233,6 @@ def main():
             file.write(output.to_ical())
 
         print(f"{filename} créé: {len(events)} matchs")
-
 
 if __name__ == "__main__":
     main()
