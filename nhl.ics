@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:Welcome to the Montreal Canadiens calendar!
 DTSTART:20260709T182000Z
 DTEND:20260709T183500Z
-DTSTAMP:20260709T180527Z
+DTSTAMP:20260715T185750Z
 UID:6a4fe2cdb799c30002e31b2b
 SEQUENCE:0
 CLASS:PUBLIC
@@ -16,7 +16,7 @@ DESCRIPTION:You'll now have the most up-to-date game information from the
  This service is powered by ECAL\, the world's leading & most trusted calen
  dar communications service.\n\nManage my ECAL\nhttps://ecal.ai/f/2j4Tpw/3F
  Jgj\n\n
-LAST-MODIFIED:20260709T180527Z
+LAST-MODIFIED:20260715T185750Z
 LOCATION:Proudly powered by ECAL
 PRIORITY:5
 TRANSP:TRANSPARENT
