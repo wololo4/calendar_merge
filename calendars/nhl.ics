@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Hockey Calendar//
+BEGIN:VEVENT
+SUMMARY:Welcome to the Montreal Canadiens calendar!
+DTSTART:20260709T182000Z
+DTEND:20260709T183500Z
+DTSTAMP:20260715T185750Z
+UID:6a4fe2cdb799c30002e31b2b
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:You'll now have the most up-to-date game information from the 
+ Canadiens.\n\nIf dates\, times or details change\, these will automaticall
+ y update in your calendar. \n\nWe hope you enjoy this service and welcome 
+ any feedback via our Support Center https://support.ecal.com \n------ \n\n
+ This service is powered by ECAL\, the world's leading & most trusted calen
+ dar communications service.\n\nManage my ECAL\nhttps://ecal.ai/f/2j4Tpw/3F
+ Jgj\n\n
+LAST-MODIFIED:20260715T185750Z
+LOCATION:Proudly powered by ECAL
+PRIORITY:5
+TRANSP:TRANSPARENT
+X-ECAL-SCHEDULE:6a4fe2cdb3fbd600023a176b
+X-MICROSOFT-CDO-IMPORTANCE:1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT1M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
