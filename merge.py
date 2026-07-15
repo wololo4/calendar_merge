@@ -1,3 +1,4 @@
+import os
 from datetime import datetime, timedelta
 from collections import defaultdict
 import requests
@@ -142,6 +143,9 @@ def main():
         except Exception as e:
             print("Erreur:", league, e)
 
+    OUTPUT_DIR = "calendars"                    # Define subfolder name
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+
     for league, events in leagues.items():
         output = create_calendar()
 
@@ -149,6 +153,7 @@ def main():
             output.add_component(event)
 
         filename = league.lower() + ".ics"
+        filename = os.path.join(OUTPUT_DIR, league.lower() + ".ics")
 
         with open(filename, "wb") as file:
             file.write(output.to_ical())
