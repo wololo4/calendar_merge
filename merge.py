@@ -4,6 +4,7 @@ from datetime import datetime, timedelta, timezone
 from collections import defaultdict
 import requests
 from icalendar import Calendar, Event
+from concurrent.futures import ThreadPoolExecutor  # <-- New: For parallel downloads
 
 FEEDS_FILE = "feeds.txt"
 
@@ -235,41 +236,37 @@ def parse_ufa_json_to_calendar(json_data):
         cal.add_component(event)
 
     return cal
-    
-def download_calendar(url):
+
+def download_single_feed(feed_info):
+    """Worker function to process one feed concurrently."""
+    league, url = feed_info
     session = requests.Session()
     headers = {
-        "User-Agent": (
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) "
-            "Chrome/138.0.0.0 Safari/537.36"
-        ),
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
         "Accept": "*/*",
-        "Accept-Language": "en-US,en;q=0.9,fr;q=0.8",
     }
     
-    response = session.get(
-        url,
-        headers=headers,
-        timeout=30,
-        allow_redirects=True,
-    )
-    response.raise_for_status()
-
-    # Safe try-except block that leaves old KHL .ics handling perfectly operational
     try:
-        raw_json = response.json()
-        if "games" in raw_json:
-            games_list = raw_json.get("games", [])
-            # Target check: Read inside the first list dictionary object
-            if games_list and isinstance(games_list[0], dict) and "startTimeUTC" in games_list[0]:
-                return parse_nhl_json_to_calendar(raw_json)
+        print(f"Downloading: {league} -> {url[:50]}...")
+        response = session.get(url, headers=headers, timeout=10) # Reduced timeout
+        response.raise_for_status()
+
+        try:
+            raw_json = response.json()
+            if "games" in raw_json:
+                games_list = raw_json.get("games", [])
+                if games_list and isinstance(games_list, list) and "startTimeUTC" in games_list[0]:
+                    return league, parse_nhl_json_to_calendar(raw_json)
+                else:
+                    return league, parse_ufa_json_to_calendar(raw_json)
             else:
-                return parse_ufa_json_to_calendar(raw_json)
-        else:
-            return parse_chl_json_to_calendar(raw_json)
-    except (ValueError, TypeError, json.JSONDecodeError):
-        return Calendar.from_ical(response.content)
+                return league, parse_chl_json_to_calendar(raw_json)
+        except (ValueError, TypeError, json.JSONDecodeError):
+            return league, Calendar.from_ical(response.content)
+            
+    except Exception as e:
+        print(f"Error downloading {league}: {e}")
+        return league, None
 
 def create_calendar():
     cal = Calendar()
@@ -287,24 +284,26 @@ def main():
     seen = defaultdict(set)
     feeds = load_feeds()
 
-    for league, url in feeds:
+    # OPTIMIZATION: Download all URLs at the same time using a Thread Pool
+    # max_workers=10 runs up to 10 network requests simultaneously
+    with ThreadPoolExecutor(max_workers=10) as executor:
+        results = executor.map(download_single_feed, feeds)
+    
+    for league, calendar in results:
         print("Téléchargement:", league)
-        try:
-            calendar = download_calendar(url)
+        if calendar is None:
+            continue
 
-            for event in calendar.walk():
-                if event.name != "VEVENT":
-                    continue
+        for event in calendar.walk():
+            if event.name != "VEVENT":
+                continue
 
-                key = event_id(event)
-                if key in seen[league]:
-                    continue
+            key = event_id(event)
+            if key in seen[league]:
+                continue
 
-                seen[league].add(key)
-                leagues[league].append(event)
-
-        except Exception as e:
-            print("Erreur:", league, e)
+            seen[league].add(key)
+            leagues[league].append(event)
 
     OUTPUT_DIR = "calendars"                    # Target folder name
     os.makedirs(OUTPUT_DIR, exist_ok=True)
