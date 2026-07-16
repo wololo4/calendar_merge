@@ -257,7 +257,7 @@ def download_single_feed(feed_info):
     
     try:
         print(f"Downloading: {league} -> {url[:50]}...")
-        response = session.get(url, headers=headers, timeout=15) # Reduced timeout
+        response = session.get(url, headers=headers, timeout=4) # Reduced timeout
         response.raise_for_status()
 
         try:
@@ -295,7 +295,7 @@ def main():
 
     # OPTIMIZATION: Download all URLs at the same time using a Thread Pool
     # max_workers=10 runs up to 10 network requests simultaneously
-    with ThreadPoolExecutor(max_workers=10) as executor:
+    with ThreadPoolExecutor(max_workers=35) as executor:
         results = executor.map(download_single_feed, feeds)
     
     for league, calendar in results:
