@@ -242,13 +242,22 @@ def download_single_feed(feed_info):
     league, url = feed_info
     session = requests.Session()
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
         "Accept": "*/*",
     }
+
+    if "khl.ru" in url:
+        headers.update({
+            "Referer": "https://www.khl.ru/",
+            "Origin": "https://www.khl.ru",
+            "Accept": "text/calendar,text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+            "Connection": "keep-alive",
+            "Upgrade-Insecure-Requests": "1"
+        })
     
     try:
         print(f"Downloading: {league} -> {url[:50]}...")
-        response = session.get(url, headers=headers, timeout=10) # Reduced timeout
+        response = session.get(url, headers=headers, timeout=15) # Reduced timeout
         response.raise_for_status()
 
         try:
