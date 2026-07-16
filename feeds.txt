@@ -22,18 +22,19 @@ WHL|https://cluster.leaguestat.com/components/calendar/ical_add_games.php?client
 
 CHL_Memorial_Cup|https://next-gen.sports.bellmedia.ca/v2/schedule/sports/hockey/leagues/chl
 
-NCAA|https://dartmouthsports.com/api/v2/Calendar/subscribe?type=ics&sportId=9&scheduleId=3302
-NCAA|https://uwbadgers.com/api/v2/Calendar/subscribe?type=ics&sportId=6&scheduleId=739
-NCAA|https://mgoblue.com/api/v2/Calendar/subscribe?type=ics&sportId=11&scheduleId=1895
-NCAA|https://gophersports.com/api/v2/Calendar/subscribe?type=ics&sportId=8&scheduleId=839
-NCAA|https://denverpioneers.com/calendar.ashx/calendar.ics?sport_id=4&_=cmrdsw22f000135afe9gi0xb9
-NCAA|https://wmubroncos.com/calendar.ashx/calendar.ics?sport_id=5&_=cmrdsydfv000135aertsvhapf
-NCAA|https://scsuhuskies.com/api/v2/Calendar/subscribe?type=ics&sportId=7&scheduleId=1483
-NCAA|https://miamiredhawks.com/api/v2/Calendar/subscribe?type=ics&sportId=9&scheduleId=809
-NCAA|https://goterriers.com/api/v2/Calendar/subscribe?type=ics&sportId=5&scheduleId=5771
-NCAA|https://friars.com/api/v2/Calendar/subscribe?type=ics&sportId=5&scheduleId=470
-NCAA|https://msumavericks.com/calendar.ashx/calendar.ics?sport_id=7&_=cmrdt5dxc000135b48kezm6ns
-NCAA|https://bsubeavers.com/calendar.ashx/calendar.ics?sport_id=6&_=cmrdt6eli000135a09ywi35k5
+#remove everything after and including : "&_=cmrd..." and "&scheduleId=..." for future 
+NCAA|https://dartmouthsports.com/api/v2/Calendar/subscribe?type=ics&sportId=9
+NCAA|https://uwbadgers.com/api/v2/Calendar/subscribe?type=ics&sportId=6
+NCAA|https://mgoblue.com/api/v2/Calendar/subscribe?type=ics&sportId=11
+NCAA|https://gophersports.com/api/v2/Calendar/subscribe?type=ics&sportId=8
+NCAA|https://denverpioneers.com/calendar.ashx/calendar.ics?sport_id=4
+NCAA|https://wmubroncos.com/calendar.ashx/calendar.ics?sport_id=5
+NCAA|https://scsuhuskies.com/api/v2/Calendar/subscribe?type=ics&sportId=7
+NCAA|https://miamiredhawks.com/api/v2/Calendar/subscribe?type=ics&sportId=9
+NCAA|https://goterriers.com/api/v2/Calendar/subscribe?type=ics&sportId=5
+NCAA|https://friars.com/api/v2/Calendar/subscribe?type=ics&sportId=5
+NCAA|https://msumavericks.com/calendar.ashx/calendar.ics?sport_id=7
+NCAA|https://bsubeavers.com/calendar.ashx/calendar.ics?sport_id=6
 
 KHL|https://www.khl.ru/calendar/ics/38;/
 KHL|https://www.khl.ru/calendar/ics/26;/
