@@ -5,8 +5,8 @@
 NHL|https://api-web.nhle.com/v1/club-schedule-season/MTL/now
 
 #first link -> regular season|second link -> playoffs
-AHL|https://lscluster.hockeytech.com/components/calendar/ical_add_games.php?client_code=ahl&team_id=415&season=94
-AHL|https://lscluster.hockeytech.com/components/calendar/ical_add_games.php?client_code=ahl&team_id=415&season=96
+AHL|https://lscluster.hockeytech.com/components/calendar/ical_add_games.php?client_code=ahl&team_id=415&season_id=94
+AHL|https://lscluster.hockeytech.com/components/calendar/ical_add_games.php?client_code=ahl&team_id=415&season_id=96
 
 ECHL|https://lions3r.com/fr/calendrier-all.ics
 
