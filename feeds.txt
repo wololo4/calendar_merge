@@ -1,7 +1,7 @@
 # Format :
 # LIGUE|URL_ICAL
 
-NHLhttps://ics.ecal.com/ecal-sub/6a4fe2cc78faca000225dc95/NHL.ics
+NHL|https://ics.ecal.com/ecal-sub/6a4fe2cc78faca000225dc95/NHL.ics
 # direct nhl json feed NHL|https://api-web.nhle.com/v1/club-schedule-season/MTL/now
 
 #first link -> regular season|second link -> playoffs
