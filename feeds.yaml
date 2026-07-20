@@ -2,114 +2,132 @@
 # Hockey Feeds Configuration
 # ============================
 
-# Shared LeagueStat base URL for OHL, LHJMQ, WHL
-base_url: https://cluster.leaguestat.com/components/calendar/ical_add_games.php
-
 NHL:
-  - team: Montreal Canadiens
-    url: https://ics.ecal.com/ecal-sub/6a4fe2cc78faca000225dc95/NHL.ics
-  - team: Montreal Canadiens
-    url: https://api-web.nhle.com/v1/club-schedule-season/MTL/now
-    type: json
+  parser: nhl
+  teams:
+    - name: Montréal Canadiens
+      url: https://ics.ecal.com/ecal-sub/6a4fe2cc78faca000225dc95/NHL.ics
+    - team: Montréal Canadiens
+      url: https://api-web.nhle.com/v1/club-schedule-season/MTL/now
+      type: json
 
 AHL:
-  - team: Laval Rocket
-    url: https://lscluster.hockeytech.com/components/calendar/ical_add_games.php
-    params:
-      client_code: ahl
-      team_id: 415
-      season_id: 94
-  - team: Laval Rocket
-    url: https://lscluster.hockeytech.com/components/calendar/ical_add_games.php
-    params:
-      client_code: ahl
-      team_id: 415
-      season_id: 96
+  parser: leaguestat
+  base_url: https://lscluster.hockeytech.com/components/calendar/ical_add_games.php
+  teamps:
+    - name: Laval Rocket (Regular Season)
+      params:
+        client_code: ahl
+        team_id: 415
+        season_id: 94
+    - name: Laval Rocket (Playoffs)
+      params:
+        client_code: ahl
+        team_id: 415
+        season_id: 96
 
 ECHL:
-  - team: Trois-Rivières Lions
-    url: https://lions3r.com/fr/calendrier-all.ics
+  parser: ics
+  teams:
+    - name: Trois-Rivières Lions
+      url: https://lions3r.com/fr/calendrier-all.ics
 
 OHL:
+  parser: leaguestat
+  base_url: https://cluster.leaguestat.com/components/calendar/ical_add_games.php
   client_code: ohl
   season_id: 88
-  feeds:
-    - team: Brantford Bulldogs
+  teams:
+    - name: Brantford Bulldogs
       team_id: 1
-    - team: Owen Sound Attack
+    - name: Owen Sound Attack
       team_id: 11
 
 LHJMQ:
+  parser: leaguestat
+  base_url: https://cluster.leaguestat.com/components/calendar/ical_add_games.php
   client_code: lhjmq
   season_id: 214
   feeds:
-    - team: Saguenéens Chicoutimi
+    - name: Saguenéens Chicoutimi
       team_id: 10
-    - team: Foreurs Val-d'Or
+    - name: Foreurs Val-d'Or
       team_id: 15
 
 WHL:
+  parser: leaguestat
+  base_url: https://cluster.leaguestat.com/components/calendar/ical_add_games.php
   client_code: whl
   season_id: 295
   feeds:
-    - team: Penticton Vees
+    - name: Penticton Vees
       team_id: 277
-    - team: Saskatoon Blades
+    - name: Saskatoon Blades
       team_id: 213
-    - team: Regina Pats
+    - name: Regina Pats
       team_id: 212
 
 CHL_Memorial_Cup:
-  - team: All Teams
-    url: https://next-gen.sports.bellmedia.ca/v2/schedule/sports/hockey/leagues/chl
-    type: json
+  parser: chl_memorial
+  teams:
+    - name: All Teams
+      url: https://next-gen.sports.bellmedia.ca/v2/schedule/sports/hockey/leagues/chl
+      type: json
 
 NCAA:
-  - team: Dartmouth Big Green
-    url: https://dartmouthsports.com/api/v2/Calendar/subscribe?type=ics&sportId=9
-  - team: Wisconsin Badgers
-    url: https://uwbadgers.com/api/v2/Calendar/subscribe?type=ics&sportId=6
-  - team: Michigan Wolverines
-    url: https://mgoblue.com/api/v2/Calendar/subscribe?type=ics&sportId=11
-  - team: Minnesota Golden Gophers
-    url: https://gophersports.com/api/v2/Calendar/subscribe?type=ics&sportId=8
-  - team: Denver Pioneers
-    url: https://denverpioneers.com/calendar.ashx/calendar.ics?sport_id=4
-  - team: Western Michigan Broncos
-    url: https://wmubroncos.com/calendar.ashx/calendar.ics?sport_id=5
-  - team: St. Cloud State Huskies
-    url: https://scsuhuskies.com/api/v2/Calendar/subscribe?type=ics&sportId=7
-  - team: Miami RedHawks
-    url: https://miamiredhawks.com/api/v2/Calendar/subscribe?type=ics&sportId=9
-  - team: Boston University Terriers
-    url: https://goterriers.com/api/v2/Calendar/subscribe?type=ics&sportId=5
-  - team: Providence Friars
-    url: https://friars.com/api/v2/Calendar/subscribe?type=ics&sportId=5
-  - team: Minnesota State Mavericks
-    url: https://msumavericks.com/calendar.ashx/calendar.ics?sport_id=7
-  - team: Bemidji State Beavers
-    url: https://bsubeavers.com/calendar.ashx/calendar.ics?sport_id=6
+  parser: ics
+  teams:
+    - name: Dartmouth Big Green
+      url: https://dartmouthsports.com/api/v2/Calendar/subscribe?type=ics&sportId=9
+    - name: Wisconsin Badgers
+      url: https://uwbadgers.com/api/v2/Calendar/subscribe?type=ics&sportId=6
+    - name: Michigan Wolverines
+      url: https://mgoblue.com/api/v2/Calendar/subscribe?type=ics&sportId=11
+    - name: Minnesota Golden Gophers
+      url: https://gophersports.com/api/v2/Calendar/subscribe?type=ics&sportId=8
+    - name: Denver Pioneers
+      url: https://denverpioneers.com/calendar.ashx/calendar.ics?sport_id=4
+    - name: Western Michigan Broncos
+      url: https://wmubroncos.com/calendar.ashx/calendar.ics?sport_id=5
+    - name: St. Cloud State Huskies
+      url: https://scsuhuskies.com/api/v2/Calendar/subscribe?type=ics&sportId=7
+    - name: Miami RedHawks
+      url: https://miamiredhawks.com/api/v2/Calendar/subscribe?type=ics&sportId=9
+    - name: Boston University Terriers
+      url: https://goterriers.com/api/v2/Calendar/subscribe?type=ics&sportId=5
+    - name: Providence Friars
+      url: https://friars.com/api/v2/Calendar/subscribe?type=ics&sportId=5
+    - na,e: Minnesota State Mavericks
+      url: https://msumavericks.com/calendar.ashx/calendar.ics?sport_id=7
+    - name: Bemidji State Beavers
+      url: https://bsubeavers.com/calendar.ashx/calendar.ics?sport_id=6
 
 KHL:
-  - team: Salavat Yulaev Ufa
-    url: https://www.khl.ru/calendar/ics/38;/
-  - team: Torpeda Nizhny Novgorod
-    url: https://www.khl.ru/calendar/ics/26;/
+  parser: ics
+  teams:
+    - name: Salavat Yulaev Ufa
+      url: https://www.khl.ru/calendar/ics/38;/
+    - name: Torpeda Nizhny Novgorod
+      url: https://www.khl.ru/calendar/ics/26;/
 
 SHL:
-  - team: Luleå HF
-    url: https://ics.ecal.com/ecal-sub/6a57e9bea78f85000242f7cc/Swedish%20Hockey%20League.ics
-  - team: Skellefteå AIK
-    url: https://ics.ecal.com/ecal-sub/6a57ea53c8083d00021f164f/Swedish%20Hockey%20League.ics
+  parser: ics
+  teams:
+    - name: Luleå HF
+      url: https://ics.ecal.com/ecal-sub/6a57e9bea78f85000242f7cc/Swedish%20Hockey%20League.ics
+    - name: Skellefteå AIK
+      url: https://ics.ecal.com/ecal-sub/6a57ea53c8083d00021f164f/Swedish%20Hockey%20League.ics
 
 CHL:
-  - team: CHL Europe
-    url: https://www.chl.hockey/api/s3?q=schedule-21ec9dad81abe2e0240460d0-fc954f6d33272fdf4a8b95bb.json
-    type: json
-    filter:
+  parser: chl_europe
+  url: https://www.chl.hockey/api/s3?q=schedule-21ec9dad81abe2e0240460d0-fc954f6d33272fdf4a8b95bb.json
+  filter:
       teams: [SKE, KOL]
 
 UFA:
-  - team: Royal Montréal
-    url: https://www.backend.ufastats.com/web-v1/games?current&teamID=13
+  parser: ufa
+  teams:
+    - name: Royal Montréal
+      url: https://www.backend.ufastats.com/web-v1/games?current&teamID=13
+      type: json
     type: json
