@@ -15,9 +15,73 @@ def load_feeds():
             line = line.strip()
             if not line or line.startswith("#"):
                 continue
-            league, url = line.split("|", 1)
-            feeds.append((league.strip(), url.strip()))
+            parts = line.split("|")
+            league = parts[0].strip()
+            url = parts[1].strip()
+            team_filter = parts[2].strip() if len(parts) > 2 else ""
+
+            team_filter_list = [t.strip() for t in team_filter.split(",") if t.strip()]
+            feeds.append((league, url, team_filter_list))
     return feeds
+
+def parse_chl_europe_json_to_calendar(json_data, team_filter):
+    cal = create_calendar()
+
+    for game in json_data.get("data", []):
+        teams = game.get("teams", {})
+        home = teams.get("home", {})
+        away = teams.get("away", {})
+
+        home_short = home.get("shortName", "")
+        away_short = away.get("shortName", "")
+
+        # ⭐ FILTER: Only keep teams listed in feeds.txt
+        if team_filter:
+            if home_short not in team_filter and away_short not in team_filter:
+                continue
+
+        event = Event()
+
+        game_id = game.get("externalId", "unknown")
+        event.add("uid", f"chleu-game-{game_id}@championshockeyleague.com")
+
+        start_str = game.get("startDate")
+        if not start_str:
+            continue
+
+        start_dt = datetime.fromisoformat(start_str.replace("Z", "+00:00"))
+        end_dt = start_dt + timedelta(hours=2, minutes=30)
+
+        event.add("dtstart", start_dt)
+        event.add("dtend", end_dt)
+
+        home_name = home.get("name", "Home")
+        away_name = away.get("name", "Away")
+        event.add("summary", f"{away_name} @ {home_name}")
+
+        venue = game.get("venue", {}).get("name", "Arena")
+        event.add("location", venue)
+
+        stage = game.get("stage", {})
+        group_name = stage.get("group", {}).get("name", "")
+        round_name = stage.get("round", {}).get("name", "")
+
+        description = [
+            "Champions Hockey League Match",
+            f"Stage: {group_name}",
+            f"Round: {round_name}",
+            f"Status: {game.get('status', 'Scheduled')}",
+        ]
+
+        link = game.get("link", {}).get("url")
+        if link:
+            description.append(f"Match Page: https://www.chl.hockey{link}")
+
+        event.add("description", "\n".join(description))
+        cal.add_component(event)
+
+    return cal
+
 
 def parse_nhl_json_to_calendar(json_data):
     """Converts modern NHL REST API club season JSON data into an icalendar Calendar object."""
@@ -239,7 +303,7 @@ def parse_ufa_json_to_calendar(json_data):
 
 def download_single_feed(feed_info):
     """Worker function to process one feed concurrently."""
-    league, url = feed_info
+    league, url, team_filter = feed_info
     session = requests.Session()
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
@@ -268,6 +332,8 @@ def download_single_feed(feed_info):
                     return league, parse_nhl_json_to_calendar(raw_json)
                 else:
                     return league, parse_ufa_json_to_calendar(raw_json)
+            if raw_json.get("_type") == "Corebine.Core.Protocol.Response.Array":
+                return league, parse_chl_europe_json_to_calendar(raw_json, team_filter)
             else:
                 return league, parse_chl_json_to_calendar(raw_json)
         except (ValueError, TypeError, json.JSONDecodeError):
