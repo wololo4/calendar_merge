@@ -43,6 +43,6 @@ SHL|https://ics.ecal.com/ecal-sub/6a57e9bea78f85000242f7cc/Swedish%20Hockey%20Le
 SHL|https://ics.ecal.com/ecal-sub/6a57ea53c8083d00021f164f/Swedish%20Hockey%20League.ics
 
 #mettre les abbréviations des équipes voulu à la fin pour le filtre
-CHL|https://www.chl.hockey/api/s3/live?q=live-events.json|SKE,KOL
+CHL|https://www.chl.hockey/api/s3?q=schedule-21ec9dad81abe2e0240460d0-fc954f6d33272fdf4a8b95bb.json|SKE,KOL
 
 UFA|https://www.backend.ufastats.com/web-v1/games?current&teamID=13
