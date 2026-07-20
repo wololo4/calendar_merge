@@ -39,7 +39,7 @@ def main():
         for event in events:
             output.add_component(event)
 
-        filename = os.path.join(f"calendars/{league.lower()}.ics"
+        filename = f"calendars/{league.lower()}.ics"
         with open(filename, "wb") as file:
             file.write(output.to_ical())
 
