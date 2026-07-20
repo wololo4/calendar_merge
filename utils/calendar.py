@@ -1,3 +1,5 @@
+from icalendar import Calendar
+
 def create_calendar():
     cal = Calendar()
     cal.add("prodid", "-//Hockey Calendar//")
