@@ -14,7 +14,7 @@ NHL:
 AHL:
   parser: leaguestat
   base_url: https://lscluster.hockeytech.com/components/calendar/ical_add_games.php
-  teamps:
+  teams:
     - name: Laval Rocket (Regular Season)
       params:
         client_code: ahl
