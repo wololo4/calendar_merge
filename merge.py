@@ -1,13 +1,10 @@
 import os
-import json  # <-- Fixed: Added to prevent the NameError on KHL/UFA fallback
-from datetime import datetime, timedelta, timezone
 from collections import defaultdict
-import requests
-from icalendar import Calendar, Event
-from concurrent.futures import ThreadPoolExecutor  # <-- New: For parallel downloads
-from utils.downloader import download_single_feed
+from concurrent.futures import ThreadPoolExecutor
 
-FEEDS_FILE = "feeds.txt"
+from utils.downloader import download_single_feed
+from utils.feeds import load_feeds
+from utils.calendar import create_calendar, event_id
 
 def main():
     leagues = defaultdict(list)
@@ -35,17 +32,14 @@ def main():
             seen[league].add(key)
             leagues[league].append(event)
 
-    OUTPUT_DIR = "calendars"                    # Target folder name
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    os.makedirs("calendars", exist_ok=True)
 
     for league, events in leagues.items():
         output = create_calendar()
-
         for event in events:
             output.add_component(event)
 
-        filename = os.path.join(OUTPUT_DIR, league.lower() + ".ics")
-
+        filename = os.path.join(f"calendars/{league.lower()}.ics"
         with open(filename, "wb") as file:
             file.write(output.to_ical())
 
