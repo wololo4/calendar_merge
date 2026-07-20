@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Hockey Calendar//
+BEGIN:VEVENT
+SUMMARY:Kölner Haie @ Red Bull Salzburg
+DTSTART:20260903T171500Z
+DTEND:20260903T194500Z
+UID:chleu-game-2993@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 1\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /ec28c920c178cfafaf650188/red-bull-salzburg-vs-kolner-haie
+LOCATION:Eisarena Salzburg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skellefteå AIK @ HK Nitra
+DTSTART:20260904T160000Z
+DTEND:20260904T183000Z
+UID:chleu-game-2995@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 1\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /2955e4b9c682514ca88e1d64/hk-nitra-vs-skelleftea-aik
+LOCATION:Tiposbet Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kölner Haie @ Tappara Tampere
+DTSTART:20260905T140000Z
+DTEND:20260905T163000Z
+UID:chleu-game-3000@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 2\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /8ed94128f8806f40a2957687/tappara-tampere-vs-kolner-haie
+LOCATION:Hakametsä
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skellefteå AIK @ Adler Mannheim
+DTSTART:20260906T150000Z
+DTEND:20260906T173000Z
+UID:chleu-game-3011@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 2\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /8ea8d511f11e851e50fd4110/adler-mannheim-vs-skelleftea-aik
+LOCATION:SAP Arena
+END:VEVENT
+END:VCALENDAR
