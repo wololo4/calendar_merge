@@ -3,43 +3,13 @@ VERSION:2.0
 PRODID:-//Hockey Calendar//
 BEGIN:VEVENT
 SUMMARY:Royal @ Glory
-DTSTART;TZID="UTC-04:00":20260718T190000
-DTEND;TZID="UTC-04:00":20260718T210000
-UID:ufa-game-2026-07-18-MTL-BOS@ufastats.com
-DESCRIPTION:Official UFA Ultimate Frisbee Match\nStatus: Upcoming\nWatch L
- ive: https://watchufa.tv/events/montreal-at-boston-7-18-2026\nTickets: htt
- ps://shop.bostonglory.com/collections/tickets
+DTSTART;TZID="UTC-04:00":20260502T140000
+DTEND;TZID="UTC-04:00":20260502T160000
+UID:ufa-game-2026-05-02-MTL-BOS@ufastats.com
+DESCRIPTION:Official UFA Ultimate Frisbee Match\nStatus: Final\nWatch Live
+ : https://watchufa.tv/videos/montreal-at-boston-5-2-2026-05-02-2026-20-22-
+ 04\nTickets: https://shop.bostonglory.com/collections/tickets
 LOCATION:Hormel Stadium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rush @ Royal
-DTSTART;TZID="UTC-04:00":20260705T130000
-DTEND;TZID="UTC-04:00":20260705T150000
-UID:ufa-game-2026-07-05-TOR-MTL@ufastats.com
-DESCRIPTION:Official UFA Ultimate Frisbee Match\nStatus: Final\nWatch Live
- : https://watchufa.tv/videos/toronto-at-montreal-7-4-2026-07-05-2026-19-16
- -40\nTickets: https://boutique.royalultimate.com/
-LOCATION:Complexe sportif Claude-Robillard
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Empire @ Royal
-DTSTART;TZID="UTC-04:00":20260606T190000
-DTEND;TZID="UTC-04:00":20260606T210000
-UID:ufa-game-2026-06-06-NY-MTL@ufastats.com
-DESCRIPTION:Official UFA Ultimate Frisbee Match\nStatus: Final\nWatch Live
- : https://watchufa.tv/videos/new-york-at-montreal-6-6-2026-06-07-2026-01-0
- 0-05\nTickets: https://boutique.royalultimate.com/
-LOCATION:Complexe sportif Claude-Robillard
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Royal @ Rush
-DTSTART;TZID="UTC-04:00":20260509T160000
-DTEND;TZID="UTC-04:00":20260509T180000
-UID:ufa-game-2026-05-09-MTL-TOR@ufastats.com
-DESCRIPTION:Official UFA Ultimate Frisbee Match\nStatus: Final\nWatch Live
- : https://watchufa.tv/videos/montreal-at-toronto-5-9-2026-05-09-2026-22-46
- -42
-LOCATION:Varsity Stadium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rush @ Royal
@@ -52,44 +22,13 @@ DESCRIPTION:Official UFA Ultimate Frisbee Match\nStatus: Final\nWatch Live
 LOCATION:Complexe sportif Claude-Robillard
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Royal @ Thunderbirds
-DTSTART;TZID="UTC-04:00":20260510T140000
-DTEND;TZID="UTC-04:00":20260510T160000
-UID:ufa-game-2026-05-10-MTL-PIT@ufastats.com
+SUMMARY:Phoenix @ Royal
+DTSTART;TZID="UTC-04:00":20260619T190000
+DTEND;TZID="UTC-04:00":20260619T210000
+UID:ufa-game-2026-06-19-PHI-MTL@ufastats.com
 DESCRIPTION:Official UFA Ultimate Frisbee Match\nStatus: Final\nWatch Live
- : https://watchufa.tv/videos/montreal-at-pittsburgh-5-10-2026-05-10-2026-2
- 0-26-31\nTickets: https://www.gofevo.com/event/thunderbirds0510
-LOCATION:F.N.B. Stadium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Royal @ Phoenix
-DTSTART;TZID="UTC-04:00":20260613T180000
-DTEND;TZID="UTC-04:00":20260613T200000
-UID:ufa-game-2026-06-13-MTL-PHI@ufastats.com
-DESCRIPTION:Official UFA Ultimate Frisbee Match\nStatus: Final\nWatch Live
- : https://watchufa.tv/events/montreal-at-philadelphia-6-13-2026\nTickets: 
- https://www.phoenixulti.com/?srsltid=AfmBOooQMfbHExyS-6k5qH47poLLpuDKEw_9O
- 3DhulD7HcAJ-dFlXB5l
-LOCATION:Neumann University turf field
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Royal @ Glory
-DTSTART;TZID="UTC-04:00":20260502T140000
-DTEND;TZID="UTC-04:00":20260502T160000
-UID:ufa-game-2026-05-02-MTL-BOS@ufastats.com
-DESCRIPTION:Official UFA Ultimate Frisbee Match\nStatus: Final\nWatch Live
- : https://watchufa.tv/videos/montreal-at-boston-5-2-2026-05-02-2026-20-22-
- 04\nTickets: https://shop.bostonglory.com/collections/tickets
-LOCATION:Hormel Stadium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Breeze @ Royal
-DTSTART;TZID="UTC-04:00":20260530T180000
-DTEND;TZID="UTC-04:00":20260530T200000
-UID:ufa-game-2026-05-30-DC-MTL@ufastats.com
-DESCRIPTION:Official UFA Ultimate Frisbee Match\nStatus: Final\nWatch Live
- : https://watchufa.tv/videos/dc-at-montreal-5-30-2026-05-31-2026-00-09-18\
- nTickets: https://boutique.royalultimate.com/
+ : https://watchufa.tv/videos/philadelphia-at-montreal-6-19-2026-06-20-2026
+ -01-16-44\nTickets: https://boutique.royalultimate.com/
 LOCATION:Complexe sportif Claude-Robillard
 END:VEVENT
 BEGIN:VEVENT
@@ -104,6 +43,57 @@ DESCRIPTION:Official UFA Ultimate Frisbee Match\nStatus: Final\nWatch Live
 LOCATION:Complexe sportif Claude-Robillard
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Empire @ Royal
+DTSTART;TZID="UTC-04:00":20260606T190000
+DTEND;TZID="UTC-04:00":20260606T210000
+UID:ufa-game-2026-06-06-NY-MTL@ufastats.com
+DESCRIPTION:Official UFA Ultimate Frisbee Match\nStatus: Final\nWatch Live
+ : https://watchufa.tv/videos/new-york-at-montreal-6-6-2026-06-07-2026-01-0
+ 0-05\nTickets: https://boutique.royalultimate.com/
+LOCATION:Complexe sportif Claude-Robillard
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rush @ Royal
+DTSTART;TZID="UTC-04:00":20260705T130000
+DTEND;TZID="UTC-04:00":20260705T150000
+UID:ufa-game-2026-07-05-TOR-MTL@ufastats.com
+DESCRIPTION:Official UFA Ultimate Frisbee Match\nStatus: Final\nWatch Live
+ : https://watchufa.tv/videos/toronto-at-montreal-7-4-2026-07-05-2026-19-16
+ -40\nTickets: https://boutique.royalultimate.com/
+LOCATION:Complexe sportif Claude-Robillard
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Royal @ Rush
+DTSTART;TZID="UTC-04:00":20260509T160000
+DTEND;TZID="UTC-04:00":20260509T180000
+UID:ufa-game-2026-05-09-MTL-TOR@ufastats.com
+DESCRIPTION:Official UFA Ultimate Frisbee Match\nStatus: Final\nWatch Live
+ : https://watchufa.tv/videos/montreal-at-toronto-5-9-2026-05-09-2026-22-46
+ -42
+LOCATION:Varsity Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Royal @ Phoenix
+DTSTART;TZID="UTC-04:00":20260613T180000
+DTEND;TZID="UTC-04:00":20260613T200000
+UID:ufa-game-2026-06-13-MTL-PHI@ufastats.com
+DESCRIPTION:Official UFA Ultimate Frisbee Match\nStatus: Final\nWatch Live
+ : https://watchufa.tv/events/montreal-at-philadelphia-6-13-2026\nTickets: 
+ https://www.phoenixulti.com/?srsltid=AfmBOooQMfbHExyS-6k5qH47poLLpuDKEw_9O
+ 3DhulD7HcAJ-dFlXB5l
+LOCATION:Neumann University turf field
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breeze @ Royal
+DTSTART;TZID="UTC-04:00":20260530T180000
+DTEND;TZID="UTC-04:00":20260530T200000
+UID:ufa-game-2026-05-30-DC-MTL@ufastats.com
+DESCRIPTION:Official UFA Ultimate Frisbee Match\nStatus: Final\nWatch Live
+ : https://watchufa.tv/videos/dc-at-montreal-5-30-2026-05-31-2026-00-09-18\
+ nTickets: https://boutique.royalultimate.com/
+LOCATION:Complexe sportif Claude-Robillard
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Royal @ Breeze
 DTSTART;TZID="UTC-04:00":20260503T170000
 DTEND;TZID="UTC-04:00":20260503T190000
@@ -114,13 +104,23 @@ DESCRIPTION:Official UFA Ultimate Frisbee Match\nStatus: Final\nWatch Live
 LOCATION:Carlini Field\, Catholic U
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Phoenix @ Royal
-DTSTART;TZID="UTC-04:00":20260619T190000
-DTEND;TZID="UTC-04:00":20260619T210000
-UID:ufa-game-2026-06-19-PHI-MTL@ufastats.com
+SUMMARY:Royal @ Glory
+DTSTART;TZID="UTC-04:00":20260718T190000
+DTEND;TZID="UTC-04:00":20260718T210000
+UID:ufa-game-2026-07-18-MTL-BOS@ufastats.com
 DESCRIPTION:Official UFA Ultimate Frisbee Match\nStatus: Final\nWatch Live
- : https://watchufa.tv/videos/philadelphia-at-montreal-6-19-2026-06-20-2026
- -01-16-44\nTickets: https://boutique.royalultimate.com/
-LOCATION:Complexe sportif Claude-Robillard
+ : https://watchufa.tv/events/montreal-at-boston-7-18-2026\nTickets: https:
+ //shop.bostonglory.com/collections/tickets
+LOCATION:Hormel Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Royal @ Thunderbirds
+DTSTART;TZID="UTC-04:00":20260510T140000
+DTEND;TZID="UTC-04:00":20260510T160000
+UID:ufa-game-2026-05-10-MTL-PIT@ufastats.com
+DESCRIPTION:Official UFA Ultimate Frisbee Match\nStatus: Final\nWatch Live
+ : https://watchufa.tv/videos/montreal-at-pittsburgh-5-10-2026-05-10-2026-2
+ 0-26-31\nTickets: https://www.gofevo.com/event/thunderbirds0510
+LOCATION:F.N.B. Stadium
 END:VEVENT
 END:VCALENDAR
