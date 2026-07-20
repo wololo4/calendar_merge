@@ -48,7 +48,7 @@ LHJMQ:
   base_url: https://cluster.leaguestat.com/components/calendar/ical_add_games.php
   client_code: lhjmq
   season_id: 214
-  feeds:
+  teams:
     - name: Saguenéens Chicoutimi
       team_id: 10
     - name: Foreurs Val-d'Or
@@ -59,7 +59,7 @@ WHL:
   base_url: https://cluster.leaguestat.com/components/calendar/ical_add_games.php
   client_code: whl
   season_id: 295
-  feeds:
+  teams:
     - name: Penticton Vees
       team_id: 277
     - name: Saskatoon Blades
@@ -130,4 +130,3 @@ UFA:
     - name: Royal Montréal
       url: https://www.backend.ufastats.com/web-v1/games?current&teamID=13
       type: json
-    type: json
