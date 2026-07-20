@@ -1,3 +1,7 @@
+import requests
+import json
+from icalendar import Calendar
+
 from parsers.nhl import parse_nhl_json_to_calendar
 from parsers.chl_canada import parse_chl_json_to_calendar
 from parsers.chl_europe import parse_chl_europe_json_to_calendar
