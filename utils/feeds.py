@@ -1,3 +1,5 @@
+FEEDS_FILE = "feeds.txt"
+
 def load_feeds():
     feeds = []
     with open(FEEDS_FILE, "r", encoding="utf-8") as file:
