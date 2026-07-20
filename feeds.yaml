@@ -97,7 +97,7 @@ NCAA:
       url: https://goterriers.com/api/v2/Calendar/subscribe?type=ics&sportId=5
     - name: Providence Friars
       url: https://friars.com/api/v2/Calendar/subscribe?type=ics&sportId=5
-    - na,e: Minnesota State Mavericks
+    - name: Minnesota State Mavericks
       url: https://msumavericks.com/calendar.ashx/calendar.ics?sport_id=7
     - name: Bemidji State Beavers
       url: https://bsubeavers.com/calendar.ashx/calendar.ics?sport_id=6
