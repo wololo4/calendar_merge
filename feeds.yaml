@@ -115,7 +115,7 @@ KHL:
       url: https://www.khl.ru/calendar/ics/26;/
 
 VHL:
-  parser:
+  parser: vhl
   teams:
     - name: Khimik Voskresensk
       url: https://www.vhlru.ru/en/calendar/1374/0/15029/
