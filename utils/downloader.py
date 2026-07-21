@@ -33,11 +33,6 @@ def download_single_feed(feed_info):
         response = session.get(url, headers=headers, timeout=4)
         response.raise_for_status()
 
-        try:
-            print(response.json())
-        except Exception as e:
-            print("DEBUG JSON ERROR:", e)
-
         # ============================
         # NHL (ICS or JSON)
         # ============================
