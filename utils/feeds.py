@@ -17,10 +17,16 @@ def load_feeds():
         # ============================
         # NHL (ICS + JSON)
         # ============================
-        if parser == "nhl":
+        if parser == "nhl_ics":
             for team in data["teams"]:
-                url = team["url"]
-                feeds.append((league, team["name"], url, [], parser))
+                if team.get("parser") == "nhl_ics":
+                    feeds.append((league, team["name"], team["url"], [], "nhl_ics"))
+            continue
+
+        if parser == "nhl_json":
+            for team in data["teams"]:
+                if team.get("parser") == "nhl_json":
+                    feeds.append((league, team["name"], team["url"], [], "nhl_json"))
             continue
 
         # ============================
