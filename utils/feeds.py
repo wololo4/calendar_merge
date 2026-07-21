@@ -83,6 +83,14 @@ def load_feeds():
             continue
 
         # ============================
+        # VHL parser
+        # ============================
+        if parser == "vhl":
+            for team in data.get("teams", []):
+                feeds.append((league, team["name"], team["url"], team))
+            continue
+
+        # ============================
         # ICS-only leagues (ECHL, NCAA, SHL, KHL)
         # ============================
         if parser == "ics":
