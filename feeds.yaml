@@ -114,6 +114,12 @@ KHL:
     - name: Torpeda Nizhny Novgorod
       url: https://www.khl.ru/calendar/ics/26;/
 
+VHL:
+  parser:
+  teams:
+    - name: Khimik Voskresensk
+      url: https://www.vhlru.ru/en/calendar/1374/0/15029/
+
 SHL:
   parser: ics
   teams:
