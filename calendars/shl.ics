@@ -7,8 +7,6 @@ DTSTART:20260919T160000Z
 DTEND:20260919T180000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884dc54f3543
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHT72/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHT73/3G7bT\n\nStatistik\nhttps://ecal
@@ -19,10 +17,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHT7c/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHT7
  d/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT7f/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT7g/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT7l/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Coop Norrbotten Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -40,8 +35,6 @@ DTSTART:20260924T170000Z
 DTEND:20260924T190000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884dc54f3544
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHT7n/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHT7q/3G7bT\n\nStatistik\nhttps://ecal
@@ -52,10 +45,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHT7z/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHT7
  B/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT7C/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT7D/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT7J/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Coop Norrbotten Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -73,8 +63,6 @@ DTSTART:20260926T131500Z
 DTEND:20260926T151500Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884dc54f3545
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHT7M/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHT7N/3G7bT\n\nStatistik\nhttps://ecal
@@ -85,10 +73,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHT7X/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHT7
  Y/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT7Z/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT81/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT84/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Monitor ERP Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -106,8 +91,6 @@ DTSTART:20260929T170000Z
 DTEND:20260929T190000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884dc54f3546
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHT85/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHT86/3G7bT\n\nStatistik\nhttps://ecal
@@ -118,10 +101,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHT8g/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHT8
  h/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT8j/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT8k/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT8n/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Skellefteå Kraft Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -139,8 +119,6 @@ DTSTART:20261001T170000Z
 DTEND:20261001T190000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884dc54f3547
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHT8p/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHT8r/3G7bT\n\nStatistik\nhttps://ecal
@@ -151,10 +129,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHT8D/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHT8
  F/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT8G/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT8H/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT8P/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Saab Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -172,8 +147,6 @@ DTSTART:20261003T160000Z
 DTEND:20261003T180000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884dc54f3548
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHT8Q/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHT8R/3G7bT\n\nStatistik\nhttps://ecal
@@ -184,10 +157,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHT91/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHT9
  2/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT94/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT96/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT9c/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Behrn Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -205,8 +175,6 @@ DTSTART:20261008T170000Z
 DTEND:20261008T190000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884dc54f3549
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHT9g/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHT9h/3G7bT\n\nStatistik\nhttps://ecal
@@ -217,10 +185,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHT9r/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHT9
  s/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT9t/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT9v/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT9y/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Coop Norrbotten Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -238,8 +203,6 @@ DTSTART:20261010T131500Z
 DTEND:20261010T151500Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884dc54f354a
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHT9z/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHT9B/3G7bT\n\nStatistik\nhttps://ecal
@@ -250,10 +213,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHT9P/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHT9
  Q/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT9R/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT9S/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT9W/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Coop Norrbotten Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -271,8 +231,6 @@ DTSTART:20261015T170000Z
 DTEND:20261015T190000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884ccf087961
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHSVn/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHSVp/3G7bT\n\nStatistik\nhttps://ecal
@@ -283,10 +241,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHSVy/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHSV
  z/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHSVB/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHSVC/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHSVG/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Löfbergs Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -304,8 +259,6 @@ DTSTART:20261017T131500Z
 DTEND:20261017T151500Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884ccf087962
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHSVH/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHSVJ/3G7bT\n\nStatistik\nhttps://ecal
@@ -316,10 +269,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHSVS/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHSV
  T/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHSVV/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHSVW/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHSVZ/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Coop Norrbotten Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -337,8 +287,6 @@ DTSTART:20261022T170000Z
 DTEND:20261022T190000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884ccf087963
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHSW1/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHSW2/3G7bT\n\nStatistik\nhttps://ecal
@@ -349,10 +297,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHSWb/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHSW
  c/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHSWd/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHSWf/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHSWj/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Vida Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -370,8 +315,6 @@ DTSTART:20261024T160000Z
 DTEND:20261024T180000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884ccf087964
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHSWk/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHSWl/3G7bT\n\nStatistik\nhttps://ecal
@@ -382,10 +325,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHSWv/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHSW
  w/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHSWx/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHSWy/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHSWC/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Coop Norrbotten Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -403,8 +343,6 @@ DTSTART:20261029T180000Z
 DTEND:20261029T200000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884ccf087965
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHSWD/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHSWF/3G7bT\n\nStatistik\nhttps://ecal
@@ -415,10 +353,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHSWP/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHSW
  Q/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHSWR/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHSWS/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHSWW/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Coop Norrbotten Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -436,8 +371,6 @@ DTSTART:20261031T170000Z
 DTEND:20261031T190000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884ccf087966
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHSWX/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHSWY/3G7bT\n\nStatistik\nhttps://ecal
@@ -448,10 +381,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHSX7/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHSX
  8/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHSX9/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHSXb/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHSXf/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:SCA Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -469,8 +399,6 @@ DTSTART:20261112T180000Z
 DTEND:20261112T200000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884ccf087967
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHSXg/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHSXh/3G7bT\n\nStatistik\nhttps://ecal
@@ -481,10 +409,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHSXr/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHSX
  s/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHSXt/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHSXv/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHSXy/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Husqvarna Garden
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -502,8 +427,6 @@ DTSTART:20261114T170000Z
 DTEND:20261114T190000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884ccf087968
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHSXz/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHSXB/3G7bT\n\nStatistik\nhttps://ecal
@@ -514,10 +437,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHSXL/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHSX
  M/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHSXN/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHSXP/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHSXS/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Coop Norrbotten Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -535,8 +455,6 @@ DTSTART:20261119T180000Z
 DTEND:20261119T200000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884ccf087969
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHSXT/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHSXV/3G7bT\n\nStatistik\nhttps://ecal
@@ -547,10 +465,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHSY4/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHSY
  5/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHSY6/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHSY7/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHSYb/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Monitor ERP Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -568,8 +483,6 @@ DTSTART:20261121T141500Z
 DTEND:20261121T161500Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884ccf08796a
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHSYc/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHSYd/3G7bT\n\nStatistik\nhttps://ecal
@@ -580,10 +493,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHSYn/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHSY
  p/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHSYq/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHSYr/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHSYv/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Hovet
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -601,8 +511,6 @@ DTSTART:20261124T180000Z
 DTEND:20261124T200000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884ccf08796b
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHSYw/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHSYx/3G7bT\n\nStatistik\nhttps://ecal
@@ -613,10 +521,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHSYH/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHSY
  J/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHSYK/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHSYL/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHSYP/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Coop Norrbotten Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -634,8 +539,6 @@ DTSTART:20261128T170000Z
 DTEND:20261128T190000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884ccf08796c
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHSYQ/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHSYR/3G7bT\n\nStatistik\nhttps://ecal
@@ -646,10 +549,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHSZ1/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHSZ
  2/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHSZ3/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHSZ4/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHSZ7/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Coop Norrbotten Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -667,8 +567,6 @@ DTSTART:20261203T180000Z
 DTEND:20261203T200000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884ccf08796d
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHSZ8/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHSZ9/3G7bT\n\nStatistik\nhttps://ecal
@@ -679,10 +577,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHSZk/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHSZ
  l/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHSZm/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHSZn/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHSZr/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Behrn Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -700,8 +595,6 @@ DTSTART:20261205T141500Z
 DTEND:20261205T161500Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884ccf08796e
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHSZs/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHSZt/3G7bT\n\nStatistik\nhttps://ecal
@@ -712,10 +605,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHSZD/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHSZ
  F/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHSZG/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHSZH/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHSZL/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Visionite Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -733,8 +623,6 @@ DTSTART:20261217T180000Z
 DTEND:20261217T200000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884ccf08796f
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHSZM/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHSZN/3G7bT\n\nStatistik\nhttps://ecal
@@ -745,10 +633,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHSZX/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHSZ
  Y/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHSZZ/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT11/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT14/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Coop Norrbotten Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -766,8 +651,6 @@ DTSTART:20261219T141500Z
 DTEND:20261219T161500Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884ccf087970
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHT15/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHT16/3G7bT\n\nStatistik\nhttps://ecal
@@ -778,10 +661,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHT1g/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHT1
  h/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT1j/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT1k/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT1n/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Coop Norrbotten Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -799,8 +679,6 @@ DTSTART:20261226T141500Z
 DTEND:20261226T161500Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884ccf087971
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHT1p/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHT1q/3G7bT\n\nStatistik\nhttps://ecal
@@ -811,10 +689,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHT1z/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHT1
  B/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT1C/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT1D/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT1H/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Skellefteå Kraft Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -832,8 +707,6 @@ DTSTART:20261228T180000Z
 DTEND:20261228T200000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884ccf087972
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHT1J/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHT1K/3G7bT\n\nStatistik\nhttps://ecal
@@ -844,10 +717,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHT1T/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHT1
  V/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT1W/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT1X/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT21/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Saab Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -865,8 +735,6 @@ DTSTART:20261230T180000Z
 DTEND:20261230T200000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884ccf087973
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHT22/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHT23/3G7bT\n\nStatistik\nhttps://ecal
@@ -877,10 +745,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHT2c/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHT2
  d/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT2f/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT2g/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT2n/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Coop Norrbotten Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -898,8 +763,6 @@ DTSTART:20270102T141500Z
 DTEND:20270102T161500Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884ccf087974
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHT2p/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHT2q/3G7bT\n\nStatistik\nhttps://ecal
@@ -910,10 +773,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHT2z/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHT2
  B/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT2C/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT2D/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT2H/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Coop Norrbotten Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -931,8 +791,6 @@ DTSTART:20270105T180000Z
 DTEND:20270105T200000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884ccf087975
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHT2J/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHT2K/3G7bT\n\nStatistik\nhttps://ecal
@@ -943,10 +801,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHT2T/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHT2
  V/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT2W/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT2X/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT31/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Catena Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -964,8 +819,6 @@ DTSTART:20270107T180000Z
 DTEND:20270107T200000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884ccf087976
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHT32/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHT33/3G7bT\n\nStatistik\nhttps://ecal
@@ -976,10 +829,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHT3c/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHT3
  d/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT3f/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT3g/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT3k/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Malmö Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -997,8 +847,6 @@ DTSTART:20270109T170000Z
 DTEND:20270109T190000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884dc54f354b
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHT9X/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHT9Y/3G7bT\n\nStatistik\nhttps://ecal
@@ -1009,10 +857,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHTb7/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHTb
  8/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHTb9/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHTbb/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHTbf/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Coop Norrbotten Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -1030,8 +875,6 @@ DTSTART:20270114T180000Z
 DTEND:20270114T200000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884dc54f354c
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHTbj/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHTbl/3G7bT\n\nStatistik\nhttps://ecal
@@ -1042,10 +885,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHTbv/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHTb
  w/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHTbx/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHTby/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHTbC/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Coop Norrbotten Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -1063,8 +903,6 @@ DTSTART:20270116T141500Z
 DTEND:20270116T161500Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884ccf087977
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHT3l/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHT3m/3G7bT\n\nStatistik\nhttps://ecal
@@ -1075,10 +913,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHT3w/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHT3
  x/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT3y/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT3z/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT3D/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Husqvarna Garden
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -1096,8 +931,6 @@ DTSTART:20270121T180000Z
 DTEND:20270121T200000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884ccf087978
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHT3F/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHT3G/3G7bT\n\nStatistik\nhttps://ecal
@@ -1108,10 +941,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHT3T/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHT3
  X/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT3Z/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT41/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT44/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Coop Norrbotten Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -1129,8 +959,6 @@ DTSTART:20270123T141500Z
 DTEND:20270123T161500Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884ccf087979
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHT45/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHT46/3G7bT\n\nStatistik\nhttps://ecal
@@ -1141,10 +969,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHT4g/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHT4
  h/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT4j/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT4k/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT4n/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Coop Norrbotten Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -1162,8 +987,6 @@ DTSTART:20270128T180000Z
 DTEND:20270128T200000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884ccf08797a
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHT4p/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHT4q/3G7bT\n\nStatistik\nhttps://ecal
@@ -1174,10 +997,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHT4z/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHT4
  B/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT4C/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT4D/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT4H/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Vida Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -1195,8 +1015,6 @@ DTSTART:20270130T141500Z
 DTEND:20270130T161500Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884dc54f354d
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHTbD/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHTbF/3G7bT\n\nStatistik\nhttps://ecal
@@ -1207,10 +1025,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHTbP/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHTb
  Q/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHTbR/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHTbS/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHTbW/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Scandinavium
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -1228,8 +1043,6 @@ DTSTART:20270202T180000Z
 DTEND:20270202T200000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884dc54f354e
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHTbX/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHTbY/3G7bT\n\nStatistik\nhttps://ecal
@@ -1240,10 +1053,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHTc7/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHTc
  8/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHTc9/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHTcb/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHTcf/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Coop Norrbotten Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -1261,8 +1071,6 @@ DTSTART:20270204T180000Z
 DTEND:20270204T200000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884dc54f354f
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHTcg/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHTch/3G7bT\n\nStatistik\nhttps://ecal
@@ -1273,10 +1081,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHTcr/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHTc
  s/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHTct/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHTcv/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHTcy/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Coop Norrbotten Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -1294,8 +1099,6 @@ DTSTART:20270206T141500Z
 DTEND:20270206T161500Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884dc54f3550
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHTcz/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHTcB/3G7bT\n\nStatistik\nhttps://ecal
@@ -1306,10 +1109,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHTcL/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHTc
  M/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHTcN/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHTcP/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHTcT/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:SCA Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -1327,8 +1127,6 @@ DTSTART:20270216T180000Z
 DTEND:20270216T200000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884dc54f3551
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHTcY/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHTcZ/3G7bT\n\nStatistik\nhttps://ecal
@@ -1339,10 +1137,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHTdb/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHTd
  c/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHTdd/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHTdf/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHTdj/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Coop Norrbotten Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -1360,8 +1155,6 @@ DTSTART:20270218T180000Z
 DTEND:20270218T200000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884dc54f3552
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHTdk/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHTdl/3G7bT\n\nStatistik\nhttps://ecal
@@ -1372,10 +1165,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHTdv/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHTd
  w/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHTdx/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHTdy/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHTdC/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Coop Norrbotten Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -1393,8 +1183,6 @@ DTSTART:20270220T141500Z
 DTEND:20270220T161500Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884dc54f3553
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHTdD/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHTdF/3G7bT\n\nStatistik\nhttps://ecal
@@ -1405,10 +1193,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHTdP/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHTd
  Q/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHTdR/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHTdS/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHTdW/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Löfbergs Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -1426,8 +1211,6 @@ DTSTART:20270225T180000Z
 DTEND:20270225T200000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884dc54f3554
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHTdX/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHTdY/3G7bT\n\nStatistik\nhttps://ecal
@@ -1438,10 +1221,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHTf7/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHTf
  8/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHTf9/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHTfb/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHTff/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Coop Norrbotten Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -1459,8 +1239,6 @@ DTSTART:20270227T170000Z
 DTEND:20270227T190000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa884dc54f3555
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHTfg/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHTfh/3G7bT\n\nStatistik\nhttps://ecal
@@ -1471,10 +1249,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHTfr/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHTf
  s/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHTft/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHTfv/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHTfy/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Coop Norrbotten Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -1492,8 +1267,6 @@ DTSTART:20270302T180000Z
 DTEND:20270302T200000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa8848ab03ce1a
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHT5J/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHT5K/3G7bT\n\nStatistik\nhttps://ecal
@@ -1504,10 +1277,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHT5T/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHT5
  V/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT5W/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT5X/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT61/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Malmö Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -1525,8 +1295,6 @@ DTSTART:20270304T180000Z
 DTEND:20270304T200000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa8848ab03ce1b
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHT62/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHT64/3G7bT\n\nStatistik\nhttps://ecal
@@ -1537,10 +1305,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHT6g/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHT6
  h/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT6j/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT6k/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT6n/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Scandinavium
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -1558,8 +1323,6 @@ DTSTART:20270306T170000Z
 DTEND:20270306T190000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa8848ab03ce1c
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHT6p/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHT6q/3G7bT\n\nStatistik\nhttps://ecal
@@ -1570,10 +1333,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHT6z/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHT6
  B/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT6C/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT6D/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT6H/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Catena Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -1591,8 +1351,6 @@ DTSTART:20270309T180000Z
 DTEND:20270309T200000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa8848ab03ce1d
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHT6J/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHT6K/3G7bT\n\nStatistik\nhttps://ecal
@@ -1603,10 +1361,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHT6T/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHT6
  V/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT6W/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT6X/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT71/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Coop Norrbotten Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -1624,8 +1379,6 @@ DTSTART:20270311T180000Z
 DTEND:20270311T200000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa8848ab03ce1e
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHT4J/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHT4K/3G7bT\n\nStatistik\nhttps://ecal
@@ -1636,10 +1389,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHT4T/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHT4
  V/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT4W/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT4X/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT51/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Visionite Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -1657,8 +1407,6 @@ DTSTART:20270313T141500Z
 DTEND:20270313T161500Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa8848ab03ce1f
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHT52/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHT53/3G7bT\n\nStatistik\nhttps://ecal
@@ -1669,10 +1417,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHT5c/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHT5
  d/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT5f/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT5g/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT5k/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Hovet
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -1690,8 +1435,6 @@ DTSTART:20270316T180000Z
 DTEND:20270316T200000Z
 DTSTAMP:20260715T201304Z
 UID:6a02dfe454aa8848ab03ce20
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHT5l/3G7bT\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHT5m/3G7bT\n\nStatistik\nhttps://ecal
@@ -1702,10 +1445,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T\n\nX\nhttps://ecal.ai/f/2fHT5w/3G7bT\n\nYouTube\nhttps://ecal.ai/f/2fHT5
  x/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT5y/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT5z/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT5D/3G7bT\n\n
-LAST-MODIFIED:20260715T201304Z
 LOCATION:Coop Norrbotten Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -1723,8 +1463,6 @@ DTSTART:20260919T131500Z
 DTEND:20260919T151500Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa884ccf0879b1
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVgJ/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVgK/3G7c9\n\nStatistik\nhttps://ecal
@@ -1735,10 +1473,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVgT/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVg
  V/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVgW/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVgX/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVh1/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Skellefteå Kraft Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -1756,8 +1491,6 @@ DTSTART:20260924T170000Z
 DTEND:20260924T190000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03cea5
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVh2/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVh3/3G7c9\n\nStatistik\nhttps://ecal
@@ -1768,10 +1501,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVhc/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVh
  d/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVhf/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVhg/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVhk/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Husqvarna Garden
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -1789,8 +1519,6 @@ DTSTART:20260926T160000Z
 DTEND:20260926T180000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa884ccf0879b2
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVhl/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVhm/3G7c9\n\nStatistik\nhttps://ecal
@@ -1801,10 +1529,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVhw/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVh
  x/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVhy/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVhz/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVhD/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Behrn Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -1822,8 +1547,6 @@ DTSTART:20260929T170000Z
 DTEND:20260929T190000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03cea6
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVhF/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVhG/3G7c9\n\nStatistik\nhttps://ecal
@@ -1834,10 +1557,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVhQ/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVh
  R/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVhS/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVhT/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVhX/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Skellefteå Kraft Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -1855,8 +1575,6 @@ DTSTART:20261001T170000Z
 DTEND:20261001T190000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa884ccf0879b3
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVhY/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVhZ/3G7c9\n\nStatistik\nhttps://ecal
@@ -1867,10 +1585,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVj8/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVj
  9/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVjb/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVjc/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVjg/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Skellefteå Kraft Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -1888,8 +1603,6 @@ DTSTART:20261003T131500Z
 DTEND:20261003T151500Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa884ccf0879b4
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVjh/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVjj/3G7c9\n\nStatistik\nhttps://ecal
@@ -1900,10 +1613,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVjs/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVj
  t/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVjv/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVjw/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVjz/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:SCA Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -1921,8 +1631,6 @@ DTSTART:20261008T170000Z
 DTEND:20261008T190000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03cea7
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVjB/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVjC/3G7c9\n\nStatistik\nhttps://ecal
@@ -1933,10 +1641,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVjM/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVj
  N/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVjP/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVjQ/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVjT/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Skellefteå Kraft Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -1954,8 +1659,6 @@ DTSTART:20261010T160000Z
 DTEND:20261010T180000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa884ccf0879b5
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVkd/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVkf/3G7c9\n\nStatistik\nhttps://ecal
@@ -1966,10 +1669,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVkp/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVk
  q/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVkr/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVks/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVkw/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Skellefteå Kraft Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -1987,8 +1687,6 @@ DTSTART:20261015T170000Z
 DTEND:20261015T190000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa884dc54f35d4
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVkx/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVkz/3G7c9\n\nStatistik\nhttps://ecal
@@ -1999,10 +1697,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVkM/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVk
  N/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVkP/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVkQ/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVkT/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Vida Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -2020,8 +1715,6 @@ DTSTART:20261017T160000Z
 DTEND:20261017T180000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03cea8
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVjV/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVjW/3G7c9\n\nStatistik\nhttps://ecal
@@ -2032,10 +1725,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVk5/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVk
  6/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVk7/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVk8/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVkc/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Scandinavium
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -2053,8 +1743,6 @@ DTSTART:20261022T170000Z
 DTEND:20261022T190000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03cea9
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVkV/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVkW/3G7c9\n\nStatistik\nhttps://ecal
@@ -2065,10 +1753,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVl5/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVl
  6/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVl7/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVl8/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVlc/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Skellefteå Kraft Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -2086,8 +1771,6 @@ DTSTART:20261024T131500Z
 DTEND:20261024T151500Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03ceaa
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVld/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVlf/3G7c9\n\nStatistik\nhttps://ecal
@@ -2098,10 +1781,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVlp/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVl
  q/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVlr/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVls/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVlw/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Visionite Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -2119,8 +1799,6 @@ DTSTART:20261029T180000Z
 DTEND:20261029T200000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03ceab
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVlR/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVlS/3G7c9\n\nStatistik\nhttps://ecal
@@ -2131,10 +1809,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVm2/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVm
  3/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVm4/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVm5/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVm8/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Skellefteå Kraft Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -2152,8 +1827,6 @@ DTSTART:20261031T141500Z
 DTEND:20261031T161500Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03ceac
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVm9/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVmb/3G7c9\n\nStatistik\nhttps://ecal
@@ -2164,10 +1837,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVml/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVm
  m/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVmn/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVmp/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVms/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Skellefteå Kraft Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -2185,8 +1855,6 @@ DTSTART:20261112T180000Z
 DTEND:20261112T200000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03cead
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVmt/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVmv/3G7c9\n\nStatistik\nhttps://ecal
@@ -2197,10 +1865,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVmF/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVm
  G/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVmH/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVmJ/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVmM/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Monitor ERP Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -2218,8 +1883,6 @@ DTSTART:20261114T170000Z
 DTEND:20261114T190000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03ceae
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVmN/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVmP/3G7c9\n\nStatistik\nhttps://ecal
@@ -2230,10 +1893,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVmY/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVm
  Z/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVn1/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVn2/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVn5/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Skellefteå Kraft Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -2251,8 +1911,6 @@ DTSTART:20261119T180000Z
 DTEND:20261119T200000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03ceaf
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVn6/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVn7/3G7c9\n\nStatistik\nhttps://ecal
@@ -2263,10 +1921,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVnh/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVn
  j/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVnk/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVnl/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVnp/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Hovet
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -2284,8 +1939,6 @@ DTSTART:20261121T170000Z
 DTEND:20261121T190000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03ceb0
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVnq/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVnr/3G7c9\n\nStatistik\nhttps://ecal
@@ -2296,10 +1949,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVnB/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVn
  C/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVnD/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVnF/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVnJ/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Behrn Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -2317,8 +1967,6 @@ DTSTART:20261126T180000Z
 DTEND:20261126T200000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03ceb1
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVnK/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVnL/3G7c9\n\nStatistik\nhttps://ecal
@@ -2329,10 +1977,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVnV/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVn
  W/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVnX/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVnY/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVp2/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Skellefteå Kraft Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -2350,8 +1995,6 @@ DTSTART:20261128T141500Z
 DTEND:20261128T161500Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03ceb2
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVp3/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVp4/3G7c9\n\nStatistik\nhttps://ecal
@@ -2362,10 +2005,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVpd/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVp
  f/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVpg/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVph/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVpl/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Skellefteå Kraft Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -2383,8 +2023,6 @@ DTSTART:20261203T180000Z
 DTEND:20261203T200000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03ceb3
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVpm/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVpn/3G7c9\n\nStatistik\nhttps://ecal
@@ -2395,10 +2033,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVpx/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVp
  y/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVpz/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVpB/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVpF/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Husqvarna Garden
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -2416,8 +2051,6 @@ DTSTART:20261205T141500Z
 DTEND:20261205T161500Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03ceb4
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVpG/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVpH/3G7c9\n\nStatistik\nhttps://ecal
@@ -2428,10 +2061,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVpR/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVp
  S/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVpT/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVpV/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVpY/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Skellefteå Kraft Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -2449,8 +2079,6 @@ DTSTART:20261217T180000Z
 DTEND:20261217T200000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03ceb5
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVpZ/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVq1/3G7c9\n\nStatistik\nhttps://ecal
@@ -2461,10 +2089,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVq9/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVq
  b/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVqc/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVqd/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVqh/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Skellefteå Kraft Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -2482,8 +2107,6 @@ DTSTART:20261219T170000Z
 DTEND:20261219T190000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03ceb6
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVqj/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVqk/3G7c9\n\nStatistik\nhttps://ecal
@@ -2494,10 +2117,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVqt/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVq
  v/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVqw/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVqx/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVqB/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Malmö Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -2515,8 +2135,6 @@ DTSTART:20261226T141500Z
 DTEND:20261226T161500Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03ceb7
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVqC/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVqD/3G7c9\n\nStatistik\nhttps://ecal
@@ -2527,10 +2145,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVqN/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVq
  P/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVqQ/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVqR/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVqV/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Skellefteå Kraft Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -2548,8 +2163,6 @@ DTSTART:20261228T180000Z
 DTEND:20261228T200000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa884ccf0879b6
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVlx/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVly/3G7c9\n\nStatistik\nhttps://ecal
@@ -2560,10 +2173,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVlJ/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVl
  K/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVlL/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVlM/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVlQ/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:SCA Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -2581,8 +2191,6 @@ DTSTART:20261230T180000Z
 DTEND:20261230T200000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa884ccf0879b7
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVqW/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVqX/3G7c9\n\nStatistik\nhttps://ecal
@@ -2593,10 +2201,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVr6/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVr
  7/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVr8/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVr9/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVrd/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Visionite Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -2614,8 +2219,6 @@ DTSTART:20270102T170000Z
 DTEND:20270102T190000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03ceb8
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVrf/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVrg/3G7c9\n\nStatistik\nhttps://ecal
@@ -2626,10 +2229,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVrq/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVr
  r/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVrs/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVrt/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVrx/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Skellefteå Kraft Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -2647,8 +2247,6 @@ DTSTART:20270105T180000Z
 DTEND:20270105T200000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa884ccf0879b8
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVry/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVrz/3G7c9\n\nStatistik\nhttps://ecal
@@ -2659,10 +2257,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVrK/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVr
  L/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVrM/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVrN/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVrR/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Löfbergs Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -2680,8 +2275,6 @@ DTSTART:20270107T180000Z
 DTEND:20270107T200000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03ceb9
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVrS/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVrT/3G7c9\n\nStatistik\nhttps://ecal
@@ -2692,10 +2285,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVs3/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVs
  4/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVs5/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVs6/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVs9/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Skellefteå Kraft Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -2713,8 +2303,6 @@ DTSTART:20270109T141500Z
 DTEND:20270109T161500Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03ceba
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVsb/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVsc/3G7c9\n\nStatistik\nhttps://ecal
@@ -2725,10 +2313,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVsm/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVs
  n/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVsp/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVsq/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVst/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Catena Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -2746,8 +2331,6 @@ DTSTART:20270114T180000Z
 DTEND:20270114T200000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03cebb
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVsv/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVsw/3G7c9\n\nStatistik\nhttps://ecal
@@ -2758,10 +2341,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVsG/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVs
  H/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVsJ/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVsK/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVsN/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Coop Norrbotten Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -2779,8 +2359,6 @@ DTSTART:20270116T170000Z
 DTEND:20270116T190000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03cebc
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVsP/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVsQ/3G7c9\n\nStatistik\nhttps://ecal
@@ -2791,10 +2369,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVsZ/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVt
  1/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVt3/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVt5/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVtb/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Monitor ERP Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -2812,8 +2387,6 @@ DTSTART:20270121T180000Z
 DTEND:20270121T200000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03cebd
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVtf/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVtg/3G7c9\n\nStatistik\nhttps://ecal
@@ -2824,10 +2397,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVtq/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVt
  r/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVts/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVtt/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVtx/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Skellefteå Kraft Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -2845,8 +2415,6 @@ DTSTART:20270123T141500Z
 DTEND:20270123T161500Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03cebe
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVty/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVtz/3G7c9\n\nStatistik\nhttps://ecal
@@ -2857,10 +2425,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVtK/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVt
  L/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVtM/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVtN/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVtS/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Skellefteå Kraft Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -2878,8 +2443,6 @@ DTSTART:20270128T180000Z
 DTEND:20270128T200000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03cebf
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVtW/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVtX/3G7c9\n\nStatistik\nhttps://ecal
@@ -2890,10 +2453,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVv6/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVv
  7/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVv8/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVv9/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVvf/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Saab Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -2911,8 +2471,6 @@ DTSTART:20270130T170000Z
 DTEND:20270130T190000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03cec0
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVvh/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVvk/3G7c9\n\nStatistik\nhttps://ecal
@@ -2923,10 +2481,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVvy/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVv
  B/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVvD/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVvF/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVvJ/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Skellefteå Kraft Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -2944,8 +2499,6 @@ DTSTART:20270202T180000Z
 DTEND:20270202T200000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03cec1
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVvK/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVvL/3G7c9\n\nStatistik\nhttps://ecal
@@ -2956,10 +2509,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVvY/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVv
  Z/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVw1/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVw2/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVw6/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Malmö Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -2977,8 +2527,6 @@ DTSTART:20270204T180000Z
 DTEND:20270204T200000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03cec2
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVw9/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVwb/3G7c9\n\nStatistik\nhttps://ecal
@@ -2989,10 +2537,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVwl/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVw
  m/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVwn/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVwp/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVws/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Vida Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -3010,8 +2555,6 @@ DTSTART:20270206T170000Z
 DTEND:20270206T190000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03cec3
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVwt/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVwv/3G7c9\n\nStatistik\nhttps://ecal
@@ -3022,10 +2565,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVwF/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVw
  G/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVwH/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVwJ/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVwM/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Skellefteå Kraft Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -3043,8 +2583,6 @@ DTSTART:20270216T180000Z
 DTEND:20270216T200000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03cec4
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVwN/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVwP/3G7c9\n\nStatistik\nhttps://ecal
@@ -3055,10 +2593,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVwY/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVw
  Z/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVx1/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVx2/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVx5/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Skellefteå Kraft Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -3076,8 +2611,6 @@ DTSTART:20270218T180000Z
 DTEND:20270218T200000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03cec5
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVx6/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVx7/3G7c9\n\nStatistik\nhttps://ecal
@@ -3088,10 +2621,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVxh/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVx
  j/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVxk/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVxl/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVxp/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Coop Norrbotten Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -3109,8 +2639,6 @@ DTSTART:20270220T141500Z
 DTEND:20270220T161500Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03cec6
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVxq/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVxr/3G7c9\n\nStatistik\nhttps://ecal
@@ -3121,10 +2649,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVxB/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVx
  C/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVxD/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVxF/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVxJ/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Skellefteå Kraft Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -3142,8 +2667,6 @@ DTSTART:20270225T180000Z
 DTEND:20270225T200000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03cec7
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVxK/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVxL/3G7c9\n\nStatistik\nhttps://ecal
@@ -3154,10 +2677,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVxV/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVx
  W/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVxX/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVxY/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVy2/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Skellefteå Kraft Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -3175,8 +2695,6 @@ DTSTART:20270227T141500Z
 DTEND:20270227T161500Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03cec8
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVy3/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVy4/3G7c9\n\nStatistik\nhttps://ecal
@@ -3187,10 +2705,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVyd/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVy
  f/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVyg/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVyh/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVyl/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Skellefteå Kraft Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -3208,8 +2723,6 @@ DTSTART:20270302T180000Z
 DTEND:20270302T200000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03cec9
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVym/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVyn/3G7c9\n\nStatistik\nhttps://ecal
@@ -3220,10 +2733,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVyB/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVy
  C/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVyD/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVyF/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVyJ/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Löfbergs Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -3241,8 +2751,6 @@ DTSTART:20270304T180000Z
 DTEND:20270304T200000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa884ccf0879b9
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVz3/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVz4/3G7c9\n\nStatistik\nhttps://ecal
@@ -3253,10 +2761,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVzd/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVz
  f/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVzg/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVzh/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVzl/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Hovet
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -3274,8 +2779,6 @@ DTSTART:20270306T170000Z
 DTEND:20270306T190000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa884ccf0879ba
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVzm/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVzn/3G7c9\n\nStatistik\nhttps://ecal
@@ -3286,10 +2789,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVzx/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVz
  y/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVzz/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVzB/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVzF/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Saab Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -3307,8 +2807,6 @@ DTSTART:20270309T180000Z
 DTEND:20270309T200000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa884ccf0879bb
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVzG/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVzH/3G7c9\n\nStatistik\nhttps://ecal
@@ -3319,10 +2817,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVzR/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVz
  S/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVzT/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVzV/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVzY/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Skellefteå Kraft Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -3340,8 +2835,6 @@ DTSTART:20270311T180000Z
 DTEND:20270311T200000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03ceca
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVzZ/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVB1/3G7c9\n\nStatistik\nhttps://ecal
@@ -3352,10 +2845,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVB9/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVB
  b/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVBc/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVBd/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVBh/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Scandinavium
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -3373,8 +2863,6 @@ DTSTART:20270313T141500Z
 DTEND:20270313T161500Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa884ccf0879bc
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVgp/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVgq/3G7c9\n\nStatistik\nhttps://ecal
@@ -3385,10 +2873,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVgz/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVg
  B/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVgC/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVgD/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVgH/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Catena Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
@@ -3406,8 +2891,6 @@ DTSTART:20270316T180000Z
 DTEND:20270316T200000Z
 DTSTAMP:20260715T202153Z
 UID:6a02dfe754aa8848ab03cecb
-SEQUENCE:0
-CLASS:PUBLIC
 DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  öp biljett | Buy Tickets\nhttps://ecal.ai/f/2fHVyK/3G7c9\n\nStreama match
  en på TV4 Play\nhttps://ecal.ai/f/2fHVyL/3G7c9\n\nStatistik\nhttps://ecal
@@ -3418,10 +2901,7 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9\n\nX\nhttps://ecal.ai/f/2fHVyV/3G7c9\n\nYouTube\nhttps://ecal.ai/f/2fHVy
  W/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVyX/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVyY/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVz2/3G7c9\n\n
-LAST-MODIFIED:20260715T202153Z
 LOCATION:Skellefteå Kraft Arena
-PRIORITY:5
-TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
