@@ -108,15 +108,16 @@ NCAA:
 
 KHL:
   parser: ics
+  base_url: https://www.khl.ru/calendar/ics
   teams:
     - name: Salavat Yulaev Ufa
-      url: https://www.khl.ru/calendar/ics/38;/
+      team_id: 38
     - name: Torpeda Nizhny Novgorod
-      url: https://www.khl.ru/calendar/ics/26;/
+      team_id: 26
 #    - name: Amur Khabarovsk
-#      url: https://en.khl.ru/calendar/ics/54;/
+#      team_id: 54
 #    - name: Spartak Moscow
-#      url: https://en.khl.ru/calendar/ics/7;/
+#      team_id: 7
 
 VHL:
   parser: vhl
