@@ -146,7 +146,7 @@ Liiga:
   tournament: [valmistavat_ottelut,runkosarja,playoffs]
   teams:
     - name: TPS turku
-      team_id: 21
+      team_id: "651304385:tps"
 
 CHL:
   parser: chl_europe
