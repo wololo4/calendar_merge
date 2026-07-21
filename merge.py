@@ -32,7 +32,7 @@ def main():
 
             # Remove ECAL welcome event
             summary = str(event.get("SUMMARY", ""))
-            if "Welcome to the" in summary:
+            if "Welcome to" in summary:
                 continue
 
             key = event_id(event)
