@@ -70,8 +70,9 @@ def load_feeds():
         if parser == "liiga":
             base_url = data["base_url"]
             season = data["season"]
-            tournament = data.get("tournament", [])
+            tournaments = data.get("tournament", [])
 
+            # Normalize tournaments to a list
             if isinstance(tournaments, str):
                 tournaments = [tournaments]
 
@@ -81,8 +82,8 @@ def load_feeds():
 
                 for tournament in tournaments:
                     url = f"{base_url}?tournament={tournament}&season={season}"
-                    # team_id goes into the filter
-                    feeds.append((league, f"{team_name} (T{tournamanet})", url, [team_id], parser))
+                    feeds.append((league, f"{team_name} (T{tournament})", url, [team_id], parser))
+
             continue
 
         # ============================
