@@ -61,7 +61,7 @@ def load_feeds():
                 team_name = team["name"]
                 team_code = team["code"]
                 
-                feeds.append((league, team_name, url, [team_code))
+                feeds.append((league, team_name, url, [team_code]))
             continue
 
         # ============================
