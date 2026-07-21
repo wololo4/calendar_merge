@@ -62,19 +62,19 @@ def download_single_feed(feed_info):
             raw_json = response.json()
 
             #NHL JSON
-                if parser == "nhl" and team_filter == []:
-                    raw_json = response.json()
-                    games_list = raw_json.get("games", [])
-                
-                    # Pré-saison uniquement
-                    preseason_games = [
-                        g for g in games_list
-                        if g.get("gameType") == 1
-                    ]
-                
-                    return league, team_name, parse_nhl_json_to_calendar(preseason_games)
-                else:
-                    return league, team_name, parse_ufa_json_to_calendar(raw_json)
+            if parser == "nhl" and team_filter == []:
+                raw_json = response.json()
+                games_list = raw_json.get("games", [])
+            
+                # Pré-saison uniquement
+                preseason_games = [
+                    g for g in games_list
+                    if g.get("gameType") == 1
+                ]
+            
+                return league, team_name, parse_nhl_json_to_calendar(preseason_games)
+            else:
+                return league, team_name, parse_ufa_json_to_calendar(raw_json)
             #CHL Europe JSON
             if raw_json.get("_type") == "Corebine.Core.Protocol.Response.Array":
                 return league, team_name, parse_chl_europe_json_to_calendar(raw_json, team_filter)
