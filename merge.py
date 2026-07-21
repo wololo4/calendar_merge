@@ -6,6 +6,28 @@ from utils.downloader import download_single_feed
 from utils.feeds import load_feeds
 from utils.calendar import create_calendar, event_id
 
+def event_id(event):
+    # Extract DTSTART
+    dtstart = str(event.get("DTSTART"))
+
+    # Extract SUMMARY
+    summary = str(event.get("SUMMARY", "")).strip()
+
+    # Try to extract teams from SUMMARY
+    # Works for formats like "Team A vs Team B"
+    if " vs " in summary:
+        parts = summary.split(" vs ")
+        home = parts[0].strip()
+        away = parts[1].strip()
+
+        # Normalize order (A-B or B-A → always alphabetical)
+        teams_sorted = "-".join(sorted([home, away]))
+
+        return f"{dtstart}-{teams_sorted}"
+
+    # If no "vs", fallback to summary
+    return f"{dtstart}-{summary}"
+
 def main():
     leagues = defaultdict(list)
     seen = defaultdict(set)
