@@ -31,7 +31,7 @@ def download_single_feed(feed_info):
         response = session.get(url, headers=headers, timeout=4) # Reduced timeout
         response.raise_for_status()
 
-        if parser == "vhl": 
+        if league == "VHL": 
             html = response.text
             return league, team_name, parse_vhl_html(html, team_name)
         
