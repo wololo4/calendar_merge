@@ -59,8 +59,8 @@ def download_single_feed(feed_info):
 
             return league, team_name, parse_nhl_json_to_calendar(preseason_games)
 
-    if parser == "nhl":
-        return league, team_name, None
+        if parser == "nhl":
+            return league, team_name, None
 
         # ============================
         # VHL HTML
