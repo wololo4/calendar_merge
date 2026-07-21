@@ -2,6 +2,56 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Hockey Calendar//
 BEGIN:VEVENT
+SUMMARY:Rögle Ängelholm @ HC Pilsen
+DTSTART:20260903T153000Z
+DTEND:20260903T180000Z
+UID:chleu-game-2988@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 1\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /0636729f7d82ee17686c2f79/hc-pilsen-vs-rogle-angelholm
+LOCATION:Logspeed CZ Aréna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bílí Tygři Liberec @ Tappara Tampere
+DTSTART:20260903T153000Z
+DTEND:20260903T180000Z
+UID:chleu-game-2989@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 1\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /1ca43153cbb6795dbfffee89/tappara-tampere-vs-bili-tygri-liberec
+LOCATION:Hakametsä
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GKS Tychy @ Dynamo Pardubice
+DTSTART:20260903T160000Z
+DTEND:20260903T183000Z
+UID:chleu-game-2990@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 1\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /bd57e7f6797954ec07d38adb/dynamo-pardubice-vs-gks-tychy
+LOCATION:Enteria Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fribourg-Gottéron @ Graz99ers
+DTSTART:20260903T163000Z
+DTEND:20260903T190000Z
+UID:chleu-game-2991@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 1\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /5573f1f055fcd05cfd381e76/graz-99-ers-vs-fribourg-gotteron
+LOCATION:Merkur Eisstadion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bordeaux Boxers @ KAC Klagenfurt
+DTSTART:20260903T171500Z
+DTEND:20260903T194500Z
+UID:chleu-game-2992@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 1\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /25bcdec697f21ec5d9c7018a/kac-klagenfurt-vs-bordeaux-boxers
+LOCATION:Heidi Horten-Arena
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kölner Haie @ Red Bull Salzburg
 DTSTART:20260903T171500Z
 DTEND:20260903T194500Z
@@ -10,6 +60,16 @@ DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
  ame Day 1\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
  /ec28c920c178cfafaf650188/red-bull-salzburg-vs-kolner-haie
 LOCATION:Eisarena Salzburg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KooKoo Kouvola @ Herning Blue Fox
+DTSTART:20260904T170000Z
+DTEND:20260904T193000Z
+UID:chleu-game-2994@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 1\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /2ebf4473496e819370b1b0f9/herning-blue-fox-vs-koo-koo-kouvola
+LOCATION:KVIK Hockey Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Skellefteå AIK @ HK Nitra
@@ -22,6 +82,46 @@ DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
 LOCATION:Tiposbet Arena
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SaiPa Lappeenranta @ Frölunda Gothenburg
+DTSTART:20260904T170000Z
+DTEND:20260904T193000Z
+UID:chleu-game-2996@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 1\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /40ca9ed4fb03b6149897494e/frolunda-gothenburg-vs-sai-pa-lappeenranta
+LOCATION:Frölundaborg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Växjö Lakers @ Adler Mannheim
+DTSTART:20260904T173000Z
+DTEND:20260904T200000Z
+UID:chleu-game-2997@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 1\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /fc789da25ada1cd3b9953e45/adler-mannheim-vs-vaxjo-lakers
+LOCATION:SAP Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eisbären Berlin @ Genève-Servette
+DTSTART:20260904T174500Z
+DTEND:20260904T201500Z
+UID:chleu-game-2998@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 1\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /ea484836aea509932671fbd3/geneve-servette-vs-eisbaren-berlin
+LOCATION:Patinoire des Vernets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Storhamar Hamar @ HC Davos
+DTSTART:20260904T174500Z
+DTEND:20260904T201500Z
+UID:chleu-game-2999@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 1\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /a71da2a6be47b000304c0ec1/hc-davos-vs-storhamar-hamar
+LOCATION:VAT Arena
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kölner Haie @ Tappara Tampere
 DTSTART:20260905T140000Z
 DTEND:20260905T163000Z
@@ -30,6 +130,106 @@ DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
  ame Day 2\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
  /8ed94128f8806f40a2957687/tappara-tampere-vs-kolner-haie
 LOCATION:Hakametsä
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GKS Tychy @ HC Pilsen
+DTSTART:20260905T143000Z
+DTEND:20260905T170000Z
+UID:chleu-game-3001@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 2\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /fea45d0d6a24116f23be0d0b/hc-pilsen-vs-gks-tychy
+LOCATION:Logspeed CZ Aréna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rögle Ängelholm @ Dynamo Pardubice
+DTSTART:20260905T150000Z
+DTEND:20260905T173000Z
+UID:chleu-game-3002@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 2\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /012df9adeac78225a8be06ce/dynamo-pardubice-vs-rogle-angelholm
+LOCATION:Enteria Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bordeaux Boxers @ Graz99ers
+DTSTART:20260905T163000Z
+DTEND:20260905T190000Z
+UID:chleu-game-3003@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 2\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /e32c051db83eb41344d9c09c/graz-99-ers-vs-bordeaux-boxers
+LOCATION:Merkur Eisstadion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bílí Tygři Liberec @ Red Bull Salzburg
+DTSTART:20260905T171500Z
+DTEND:20260905T194500Z
+UID:chleu-game-3004@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 2\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /c6e03b3ee538138d70e90b9f/red-bull-salzburg-vs-bili-tygri-liberec
+LOCATION:Eisarena Salzburg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fribourg-Gottéron @ KAC Klagenfurt
+DTSTART:20260905T171500Z
+DTEND:20260905T194500Z
+UID:chleu-game-3005@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 2\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /edc4508d4e4e5ed9f5806e5b/kac-klagenfurt-vs-fribourg-gotteron
+LOCATION:Heidi Horten-Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Storhamar Hamar @ Genève-Servette
+DTSTART:20260906T120000Z
+DTEND:20260906T143000Z
+UID:chleu-game-3006@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 2\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /e8531f3ee32b013586d65a2f/geneve-servette-vs-storhamar-hamar
+LOCATION:Patinoire des Vernets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SaiPa Lappeenranta @ Herning Blue Fox
+DTSTART:20260906T130000Z
+DTEND:20260906T153000Z
+UID:chleu-game-3007@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 2\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /743ff780a5b4a40431da4341/herning-blue-fox-vs-sai-pa-lappeenranta
+LOCATION:KVIK Hockey Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KooKoo Kouvola @ Frölunda Gothenburg
+DTSTART:20260906T130000Z
+DTEND:20260906T153000Z
+UID:chleu-game-3008@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 2\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /d25d725c147cf4bc3cb4c5ff/frolunda-gothenburg-vs-koo-koo-kouvola
+LOCATION:Frölundaborg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eisbären Berlin @ HC Davos
+DTSTART:20260906T134500Z
+DTEND:20260906T161500Z
+UID:chleu-game-3009@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 2\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /95af6ce5cc41a42404291947/hc-davos-vs-eisbaren-berlin
+LOCATION:VAT Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Växjö Lakers @ HK Nitra
+DTSTART:20260906T150000Z
+DTEND:20260906T173000Z
+UID:chleu-game-3010@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 2\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /dc4e60f68de5f645205c8123/hk-nitra-vs-vaxjo-lakers
+LOCATION:Tiposbet Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Skellefteå AIK @ Adler Mannheim
@@ -42,6 +242,36 @@ DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
 LOCATION:SAP Arena
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HK Nitra @ KooKoo Kouvola
+DTSTART:20260910T153000Z
+DTEND:20260910T180000Z
+UID:chleu-game-3012@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 3\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /4f36a358a795d91b2fbb0c9b/koo-koo-kouvola-vs-hk-nitra
+LOCATION:Kouvolan jäähalli
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dynamo Pardubice @ SaiPa Lappeenranta
+DTSTART:20260910T153000Z
+DTEND:20260910T180000Z
+UID:chleu-game-3013@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 3\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /aec9e611288630b2354b4bf1/sai-pa-lappeenranta-vs-dynamo-pardubice
+LOCATION:Kisapuisto
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HC Davos @ GKS Tychy
+DTSTART:20260910T160000Z
+DTEND:20260910T183000Z
+UID:chleu-game-3014@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 3\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /3993ba8191ba8bdfa3e86027/gks-tychy-vs-hc-davos
+LOCATION:Stadion Zimowy Tychy
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Genève-Servette @ Skellefteå AIK
 DTSTART:20260910T170000Z
 DTEND:20260910T193000Z
@@ -50,6 +280,16 @@ DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
  ame Day 3\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
  /f53c78cf34039461d87b4a44/skelleftea-aik-vs-geneve-servette
 LOCATION:Skellefteå Kraft Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KAC Klagenfurt @ Storhamar Hamar
+DTSTART:20260910T170000Z
+DTEND:20260910T193000Z
+UID:chleu-game-3016@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 3\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /810fadd2bb09a0427e9db86f/storhamar-hamar-vs-kac-klagenfurt
+LOCATION:CC Amfi
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frölunda Gothenburg @ Kölner Haie
@@ -62,6 +302,66 @@ DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
 LOCATION:LANXESS Arena
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Herning Blue Fox @ Bílí Tygři Liberec
+DTSTART:20260911T160000Z
+DTEND:20260911T183000Z
+UID:chleu-game-3018@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 3\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /282628c3708fc7d1ce2d537d/bili-tygri-liberec-vs-herning-blue-fox
+LOCATION:Home Credit Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red Bull Salzburg @ Rögle Ängelholm
+DTSTART:20260911T170000Z
+DTEND:20260911T193000Z
+UID:chleu-game-3019@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 3\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /af55c2a6d6e71079cf4c50a9/rogle-angelholm-vs-red-bull-salzburg
+LOCATION:Catena Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tappara Tampere @ Växjö Lakers
+DTSTART:20260911T170000Z
+DTEND:20260911T193000Z
+UID:chleu-game-3020@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 3\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /f888e7e0d5a34a770a4a0298/vaxjo-lakers-vs-tappara-tampere
+LOCATION:Vida Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graz99ers @ Eisbären Berlin
+DTSTART:20260911T173000Z
+DTEND:20260911T200000Z
+UID:chleu-game-3021@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 3\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /055164bd9cdfac0aece2ec3c/eisbaren-berlin-vs-graz-99-ers
+LOCATION:Wellblechpalast
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HC Pilsen @ Fribourg-Gottéron
+DTSTART:20260911T174500Z
+DTEND:20260911T201500Z
+UID:chleu-game-3022@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 3\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /0b2b255e62d286531193722c/fribourg-gotteron-vs-hc-pilsen
+LOCATION:BCF Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adler Mannheim @ Bordeaux Boxers
+DTSTART:20260911T181500Z
+DTEND:20260911T204500Z
+UID:chleu-game-3023@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 3\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /05be0be7d9296bc244f43f0d/bordeaux-boxers-vs-adler-mannheim
+LOCATION:Patinoire Mériadeck
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:HC Davos @ Skellefteå AIK
 DTSTART:20260912T123000Z
 DTEND:20260912T150000Z
@@ -70,6 +370,46 @@ DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
  ame Day 4\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
  /2c97b18b6dcb99eed865e111/skelleftea-aik-vs-hc-davos
 LOCATION:Skellefteå Kraft Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dynamo Pardubice @ KooKoo Kouvola
+DTSTART:20260912T140000Z
+DTEND:20260912T163000Z
+UID:chleu-game-3025@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 4\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /53e8968b596c13fabe0668bc/koo-koo-kouvola-vs-dynamo-pardubice
+LOCATION:Kouvolan jäähalli
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HK Nitra @ SaiPa Lappeenranta
+DTSTART:20260912T140000Z
+DTEND:20260912T163000Z
+UID:chleu-game-3026@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 4\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /4ec764d9b9241aa35070463d/sai-pa-lappeenranta-vs-hk-nitra
+LOCATION:Kisapuisto
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Genève-Servette @ GKS Tychy
+DTSTART:20260912T160000Z
+DTEND:20260912T183000Z
+UID:chleu-game-3027@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 4\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /508c765f16f5c45f7446c1d5/gks-tychy-vs-geneve-servette
+LOCATION:Stadion Zimowy Tychy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frölunda Gothenburg @ Storhamar Hamar
+DTSTART:20260912T160000Z
+DTEND:20260912T183000Z
+UID:chleu-game-3028@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 4\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /4f8db89e115cb3e54ecfe6bb/storhamar-hamar-vs-frolunda-gothenburg
+LOCATION:CC Amfi
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KAC Klagenfurt @ Kölner Haie
@@ -82,6 +422,66 @@ DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
 LOCATION:Yayla-Arena
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Adler Mannheim @ Fribourg-Gottéron
+DTSTART:20260913T120000Z
+DTEND:20260913T143000Z
+UID:chleu-game-3030@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 4\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /9f0d43a32e2a32093c865142/fribourg-gotteron-vs-adler-mannheim
+LOCATION:BCF Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red Bull Salzburg @ Växjö Lakers
+DTSTART:20260913T130000Z
+DTEND:20260913T153000Z
+UID:chleu-game-3031@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 4\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /30aee8ca370db58b96c324b5/vaxjo-lakers-vs-red-bull-salzburg
+LOCATION:Vida Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tappara Tampere @ Rögle Ängelholm
+DTSTART:20260913T130000Z
+DTEND:20260913T153000Z
+UID:chleu-game-3032@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 4\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /cb917b7dfc2899c9ea60ab27/rogle-angelholm-vs-tappara-tampere
+LOCATION:Catena Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graz99ers @ Bílí Tygři Liberec
+DTSTART:20260913T140000Z
+DTEND:20260913T163000Z
+UID:chleu-game-3033@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 4\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /10446a848ab4085d872bb129/bili-tygri-liberec-vs-graz-99-ers
+LOCATION:Home Credit Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herning Blue Fox @ Eisbären Berlin
+DTSTART:20260913T160000Z
+DTEND:20260913T183000Z
+UID:chleu-game-3034@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 4\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /a7e48d28a8dbf9574aab9a86/eisbaren-berlin-vs-herning-blue-fox
+LOCATION:Wellblechpalast
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HC Pilsen @ Bordeaux Boxers
+DTSTART:20260913T160000Z
+DTEND:20260913T183000Z
+UID:chleu-game-3035@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 4\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /c546889eba97ba5c8f3e5116/bordeaux-boxers-vs-hc-pilsen
+LOCATION:Patinoire Mériadeck
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Skellefteå AIK @ HC Pilsen
 DTSTART:20261006T153000Z
 DTEND:20261006T180000Z
@@ -90,6 +490,76 @@ DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
  ame Day 5\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
  /1a7ccbdac3737e2e2123f998/hc-pilsen-vs-skelleftea-aik
 LOCATION:Logspeed CZ Aréna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frölunda Gothenburg @ Bílí Tygři Liberec
+DTSTART:20261006T160000Z
+DTEND:20261006T183000Z
+UID:chleu-game-3037@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 5\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /699e54a9eed83201d7cdeae4/bili-tygri-liberec-vs-frolunda-gothenburg
+LOCATION:Home Credit Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Genève-Servette @ Växjö Lakers
+DTSTART:20261006T170000Z
+DTEND:20261006T193000Z
+UID:chleu-game-3038@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 5\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /dbf6bf2cc4a956165eef7fc3/vaxjo-lakers-vs-geneve-servette
+LOCATION:Vida Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HC Davos @ Rögle Ängelholm
+DTSTART:20261006T170000Z
+DTEND:20261006T193000Z
+UID:chleu-game-3039@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 5\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /377f3b9a9ec357ee3dc153b0/rogle-angelholm-vs-hc-davos
+LOCATION:Catena Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KooKoo Kouvola @ KAC Klagenfurt
+DTSTART:20261006T171500Z
+DTEND:20261006T194500Z
+UID:chleu-game-3040@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 5\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /d7aa32e2ec7131a0a30e21a6/kac-klagenfurt-vs-koo-koo-kouvola
+LOCATION:Heidi Horten-Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HK Nitra @ Fribourg-Gottéron
+DTSTART:20261006T174500Z
+DTEND:20261006T201500Z
+UID:chleu-game-3041@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 5\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /bd2515ce172bf496428a0a58/fribourg-gotteron-vs-hk-nitra
+LOCATION:BCF Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SaiPa Lappeenranta @ Graz99ers
+DTSTART:20261006T182000Z
+DTEND:20261006T205000Z
+UID:chleu-game-3042@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 5\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /3a6ab615c9faf2b08de2f7b1/graz-99-ers-vs-sai-pa-lappeenranta
+LOCATION:Merkur Eisstadion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Storhamar Hamar @ Tappara Tampere
+DTSTART:20261007T153000Z
+DTEND:20261007T180000Z
+UID:chleu-game-3043@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 5\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /27f291d3bd65525d537f2420/tappara-tampere-vs-storhamar-hamar
+LOCATION:Nokia Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herning Blue Fox @ Kölner Haie
@@ -102,6 +572,86 @@ DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
 LOCATION:LANXESS Arena
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GKS Tychy @ Adler Mannheim
+DTSTART:20261007T173000Z
+DTEND:20261007T200000Z
+UID:chleu-game-3045@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 5\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /2f56470e13ade13611569e9e/adler-mannheim-vs-gks-tychy
+LOCATION:SAP Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dynamo Pardubice @ Bordeaux Boxers
+DTSTART:20261007T181500Z
+DTEND:20261007T204500Z
+UID:chleu-game-3046@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 5\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /06d8ab4a53b43b55dc3c445a/bordeaux-boxers-vs-dynamo-pardubice
+LOCATION:Patinoire Mériadeck
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eisbären Berlin @ Red Bull Salzburg
+DTSTART:20261007T182000Z
+DTEND:20261007T205000Z
+UID:chleu-game-3047@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 5\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /09d924986866b5d4c1293ae0/red-bull-salzburg-vs-eisbaren-berlin
+LOCATION:Eisarena Salzburg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adler Mannheim @ KooKoo Kouvola
+DTSTART:20261013T153000Z
+DTEND:20261013T180000Z
+UID:chleu-game-3048@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 6\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /9088e91e3fff07921da44eda/koo-koo-kouvola-vs-adler-mannheim
+LOCATION:Kouvolan jäähalli
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Växjö Lakers @ Dynamo Pardubice
+DTSTART:20261013T160000Z
+DTEND:20261013T183000Z
+UID:chleu-game-3049@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 6\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /ed07cafd997386b9f766d945/dynamo-pardubice-vs-vaxjo-lakers
+LOCATION:Enteria Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tappara Tampere @ GKS Tychy
+DTSTART:20261013T160000Z
+DTEND:20261013T183000Z
+UID:chleu-game-3050@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 6\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /e86bd9af23f2b454e183f683/gks-tychy-vs-tappara-tampere
+LOCATION:Stadion Zimowy Tychy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rögle Ängelholm @ HK Nitra
+DTSTART:20261013T160000Z
+DTEND:20261013T183000Z
+UID:chleu-game-3051@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 6\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /c152ad5172a4708274aabe7c/hk-nitra-vs-rogle-angelholm
+LOCATION:Tiposbet Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bordeaux Boxers @ Frölunda Gothenburg
+DTSTART:20261013T170000Z
+DTEND:20261013T193000Z
+UID:chleu-game-3052@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 6\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /65eb2c0c7edabe7f5b229e87/frolunda-gothenburg-vs-bordeaux-boxers
+LOCATION:TBA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Red Bull Salzburg @ Skellefteå AIK
 DTSTART:20261013T170000Z
 DTEND:20261013T193000Z
@@ -112,6 +662,56 @@ DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
 LOCATION:Skellefteå Kraft Arena
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HC Pilsen @ SaiPa Lappeenranta
+DTSTART:20261014T153000Z
+DTEND:20261014T180000Z
+UID:chleu-game-3054@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 6\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /c336c7d4add442a16df4339b/sai-pa-lappeenranta-vs-hc-pilsen
+LOCATION:Kisapuisto
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fribourg-Gottéron @ Herning Blue Fox
+DTSTART:20261014T170000Z
+DTEND:20261014T193000Z
+UID:chleu-game-3055@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 6\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /b7fbbd6dc824c2bafc1fe094/herning-blue-fox-vs-fribourg-gotteron
+LOCATION:KVIK Hockey Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graz99ers @ Storhamar Hamar
+DTSTART:20261014T170000Z
+DTEND:20261014T193000Z
+UID:chleu-game-3056@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 6\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /ea448218c25c364188e2ed1f/storhamar-hamar-vs-graz-99-ers
+LOCATION:CC Amfi
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KAC Klagenfurt @ Eisbären Berlin
+DTSTART:20261014T173000Z
+DTEND:20261014T200000Z
+UID:chleu-game-3057@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 6\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /ff32208ac0412c4aeb64a076/eisbaren-berlin-vs-kac-klagenfurt
+LOCATION:Wellblechpalast
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bílí Tygři Liberec @ HC Davos
+DTSTART:20261014T174500Z
+DTEND:20261014T201500Z
+UID:chleu-game-3058@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
+ ame Day 6\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /c61cc008e7a6f617b146c245/hc-davos-vs-bili-tygri-liberec
+LOCATION:VAT Arena
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kölner Haie @ Genève-Servette
 DTSTART:20261014T174500Z
 DTEND:20261014T201500Z
@@ -120,5 +720,125 @@ DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
  ame Day 6\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
  /5ed0449680b6681769378978/geneve-servette-vs-kolner-haie
 LOCATION:Patinoire des Vernets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TBA @ TBA
+DTSTART:20261110T115900Z
+DTEND:20261110T142900Z
+UID:chleu-game-3064@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Round of 16\nRound: Firs
+ t Game\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches/94
+ df75e7ae102284b2b95695/tba-vs-tba
+LOCATION:Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TBA @ TBA
+DTSTART:20261111T115900Z
+DTEND:20261111T142900Z
+UID:chleu-game-3065@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Round of 16\nRound: Firs
+ t Game\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches/28
+ 4f142724ad0f43d269e363/tba-vs-tba
+LOCATION:Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TBA @ TBA
+DTSTART:20261117T115900Z
+DTEND:20261117T142900Z
+UID:chleu-game-3066@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Round of 16\nRound: Retu
+ rn Game\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches/c
+ 58e8f2d5e89800d5042ccb9/tba-vs-tba
+LOCATION:Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TBA @ TBA
+DTSTART:20261118T115900Z
+DTEND:20261118T142900Z
+UID:chleu-game-3067@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Round of 16\nRound: Retu
+ rn Game\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches/1
+ 12eccead43b23e1d20d4053/tba-vs-tba
+LOCATION:Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TBA @ TBA
+DTSTART:20261201T115900Z
+DTEND:20261201T142900Z
+UID:chleu-game-3068@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Quarter-Finals\nRound: F
+ irst Game\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /81c5d3154ec314503c7d72c7/tba-vs-tba
+LOCATION:Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TBA @ TBA
+DTSTART:20261202T115900Z
+DTEND:20261202T142900Z
+UID:chleu-game-3069@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Quarter-Finals\nRound: F
+ irst Game\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
+ /9a629dc9157bba8087dbfa40/tba-vs-tba
+LOCATION:Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TBA @ TBA
+DTSTART:20261215T115900Z
+DTEND:20261215T142900Z
+UID:chleu-game-3070@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Quarter-Finals\nRound: R
+ eturn Game\nStatus: not-started\nMatch Page: https://www.chl.hockey/matche
+ s/56b19b00847200a7f6dcfbff/tba-vs-tba
+LOCATION:Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TBA @ TBA
+DTSTART:20270112T115900Z
+DTEND:20270112T142900Z
+UID:chleu-game-3071@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Semi-Finals\nRound: Firs
+ t Game\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches/8b
+ bc1194c380cbf089f32a94/tba-vs-tba
+LOCATION:Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TBA @ TBA
+DTSTART:20270113T115900Z
+DTEND:20270113T142900Z
+UID:chleu-game-3072@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Semi-Finals\nRound: Firs
+ t Game\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches/2e
+ 4c58c98cf285542aa51969/tba-vs-tba
+LOCATION:Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TBA @ TBA
+DTSTART:20270119T115900Z
+DTEND:20270119T142900Z
+UID:chleu-game-3073@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Semi-Finals\nRound: Retu
+ rn Game\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches/3
+ 8199720f3500fd9e53111cb/tba-vs-tba
+LOCATION:Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TBA @ TBA
+DTSTART:20270120T115900Z
+DTEND:20270120T142900Z
+UID:chleu-game-3074@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Semi-Finals\nRound: Retu
+ rn Game\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches/f
+ ec278bcc7a0fb9f70be26ba/tba-vs-tba
+LOCATION:Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TBA @ TBA
+DTSTART:20270223T115900Z
+DTEND:20270223T142900Z
+UID:chleu-game-3075@championshockeyleague.com
+DESCRIPTION:Champions Hockey League Match\nStage: Final\nRound: Final\nSta
+ tus: not-started\nMatch Page: https://www.chl.hockey/matches/ca82ffc10d246
+ 86e46779890/tba-vs-tba
+LOCATION:Arena
 END:VEVENT
 END:VCALENDAR
