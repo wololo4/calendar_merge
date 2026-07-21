@@ -6,6 +6,7 @@ from parsers.nhl import parse_nhl_json_to_calendar
 from parsers.chl_canada import parse_chl_json_to_calendar
 from parsers.chl_europe import parse_chl_europe_json_to_calendar
 from parsers.ufa import parse_ufa_json_to_calendar
+from parsers.vhl import parse_vhl_html
 
 def download_single_feed(feed_info):
     """Worker function to process one feed concurrently."""
@@ -30,6 +31,11 @@ def download_single_feed(feed_info):
         response = session.get(url, headers=headers, timeout=4) # Reduced timeout
         response.raise_for_status()
 
+        if league == "VHL":  # or parser == "vhl" if you pass parser in feed_info
+            from parsers.vhl import parse_vhl_html_to_calendar
+            html = response.text
+            return league, team_name, parse_vhl_html_to_calendar(html)
+        
         try:
             raw_json = response.json()
 
