@@ -21,7 +21,7 @@ def load_feeds():
             for team in data.get("teams", []):
                 team_name = team["name"]
                 url = team["url"]
-                feeds.append((league, team_name, url, [], parser))
+                feeds.append((league, team_name, url, [], "nhl"))
             continue
 
         # ============================
