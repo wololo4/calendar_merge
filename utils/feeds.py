@@ -72,15 +72,17 @@ def load_feeds():
             season = data["season"]
             tournament = data["tournament"]
 
+            if isinstance(tournaments, str):
+                tournaments = [tournaments]
+
             for team in data.get("teams", []):
                 team_name = team["name"]
                 team_id = team["team_id"]
 
-                # URL auto-générée
-                url = f"{base_url}?tournament={tournament}&season={season}"
-
-                # team_id goes into the filter
-                feeds.append((league, team_name, url, [team_id], parser))
+                for tournament in tournaments:
+                    url = f"{base_url}?tournament={tournament}&season={season}"
+                    # team_id goes into the filter
+                    feeds.append((league, f"{team_name} (T{tournamanet})", url, [team_id], parser))
             continue
 
         # ============================
