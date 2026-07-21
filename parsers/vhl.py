@@ -20,7 +20,13 @@ def parse_vhl_html(html, team_name):
             home = match.select(".calendar-page__match-team--home .calendar-page__match-team-name")[0].text.strip()
             away = match.select(".calendar-page__match-team--guest .calendar-page__match-team-name")[0].text.strip()
 
-            if team_name not in (home, away):
+            # Normalisation pour matcher "Khimik Voskresensk" avec "Khimik"
+            if not (
+                home.lower() in team_name.lower()
+                or away.lower() in team_name.lower()
+                or team_name.lower() in home.lower()
+                or team_name.lower() in away.lower()
+            ):
                 continue
 
             # No time in VHL pages → default 00:00
