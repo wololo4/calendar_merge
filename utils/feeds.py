@@ -25,12 +25,13 @@ def load_feeds():
 
         # ============================
         # LeagueStat leagues (AHL, OHL, LHJMQ, WHL)
+        # unified structure
         # ============================
         if parser == "leaguestat":
             base_url = data["base_url"]
             client_code = data["client_code"]
 
-            #season_id peut être un int ou une liste
+            # season_id can be int or list
             season_ids = data["season_id"]
             if isinstance(season_ids, int):
                 season_ids = [season_ids]
@@ -47,6 +48,7 @@ def load_feeds():
                         f"&team_id={team_id}"
                     )
                     feeds.append((league, f"{team_name} (S{season_id})", url, []))
+
             continue
 
         # ============================
@@ -55,75 +57,7 @@ def load_feeds():
         if parser == "chl_europe":
             url = data["url"]
             team_filter = data.get("filter", {}).get("teams", [])
-            feeds.append((league, team.get("name", league), url, team_filter))
-            continue
-
-        # ============================
-        # CHL Memorial Cup (JSON)
-        # ============================
-        if parser == "chl_memorial":
-            for team in data["teams"]:
-                url = team["url"]
-                feeds.append((league, team["name"], url, []))
-            continue
-
-        # ============================
-        # UFA JSON feed
-        # ============================
-        if parser == "ufa":
-            for team in data["teams"]:
-                url = team["url"]
-                feeds.append((league, team["name"], url, []))
-            continue
-
-        # ============================
-        # ICS-only leagues (ECHL, NCAA, SHL, KHL)
-        # ============================
-        if parser == "ics":
-            for team in data["teams"]:
-                url = team["url"]
-                feeds.append((league, team["name"], url, []))
-            continue
-
-        print(f"Warning: Unknown parser for league '{league}'")
-
-    return feeds
-
-            if "team_id" in data:
-                team_id = data["team_id"]
-                for team in data["teams"]:
-                    season_id = team["season_id"]
-                    url = (
-                        f"{base_url}"
-                        f"?client_code={client_code}"
-                        f"&season_id={season_id}"
-                        f"&team_id={team_id}"
-                    )
-                    feeds.append((league, team["name"], url, []))
-                continue
-
-            # OHL / LHJMQ / WHL use league-level client_code + season_id
-            client_code = data["client_code"]
-            season_id = data["season_id"]
-
-            for team in data["teams"]:
-                team_id = team["team_id"]
-                url = (
-                    f"{base_url}"
-                    f"?client_code={client_code}"
-                    f"&season_id={season_id}"
-                    f"&team_id={team_id}"
-                )
-                feeds.append((league, team["name"], url, []))
-            continue
-
-        # ============================
-        # CHL Europe (JSON + filters)
-        # ============================
-        if parser == "chl_europe":
-            url = data["url"]
-            team_filter = data.get("filter", {}).get("teams", [])
-            feeds.append((league, team.get("name", league), url, team_filter))
+            feeds.append((league, "CHL Europe", url, team_filter))
             continue
 
         # ============================
