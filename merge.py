@@ -56,9 +56,10 @@ def main():
                 if "DESCRIPTION" in event:
                     del event["DESCRIPTION"]
 
-            #remove VALARM blocks
-            if event.name == "VALARM":
-                continue
+           # Remove VALARM blocks inside VEVENT
+            for sub in list(event.subcomponents):
+                if sub.name == "VALARM":
+                    event.subcomponents.remove(sub)
 
             #remove Microsoft/APPLE/ECAL metadata
             for key in list(event.keys()):
