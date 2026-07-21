@@ -56,7 +56,6 @@ def download_single_feed(feed_info):
         # DEL HTML
         if parser == "del":
             html = response.text
-            from parsers.del import parse_del_html
             return league, team_name, parse_del_html(html, team_name)
 
         try:
