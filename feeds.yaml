@@ -3,14 +3,14 @@
 # ============================
 
 NHL:
+  parser: nhl
   teams:
     - name: Montréal Canadiens
       url: https://ics.ecal.com/ecal-sub/6a4fe2cc78faca000225dc95/NHL.ics
-      parser: nhl_ics
 #    nhl feed filtrer seulement les matchs de presaison
     - name: Montréal Canadiens
       url: https://api-web.nhle.com/v1/club-schedule-season/MTL/now
-      parser: nhl_json
+      type: json
 
 AHL:
   parser: leaguestat
