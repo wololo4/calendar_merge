@@ -87,6 +87,16 @@ def load_feeds():
             continue
 
         # ============================
+        # DEL parser (HTML)
+        # ============================
+        if parser == "del":
+            for team in data.get("teams", []):
+                team_name = team["name"]
+                url = team["url"]
+                feeds.append((league, team_name, url, None, parser))
+            continue
+            
+        # ============================
         # CHL Memorial Cup (JSON)
         # ============================
         if parser == "chl_memorial":
