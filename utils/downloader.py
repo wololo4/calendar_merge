@@ -92,7 +92,17 @@ def download_single_feed(feed_info):
             return league, team_name, parse_del_html(html, team_name)
 
         # ============================
-        # OTHER JSON (UFA, CHL)
+        # UFA JSON  (FIX)
+        # ============================
+        if parser == "ufa":
+            try:
+                raw_json = response.json()
+                return league, team_name, parse_ufa_json_to_calendar(raw_json)
+            except Exception:
+                return league, team_name, None
+
+        # ============================
+        # OTHER JSON (CHL)
         # ============================
         try:
             raw_json = response.json()
