@@ -44,8 +44,10 @@ def main():
             if "powered by ECAL" in description:
                 continue
 
-            if "You have booked some" in description:
-                continue
+            # Remove DESCRIPTION only if it starts with "You have booked some"
+            if description.startswith("You have booked some"):
+                if "DESCRIPTION" in event:
+                    del event["DESCRIPTION"]
 
             #remove VALARM blocks
             if event.name == "VALARM":
