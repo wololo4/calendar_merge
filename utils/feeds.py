@@ -37,9 +37,9 @@ def load_feeds():
                     season_id = team["season_id"]
                     url = (
                         f"{base_url}"
-                        f"?client_code={params['client_code']}"
-                        f"&season_id={params['season_id']}"
-                        f"&team_id={params['team_id']}"
+                        f"?client_code={client_code}"
+                        f"&season_id={season_id}"
+                        f"&team_id={team_id}"
                     )
                     feeds.append((league, url, []))
                 continue
