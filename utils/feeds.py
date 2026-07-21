@@ -17,17 +17,22 @@ def load_feeds():
         # ============================
         # NHL (ICS + JSON)
         # ============================
-        if parser == "nhl_ics":
-            for team in data["teams"]:
-                if team.get("parser") == "nhl_ics":
-                    feeds.append((league, team["name"], team["url"], [], "nhl_ics"))
-            continue
-
-        if parser == "nhl_json":
-            for team in data["teams"]:
-                if team.get("parser") == "nhl_json":
-                    feeds.append((league, team["name"], team["url"], [], "nhl_json"))
-            continue
+        if parser == "nhl":
+            # ICS → starts with BEGIN:VCALENDAR
+            if url.endswith(".ics"):
+                ics_data = response.content.strip()
+                return league, team_name, Calendar.from_ical(ics_data)
+        
+            # JSON → contains "games"
+            raw_json = response.json()
+        
+            # Pré-saison uniquement
+            preseason_games = [
+                g for g in raw_json.get("games", [])
+                if g.get("gameType") == 1
+            ]
+        
+            return league, team_name, parse_nhl_json_to_calendar(preseason_games)
 
         # ============================
         # LeagueStat leagues (AHL, OHL, LHJMQ, WHL)
