@@ -62,7 +62,13 @@ def download_single_feed(feed_info):
             raw_json = response.json()
 
             #NHL JSON
-            if parser == "nhl" and team_filter == []:
+            if parser == "nhl_ics":
+                try:
+                    ics_data = response.content.strip()
+                    return league, team_name, Calendar.from_ical(ics_data)
+                except:
+                    return league, team_name, None
+            if parser == "nhl_json":
                 raw_json = response.json()
                 games_list = raw_json.get("games", [])
             
@@ -70,9 +76,9 @@ def download_single_feed(feed_info):
                 preseason_games = [
                     g for g in games_list
                     if g.get("gameType") == 1
-                ]
-            
+                ]    
                 return league, team_name, parse_nhl_json_to_calendar(preseason_games)
+
             else:
                 return league, team_name, parse_ufa_json_to_calendar(raw_json)
             #CHL Europe JSON
