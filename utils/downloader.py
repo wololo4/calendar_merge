@@ -63,7 +63,8 @@ def download_single_feed(feed_info):
 
             # NHL (ICS or JSON)
             if parser == "nhl":
-                # ICS feed
+            
+                # ---------- ICS ----------
                 if url.endswith(".ics"):
                     try:
                         ics_data = response.content.strip()
@@ -72,7 +73,7 @@ def download_single_feed(feed_info):
                         print("Error parsing NHL ICS:", e)
                         return league, team_name, None
             
-                # JSON feed
+                # ---------- JSON ----------
                 try:
                     raw_json = response.json()
                 except Exception as e:
