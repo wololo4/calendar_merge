@@ -86,8 +86,15 @@ def load_feeds():
         # VHL parser
         # ============================
         if parser == "vhl":
+            base_url = data["base_url"]
+            season_id = data["season_id"]
+            
             for team in data.get("teams", []):
-                feeds.append((league, team["name"], team["url"], None, parser))
+                team_name = team["name"]
+                team_id = team["team_id"]
+                url = f"{base_url}/{season_id}/0/{team_id}/"
+                
+                feeds.append((league, team_name, url, None, parser))
             continue
 
         # ============================
