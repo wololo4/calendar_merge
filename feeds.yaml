@@ -117,7 +117,10 @@ CHL:
   parser: chl_europe
   url: https://www.chl.hockey/api/s3?q=schedule-21ec9dad81abe2e0240460d0-fc954f6d33272fdf4a8b95bb.json
   filter:
-      teams: [SKE, KOL]
+    teams: [SKE, KOL]
+  names:
+    SKE: Skellefteå AIK
+    KOL: Kölner Haie
 
 UFA:
   parser: ufa
