@@ -30,38 +30,6 @@ def load_feeds():
             base_url = data["base_url"]
             client_code = data["client_code"]
 
-            import yaml
-
-def load_feeds():
-    with open("feeds.yaml", "r", encoding="utf-8") as f:
-        config = yaml.safe_load(f)
-
-    feeds = []
-
-    for league, data in config.items():
-
-        # Skip comments or separators
-        if league.startswith("#"):
-            continue
-
-        parser = data.get("parser")
-
-        # ============================
-        # NHL (ICS + JSON)
-        # ============================
-        if parser == "nhl":
-            for team in data["teams"]:
-                url = team["url"]
-                feeds.append((league, team["name"], url, []))
-            continue
-
-        # ============================
-        # LeagueStat leagues (AHL, OHL, LHJMQ, WHL)
-        # ============================
-        if parser == "leaguestat":
-            base_url = data["base_url"]
-            client_code = data["client_code"]
-
             # ----------------------------------------
             # AHL case:
             # team_id at league level
