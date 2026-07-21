@@ -98,7 +98,21 @@ def load_feeds():
             continue
 
         # ============================
-        # ICS-only leagues (ECHL, NCAA, SHL, KHL)
+        # KHL ICS parser (auto URL)
+        # ============================
+        if parser == "ics" and league == "KHL":
+            base_url = data["base_url"]
+            
+            for team in data.get("teams", []):
+                team_name = team["name"]
+                team_id = team["team_id"]
+                
+                url = f"{base_url}/{team_id};/"
+                feeds.append((league, team_name, url, [], parser))
+            continue
+        
+        # ============================
+        # ICS-only leagues (ECHL, NCAA, SHL)
         # ============================
         if parser == "ics":
             for team in data["teams"]:
