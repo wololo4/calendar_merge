@@ -10,7 +10,7 @@ from parsers.vhl import parse_vhl_html
 
 def download_single_feed(feed_info):
     """Worker function to process one feed concurrently."""
-    league, team_name, url, team_filter = feed_info
+    league, team_name, url, team_filter, parser = feed_info
     session = requests.Session()
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
@@ -31,9 +31,9 @@ def download_single_feed(feed_info):
         response = session.get(url, headers=headers, timeout=4) # Reduced timeout
         response.raise_for_status()
 
-        if league == "VHL":  # or parser == "vhl" if you pass parser in feed_info
+        if parser == "vhl": 
             html = response.text
-            return league, team_name, parse_vhl_html(html)
+            return league, team_name, parse_vhl_html(html, team_name)
         
         try:
             raw_json = response.json()
