@@ -33,10 +33,6 @@ def download_single_feed(feed_info):
         response = session.get(url, headers=headers, timeout=4)
         response.raise_for_status()
 
-        print("DEBUG:", league, parser, url)
-        print("DEBUG RAW RESPONSE FIRST 200 CHARS:")
-        print(response.text[:200])
-        print("DEBUG TRYING JSON PARSE:")
         try:
             print(response.json())
         except Exception as e:
@@ -47,21 +43,16 @@ def download_single_feed(feed_info):
         # ============================
         if parser == "nhl":
 
-            print("DEBUG NHL BLOCK ENTERED:", url)
-
             # ---------- ICS ----------
             if url.endswith(".ics"):
-                print("DEBUG NHL ICS DETECTED")
                 try:
                     ics_data = response.content.strip()
                     return league, team_name, Calendar.from_ical(ics_data)
                 except Exception as e:
-                    print("Error parsing NHL ICS:", e)
                     return league, team_name, None
 
             # ---------- JSON ----------
             try:
-                print("DEBUG NHL JSON DETECTED")
                 raw_json = response.json()
             except Exception as e:
                 print("Error parsing NHL JSON:", e)
