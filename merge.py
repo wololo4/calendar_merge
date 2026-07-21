@@ -44,6 +44,9 @@ def main():
             if "powered by ECAL" in description:
                 continue
 
+            if "You have booked some" in description:
+                continue
+
             #remove VALARM blocks
             if event.name == "VALARM":
                 continue
@@ -56,6 +59,15 @@ def main():
                     del event[key]
                 if key.startswith("X-APPLE"):
                     del event[key]
+
+            UNUSED_FIELDS = [
+                "TZID",
+                "STATUS"
+            ]
+
+            for field in UNUSED_FIELDS:
+                if field in event:
+                    del event[field]
 
             key = event_id(event)
             if key in seen[league]:
