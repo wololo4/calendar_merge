@@ -139,6 +139,15 @@ SHL:
     - name: Skellefteå AIK
       url: https://ics.ecal.com/ecal-sub/6a57ea53c8083d00021f164f/Swedish%20Hockey%20League.ics
 
+Liiga:
+  parser: liiga
+  base_url: https://liiga.fi/api/v2/schedule
+  season: 2027
+  tournament: [valmistavat_ottelut,runkosarja,playoffs]
+  teams:
+    - name: TPS turku
+      team_id: 21
+
 CHL:
   parser: chl_europe
   teams:
