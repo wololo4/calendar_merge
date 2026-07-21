@@ -46,7 +46,11 @@ def download_single_feed(feed_info):
             else:
                 return league, team_name, parse_chl_json_to_calendar(raw_json)
         except (ValueError, TypeError, json.JSONDecodeError):
-            return league, team_name, Calendar.from_ical(response.content)
+            ics_data = response.content.strip()
+            if not ics_data:
+                print(f"Skipping empty ICS for {league} - {team_name} (season not available yet)")
+                return league, team_name, None
+            return league, team_name, Calendar.from_ical(ics_data)
             
     except Exception as e:
         print(f"Error downloading {league} - {team_name}: {e}")
