@@ -16,8 +16,13 @@ def main():
     with ThreadPoolExecutor(max_workers=35) as executor:
         results = executor.map(download_single_feed, feeds)
     
-    for league, calendar in results:
-        print("Téléchargement:", league)
+    for league, team_name, calendar in results:
+        if calendar is None:
+            print(f"Téléchargement: {league} – {team_name} (0 events)")
+            continue
+    
+        event_count = sum(1 for e in calendar.walk() if e.name == "VEVENT")
+        print(f"Téléchargement: {league} – {team_name} ({event_count} events)")
         if calendar is None:
             continue
 
