@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 from icalendar import Calendar, Event
-from datetime import 
+from datetime import datetime
 
 def parse_vhl_html(html, team_name):
     soup = BeautifulSoup(html, "html.parser")
