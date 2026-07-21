@@ -30,7 +30,119 @@ def load_feeds():
             base_url = data["base_url"]
             client_code = data["client_code"]
 
-            # AHL uses "params" inside each team
+            import yaml
+
+def load_feeds():
+    with open("feeds.yaml", "r", encoding="utf-8") as f:
+        config = yaml.safe_load(f)
+
+    feeds = []
+
+    for league, data in config.items():
+
+        # Skip comments or separators
+        if league.startswith("#"):
+            continue
+
+        parser = data.get("parser")
+
+        # ============================
+        # NHL (ICS + JSON)
+        # ============================
+        if parser == "nhl":
+            for team in data["teams"]:
+                url = team["url"]
+                feeds.append((league, team["name"], url, []))
+            continue
+
+        # ============================
+        # LeagueStat leagues (AHL, OHL, LHJMQ, WHL)
+        # ============================
+        if parser == "leaguestat":
+            base_url = data["base_url"]
+            client_code = data["client_code"]
+
+            # ----------------------------------------
+            # AHL case:
+            # team_id at league level
+            # season_id inside each team
+            # ----------------------------------------
+            if "team_id" in data:
+                team_id = data["team_id"]
+                for team in data["teams"]:
+                    season_id = team["season_id"]
+                    url = (
+                        f"{base_url}"
+                        f"?client_code={client_code}"
+                        f"&season_id={season_id}"
+                        f"&team_id={team_id}"
+                    )
+                    feeds.append((league, team["name"], url, []))
+                continue
+
+            # ----------------------------------------
+            # OHL / LHJMQ / WHL case:
+            # season_id is a list at league level
+            # team_id inside each team
+            # ----------------------------------------
+            season_ids = data["season_id"]
+            if isinstance(season_ids, int):
+                season_ids = [season_ids]
+
+            for team in data["teams"]:
+                team_name = team["name"]
+                team_id = team["team_id"]
+
+                for season_id in season_ids:
+                    url = (
+                        f"{base_url}"
+                        f"?client_code={client_code}"
+                        f"&season_id={season_id}"
+                        f"&team_id={team_id}"
+                    )
+                    feeds.append((league, f"{team_name} (S{season_id})", url, []))
+            continue
+
+        # ============================
+        # CHL Europe (JSON + filters)
+        # ============================
+        if parser == "chl_europe":
+            url = data["url"]
+            team_filter = data.get("filter", {}).get("teams", [])
+            feeds.append((league, team.get("name", league), url, team_filter))
+            continue
+
+        # ============================
+        # CHL Memorial Cup (JSON)
+        # ============================
+        if parser == "chl_memorial":
+            for team in data["teams"]:
+                url = team["url"]
+                feeds.append((league, team["name"], url, []))
+            continue
+
+        # ============================
+        # UFA JSON feed
+        # ============================
+        if parser == "ufa":
+            for team in data["teams"]:
+                url = team["url"]
+                feeds.append((league, team["name"], url, []))
+            continue
+
+        # ============================
+        # ICS-only leagues (ECHL, NCAA, SHL, KHL)
+        # ============================
+        if parser == "ics":
+            for team in data["teams"]:
+                url = team["url"]
+                feeds.append((league, team["name"], url, []))
+            continue
+
+        print(f"Warning: Unknown parser for league '{league}'")
+
+    return feeds
+
             if "team_id" in data:
                 team_id = data["team_id"]
                 for team in data["teams"]:
