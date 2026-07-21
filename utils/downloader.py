@@ -39,7 +39,6 @@ def download_single_feed(feed_info):
         # LIIGA JSON
         if parser == "liiga":
             raw_json = response.json()
-            print("RAW JSON SAMPLE:", raw_json[0])
             team_id = team_filter[0]
 
             # Filtrer les matchs où TPS apparaît
