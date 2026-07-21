@@ -30,29 +30,7 @@ def load_feeds():
             base_url = data["base_url"]
             client_code = data["client_code"]
 
-            # ----------------------------------------
-            # AHL case:
-            # team_id at league level
-            # season_id inside each team
-            # ----------------------------------------
-            if "team_id" in data:
-                team_id = data["team_id"]
-                for team in data["teams"]:
-                    season_id = team["season_id"]
-                    url = (
-                        f"{base_url}"
-                        f"?client_code={client_code}"
-                        f"&season_id={season_id}"
-                        f"&team_id={team_id}"
-                    )
-                    feeds.append((league, team["name"], url, []))
-                continue
-
-            # ----------------------------------------
-            # OHL / LHJMQ / WHL case:
-            # season_id is a list at league level
-            # team_id inside each team
-            # ----------------------------------------
+            #season_id peut être un int ou une liste
             season_ids = data["season_id"]
             if isinstance(season_ids, int):
                 season_ids = [season_ids]
