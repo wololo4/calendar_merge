@@ -70,7 +70,7 @@ def download_single_feed(feed_info):
             games_list = raw_json.get("games", [])
             preseason_games = [g for g in games_list if g.get("gameType") == 1]
 
-            return league, team_name, parse_nhl_json_to_calendar(preseason_games)
+            return league, team_name, parse_nhl_json_to_calendar({"games": preseason_games})
 
         if parser == "nhl":
             return league, team_name, None
