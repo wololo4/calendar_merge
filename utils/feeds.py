@@ -28,11 +28,13 @@ def load_feeds():
         # ============================
         if parser == "leaguestat":
             base_url = data["base_url"]
+            client_code = data["client_code"]
 
             # AHL uses "params" inside each team
-            if "teamps" in data:
-                for team in data["teamps"]:
-                    params = team["params"]
+            if "teams" in data:
+                team_id = data["team_id"]
+                for team in data["teams"]:
+                    season_id = team["season_id"]
                     url = (
                         f"{base_url}"
                         f"?client_code={params['client_code']}"
