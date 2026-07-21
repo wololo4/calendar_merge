@@ -32,9 +32,8 @@ def download_single_feed(feed_info):
         response.raise_for_status()
 
         if league == "VHL":  # or parser == "vhl" if you pass parser in feed_info
-            from parsers.vhl import parse_vhl_html
             html = response.text
-            return league, team_name, parse_vhl_html_to_calendar(html)
+            return league, team_name, parse_vhl_html(html)
         
         try:
             raw_json = response.json()
