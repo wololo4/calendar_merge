@@ -1582,412 +1582,457 @@ BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey at Alaska Anchorage
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-UID:vcal_15973-denverpioneers.com
+UID:vcal_15973-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey at Alaska Anchorage\n
 LOCATION:Anchorage\, Alaska
-URL:https://denverpioneers.com/calendar.aspx?game_id=15973&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=15973&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey at Alaska Anchorage
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-UID:vcal_15974-denverpioneers.com
+UID:vcal_15974-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey at Alaska Anchorage\n
 LOCATION:Anchorage\, Alaska
-URL:https://denverpioneers.com/calendar.aspx?game_id=15974&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=15974&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs USA Hockey Under-18 Team 
  - Exhibition
 DTSTART:20261011T000000Z
 DTEND:20261011T030000Z
-UID:vcal_16045-denverpioneers.com
+UID:vcal_16045-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs USA Hockey Under-18 T
  eam - Exhibition\n
 LOCATION:Denver\, Colo.\, Magness Arena
-URL:https://denverpioneers.com/calendar.aspx?game_id=16045&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=16045&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:University of Denver Men's Ice Hockey vs Michigan
+SUMMARY:University of Denver Men's Ice Hockey vs Michigan - 2026 National 
+ Championship Banner Raising\, presented by Huntington Bank
 DTSTART:20261017T010000Z
 DTEND:20261017T040000Z
-UID:vcal_15975-denverpioneers.com
-DESCRIPTION:University of Denver Men's Ice Hockey vs Michigan\n
+UID:vcal_15975-admin.denverpioneers.com
+DESCRIPTION:University of Denver Men's Ice Hockey vs Michigan - 2026 Natio
+ nal Championship Banner Raising\, presented by Huntington Bank\n
 LOCATION:Denver\, Colo.\, Magness Arena
-URL:https://denverpioneers.com/calendar.aspx?game_id=15975&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=15975&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs Michigan
 DTSTART:20261018T000000Z
 DTEND:20261018T030000Z
-UID:vcal_15976-denverpioneers.com
+UID:vcal_15976-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs Michigan\n
 LOCATION:Denver\, Colo.\, Magness Arena
-URL:https://denverpioneers.com/calendar.aspx?game_id=15976&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=15976&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs Boston College - Homecomi
  ng Weekend
 DTSTART:20261024T010000Z
 DTEND:20261024T040000Z
-UID:vcal_15977-denverpioneers.com
+UID:vcal_15977-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs Boston College - Home
  coming Weekend\n
 LOCATION:Denver\, Colo.\, Magness Arena
-URL:https://denverpioneers.com/calendar.aspx?game_id=15977&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=15977&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs Boston College - Homecomi
  ng Weekend
 DTSTART:20261025T000000Z
 DTEND:20261025T030000Z
-UID:vcal_15978-denverpioneers.com
+UID:vcal_15978-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs Boston College - Home
  coming Weekend\n
 LOCATION:Denver\, Colo.\, Magness Arena
-URL:https://denverpioneers.com/calendar.aspx?game_id=15978&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=15978&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs Omaha
 DTSTART:20261031T010000Z
 DTEND:20261031T040000Z
-UID:vcal_15979-denverpioneers.com
+UID:vcal_15979-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs Omaha\n
 LOCATION:Denver\, Colo.\, Magness Arena
-URL:https://denverpioneers.com/calendar.aspx?game_id=15979&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=15979&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs Omaha
 DTSTART:20261101T000000Z
 DTEND:20261101T030000Z
-UID:vcal_15980-denverpioneers.com
+UID:vcal_15980-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs Omaha\n
 LOCATION:Denver\, Colo.\, Magness Arena
-URL:https://denverpioneers.com/calendar.aspx?game_id=15980&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=15980&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey at Arizona State
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-UID:vcal_15981-denverpioneers.com
+UID:vcal_15981-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey at Arizona State\n
 LOCATION:Tempe\, Ariz.
-URL:https://denverpioneers.com/calendar.aspx?game_id=15981&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=15981&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey at Arizona State
 DTSTART:20261108T190000Z
 DTEND:20261108T220000Z
-UID:vcal_15982-denverpioneers.com
+UID:vcal_15982-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey at Arizona State\n
 LOCATION:Tempe\, Ariz.
-URL:https://denverpioneers.com/calendar.aspx?game_id=15982&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=15982&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs Lindenwood - Hockey Alumn
  i Weekend
 DTSTART:20261114T020000Z
 DTEND:20261114T050000Z
-UID:vcal_15983-denverpioneers.com
+UID:vcal_15983-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs Lindenwood - Hockey A
  lumni Weekend\n
 LOCATION:Denver\, Colo.\, Magness Arena
-URL:https://denverpioneers.com/calendar.aspx?game_id=15983&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=15983&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs Lindenwood - Hockey Alumn
  i Weekend
 DTSTART:20261115T010000Z
 DTEND:20261115T040000Z
-UID:vcal_15984-denverpioneers.com
+UID:vcal_15984-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs Lindenwood - Hockey A
  lumni Weekend\n
 LOCATION:Denver\, Colo.\, Magness Arena
-URL:https://denverpioneers.com/calendar.aspx?game_id=15984&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=15984&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs St. Thomas - Hockey Paren
  ts Weekend
 DTSTART:20261121T020000Z
 DTEND:20261121T050000Z
-UID:vcal_15985-denverpioneers.com
+UID:vcal_15985-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs St. Thomas - Hockey P
  arents Weekend\n
 LOCATION:Denver\, Colo.\, Magness Arena
-URL:https://denverpioneers.com/calendar.aspx?game_id=15985&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=15985&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs St. Thomas - Hockey Paren
  ts Weekend
 DTSTART:20261122T010000Z
 DTEND:20261122T040000Z
-UID:vcal_15986-denverpioneers.com
+UID:vcal_15986-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs St. Thomas - Hockey P
  arents Weekend\n
 LOCATION:Denver\, Colo.\, Magness Arena
-URL:https://denverpioneers.com/calendar.aspx?game_id=15986&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=15986&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey at Boston University
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-UID:vcal_15987-denverpioneers.com
+UID:vcal_15987-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey at Boston University\n
 LOCATION:Boston\, Mass.
-URL:https://denverpioneers.com/calendar.aspx?game_id=15987&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=15987&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey at Boston University
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-UID:vcal_15988-denverpioneers.com
+UID:vcal_15988-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey at Boston University\n
 LOCATION:Boston\, Mass.
-URL:https://denverpioneers.com/calendar.aspx?game_id=15988&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=15988&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs North Dakota
 DTSTART:20261205T020000Z
 DTEND:20261205T050000Z
-UID:vcal_15989-denverpioneers.com
+UID:vcal_15989-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs North Dakota\n
 LOCATION:Denver\, Colo.\, Magness Arena
-URL:https://denverpioneers.com/calendar.aspx?game_id=15989&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=15989&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs North Dakota
 DTSTART:20261206T010000Z
 DTEND:20261206T040000Z
-UID:vcal_15990-denverpioneers.com
+UID:vcal_15990-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs North Dakota\n
 LOCATION:Denver\, Colo.\, Magness Arena
-URL:https://denverpioneers.com/calendar.aspx?game_id=15990&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=15990&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey at St. Cloud State
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-UID:vcal_15991-denverpioneers.com
+UID:vcal_15991-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey at St. Cloud State\n
 LOCATION:St. Cloud\, Minn.
-URL:https://denverpioneers.com/calendar.aspx?game_id=15991&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=15991&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey at St. Cloud State
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-UID:vcal_15992-denverpioneers.com
+UID:vcal_15992-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey at St. Cloud State\n
 LOCATION:St. Cloud\, Minn.
-URL:https://denverpioneers.com/calendar.aspx?game_id=15992&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=15992&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey at Bowling Green
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
-UID:vcal_15993-denverpioneers.com
+UID:vcal_15993-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey at Bowling Green\n
 LOCATION:Bowling Green\, Ohio
-URL:https://denverpioneers.com/calendar.aspx?game_id=15993&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=15993&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey at Bowling Green
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
-UID:vcal_15994-denverpioneers.com
+UID:vcal_15994-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey at Bowling Green\n
 LOCATION:Bowling Green\, Ohio
-URL:https://denverpioneers.com/calendar.aspx?game_id=15994&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=15994&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey at Western Michigan
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
-UID:vcal_15995-denverpioneers.com
+UID:vcal_15995-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey at Western Michigan\n
 LOCATION:Kalamazoo\, Mich.
-URL:https://denverpioneers.com/calendar.aspx?game_id=15995&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=15995&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey at Western Michigan
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
-UID:vcal_15996-denverpioneers.com
+UID:vcal_15996-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey at Western Michigan\n
 LOCATION:Kalamazoo\, Mich.
-URL:https://denverpioneers.com/calendar.aspx?game_id=15996&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=15996&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs Colorado College
 DTSTART:20270117T010000Z
 DTEND:20270117T040000Z
-UID:vcal_15998-denverpioneers.com
+UID:vcal_15998-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs Colorado College\n
 LOCATION:Denver\, Colo.\, Magness Arena
-URL:https://denverpioneers.com/calendar.aspx?game_id=15998&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=15998&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey at Minnesota Duluth
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
-UID:vcal_16000-denverpioneers.com
+UID:vcal_16000-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey at Minnesota Duluth\n
 LOCATION:Duluth\, Minn.
-URL:https://denverpioneers.com/calendar.aspx?game_id=16000&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=16000&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey at Minnesota Duluth
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-UID:vcal_16001-denverpioneers.com
+UID:vcal_16001-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey at Minnesota Duluth\n
 LOCATION:Duluth\, Minn.
-URL:https://denverpioneers.com/calendar.aspx?game_id=16001&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=16001&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey at Colorado College
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
-UID:vcal_16002-denverpioneers.com
+UID:vcal_16002-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey at Colorado College\n
 LOCATION:Colorado Springs\, Colo.
-URL:https://denverpioneers.com/calendar.aspx?game_id=16002&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=16002&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs Arizona State
 DTSTART:20270206T020000Z
 DTEND:20270206T050000Z
-UID:vcal_16003-denverpioneers.com
+UID:vcal_16003-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs Arizona State\n
 LOCATION:Denver\, Colo.\, Magness Arena
-URL:https://denverpioneers.com/calendar.aspx?game_id=16003&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=16003&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs Arizona State
 DTSTART:20270207T010000Z
 DTEND:20270207T040000Z
-UID:vcal_16004-denverpioneers.com
+UID:vcal_16004-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs Arizona State\n
 LOCATION:Denver\, Colo.\, Magness Arena
-URL:https://denverpioneers.com/calendar.aspx?game_id=16004&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=16004&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey at Miami
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
-UID:vcal_16005-denverpioneers.com
+UID:vcal_16005-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey at Miami\n
 LOCATION:Oxford\, Ohio.
-URL:https://denverpioneers.com/calendar.aspx?game_id=16005&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=16005&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey at Miami
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
-UID:vcal_16006-denverpioneers.com
+UID:vcal_16006-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey at Miami\n
 LOCATION:Oxford\, Ohio
-URL:https://denverpioneers.com/calendar.aspx?game_id=16006&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=16006&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs St. Cloud State
 DTSTART:20270220T020000Z
 DTEND:20270220T050000Z
-UID:vcal_16007-denverpioneers.com
+UID:vcal_16007-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs St. Cloud State\n
 LOCATION:Denver\, Colo.\, Magness Arena
-URL:https://denverpioneers.com/calendar.aspx?game_id=16007&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=16007&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs St. Cloud State
 DTSTART:20270221T010000Z
 DTEND:20270221T040000Z
-UID:vcal_16008-denverpioneers.com
+UID:vcal_16008-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs St. Cloud State\n
 LOCATION:Denver\, Colo.\, Magness Arena
-URL:https://denverpioneers.com/calendar.aspx?game_id=16008&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=16008&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs Colorado College - Senior
   Night
 DTSTART:20270227T020000Z
 DTEND:20270227T050000Z
-UID:vcal_16009-denverpioneers.com
+UID:vcal_16009-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs Colorado College - Se
  nior Night\n
 LOCATION:Denver\, Colo.\, Magness Arena
-URL:https://denverpioneers.com/calendar.aspx?game_id=16009&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=16009&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey at Colorado College
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
-UID:vcal_16010-denverpioneers.com
+UID:vcal_16010-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey at Colorado College\n
 LOCATION:Colorado Springs\, Colo.
-URL:https://denverpioneers.com/calendar.aspx?game_id=16010&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=16010&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs NCHC First Round - Best-o
  f-three series
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270307
-UID:vcal_16011-denverpioneers.com
+UID:vcal_16011-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs NCHC First Round - Be
  st-of-three series\n
 LOCATION:Campus Sites
-URL:https://denverpioneers.com/calendar.aspx?game_id=16011&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=16011&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs NCHC Quarterfinal - #4 se
  ed vs. #5 seed only (Top remaining seed hosts)
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
-UID:vcal_16012-denverpioneers.com
+UID:vcal_16012-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs NCHC Quarterfinal - #
  4 seed vs. #5 seed only (Top remaining seed hosts)\n
 LOCATION:Campus Site 
-URL:https://denverpioneers.com/calendar.aspx?game_id=16012&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=16012&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs NCHC Semifinals
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-UID:vcal_16013-denverpioneers.com
+UID:vcal_16013-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs NCHC Semifinals\n
 LOCATION:Campus Sites
-URL:https://denverpioneers.com/calendar.aspx?game_id=16013&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=16013&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs NCHC Championship - Exact
   date to be announced
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
-UID:vcal_16014-denverpioneers.com
+UID:vcal_16014-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs NCHC Championship - E
  xact date to be announced\n
 LOCATION:Campus Site
-URL:https://denverpioneers.com/calendar.aspx?game_id=16014&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=16014&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs NCAA Regionals - Hosted b
  y University of Denver
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270328
-UID:vcal_16015-denverpioneers.com
+UID:vcal_16015-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs NCAA Regionals - Host
  ed by University of Denver\n
 LOCATION:Loveland\, Colo. / Blue Arena
-URL:https://denverpioneers.com/calendar.aspx?game_id=16015&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=16015&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Denver Men's Ice Hockey vs NCAA Frozen Four
 DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270410
-UID:vcal_16016-denverpioneers.com
+UID:vcal_16016-admin.denverpioneers.com
 DESCRIPTION:University of Denver Men's Ice Hockey vs NCAA Frozen Four\n
 LOCATION:Washington\, D.C. / Capital One Arena
-URL:https://denverpioneers.com/calendar.aspx?game_id=16016&amp;sport_id=4
+URL:https://admin.denverpioneers.com/calendar.aspx?game_id=16016&amp;sport
+ _id=4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Western Michigan University Men's Ice Hockey vs Western Ontario (E
