@@ -9,7 +9,7 @@ from parsers.ufa import parse_ufa_json_to_calendar
 
 def download_single_feed(feed_info):
     """Worker function to process one feed concurrently."""
-    league, url, team_filter = feed_info
+    league, team_name, url, team_filter = feed_info
     session = requests.Session()
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
