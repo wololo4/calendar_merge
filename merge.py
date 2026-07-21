@@ -64,7 +64,8 @@ def main():
 
             UNUSED_FIELDS = [
                 "TZID",
-                "STATUS"
+                "STATUS",
+                "PRIORITY"
             ]
 
             for field in UNUSED_FIELDS:
