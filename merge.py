@@ -34,7 +34,7 @@ def main():
             summary = str(event.get("SUMMARY", ""))
             location = str(event.get("LOCATION", ""))
             description = str(event.get("DESCRIPTION", ""))
-            
+                
             if "Welcome to" in summary:
                 continue
 
@@ -45,7 +45,14 @@ def main():
                 continue
 
             # Remove DESCRIPTION only if it starts with "You have booked some"
-            if description.startswith("You have booked some"):
+            DESCRIPTION_PREFIXES = [
+                "You have booked some",
+                "Grab your Tickets",
+                "Reminder",
+                "Manage my ECAL"
+            ]
+            
+            if any(description.startswith(prefix) for prefix in DESCRIPTION_PREFIXES):
                 if "DESCRIPTION" in event:
                     del event["DESCRIPTION"]
 
@@ -65,7 +72,11 @@ def main():
             UNUSED_FIELDS = [
                 "TZID",
                 "STATUS",
-                "PRIORITY"
+                "PRIORITY",
+                "SEQUENCE",
+                "CLASS",
+                "LAST-MODIFIED",
+                "TRANSP"
             ]
 
             for field in UNUSED_FIELDS:
