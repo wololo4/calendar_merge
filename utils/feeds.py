@@ -20,7 +20,7 @@ def load_feeds():
         if parser == "nhl":
             for team in data["teams"]:
                 url = team["url"]
-                feeds.append((league, team["name"], url, []))
+                feeds.append((league, team["name"], url, [], parser))
             continue
 
         # ============================
@@ -47,7 +47,7 @@ def load_feeds():
                         f"&season_id={season_id}"
                         f"&team_id={team_id}"
                     )
-                    feeds.append((league, f"{team_name} (S{season_id})", url, []))
+                    feeds.append((league, f"{team_name} (S{season_id})", url, [], parser))
 
             continue
 
@@ -61,7 +61,7 @@ def load_feeds():
                 team_name = team["name"]
                 team_code = team["code"]
                 
-                feeds.append((league, team_name, url, [team_code]))
+                feeds.append((league, team_name, url, [team_code], parser))
             continue
 
         # ============================
@@ -70,7 +70,7 @@ def load_feeds():
         if parser == "chl_memorial":
             for team in data["teams"]:
                 url = team["url"]
-                feeds.append((league, team["name"], url, []))
+                feeds.append((league, team["name"], url, [], parser))
             continue
 
         # ============================
@@ -79,7 +79,7 @@ def load_feeds():
         if parser == "ufa":
             for team in data["teams"]:
                 url = team["url"]
-                feeds.append((league, team["name"], url, []))
+                feeds.append((league, team["name"], url, [], parser))
             continue
 
         # ============================
@@ -87,7 +87,7 @@ def load_feeds():
         # ============================
         if parser == "vhl":
             for team in data.get("teams", []):
-                feeds.append((league, team["name"], team["url"], parser))
+                feeds.append((league, team["name"], team["url"], None, parser))
             continue
 
         # ============================
@@ -96,7 +96,7 @@ def load_feeds():
         if parser == "ics":
             for team in data["teams"]:
                 url = team["url"]
-                feeds.append((league, team["name"], url, []))
+                feeds.append((league, team["name"], url, [], parser))
             continue
 
         print(f"Warning: Unknown parser for league '{league}'")
