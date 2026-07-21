@@ -63,19 +63,25 @@ def download_single_feed(feed_info):
 
             # NHL (ICS or JSON)
             if parser == "nhl":
-                # ICS → simple
+                # ICS feed
                 if url.endswith(".ics"):
-                    ics_data = response.content.strip()
-                    return league, team_name, Calendar.from_ical(ics_data)
+                    try:
+                        ics_data = response.content.strip()
+                        return league, team_name, Calendar.from_ical(ics_data)
+                    except Exception as e:
+                        print("Error parsing NHL ICS:", e)
+                        return league, team_name, None
             
-                # JSON → extraire seulement la présaison
-                raw_json = response.json()
+                # JSON feed
+                try:
+                    raw_json = response.json()
+                except Exception as e:
+                    print("Error parsing NHL JSON:", e)
+                    return league, team_name, None
+            
+                # Extract preseason only
                 games_list = raw_json.get("games", [])
-            
-                preseason_games = [
-                    g for g in games_list
-                    if g.get("gameType") == 1
-                ]
+                preseason_games = [g for g in games_list if g.get("gameType") == 1]
             
                 return league, team_name, parse_nhl_json_to_calendar(preseason_games)
 
