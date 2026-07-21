@@ -70,7 +70,7 @@ def load_feeds():
         if parser == "liiga":
             base_url = data["base_url"]
             season = data["season"]
-            tournament = data["tournament"]
+            tournament = data.get("tournament", [])
 
             if isinstance(tournaments, str):
                 tournaments = [tournaments]
