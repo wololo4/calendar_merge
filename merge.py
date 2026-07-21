@@ -30,10 +30,32 @@ def main():
             if event.name != "VEVENT":
                 continue
 
-            # Remove ECAL welcome event
+            # Remove ECAL marketing events
             summary = str(event.get("SUMMARY", ""))
+            location = str(event.get("LOCATION", ""))
+            description = str(event.get("DESCRIPTION", ""))
+            
             if "Welcome to" in summary:
                 continue
+
+            if "Proudly powered by ECAL" in location:
+                continue
+
+            if "powered by ECAL" in description:
+                continue
+
+            #remove VALARM blocks
+            if event.name == "VALARM":
+                continue
+
+            #remove Microsoft/APPLE/ECAL metadata
+            for key in list(event.keys()):
+                if key.startswith("X-ECAL"):
+                    del event[key]
+                if key.startswith("X-MICROSOFT"):
+                    del event[key]
+                if key.startswith("X-APPLE"):
+                    del event[key]
 
             key = event_id(event)
             if key in seen[league]:
