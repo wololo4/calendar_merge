@@ -62,10 +62,17 @@ def download_single_feed(feed_info):
             raw_json = response.json()
 
             #NHL JSON
-            if "games" in raw_json:
-                games_list = raw_json.get("games", [])
-                if games_list and isinstance(games_list, list) and "startTimeUTC" in games_list[0]:
-                    return league, team_name, parse_nhl_json_to_calendar(raw_json)
+                if parser == "nhl" and team_filter == []:
+                    raw_json = response.json()
+                    games_list = raw_json.get("games", [])
+                
+                    # Pré-saison uniquement
+                    preseason_games = [
+                        g for g in games_list
+                        if g.get("gameType") == 1
+                    ]
+                
+                    return league, team_name, parse_nhl_json_to_calendar(preseason_games)
                 else:
                     return league, team_name, parse_ufa_json_to_calendar(raw_json)
             #CHL Europe JSON
