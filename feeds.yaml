@@ -14,17 +14,13 @@ NHL:
 AHL:
   parser: leaguestat
   base_url: https://lscluster.hockeytech.com/components/calendar/ical_add_games.php
+  client_code: ahl
+  team_id: 415
   teams:
     - name: Laval Rocket (Regular Season)
-      params:
-        client_code: ahl
-        team_id: 415
-        season_id: 94
+      season_id: 94
     - name: Laval Rocket (Playoffs)
-      params:
-        client_code: ahl
-        team_id: 415
-        season_id: 96
+      season_id: 96
 
 ECHL:
   parser: ics
