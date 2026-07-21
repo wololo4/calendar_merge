@@ -57,7 +57,7 @@ def load_feeds():
         if parser == "chl_europe":
             url = data["url"]
 
-            for team in data.get("teams", [])):
+            for team in data.get("teams", []):
                 team_name = team["name"]
                 team_code = team["code"]
                 
