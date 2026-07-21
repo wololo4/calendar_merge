@@ -18,16 +18,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  d/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT7f/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT7g/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT7l/3G7bT\n\n
 LOCATION:Coop Norrbotten Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Luleå Hockey - Frölunda HC
@@ -46,16 +36,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  B/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT7C/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT7D/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT7J/3G7bT\n\n
 LOCATION:Coop Norrbotten Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Brynäs IF - Luleå Hockey
@@ -74,16 +54,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  Y/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT7Z/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT81/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT84/3G7bT\n\n
 LOCATION:Monitor ERP Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Skellefteå AIK - Luleå Hockey
@@ -102,16 +72,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  h/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT8j/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT8k/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT8n/3G7bT\n\n
 LOCATION:Skellefteå Kraft Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Linköping HC - Luleå Hockey
@@ -130,16 +90,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  F/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT8G/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT8H/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT8P/3G7bT\n\n
 LOCATION:Saab Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Örebro Hockey - Luleå Hockey
@@ -158,16 +108,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  2/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT94/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT96/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT9c/3G7bT\n\n
 LOCATION:Behrn Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Luleå Hockey - Malmö Redhawks
@@ -186,16 +126,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  s/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT9t/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT9v/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT9y/3G7bT\n\n
 LOCATION:Coop Norrbotten Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Luleå Hockey - Timrå IK
@@ -214,16 +144,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  Q/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT9R/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT9S/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT9W/3G7bT\n\n
 LOCATION:Coop Norrbotten Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Färjestad BK - Luleå Hockey
@@ -242,16 +162,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  z/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHSVB/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHSVC/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHSVG/3G7bT\n\n
 LOCATION:Löfbergs Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Luleå Hockey - HV71
@@ -270,16 +180,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  T/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHSVV/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHSVW/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHSVZ/3G7bT\n\n
 LOCATION:Coop Norrbotten Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Växjö Lakers - Luleå Hockey
@@ -298,16 +198,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  c/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHSWd/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHSWf/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHSWj/3G7bT\n\n
 LOCATION:Vida Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Luleå Hockey - Djurgårdens IF
@@ -326,16 +216,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  w/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHSWx/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHSWy/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHSWC/3G7bT\n\n
 LOCATION:Coop Norrbotten Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Luleå Hockey - Björklöven
@@ -354,16 +234,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  Q/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHSWR/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHSWS/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHSWW/3G7bT\n\n
 LOCATION:Coop Norrbotten Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Timrå IK - Luleå Hockey
@@ -382,16 +252,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  8/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHSX9/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHSXb/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHSXf/3G7bT\n\n
 LOCATION:SCA Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | HV71 - Luleå Hockey
@@ -410,16 +270,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  s/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHSXt/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHSXv/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHSXy/3G7bT\n\n
 LOCATION:Husqvarna Garden
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Luleå Hockey - Färjestad BK
@@ -438,16 +288,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  M/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHSXN/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHSXP/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHSXS/3G7bT\n\n
 LOCATION:Coop Norrbotten Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Brynäs IF - Luleå Hockey
@@ -466,16 +306,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  5/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHSY6/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHSY7/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHSYb/3G7bT\n\n
 LOCATION:Monitor ERP Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Djurgårdens IF - Luleå Hockey
@@ -494,16 +324,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  p/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHSYq/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHSYr/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHSYv/3G7bT\n\n
 LOCATION:Hovet
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Luleå Hockey - Malmö Redhawks
@@ -522,16 +342,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  J/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHSYK/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHSYL/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHSYP/3G7bT\n\n
 LOCATION:Coop Norrbotten Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Luleå Hockey - Rögle BK
@@ -550,16 +360,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  2/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHSZ3/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHSZ4/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHSZ7/3G7bT\n\n
 LOCATION:Coop Norrbotten Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Örebro Hockey - Luleå Hockey
@@ -578,16 +378,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  l/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHSZm/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHSZn/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHSZr/3G7bT\n\n
 LOCATION:Behrn Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Björklöven - Luleå Hockey
@@ -606,16 +396,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  F/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHSZG/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHSZH/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHSZL/3G7bT\n\n
 LOCATION:Visionite Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Luleå Hockey - Frölunda HC
@@ -634,16 +414,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  Y/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHSZZ/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT11/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT14/3G7bT\n\n
 LOCATION:Coop Norrbotten Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Luleå Hockey - Växjö Lakers
@@ -662,16 +432,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  h/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT1j/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT1k/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT1n/3G7bT\n\n
 LOCATION:Coop Norrbotten Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Skellefteå AIK - Luleå Hockey
@@ -690,16 +450,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  B/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT1C/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT1D/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT1H/3G7bT\n\n
 LOCATION:Skellefteå Kraft Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Linköping HC - Luleå Hockey
@@ -718,16 +468,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  V/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT1W/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT1X/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT21/3G7bT\n\n
 LOCATION:Saab Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Luleå Hockey - Timrå IK
@@ -746,16 +486,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  d/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT2f/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT2g/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT2n/3G7bT\n\n
 LOCATION:Coop Norrbotten Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Luleå Hockey - Björklöven
@@ -774,16 +504,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  B/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT2C/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT2D/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT2H/3G7bT\n\n
 LOCATION:Coop Norrbotten Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Rögle BK - Luleå Hockey
@@ -802,16 +522,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  V/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT2W/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT2X/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT31/3G7bT\n\n
 LOCATION:Catena Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Malmö Redhawks - Luleå Hockey
@@ -830,16 +540,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  d/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT3f/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT3g/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT3k/3G7bT\n\n
 LOCATION:Malmö Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Luleå Hockey - Djurgårdens IF
@@ -858,16 +558,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  8/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHTb9/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHTbb/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHTbf/3G7bT\n\n
 LOCATION:Coop Norrbotten Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Luleå Hockey - Skellefteå AIK
@@ -886,16 +576,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  w/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHTbx/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHTby/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHTbC/3G7bT\n\n
 LOCATION:Coop Norrbotten Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | HV71 - Luleå Hockey
@@ -914,16 +594,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  x/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT3y/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT3z/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT3D/3G7bT\n\n
 LOCATION:Husqvarna Garden
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Luleå Hockey - Linköping HC
@@ -942,16 +612,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  X/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT3Z/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT41/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT44/3G7bT\n\n
 LOCATION:Coop Norrbotten Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Luleå Hockey - Brynäs IF
@@ -970,16 +630,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  h/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT4j/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT4k/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT4n/3G7bT\n\n
 LOCATION:Coop Norrbotten Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Växjö Lakers - Luleå Hockey
@@ -998,16 +648,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  B/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT4C/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT4D/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT4H/3G7bT\n\n
 LOCATION:Vida Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Frölunda HC - Luleå Hockey
@@ -1026,16 +666,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  Q/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHTbR/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHTbS/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHTbW/3G7bT\n\n
 LOCATION:Scandinavium
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Luleå Hockey - Färjestad BK
@@ -1054,16 +684,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  8/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHTc9/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHTcb/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHTcf/3G7bT\n\n
 LOCATION:Coop Norrbotten Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Luleå Hockey - Örebro Hockey
@@ -1082,16 +702,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  s/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHTct/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHTcv/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHTcy/3G7bT\n\n
 LOCATION:Coop Norrbotten Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Timrå IK - Luleå Hockey
@@ -1110,16 +720,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  M/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHTcN/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHTcP/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHTcT/3G7bT\n\n
 LOCATION:SCA Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Luleå Hockey - Brynäs IF
@@ -1138,16 +738,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  c/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHTdd/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHTdf/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHTdj/3G7bT\n\n
 LOCATION:Coop Norrbotten Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Luleå Hockey - Skellefteå AIK
@@ -1166,16 +756,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  w/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHTdx/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHTdy/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHTdC/3G7bT\n\n
 LOCATION:Coop Norrbotten Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Färjestad BK - Luleå Hockey
@@ -1194,16 +774,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  Q/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHTdR/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHTdS/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHTdW/3G7bT\n\n
 LOCATION:Löfbergs Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Luleå Hockey - Linköping HC
@@ -1222,16 +792,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  8/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHTf9/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHTfb/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHTff/3G7bT\n\n
 LOCATION:Coop Norrbotten Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Luleå Hockey - HV71
@@ -1250,16 +810,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  s/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHTft/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHTfv/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHTfy/3G7bT\n\n
 LOCATION:Coop Norrbotten Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Malmö Redhawks - Luleå Hockey
@@ -1278,16 +828,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  V/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT5W/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT5X/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT61/3G7bT\n\n
 LOCATION:Malmö Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Frölunda HC - Luleå Hockey
@@ -1306,16 +846,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  h/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT6j/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT6k/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT6n/3G7bT\n\n
 LOCATION:Scandinavium
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Rögle BK - Luleå Hockey
@@ -1334,16 +864,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  B/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT6C/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT6D/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT6H/3G7bT\n\n
 LOCATION:Catena Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Luleå Hockey - Växjö Lakers
@@ -1362,16 +882,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  V/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT6W/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT6X/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT71/3G7bT\n\n
 LOCATION:Coop Norrbotten Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Björklöven - Luleå Hockey
@@ -1390,16 +900,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  V/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT4W/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT4X/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT51/3G7bT\n\n
 LOCATION:Visionite Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Djurgårdens IF - Luleå Hockey
@@ -1418,16 +918,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  d/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT5f/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT5g/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT5k/3G7bT\n\n
 LOCATION:Hovet
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Luleå Hockey - Örebro Hockey
@@ -1446,16 +936,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  x/3G7bT\n\nInstagram\nhttps://ecal.ai/f/2fHT5y/3G7bT\n\nTikTok\nhttps://ec
  al.ai/f/2fHT5z/3G7bT\n\nManage my ECAL\nhttps://ecal.ai/f/2fHT5D/3G7bT\n\n
 LOCATION:Coop Norrbotten Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Skellefteå AIK - Brynäs IF
@@ -1474,16 +954,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  V/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVgW/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVgX/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVh1/3G7c9\n\n
 LOCATION:Skellefteå Kraft Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | HV71 - Skellefteå AIK
@@ -1502,16 +972,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  d/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVhf/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVhg/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVhk/3G7c9\n\n
 LOCATION:Husqvarna Garden
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Örebro Hockey - Skellefteå AIK
@@ -1530,16 +990,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  x/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVhy/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVhz/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVhD/3G7c9\n\n
 LOCATION:Behrn Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Skellefteå AIK - Luleå Hockey
@@ -1558,16 +1008,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  R/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVhS/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVhT/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVhX/3G7c9\n\n
 LOCATION:Skellefteå Kraft Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Skellefteå AIK - Malmö Redhawks
@@ -1586,16 +1026,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  9/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVjb/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVjc/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVjg/3G7c9\n\n
 LOCATION:Skellefteå Kraft Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Timrå IK - Skellefteå AIK
@@ -1614,16 +1044,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  t/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVjv/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVjw/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVjz/3G7c9\n\n
 LOCATION:SCA Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Skellefteå AIK - Färjestad BK
@@ -1642,16 +1062,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  N/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVjP/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVjQ/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVjT/3G7c9\n\n
 LOCATION:Skellefteå Kraft Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Skellefteå AIK - Rögle BK
@@ -1670,16 +1080,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  q/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVkr/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVks/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVkw/3G7c9\n\n
 LOCATION:Skellefteå Kraft Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Växjö Lakers - Skellefteå AIK
@@ -1698,16 +1098,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  N/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVkP/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVkQ/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVkT/3G7c9\n\n
 LOCATION:Vida Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Frölunda HC - Skellefteå AIK
@@ -1726,16 +1116,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  6/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVk7/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVk8/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVkc/3G7c9\n\n
 LOCATION:Scandinavium
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Skellefteå AIK - Djurgårdens IF
@@ -1754,16 +1134,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  6/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVl7/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVl8/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVlc/3G7c9\n\n
 LOCATION:Skellefteå Kraft Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Björklöven - Skellefteå AIK
@@ -1782,16 +1152,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  q/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVlr/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVls/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVlw/3G7c9\n\n
 LOCATION:Visionite Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Skellefteå AIK - Linköping HC
@@ -1810,16 +1170,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  3/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVm4/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVm5/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVm8/3G7c9\n\n
 LOCATION:Skellefteå Kraft Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Skellefteå AIK - Björklöven
@@ -1838,16 +1188,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  m/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVmn/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVmp/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVms/3G7c9\n\n
 LOCATION:Skellefteå Kraft Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Brynäs IF - Skellefteå AIK
@@ -1866,16 +1206,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  G/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVmH/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVmJ/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVmM/3G7c9\n\n
 LOCATION:Monitor ERP Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Skellefteå AIK - Linköping HC
@@ -1894,16 +1224,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  Z/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVn1/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVn2/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVn5/3G7c9\n\n
 LOCATION:Skellefteå Kraft Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Djurgårdens IF - Skellefteå AIK
@@ -1922,16 +1242,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  j/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVnk/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVnl/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVnp/3G7c9\n\n
 LOCATION:Hovet
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Örebro Hockey - Skellefteå AIK
@@ -1950,16 +1260,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  C/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVnD/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVnF/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVnJ/3G7c9\n\n
 LOCATION:Behrn Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Skellefteå AIK - Rögle BK
@@ -1978,16 +1278,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  W/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVnX/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVnY/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVp2/3G7c9\n\n
 LOCATION:Skellefteå Kraft Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Skellefteå AIK - Färjestad BK
@@ -2006,16 +1296,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  f/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVpg/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVph/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVpl/3G7c9\n\n
 LOCATION:Skellefteå Kraft Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | HV71 - Skellefteå AIK
@@ -2034,16 +1314,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  y/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVpz/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVpB/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVpF/3G7c9\n\n
 LOCATION:Husqvarna Garden
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Skellefteå AIK - Frölunda HC
@@ -2062,16 +1332,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  S/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVpT/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVpV/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVpY/3G7c9\n\n
 LOCATION:Skellefteå Kraft Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Skellefteå AIK - Växjö Lakers
@@ -2090,16 +1350,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  b/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVqc/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVqd/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVqh/3G7c9\n\n
 LOCATION:Skellefteå Kraft Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Malmö Redhawks - Skellefteå AIK
@@ -2118,16 +1368,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  v/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVqw/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVqx/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVqB/3G7c9\n\n
 LOCATION:Malmö Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Skellefteå AIK - Luleå Hockey
@@ -2146,16 +1386,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  P/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVqQ/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVqR/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVqV/3G7c9\n\n
 LOCATION:Skellefteå Kraft Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Timrå IK - Skellefteå AIK
@@ -2174,16 +1404,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  K/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVlL/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVlM/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVlQ/3G7c9\n\n
 LOCATION:SCA Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Björklöven - Skellefteå AIK
@@ -2202,16 +1422,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  7/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVr8/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVr9/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVrd/3G7c9\n\n
 LOCATION:Visionite Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Skellefteå AIK - Örebro Hockey
@@ -2230,16 +1440,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  r/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVrs/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVrt/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVrx/3G7c9\n\n
 LOCATION:Skellefteå Kraft Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Färjestad BK - Skellefteå AIK
@@ -2258,16 +1458,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  L/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVrM/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVrN/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVrR/3G7c9\n\n
 LOCATION:Löfbergs Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Skellefteå AIK - Djurgårdens IF
@@ -2286,16 +1476,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  4/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVs5/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVs6/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVs9/3G7c9\n\n
 LOCATION:Skellefteå Kraft Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Rögle BK - Skellefteå AIK
@@ -2314,16 +1494,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  n/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVsp/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVsq/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVst/3G7c9\n\n
 LOCATION:Catena Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Luleå Hockey - Skellefteå AIK
@@ -2342,16 +1512,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  H/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVsJ/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVsK/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVsN/3G7c9\n\n
 LOCATION:Coop Norrbotten Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Brynäs IF - Skellefteå AIK
@@ -2370,16 +1530,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  1/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVt3/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVt5/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVtb/3G7c9\n\n
 LOCATION:Monitor ERP Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Skellefteå AIK - HV71
@@ -2398,16 +1548,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  r/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVts/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVtt/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVtx/3G7c9\n\n
 LOCATION:Skellefteå Kraft Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Skellefteå AIK - Frölunda HC
@@ -2426,16 +1566,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  L/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVtM/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVtN/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVtS/3G7c9\n\n
 LOCATION:Skellefteå Kraft Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Linköping HC - Skellefteå AIK
@@ -2454,16 +1584,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  7/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVv8/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVv9/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVvf/3G7c9\n\n
 LOCATION:Saab Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Skellefteå AIK - Timrå IK
@@ -2482,16 +1602,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  B/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVvD/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVvF/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVvJ/3G7c9\n\n
 LOCATION:Skellefteå Kraft Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Malmö Redhawks - Skellefteå AIK
@@ -2510,16 +1620,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  Z/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVw1/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVw2/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVw6/3G7c9\n\n
 LOCATION:Malmö Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Växjö Lakers - Skellefteå AIK
@@ -2538,16 +1638,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  m/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVwn/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVwp/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVws/3G7c9\n\n
 LOCATION:Vida Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Skellefteå AIK - Örebro Hockey
@@ -2566,16 +1656,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  G/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVwH/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVwJ/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVwM/3G7c9\n\n
 LOCATION:Skellefteå Kraft Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Skellefteå AIK - Malmö Redhawks
@@ -2594,16 +1674,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  Z/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVx1/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVx2/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVx5/3G7c9\n\n
 LOCATION:Skellefteå Kraft Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Luleå Hockey - Skellefteå AIK
@@ -2622,16 +1692,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  j/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVxk/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVxl/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVxp/3G7c9\n\n
 LOCATION:Coop Norrbotten Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Skellefteå AIK - Växjö Lakers
@@ -2650,16 +1710,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  C/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVxD/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVxF/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVxJ/3G7c9\n\n
 LOCATION:Skellefteå Kraft Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Skellefteå AIK - HV71
@@ -2678,16 +1728,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  W/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVxX/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVxY/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVy2/3G7c9\n\n
 LOCATION:Skellefteå Kraft Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Skellefteå AIK - Brynäs IF
@@ -2706,16 +1746,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  f/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVyg/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVyh/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVyl/3G7c9\n\n
 LOCATION:Skellefteå Kraft Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Färjestad BK - Skellefteå AIK
@@ -2734,16 +1764,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  C/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVyD/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVyF/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVyJ/3G7c9\n\n
 LOCATION:Löfbergs Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Djurgårdens IF - Skellefteå AIK
@@ -2762,16 +1782,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  f/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVzg/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVzh/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVzl/3G7c9\n\n
 LOCATION:Hovet
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Linköping HC - Skellefteå AIK
@@ -2790,16 +1800,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  y/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVzz/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVzB/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVzF/3G7c9\n\n
 LOCATION:Saab Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Skellefteå AIK - Björklöven
@@ -2818,16 +1818,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  S/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVzT/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVzV/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVzY/3G7c9\n\n
 LOCATION:Skellefteå Kraft Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Frölunda HC - Skellefteå AIK
@@ -2846,16 +1836,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  b/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVBc/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVBd/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVBh/3G7c9\n\n
 LOCATION:Scandinavium
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Rögle BK - Skellefteå AIK
@@ -2874,16 +1854,6 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  B/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVgC/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVgD/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVgH/3G7c9\n\n
 LOCATION:Catena Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 SHL | Skellefteå AIK - Timrå IK
@@ -2902,15 +1872,5 @@ DESCRIPTION:SHL | Upplev matchen på plats eller streama på TV4 Play\n\nK
  W/3G7c9\n\nInstagram\nhttps://ecal.ai/f/2fHVyX/3G7c9\n\nTikTok\nhttps://ec
  al.ai/f/2fHVyY/3G7c9\n\nManage my ECAL\nhttps://ecal.ai/f/2fHVz2/3G7c9\n\n
 LOCATION:Skellefteå Kraft Arena
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 END:VCALENDAR
