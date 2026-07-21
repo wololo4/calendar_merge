@@ -148,6 +148,12 @@ Liiga:
     - name: TPS turku
       team_id: "651304385:tps"
 
+DEL:
+  parser: del
+  teams:
+    - name: Kölner Haie
+      url: https://www.penny-del.org/spiele/team/11
+
 CHL:
   parser: chl_europe
   teams:
