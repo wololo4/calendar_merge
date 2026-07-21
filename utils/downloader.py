@@ -7,6 +7,7 @@ from parsers.chl_canada import parse_chl_json_to_calendar
 from parsers.chl_europe import parse_chl_europe_json_to_calendar
 from parsers.ufa import parse_ufa_json_to_calendar
 from parsers.vhl import parse_vhl_html
+from parsers.liiga import parse_liiga_json_to_calendar
 
 def download_single_feed(feed_info):
     """Worker function to process one feed concurrently."""
@@ -34,6 +35,22 @@ def download_single_feed(feed_info):
         if league == "VHL": 
             html = response.text
             return league, team_name, parse_vhl_html(html, team_name)
+
+        # LIIGA JSON
+        if parser == "liiga":
+            raw_json = response.json()
+            team_id = team_filter[0]
+
+            # Filtrer les matchs où TPS apparaît
+            filtered = []
+            for game in raw_json:
+                home = game.get("homeTeamId")
+                away = game.get("awayTeamId")
+
+                if home == team_id or away == team_id:
+                    filtered.append(game)
+
+            return league, team_name, parse_liiga_json_to_calendar(filtered)
         
         try:
             raw_json = response.json()
