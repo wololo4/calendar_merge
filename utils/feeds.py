@@ -31,7 +31,7 @@ def load_feeds():
             client_code = data["client_code"]
 
             # AHL uses "params" inside each team
-            if "teams" in data:
+            if "team_id" in data:
                 team_id = data["team_id"]
                 for team in data["teams"]:
                     season_id = team["season_id"]
