@@ -589,4 +589,54 @@ DTEND:20270411T010000Z
 UID:6a591b0854aa884dbc682b9c
 LOCATION:Canadian Tire Centre
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MTL @ TOR
+DTSTART:20260919T230000Z
+DTEND:20260920T013000Z
+UID:nhl-game-2026010006@nhle.com
+DESCRIPTION:Official NHL Ice Hockey Match\nLeague Stage: Pre-Season\nGame 
+ Center: https://www.nhl.com/gamecenter/mtl-vs-tor/2026/09/19/2026010006\nT
+ ickets: https://www.nhl.com/mapleleafs/tickets/
+LOCATION:Scotiabank Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TOR @ MTL
+DTSTART:20260919T230000Z
+DTEND:20260920T013000Z
+UID:nhl-game-2026010007@nhle.com
+DESCRIPTION:Official NHL Ice Hockey Match\nLeague Stage: Pre-Season\nGame 
+ Center: https://www.nhl.com/gamecenter/tor-vs-mtl/2026/09/19/2026010007\nT
+ ickets: https://www.nhl.com/canadiens/tickets/
+LOCATION:Centre Bell
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OTT @ MTL
+DTSTART:20260921T230000Z
+DTEND:20260922T013000Z
+UID:nhl-game-2026010022@nhle.com
+DESCRIPTION:Official NHL Ice Hockey Match\nLeague Stage: Pre-Season\nGame 
+ Center: https://www.nhl.com/gamecenter/ott-vs-mtl/2026/09/21/2026010022\nT
+ ickets: https://www.nhl.com/canadiens/tickets/
+LOCATION:Colis√©e Vid√©otron
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MTL @ OTT
+DTSTART:20260926T160000Z
+DTEND:20260926T183000Z
+UID:nhl-game-2026010064@nhle.com
+DESCRIPTION:Official NHL Ice Hockey Match\nLeague Stage: Pre-Season\nGame 
+ Center: https://www.nhl.com/gamecenter/mtl-vs-ott/2026/09/26/2026010064\nT
+ ickets: https://www.nhl.com/senators/tickets/
+LOCATION:Canadian Tire Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OTT @ MTL
+DTSTART:20260926T230000Z
+DTEND:20260927T013000Z
+UID:nhl-game-2026010065@nhle.com
+DESCRIPTION:Official NHL Ice Hockey Match\nLeague Stage: Pre-Season\nGame 
+ Center: https://www.nhl.com/gamecenter/ott-vs-mtl/2026/09/26/2026010065\nT
+ ickets: https://www.nhl.com/canadiens/tickets/
+LOCATION:Centre Bell
+END:VEVENT
 END:VCALENDAR
