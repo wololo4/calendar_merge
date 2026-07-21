@@ -39,7 +39,7 @@ def download_single_feed(feed_info):
                 if games_list and isinstance(games_list, list) and "startTimeUTC" in games_list[0]:
                     return league, team_name, parse_nhl_json_to_calendar(raw_json)
                 else:
-                    return league, parse_ufa_json_to_calendar(raw_json)
+                    return league, team_name, parse_ufa_json_to_calendar(raw_json)
             #CHL Europe JSON
             if raw_json.get("_type") == "Corebine.Core.Protocol.Response.Array":
                 return league, team_name, parse_chl_europe_json_to_calendar(raw_json, team_filter)
