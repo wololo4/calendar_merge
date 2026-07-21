@@ -49,7 +49,8 @@ def main():
                 "You have booked some",
                 "Grab your Tickets",
                 "Reminder",
-                "Manage my ECAL"
+                "Manage my ECAL",
+                "SHL | Upplev matchen"
             ]
             
             if any(description.startswith(prefix) for prefix in DESCRIPTION_PREFIXES):
@@ -77,7 +78,8 @@ def main():
                 "SEQUENCE",
                 "CLASS",
                 "LAST-MODIFIED",
-                "TRANSP"
+                "TRANSP",
+                "DTSTAMP"
             ]
 
             for field in UNUSED_FIELDS:
