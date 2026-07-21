@@ -33,7 +33,7 @@ OHL:
   parser: leaguestat
   base_url: https://cluster.leaguestat.com/components/calendar/ical_add_games.php
   client_code: ohl
-  season_id: 88
+  season_id: [87,88,89]
   teams:
     - name: Brantford Bulldogs
       team_id: 1
@@ -44,7 +44,7 @@ LHJMQ:
   parser: leaguestat
   base_url: https://cluster.leaguestat.com/components/calendar/ical_add_games.php
   client_code: lhjmq
-  season_id: 214
+  season_id: [213,214,215]
   teams:
     - name: Saguenéens Chicoutimi
       team_id: 10
@@ -55,7 +55,7 @@ WHL:
   parser: leaguestat
   base_url: https://cluster.leaguestat.com/components/calendar/ical_add_games.php
   client_code: whl
-  season_id: 295
+  season_id: [294,295,296]
   teams:
     - name: Penticton Vees
       team_id: 277
