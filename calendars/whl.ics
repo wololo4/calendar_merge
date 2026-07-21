@@ -7,1470 +7,1680 @@ BEGIN:VEVENT
 SUMMARY:Penticton Vees @ Kamloops Blazers
 DTSTART:20260903T020000Z
 DTEND:20260903T050000Z
-UID:226916a5fcf5c8b03b1023031@hockeytech.com
+UID:vDDDTypes(2026-09-03 02:00:00+00:00\, Parameters({}))-Penticton Vees @
+  Kamloops Blazers
 LOCATION:Sandman Centre - Kamloops\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kamloops Blazers @ Penticton Vees
 DTSTART:20260909T013500Z
 DTEND:20260909T043500Z
-UID:226916a5fcf5c8b03b1023057@hockeytech.com
+UID:vDDDTypes(2026-09-09 01:35:00+00:00\, Parameters({}))-Kamloops Blazers
+  @ Penticton Vees
 LOCATION:South Okanagan Events Centre - Penticton\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kelowna Rockets @ Penticton Vees
 DTSTART:20260910T013500Z
 DTEND:20260910T043500Z
-UID:226916a5fcf5c8b03b1023058@hockeytech.com
+UID:vDDDTypes(2026-09-10 01:35:00+00:00\, Parameters({}))-Kelowna Rockets 
+ @ Penticton Vees
 LOCATION:South Okanagan Events Centre - Penticton\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penticton Vees @ Kelowna Rockets
 DTSTART:20260913T010500Z
 DTEND:20260913T040500Z
-UID:226916a5fcf5c8b03b1023069@hockeytech.com
+UID:vDDDTypes(2026-09-13 01:05:00+00:00\, Parameters({}))-Penticton Vees @
+  Kelowna Rockets
 LOCATION:Prospera Place - Kelowna\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penticton Vees @ Prince George Cougars
 DTSTART:20260919T020000Z
 DTEND:20260919T050000Z
-UID:125856a5fcf5cbcf881023085@hockeytech.com
+UID:vDDDTypes(2026-09-19 02:00:00+00:00\, Parameters({}))-Penticton Vees @
+  Prince George Cougars
 LOCATION:CN Centre - Prince George\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penticton Vees @ Prince George Cougars
 DTSTART:20260920T010000Z
 DTEND:20260920T040000Z
-UID:125856a5fcf5cbcf881023090@hockeytech.com
+UID:vDDDTypes(2026-09-20 01:00:00+00:00\, Parameters({}))-Penticton Vees @
+  Prince George Cougars
 LOCATION:CN Centre - Prince George\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kelowna Rockets @ Penticton Vees
 DTSTART:20260926T020500Z
 DTEND:20260926T050500Z
-UID:125856a5fcf5cbcf881023101@hockeytech.com
+UID:vDDDTypes(2026-09-26 02:05:00+00:00\, Parameters({}))-Kelowna Rockets 
+ @ Penticton Vees
 LOCATION:South Okanagan Events Centre - Penticton\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penticton Vees @ Kelowna Rockets
 DTSTART:20260927T010500Z
 DTEND:20260927T040500Z
-UID:125856a5fcf5cbcf881023105@hockeytech.com
+UID:vDDDTypes(2026-09-27 01:05:00+00:00\, Parameters({}))-Penticton Vees @
+  Kelowna Rockets
 LOCATION:Prospera Place - Kelowna\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vancouver Giants @ Penticton Vees
 DTSTART:20261003T020500Z
 DTEND:20261003T050500Z
-UID:125856a5fcf5cbcf881023121@hockeytech.com
+UID:vDDDTypes(2026-10-03 02:05:00+00:00\, Parameters({}))-Vancouver Giants
+  @ Penticton Vees
 LOCATION:South Okanagan Events Centre - Penticton\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tri-City Americans @ Penticton Vees
 DTSTART:20261004T010500Z
 DTEND:20261004T040500Z
-UID:125856a5fcf5cbcf881023132@hockeytech.com
+UID:vDDDTypes(2026-10-04 01:05:00+00:00\, Parameters({}))-Tri-City America
+ ns @ Penticton Vees
 LOCATION:South Okanagan Events Centre - Penticton\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Swift Current Broncos @ Penticton Vees
 DTSTART:20261007T013500Z
 DTEND:20261007T043500Z
-UID:125856a5fcf5cbcf881023138@hockeytech.com
+UID:vDDDTypes(2026-10-07 01:35:00+00:00\, Parameters({}))-Swift Current Br
+ oncos @ Penticton Vees
 LOCATION:South Okanagan Events Centre - Penticton\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brandon Wheat Kings @ Penticton Vees
 DTSTART:20261010T020500Z
 DTEND:20261010T050500Z
-UID:125856a5fcf5cbcf881023145@hockeytech.com
+UID:vDDDTypes(2026-10-10 02:05:00+00:00\, Parameters({}))-Brandon Wheat Ki
+ ngs @ Penticton Vees
 LOCATION:South Okanagan Events Centre - Penticton\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penticton Vees @ Tri-City Americans
 DTSTART:20261011T010500Z
 DTEND:20261011T040500Z
-UID:125856a5fcf5cbcf881023158@hockeytech.com
+UID:vDDDTypes(2026-10-11 01:05:00+00:00\, Parameters({}))-Penticton Vees @
+  Tri-City Americans
 LOCATION:Toyota Center - Kennewick\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portland Winterhawks @ Penticton Vees
 DTSTART:20261015T013500Z
 DTEND:20261015T043500Z
-UID:125856a5fcf5cbcf881023169@hockeytech.com
+UID:vDDDTypes(2026-10-15 01:35:00+00:00\, Parameters({}))-Portland Winterh
+ awks @ Penticton Vees
 LOCATION:South Okanagan Events Centre - Penticton\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penticton Vees @ Wenatchee Wild
 DTSTART:20261017T020000Z
 DTEND:20261017T050000Z
-UID:125856a5fcf5cbcf881023178@hockeytech.com
+UID:vDDDTypes(2026-10-17 02:00:00+00:00\, Parameters({}))-Penticton Vees @
+  Wenatchee Wild
 LOCATION:Town Toyota Center - Wenatchee\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vancouver Giants @ Penticton Vees
 DTSTART:20261018T010500Z
 DTEND:20261018T040500Z
-UID:125856a5fcf5cbcf881023183@hockeytech.com
+UID:vDDDTypes(2026-10-18 01:05:00+00:00\, Parameters({}))-Vancouver Giants
+  @ Penticton Vees
 LOCATION:South Okanagan Events Centre - Penticton\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penticton Vees @ Calgary Hitmen
 DTSTART:20261022T010000Z
 DTEND:20261022T040000Z
-UID:125856a5fcf5cbcf881023193@hockeytech.com
+UID:vDDDTypes(2026-10-22 01:00:00+00:00\, Parameters({}))-Penticton Vees @
+  Calgary Hitmen
 LOCATION:Scotiabank Saddledome - Calgary\, AB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penticton Vees @ Red Deer Rebels
 DTSTART:20261024T010000Z
 DTEND:20261024T040000Z
-UID:125856a5fcf5cbcf881023206@hockeytech.com
+UID:vDDDTypes(2026-10-24 01:00:00+00:00\, Parameters({}))-Penticton Vees @
+  Red Deer Rebels
 LOCATION:Marchant Crane Centrium - Red Deer\, AB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penticton Vees @ Edmonton Oil Kings
 DTSTART:20261025T220000Z
 DTEND:20261026T010000Z
-UID:125856a5fcf5cbcf881023219@hockeytech.com
+UID:vDDDTypes(2026-10-25 22:00:00+00:00\, Parameters({}))-Penticton Vees @
+  Edmonton Oil Kings
 LOCATION:Rogers Place - Edmonton\, AB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tri-City Americans @ Penticton Vees
 DTSTART:20261031T020500Z
 DTEND:20261031T050500Z
-UID:125856a5fcf5cbcf881023230@hockeytech.com
+UID:vDDDTypes(2026-10-31 02:05:00+00:00\, Parameters({}))-Tri-City America
+ ns @ Penticton Vees
 LOCATION:South Okanagan Events Centre - Penticton\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wenatchee Wild @ Penticton Vees
 DTSTART:20261108T230000Z
 DTEND:20261109T020000Z
-UID:125856a5fcf5cbcf881023274@hockeytech.com
+UID:vDDDTypes(2026-11-08 23:00:00+00:00\, Parameters({}))-Wenatchee Wild @
+  Penticton Vees
 LOCATION:South Okanagan Events Centre - Penticton\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penticton Vees @ Prince George Cougars
 DTSTART:20261111T020000Z
 DTEND:20261111T050000Z
-UID:125856a5fcf5cbcf881023277@hockeytech.com
+UID:vDDDTypes(2026-11-11 02:00:00+00:00\, Parameters({}))-Penticton Vees @
+  Prince George Cougars
 LOCATION:CN Centre - Prince George\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penticton Vees @ Prince George Cougars
 DTSTART:20261111T210000Z
 DTEND:20261112T000000Z
-UID:125856a5fcf5cbcf881023283@hockeytech.com
+UID:vDDDTypes(2026-11-11 21:00:00+00:00\, Parameters({}))-Penticton Vees @
+  Prince George Cougars
 LOCATION:CN Centre - Prince George\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moose Jaw Warriors @ Penticton Vees
 DTSTART:20261114T020500Z
 DTEND:20261114T050500Z
-UID:125856a5fcf5cbcf881023289@hockeytech.com
+UID:vDDDTypes(2026-11-14 02:05:00+00:00\, Parameters({}))-Moose Jaw Warrio
+ rs @ Penticton Vees
 LOCATION:South Okanagan Events Centre - Penticton\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penticton Vees @ Vancouver Giants
 DTSTART:20261115T020000Z
 DTEND:20261115T050000Z
-UID:125856a5fcf5cbcf881023304@hockeytech.com
+UID:vDDDTypes(2026-11-15 02:00:00+00:00\, Parameters({}))-Penticton Vees @
+  Vancouver Giants
 LOCATION:Langley Events Centre - Langley\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Thunderbirds @ Penticton Vees
 DTSTART:20261118T013500Z
 DTEND:20261118T043500Z
-UID:125856a5fcf5cbcf881023306@hockeytech.com
+UID:vDDDTypes(2026-11-18 01:35:00+00:00\, Parameters({}))-Seattle Thunderb
+ irds @ Penticton Vees
 LOCATION:South Okanagan Events Centre - Penticton\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Penticton Vees
 DTSTART:20261121T020500Z
 DTEND:20261121T050500Z
-UID:125856a5fcf5cbcf881023318@hockeytech.com
+UID:vDDDTypes(2026-11-21 02:05:00+00:00\, Parameters({}))-Regina Pats @ Pe
+ nticton Vees
 LOCATION:South Okanagan Events Centre - Penticton\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penticton Vees @ Spokane Chiefs
 DTSTART:20261122T010500Z
 DTEND:20261122T040500Z
-UID:125856a5fcf5cbcf881023330@hockeytech.com
+UID:vDDDTypes(2026-11-22 01:05:00+00:00\, Parameters({}))-Penticton Vees @
+  Spokane Chiefs
 LOCATION:Numerica Veterans Arena - Spokane\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penticton Vees @ Tri-City Americans
 DTSTART:20261128T020500Z
 DTEND:20261128T050500Z
-UID:125856a5fcf5cbcf881023351@hockeytech.com
+UID:vDDDTypes(2026-11-28 02:05:00+00:00\, Parameters({}))-Penticton Vees @
+  Tri-City Americans
 LOCATION:Toyota Center - Kennewick\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penticton Vees @ Wenatchee Wild
 DTSTART:20261129T010000Z
 DTEND:20261129T040000Z
-UID:125856a5fcf5cbcf881023362@hockeytech.com
+UID:vDDDTypes(2026-11-29 01:00:00+00:00\, Parameters({}))-Penticton Vees @
+  Wenatchee Wild
 LOCATION:Town Toyota Center - Wenatchee\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penticton Vees @ Kamloops Blazers
 DTSTART:20261205T020000Z
 DTEND:20261205T050000Z
-UID:125856a5fcf5cbcf881023371@hockeytech.com
+UID:vDDDTypes(2026-12-05 02:00:00+00:00\, Parameters({}))-Penticton Vees @
+  Kamloops Blazers
 LOCATION:Sandman Centre - Kamloops\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kamloops Blazers @ Penticton Vees
 DTSTART:20261206T010500Z
 DTEND:20261206T040500Z
-UID:125856a5fcf5cbcf881023383@hockeytech.com
+UID:vDDDTypes(2026-12-06 01:05:00+00:00\, Parameters({}))-Kamloops Blazers
+  @ Penticton Vees
 LOCATION:South Okanagan Events Centre - Penticton\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portland Winterhawks @ Penticton Vees
 DTSTART:20261209T013500Z
 DTEND:20261209T043500Z
-UID:125856a5fcf5cbcf881023396@hockeytech.com
+UID:vDDDTypes(2026-12-09 01:35:00+00:00\, Parameters({}))-Portland Winterh
+ awks @ Penticton Vees
 LOCATION:South Okanagan Events Centre - Penticton\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Victoria Royals @ Penticton Vees
 DTSTART:20261212T020500Z
 DTEND:20261212T050500Z
-UID:125856a5fcf5cbcf881023407@hockeytech.com
+UID:vDDDTypes(2026-12-12 02:05:00+00:00\, Parameters({}))-Victoria Royals 
+ @ Penticton Vees
 LOCATION:South Okanagan Events Centre - Penticton\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penticton Vees @ Vancouver Giants
 DTSTART:20261213T020000Z
 DTEND:20261213T050000Z
-UID:125856a5fcf5cbcf881023421@hockeytech.com
+UID:vDDDTypes(2026-12-13 02:00:00+00:00\, Parameters({}))-Penticton Vees @
+  Vancouver Giants
 LOCATION:Langley Events Centre - Langley\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penticton Vees @ Everett Silvertips
 DTSTART:20261213T230500Z
 DTEND:20261214T020500Z
-UID:125856a5fcf5cbcf881023423@hockeytech.com
+UID:vDDDTypes(2026-12-13 23:05:00+00:00\, Parameters({}))-Penticton Vees @
+  Everett Silvertips
 LOCATION:Angel of the Winds Arena - Everett\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spokane Chiefs @ Penticton Vees
 DTSTART:20261217T013500Z
 DTEND:20261217T043500Z
-UID:125856a5fcf5cbcf881023435@hockeytech.com
+UID:vDDDTypes(2026-12-17 01:35:00+00:00\, Parameters({}))-Spokane Chiefs @
+  Penticton Vees
 LOCATION:South Okanagan Events Centre - Penticton\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kelowna Rockets @ Penticton Vees
 DTSTART:20261219T020500Z
 DTEND:20261219T050500Z
-UID:125856a5fcf5cbcf881023441@hockeytech.com
+UID:vDDDTypes(2026-12-19 02:05:00+00:00\, Parameters({}))-Kelowna Rockets 
+ @ Penticton Vees
 LOCATION:South Okanagan Events Centre - Penticton\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penticton Vees @ Kelowna Rockets
 DTSTART:20261227T230500Z
 DTEND:20261228T020500Z
-UID:125856a5fcf5cbcf881023456@hockeytech.com
+UID:vDDDTypes(2026-12-27 23:05:00+00:00\, Parameters({}))-Penticton Vees @
+  Kelowna Rockets
 LOCATION:Prospera Place - Kelowna\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prince George Cougars @ Penticton Vees
 DTSTART:20261231T013500Z
 DTEND:20261231T043500Z
-UID:125856a5fcf5cbcf881023475@hockeytech.com
+UID:vDDDTypes(2026-12-31 01:35:00+00:00\, Parameters({}))-Prince George Co
+ ugars @ Penticton Vees
 LOCATION:South Okanagan Events Centre - Penticton\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Victoria Royals @ Penticton Vees
 DTSTART:20270101T230000Z
 DTEND:20270102T020000Z
-UID:125856a5fcf5cbcf881023484@hockeytech.com
+UID:vDDDTypes(2027-01-01 23:00:00+00:00\, Parameters({}))-Victoria Royals 
+ @ Penticton Vees
 LOCATION:South Okanagan Events Centre - Penticton\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prince George Cougars @ Penticton Vees
 DTSTART:20270109T020500Z
 DTEND:20270109T050500Z
-UID:125856a5fcf5cbcf881023506@hockeytech.com
+UID:vDDDTypes(2027-01-09 02:05:00+00:00\, Parameters({}))-Prince George Co
+ ugars @ Penticton Vees
 LOCATION:South Okanagan Events Centre - Penticton\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Everett Silvertips @ Penticton Vees
 DTSTART:20270110T010500Z
 DTEND:20270110T040500Z
-UID:125856a5fcf5cbcf881023517@hockeytech.com
+UID:vDDDTypes(2027-01-10 01:05:00+00:00\, Parameters({}))-Everett Silverti
+ ps @ Penticton Vees
 LOCATION:South Okanagan Events Centre - Penticton\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kamloops Blazers @ Penticton Vees
 DTSTART:20270116T020500Z
 DTEND:20270116T050500Z
-UID:125856a5fcf5cbcf881023538@hockeytech.com
+UID:vDDDTypes(2027-01-16 02:05:00+00:00\, Parameters({}))-Kamloops Blazers
+  @ Penticton Vees
 LOCATION:South Okanagan Events Centre - Penticton\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penticton Vees @ Kamloops Blazers
 DTSTART:20270117T010000Z
 DTEND:20270117T040000Z
-UID:125856a5fcf5cbcf881023545@hockeytech.com
+UID:vDDDTypes(2027-01-17 01:00:00+00:00\, Parameters({}))-Penticton Vees @
+  Kamloops Blazers
 LOCATION:Sandman Centre - Kamloops\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penticton Vees @ Portland Winterhawks
 DTSTART:20270118T220000Z
 DTEND:20270119T010000Z
-UID:125856a5fcf5cbcf881023557@hockeytech.com
+UID:vDDDTypes(2027-01-18 22:00:00+00:00\, Parameters({}))-Penticton Vees @
+  Portland Winterhawks
 LOCATION:Veterans Memorial Coliseum - Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penticton Vees @ Victoria Royals
 DTSTART:20270123T020500Z
 DTEND:20270123T050500Z
-UID:125856a5fcf5cbcf881023570@hockeytech.com
+UID:vDDDTypes(2027-01-23 02:05:00+00:00\, Parameters({}))-Penticton Vees @
+  Victoria Royals
 LOCATION:Save-On-Foods Memorial Arena - Victoria\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penticton Vees @ Victoria Royals
 DTSTART:20270124T010500Z
 DTEND:20270124T040500Z
-UID:125856a5fcf5cbcf881023580@hockeytech.com
+UID:vDDDTypes(2027-01-24 01:05:00+00:00\, Parameters({}))-Penticton Vees @
+  Victoria Royals
 LOCATION:Save-On-Foods Memorial Arena - Victoria\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penticton Vees @ Spokane Chiefs
 DTSTART:20270130T020500Z
 DTEND:20270130T050500Z
-UID:125856a5fcf5cbcf881023596@hockeytech.com
+UID:vDDDTypes(2027-01-30 02:05:00+00:00\, Parameters({}))-Penticton Vees @
+  Spokane Chiefs
 LOCATION:Numerica Veterans Arena - Spokane\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prince Albert Raiders @ Penticton Vees
 DTSTART:20270131T010500Z
 DTEND:20270131T040500Z
-UID:125856a5fcf5cbcf881023605@hockeytech.com
+UID:vDDDTypes(2027-01-31 01:05:00+00:00\, Parameters({}))-Prince Albert Ra
+ iders @ Penticton Vees
 LOCATION:South Okanagan Events Centre - Penticton\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Victoria Royals @ Penticton Vees
 DTSTART:20270206T020500Z
 DTEND:20270206T050500Z
-UID:125856a5fcf5cbcf881023624@hockeytech.com
+UID:vDDDTypes(2027-02-06 02:05:00+00:00\, Parameters({}))-Victoria Royals 
+ @ Penticton Vees
 LOCATION:South Okanagan Events Centre - Penticton\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penticton Vees @ Seattle Thunderbirds
 DTSTART:20270207T010500Z
 DTEND:20270207T040500Z
-UID:125856a5fcf5cbcf881023637@hockeytech.com
+UID:vDDDTypes(2027-02-07 01:05:00+00:00\, Parameters({}))-Penticton Vees @
+  Seattle Thunderbirds
 LOCATION:accesso ShoWare Center - Kent\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penticton Vees @ Vancouver Giants
 DTSTART:20270207T230000Z
 DTEND:20270208T020000Z
-UID:125856a5fcf5cbcf881023644@hockeytech.com
+UID:vDDDTypes(2027-02-07 23:00:00+00:00\, Parameters({}))-Penticton Vees @
+  Vancouver Giants
 LOCATION:Langley Events Centre - Langley\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vancouver Giants @ Penticton Vees
 DTSTART:20270213T020500Z
 DTEND:20270213T050500Z
-UID:125856a5fcf5cbcf881023652@hockeytech.com
+UID:vDDDTypes(2027-02-13 02:05:00+00:00\, Parameters({}))-Vancouver Giants
+  @ Penticton Vees
 LOCATION:South Okanagan Events Centre - Penticton\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penticton Vees @ Kamloops Blazers
 DTSTART:20270214T010000Z
 DTEND:20270214T040000Z
-UID:125856a5fcf5cbcf881023662@hockeytech.com
+UID:vDDDTypes(2027-02-14 01:00:00+00:00\, Parameters({}))-Penticton Vees @
+  Kamloops Blazers
 LOCATION:Sandman Centre - Kamloops\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prince George Cougars @ Penticton Vees
 DTSTART:20270215T210000Z
 DTEND:20270216T000000Z
-UID:125856a5fcf5cbcf881023676@hockeytech.com
+UID:vDDDTypes(2027-02-15 21:00:00+00:00\, Parameters({}))-Prince George Co
+ ugars @ Penticton Vees
 LOCATION:South Okanagan Events Centre - Penticton\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penticton Vees @ Lethbridge Hurricanes
 DTSTART:20270220T020000Z
 DTEND:20270220T050000Z
-UID:125856a5fcf5cbcf881023682@hockeytech.com
+UID:vDDDTypes(2027-02-20 02:00:00+00:00\, Parameters({}))-Penticton Vees @
+  Lethbridge Hurricanes
 LOCATION:VisitLethbridge.com Arena - Lethbridge\, AB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penticton Vees @ Medicine Hat Tigers
 DTSTART:20270221T020000Z
 DTEND:20270221T050000Z
-UID:125856a5fcf5cbcf881023693@hockeytech.com
+UID:vDDDTypes(2027-02-21 02:00:00+00:00\, Parameters({}))-Penticton Vees @
+  Medicine Hat Tigers
 LOCATION:Co-op Place - Medicine Hat\, AB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penticton Vees @ Kelowna Rockets
 DTSTART:20270227T020500Z
 DTEND:20270227T050500Z
-UID:125856a5fcf5cbcf881023719@hockeytech.com
+UID:vDDDTypes(2027-02-27 02:05:00+00:00\, Parameters({}))-Penticton Vees @
+  Kelowna Rockets
 LOCATION:Prospera Place - Kelowna\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kelowna Rockets @ Penticton Vees
 DTSTART:20270228T010500Z
 DTEND:20270228T040500Z
-UID:125856a5fcf5cbcf881023727@hockeytech.com
+UID:vDDDTypes(2027-02-28 01:05:00+00:00\, Parameters({}))-Kelowna Rockets 
+ @ Penticton Vees
 LOCATION:South Okanagan Events Centre - Penticton\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saskatoon Blades @ Penticton Vees
 DTSTART:20270228T230000Z
 DTEND:20270301T020000Z
-UID:125856a5fcf5cbcf881023736@hockeytech.com
+UID:vDDDTypes(2027-02-28 23:00:00+00:00\, Parameters({}))-Saskatoon Blades
+  @ Penticton Vees
 LOCATION:South Okanagan Events Centre - Penticton\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Victoria Royals @ Penticton Vees
 DTSTART:20270306T020500Z
 DTEND:20270306T050500Z
-UID:125856a5fcf5cbcf881023750@hockeytech.com
+UID:vDDDTypes(2027-03-06 02:05:00+00:00\, Parameters({}))-Victoria Royals 
+ @ Penticton Vees
 LOCATION:South Okanagan Events Centre - Penticton\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kamloops Blazers @ Penticton Vees
 DTSTART:20270307T010500Z
 DTEND:20270307T040500Z
-UID:125856a5fcf5cbcf881023758@hockeytech.com
+UID:vDDDTypes(2027-03-07 01:05:00+00:00\, Parameters({}))-Kamloops Blazers
+  @ Penticton Vees
 LOCATION:South Okanagan Events Centre - Penticton\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penticton Vees @ Victoria Royals
 DTSTART:20270310T020500Z
 DTEND:20270310T050500Z
-UID:125856a5fcf5cbcf881023770@hockeytech.com
+UID:vDDDTypes(2027-03-10 02:05:00+00:00\, Parameters({}))-Penticton Vees @
+  Victoria Royals
 LOCATION:Save-On-Foods Memorial Arena - Victoria\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penticton Vees @ Victoria Royals
 DTSTART:20270311T020500Z
 DTEND:20270311T050500Z
-UID:125856a5fcf5cbcf881023774@hockeytech.com
+UID:vDDDTypes(2027-03-11 02:05:00+00:00\, Parameters({}))-Penticton Vees @
+  Victoria Royals
 LOCATION:Save-On-Foods Memorial Arena - Victoria\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penticton Vees @ Vancouver Giants
 DTSTART:20270313T020000Z
 DTEND:20270313T050000Z
-UID:125856a5fcf5cbcf881023784@hockeytech.com
+UID:vDDDTypes(2027-03-13 02:00:00+00:00\, Parameters({}))-Penticton Vees @
+  Vancouver Giants
 LOCATION:Langley Events Centre - Langley\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vancouver Giants @ Penticton Vees
 DTSTART:20270314T010500Z
 DTEND:20270314T040500Z
-UID:125856a5fcf5cbcf881023789@hockeytech.com
+UID:vDDDTypes(2027-03-14 01:05:00+00:00\, Parameters({}))-Vancouver Giants
+  @ Penticton Vees
 LOCATION:South Okanagan Events Centre - Penticton\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kamloops Blazers @ Penticton Vees
 DTSTART:20270320T020500Z
 DTEND:20270320T050500Z
-UID:125856a5fcf5cbcf881023811@hockeytech.com
+UID:vDDDTypes(2027-03-20 02:05:00+00:00\, Parameters({}))-Kamloops Blazers
+  @ Penticton Vees
 LOCATION:South Okanagan Events Centre - Penticton\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penticton Vees @ Kamloops Blazers
 DTSTART:20270321T010000Z
 DTEND:20270321T040000Z
-UID:125856a5fcf5cbcf881023819@hockeytech.com
+UID:vDDDTypes(2027-03-21 01:00:00+00:00\, Parameters({}))-Penticton Vees @
+  Kamloops Blazers
 LOCATION:Sandman Centre - Kamloops\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prince George Cougars @ Penticton Vees
 DTSTART:20270325T013500Z
 DTEND:20270325T043500Z
-UID:125856a5fcf5cbcf881023837@hockeytech.com
+UID:vDDDTypes(2027-03-25 01:35:00+00:00\, Parameters({}))-Prince George Co
+ ugars @ Penticton Vees
 LOCATION:South Okanagan Events Centre - Penticton\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kelowna Rockets @ Penticton Vees
 DTSTART:20270327T020500Z
 DTEND:20270327T050500Z
-UID:125856a5fcf5cbcf881023844@hockeytech.com
+UID:vDDDTypes(2027-03-27 02:05:00+00:00\, Parameters({}))-Kelowna Rockets 
+ @ Penticton Vees
 LOCATION:South Okanagan Events Centre - Penticton\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penticton Vees @ Kelowna Rockets
 DTSTART:20270328T010500Z
 DTEND:20270328T040500Z
-UID:125856a5fcf5cbcf881023851@hockeytech.com
+UID:vDDDTypes(2027-03-28 01:05:00+00:00\, Parameters({}))-Penticton Vees @
+  Kelowna Rockets
 LOCATION:Prospera Place - Kelowna\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prince Albert Raiders @ Saskatoon Blades
 DTSTART:20260901T200000Z
 DTEND:20260901T230000Z
-UID:274906a5fcf5c94a311023029@hockeytech.com
+UID:vDDDTypes(2026-09-01 20:00:00+00:00\, Parameters({}))-Prince Albert Ra
+ iders @ Saskatoon Blades
 LOCATION:SaskTel Centre - Saskatoon\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saskatoon Blades @ Swift Current Broncos
 DTSTART:20260905T010000Z
 DTEND:20260905T040000Z
-UID:274906a5fcf5c94a311023041@hockeytech.com
+UID:vDDDTypes(2026-09-05 01:00:00+00:00\, Parameters({}))-Saskatoon Blades
+  @ Swift Current Broncos
 LOCATION:InnovationPlex - Swift Current\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prince Albert Raiders @ Saskatoon Blades
 DTSTART:20260906T010000Z
 DTEND:20260906T040000Z
-UID:274906a5fcf5c94a311023049@hockeytech.com
+UID:vDDDTypes(2026-09-06 01:00:00+00:00\, Parameters({}))-Prince Albert Ra
+ iders @ Saskatoon Blades
 LOCATION:Warman Home Centre Communiplex - Warman\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saskatoon Blades @ Prince Albert Raiders
 DTSTART:20260911T010000Z
 DTEND:20260911T040000Z
-UID:274906a5fcf5c94a311023060@hockeytech.com
+UID:vDDDTypes(2026-09-11 01:00:00+00:00\, Parameters({}))-Saskatoon Blades
+  @ Prince Albert Raiders
 LOCATION:Art Hauser Centre - Prince Albert\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Saskatoon Blades
 DTSTART:20260913T010000Z
 DTEND:20260913T040000Z
-UID:274906a5fcf5c94a311023073@hockeytech.com
+UID:vDDDTypes(2026-09-13 01:00:00+00:00\, Parameters({}))-Regina Pats @ Sa
+ skatoon Blades
 LOCATION:SaskTel Centre - Saskatoon\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saskatoon Blades @ Brandon Wheat Kings
 DTSTART:20260919T000000Z
 DTEND:20260919T030000Z
-UID:170456a5fcf5ca21971023081@hockeytech.com
+UID:vDDDTypes(2026-09-19 00:00:00+00:00\, Parameters({}))-Saskatoon Blades
+  @ Brandon Wheat Kings
 LOCATION:Assiniboine Credit Union Place - Brandon\, MB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saskatoon Blades @ Moose Jaw Warriors
 DTSTART:20260920T000000Z
 DTEND:20260920T030000Z
-UID:170456a5fcf5ca21971023089@hockeytech.com
+UID:vDDDTypes(2026-09-20 00:00:00+00:00\, Parameters({}))-Saskatoon Blades
+  @ Moose Jaw Warriors
 LOCATION:Temple Gardens Centre - Moose Jaw\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saskatoon Blades @ Prince Albert Raiders
 DTSTART:20260926T010000Z
 DTEND:20260926T040000Z
-UID:170456a5fcf5ca21971023102@hockeytech.com
+UID:vDDDTypes(2026-09-26 01:00:00+00:00\, Parameters({}))-Saskatoon Blades
+  @ Prince Albert Raiders
 LOCATION:Art Hauser Centre - Prince Albert\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prince Albert Raiders @ Saskatoon Blades
 DTSTART:20260927T010000Z
 DTEND:20260927T040000Z
-UID:170456a5fcf5ca21971023109@hockeytech.com
+UID:vDDDTypes(2026-09-27 01:00:00+00:00\, Parameters({}))-Prince Albert Ra
+ iders @ Saskatoon Blades
 LOCATION:SaskTel Centre - Saskatoon\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Red Deer Rebels @ Saskatoon Blades
 DTSTART:20261003T010000Z
 DTEND:20261003T040000Z
-UID:170456a5fcf5ca21971023124@hockeytech.com
+UID:vDDDTypes(2026-10-03 01:00:00+00:00\, Parameters({}))-Red Deer Rebels 
+ @ Saskatoon Blades
 LOCATION:SaskTel Centre - Saskatoon\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moose Jaw Warriors @ Saskatoon Blades
 DTSTART:20261010T010000Z
 DTEND:20261010T040000Z
-UID:170456a5fcf5ca21971023149@hockeytech.com
+UID:vDDDTypes(2026-10-10 01:00:00+00:00\, Parameters({}))-Moose Jaw Warrio
+ rs @ Saskatoon Blades
 LOCATION:SaskTel Centre - Saskatoon\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Saskatoon Blades
 DTSTART:20261011T010000Z
 DTEND:20261011T040000Z
-UID:170456a5fcf5ca21971023156@hockeytech.com
+UID:vDDDTypes(2026-10-11 01:00:00+00:00\, Parameters({}))-Regina Pats @ Sa
+ skatoon Blades
 LOCATION:SaskTel Centre - Saskatoon\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saskatoon Blades @ Swift Current Broncos
 DTSTART:20261017T010000Z
 DTEND:20261017T040000Z
-UID:170456a5fcf5ca21971023176@hockeytech.com
+UID:vDDDTypes(2026-10-17 01:00:00+00:00\, Parameters({}))-Saskatoon Blades
+  @ Swift Current Broncos
 LOCATION:InnovationPlex - Swift Current\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moose Jaw Warriors @ Saskatoon Blades
 DTSTART:20261018T010000Z
 DTEND:20261018T040000Z
-UID:170456a5fcf5ca21971023184@hockeytech.com
+UID:vDDDTypes(2026-10-18 01:00:00+00:00\, Parameters({}))-Moose Jaw Warrio
+ rs @ Saskatoon Blades
 LOCATION:SaskTel Centre - Saskatoon\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Everett Silvertips @ Saskatoon Blades
 DTSTART:20261022T003000Z
 DTEND:20261022T033000Z
-UID:170456a5fcf5ca21971023198@hockeytech.com
+UID:vDDDTypes(2026-10-22 00:30:00+00:00\, Parameters({}))-Everett Silverti
+ ps @ Saskatoon Blades
 LOCATION:SaskTel Centre - Saskatoon\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saskatoon Blades @ Edmonton Oil Kings
 DTSTART:20261024T010000Z
 DTEND:20261024T040000Z
-UID:170456a5fcf5ca21971023201@hockeytech.com
+UID:vDDDTypes(2026-10-24 01:00:00+00:00\, Parameters({}))-Saskatoon Blades
+  @ Edmonton Oil Kings
 LOCATION:Rogers Place - Edmonton\, AB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saskatoon Blades @ Calgary Hitmen
 DTSTART:20261025T220000Z
 DTEND:20261026T010000Z
-UID:170456a5fcf5ca21971023218@hockeytech.com
+UID:vDDDTypes(2026-10-25 22:00:00+00:00\, Parameters({}))-Saskatoon Blades
+  @ Calgary Hitmen
 LOCATION:Scotiabank Saddledome - Calgary\, AB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saskatoon Blades @ Red Deer Rebels
 DTSTART:20261028T010000Z
 DTEND:20261028T040000Z
-UID:170456a5fcf5ca21971023222@hockeytech.com
+UID:vDDDTypes(2026-10-28 01:00:00+00:00\, Parameters({}))-Saskatoon Blades
+  @ Red Deer Rebels
 LOCATION:Marchant Crane Centrium - Red Deer\, AB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Thunderbirds @ Saskatoon Blades
 DTSTART:20261031T200000Z
 DTEND:20261031T230000Z
-UID:170456a5fcf5ca21971023240@hockeytech.com
+UID:vDDDTypes(2026-10-31 20:00:00+00:00\, Parameters({}))-Seattle Thunderb
+ irds @ Saskatoon Blades
 LOCATION:SaskTel Centre - Saskatoon\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Calgary Hitmen @ Saskatoon Blades
 DTSTART:20261107T010000Z
 DTEND:20261107T040000Z
-UID:170456a5fcf5ca21971023260@hockeytech.com
+UID:vDDDTypes(2026-11-07 01:00:00+00:00\, Parameters({}))-Calgary Hitmen @
+  Saskatoon Blades
 LOCATION:SaskTel Centre - Saskatoon\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saskatoon Blades @ Brandon Wheat Kings
 DTSTART:20261108T000000Z
 DTEND:20261108T030000Z
-UID:170456a5fcf5ca21971023263@hockeytech.com
+UID:vDDDTypes(2026-11-08 00:00:00+00:00\, Parameters({}))-Saskatoon Blades
+  @ Brandon Wheat Kings
 LOCATION:Assiniboine Credit Union Place - Brandon\, MB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Saskatoon Blades
 DTSTART:20261111T010000Z
 DTEND:20261111T040000Z
-UID:170456a5fcf5ca21971023278@hockeytech.com
+UID:vDDDTypes(2026-11-11 01:00:00+00:00\, Parameters({}))-Regina Pats @ Sa
+ skatoon Blades
 LOCATION:SaskTel Centre - Saskatoon\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Edmonton Oil Kings @ Saskatoon Blades
 DTSTART:20261115T010000Z
 DTEND:20261115T040000Z
-UID:170456a5fcf5ca21971023300@hockeytech.com
+UID:vDDDTypes(2026-11-15 01:00:00+00:00\, Parameters({}))-Edmonton Oil Kin
+ gs @ Saskatoon Blades
 LOCATION:SaskTel Centre - Saskatoon\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portland Winterhawks @ Saskatoon Blades
 DTSTART:20261118T010000Z
 DTEND:20261118T040000Z
-UID:170456a5fcf5ca21971023308@hockeytech.com
+UID:vDDDTypes(2026-11-18 01:00:00+00:00\, Parameters({}))-Portland Winterh
+ awks @ Saskatoon Blades
 LOCATION:SaskTel Centre - Saskatoon\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wenatchee Wild @ Saskatoon Blades
 DTSTART:20261121T010000Z
 DTEND:20261121T040000Z
-UID:170456a5fcf5ca21971023321@hockeytech.com
+UID:vDDDTypes(2026-11-21 01:00:00+00:00\, Parameters({}))-Wenatchee Wild @
+  Saskatoon Blades
 LOCATION:SaskTel Centre - Saskatoon\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Medicine Hat Tigers @ Saskatoon Blades
 DTSTART:20261122T220000Z
 DTEND:20261123T010000Z
-UID:170456a5fcf5ca21971023334@hockeytech.com
+UID:vDDDTypes(2026-11-22 22:00:00+00:00\, Parameters({}))-Medicine Hat Tig
+ ers @ Saskatoon Blades
 LOCATION:SaskTel Centre - Saskatoon\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saskatoon Blades @ Edmonton Oil Kings
 DTSTART:20261126T020000Z
 DTEND:20261126T050000Z
-UID:170456a5fcf5ca21971023338@hockeytech.com
+UID:vDDDTypes(2026-11-26 02:00:00+00:00\, Parameters({}))-Saskatoon Blades
+  @ Edmonton Oil Kings
 LOCATION:Rogers Place - Edmonton\, AB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saskatoon Blades @ Lethbridge Hurricanes
 DTSTART:20261128T020000Z
 DTEND:20261128T050000Z
-UID:170456a5fcf5ca21971023347@hockeytech.com
+UID:vDDDTypes(2026-11-28 02:00:00+00:00\, Parameters({}))-Saskatoon Blades
+  @ Lethbridge Hurricanes
 LOCATION:VisitLethbridge.com Arena - Lethbridge\, AB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saskatoon Blades @ Medicine Hat Tigers
 DTSTART:20261129T020000Z
 DTEND:20261129T050000Z
-UID:170456a5fcf5ca21971023356@hockeytech.com
+UID:vDDDTypes(2026-11-29 02:00:00+00:00\, Parameters({}))-Saskatoon Blades
+  @ Medicine Hat Tigers
 LOCATION:Co-op Place - Medicine Hat\, AB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saskatoon Blades @ Brandon Wheat Kings
 DTSTART:20261205T010000Z
 DTEND:20261205T040000Z
-UID:170456a5fcf5ca21971023369@hockeytech.com
+UID:vDDDTypes(2026-12-05 01:00:00+00:00\, Parameters({}))-Saskatoon Blades
+  @ Brandon Wheat Kings
 LOCATION:Assiniboine Credit Union Place - Brandon\, MB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saskatoon Blades @ Regina Pats
 DTSTART:20261206T000000Z
 DTEND:20261206T030000Z
-UID:170456a5fcf5ca21971023386@hockeytech.com
+UID:vDDDTypes(2026-12-06 00:00:00+00:00\, Parameters({}))-Saskatoon Blades
+  @ Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Saskatoon Blades
 DTSTART:20261206T220000Z
 DTEND:20261207T010000Z
-UID:170456a5fcf5ca21971023392@hockeytech.com
+UID:vDDDTypes(2026-12-06 22:00:00+00:00\, Parameters({}))-Regina Pats @ Sa
+ skatoon Blades
 LOCATION:SaskTel Centre - Saskatoon\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lethbridge Hurricanes @ Saskatoon Blades
 DTSTART:20261209T010000Z
 DTEND:20261209T040000Z
-UID:170456a5fcf5ca21971023398@hockeytech.com
+UID:vDDDTypes(2026-12-09 01:00:00+00:00\, Parameters({}))-Lethbridge Hurri
+ canes @ Saskatoon Blades
 LOCATION:SaskTel Centre - Saskatoon\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saskatoon Blades @ Regina Pats
 DTSTART:20261212T010000Z
 DTEND:20261212T040000Z
-UID:170456a5fcf5ca21971023410@hockeytech.com
+UID:vDDDTypes(2026-12-12 01:00:00+00:00\, Parameters({}))-Saskatoon Blades
+  @ Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Red Deer Rebels @ Saskatoon Blades
 DTSTART:20261213T010000Z
 DTEND:20261213T040000Z
-UID:170456a5fcf5ca21971023418@hockeytech.com
+UID:vDDDTypes(2026-12-13 01:00:00+00:00\, Parameters({}))-Red Deer Rebels 
+ @ Saskatoon Blades
 LOCATION:SaskTel Centre - Saskatoon\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Swift Current Broncos @ Saskatoon Blades
 DTSTART:20261216T010000Z
 DTEND:20261216T040000Z
-UID:170456a5fcf5ca21971023428@hockeytech.com
+UID:vDDDTypes(2026-12-16 01:00:00+00:00\, Parameters({}))-Swift Current Br
+ oncos @ Saskatoon Blades
 LOCATION:SaskTel Centre - Saskatoon\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brandon Wheat Kings @ Saskatoon Blades
 DTSTART:20261219T010000Z
 DTEND:20261219T040000Z
-UID:170456a5fcf5ca21971023445@hockeytech.com
+UID:vDDDTypes(2026-12-19 01:00:00+00:00\, Parameters({}))-Brandon Wheat Ki
+ ngs @ Saskatoon Blades
 LOCATION:SaskTel Centre - Saskatoon\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prince Albert Raiders @ Saskatoon Blades
 DTSTART:20261227T220000Z
 DTEND:20261228T010000Z
-UID:170456a5fcf5ca21971023459@hockeytech.com
+UID:vDDDTypes(2026-12-27 22:00:00+00:00\, Parameters({}))-Prince Albert Ra
+ iders @ Saskatoon Blades
 LOCATION:SaskTel Centre - Saskatoon\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saskatoon Blades @ Prince Albert Raiders
 DTSTART:20261230T010000Z
 DTEND:20261230T040000Z
-UID:170456a5fcf5ca21971023467@hockeytech.com
+UID:vDDDTypes(2026-12-30 01:00:00+00:00\, Parameters({}))-Saskatoon Blades
+  @ Prince Albert Raiders
 LOCATION:Art Hauser Centre - Prince Albert\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Swift Current Broncos @ Saskatoon Blades
 DTSTART:20270101T220000Z
 DTEND:20270102T010000Z
-UID:170456a5fcf5ca21971023487@hockeytech.com
+UID:vDDDTypes(2027-01-01 22:00:00+00:00\, Parameters({}))-Swift Current Br
+ oncos @ Saskatoon Blades
 LOCATION:SaskTel Centre - Saskatoon\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saskatoon Blades @ Swift Current Broncos
 DTSTART:20270103T000000Z
 DTEND:20270103T030000Z
-UID:170456a5fcf5ca21971023494@hockeytech.com
+UID:vDDDTypes(2027-01-03 00:00:00+00:00\, Parameters({}))-Saskatoon Blades
+  @ Swift Current Broncos
 LOCATION:InnovationPlex - Swift Current\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tri-City Americans @ Saskatoon Blades
 DTSTART:20270109T010000Z
 DTEND:20270109T040000Z
-UID:170456a5fcf5ca21971023509@hockeytech.com
+UID:vDDDTypes(2027-01-09 01:00:00+00:00\, Parameters({}))-Tri-City America
+ ns @ Saskatoon Blades
 LOCATION:SaskTel Centre - Saskatoon\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saskatoon Blades @ Prince Albert Raiders
 DTSTART:20270110T010000Z
 DTEND:20270110T040000Z
-UID:170456a5fcf5ca21971023518@hockeytech.com
+UID:vDDDTypes(2027-01-10 01:00:00+00:00\, Parameters({}))-Saskatoon Blades
+  @ Prince Albert Raiders
 LOCATION:Art Hauser Centre - Prince Albert\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saskatoon Blades @ Red Deer Rebels
 DTSTART:20270113T020000Z
 DTEND:20270113T050000Z
-UID:170456a5fcf5ca21971023528@hockeytech.com
+UID:vDDDTypes(2027-01-13 02:00:00+00:00\, Parameters({}))-Saskatoon Blades
+  @ Red Deer Rebels
 LOCATION:Marchant Crane Centrium - Red Deer\, AB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saskatoon Blades @ Calgary Hitmen
 DTSTART:20270114T020000Z
 DTEND:20270114T050000Z
-UID:170456a5fcf5ca21971023529@hockeytech.com
+UID:vDDDTypes(2027-01-14 02:00:00+00:00\, Parameters({}))-Saskatoon Blades
+  @ Calgary Hitmen
 LOCATION:Scotiabank Saddledome - Calgary\, AB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spokane Chiefs @ Saskatoon Blades
 DTSTART:20270116T010000Z
 DTEND:20270116T040000Z
-UID:170456a5fcf5ca21971023541@hockeytech.com
+UID:vDDDTypes(2027-01-16 01:00:00+00:00\, Parameters({}))-Spokane Chiefs @
+  Saskatoon Blades
 LOCATION:SaskTel Centre - Saskatoon\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brandon Wheat Kings @ Saskatoon Blades
 DTSTART:20270117T220000Z
 DTEND:20270118T010000Z
-UID:170456a5fcf5ca21971023554@hockeytech.com
+UID:vDDDTypes(2027-01-17 22:00:00+00:00\, Parameters({}))-Brandon Wheat Ki
+ ngs @ Saskatoon Blades
 LOCATION:SaskTel Centre - Saskatoon\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Edmonton Oil Kings @ Saskatoon Blades
 DTSTART:20270121T003000Z
 DTEND:20270121T033000Z
-UID:170456a5fcf5ca21971023561@hockeytech.com
+UID:vDDDTypes(2027-01-21 00:30:00+00:00\, Parameters({}))-Edmonton Oil Kin
+ gs @ Saskatoon Blades
 LOCATION:SaskTel Centre - Saskatoon\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Medicine Hat Tigers @ Saskatoon Blades
 DTSTART:20270123T010000Z
 DTEND:20270123T040000Z
-UID:170456a5fcf5ca21971023565@hockeytech.com
+UID:vDDDTypes(2027-01-23 01:00:00+00:00\, Parameters({}))-Medicine Hat Tig
+ ers @ Saskatoon Blades
 LOCATION:SaskTel Centre - Saskatoon\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prince Albert Raiders @ Saskatoon Blades
 DTSTART:20270124T220000Z
 DTEND:20270125T010000Z
-UID:170456a5fcf5ca21971023583@hockeytech.com
+UID:vDDDTypes(2027-01-24 22:00:00+00:00\, Parameters({}))-Prince Albert Ra
+ iders @ Saskatoon Blades
 LOCATION:SaskTel Centre - Saskatoon\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saskatoon Blades @ Moose Jaw Warriors
 DTSTART:20270131T000000Z
 DTEND:20270131T030000Z
-UID:170456a5fcf5ca21971023604@hockeytech.com
+UID:vDDDTypes(2027-01-31 00:00:00+00:00\, Parameters({}))-Saskatoon Blades
+  @ Moose Jaw Warriors
 LOCATION:Temple Gardens Centre - Moose Jaw\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lethbridge Hurricanes @ Saskatoon Blades
 DTSTART:20270131T220000Z
 DTEND:20270201T010000Z
-UID:170456a5fcf5ca21971023613@hockeytech.com
+UID:vDDDTypes(2027-01-31 22:00:00+00:00\, Parameters({}))-Lethbridge Hurri
+ canes @ Saskatoon Blades
 LOCATION:SaskTel Centre - Saskatoon\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brandon Wheat Kings @ Saskatoon Blades
 DTSTART:20270206T010000Z
 DTEND:20270206T040000Z
-UID:170456a5fcf5ca21971023626@hockeytech.com
+UID:vDDDTypes(2027-02-06 01:00:00+00:00\, Parameters({}))-Brandon Wheat Ki
+ ngs @ Saskatoon Blades
 LOCATION:SaskTel Centre - Saskatoon\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saskatoon Blades @ Brandon Wheat Kings
 DTSTART:20270207T000000Z
 DTEND:20270207T030000Z
-UID:170456a5fcf5ca21971023629@hockeytech.com
+UID:vDDDTypes(2027-02-07 00:00:00+00:00\, Parameters({}))-Saskatoon Blades
+  @ Brandon Wheat Kings
 LOCATION:Assiniboine Credit Union Place - Brandon\, MB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Swift Current Broncos @ Saskatoon Blades
 DTSTART:20270211T003000Z
 DTEND:20270211T033000Z
-UID:170456a5fcf5ca21971023648@hockeytech.com
+UID:vDDDTypes(2027-02-11 00:30:00+00:00\, Parameters({}))-Swift Current Br
+ oncos @ Saskatoon Blades
 LOCATION:SaskTel Centre - Saskatoon\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saskatoon Blades @ Lethbridge Hurricanes
 DTSTART:20270213T020000Z
 DTEND:20270213T050000Z
-UID:170456a5fcf5ca21971023651@hockeytech.com
+UID:vDDDTypes(2027-02-13 02:00:00+00:00\, Parameters({}))-Saskatoon Blades
+  @ Lethbridge Hurricanes
 LOCATION:VisitLethbridge.com Arena - Lethbridge\, AB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saskatoon Blades @ Medicine Hat Tigers
 DTSTART:20270214T020000Z
 DTEND:20270214T050000Z
-UID:170456a5fcf5ca21971023663@hockeytech.com
+UID:vDDDTypes(2027-02-14 02:00:00+00:00\, Parameters({}))-Saskatoon Blades
+  @ Medicine Hat Tigers
 LOCATION:Co-op Place - Medicine Hat\, AB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saskatoon Blades @ Swift Current Broncos
 DTSTART:20270215T220000Z
 DTEND:20270216T010000Z
-UID:170456a5fcf5ca21971023678@hockeytech.com
+UID:vDDDTypes(2027-02-15 22:00:00+00:00\, Parameters({}))-Saskatoon Blades
+  @ Swift Current Broncos
 LOCATION:InnovationPlex - Swift Current\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Calgary Hitmen @ Saskatoon Blades
 DTSTART:20270220T010000Z
 DTEND:20270220T040000Z
-UID:170456a5fcf5ca21971023687@hockeytech.com
+UID:vDDDTypes(2027-02-20 01:00:00+00:00\, Parameters({}))-Calgary Hitmen @
+  Saskatoon Blades
 LOCATION:SaskTel Centre - Saskatoon\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saskatoon Blades @ Vancouver Giants
 DTSTART:20270225T020000Z
 DTEND:20270225T050000Z
-UID:170456a5fcf5ca21971023713@hockeytech.com
+UID:vDDDTypes(2027-02-25 02:00:00+00:00\, Parameters({}))-Saskatoon Blades
+  @ Vancouver Giants
 LOCATION:Langley Events Centre - Langley\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saskatoon Blades @ Victoria Royals
 DTSTART:20270227T020500Z
 DTEND:20270227T050500Z
-UID:170456a5fcf5ca21971023723@hockeytech.com
+UID:vDDDTypes(2027-02-27 02:05:00+00:00\, Parameters({}))-Saskatoon Blades
+  @ Victoria Royals
 LOCATION:Save-On-Foods Memorial Arena - Victoria\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saskatoon Blades @ Kelowna Rockets
 DTSTART:20270303T020500Z
 DTEND:20270303T050500Z
-UID:170456a5fcf5ca21971023740@hockeytech.com
+UID:vDDDTypes(2027-03-03 02:05:00+00:00\, Parameters({}))-Saskatoon Blades
+  @ Kelowna Rockets
 LOCATION:Prospera Place - Kelowna\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saskatoon Blades @ Kamloops Blazers
 DTSTART:20270304T020000Z
 DTEND:20270304T050000Z
-UID:170456a5fcf5ca21971023744@hockeytech.com
+UID:vDDDTypes(2027-03-04 02:00:00+00:00\, Parameters({}))-Saskatoon Blades
+  @ Kamloops Blazers
 LOCATION:Sandman Centre - Kamloops\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saskatoon Blades @ Prince George Cougars
 DTSTART:20270306T020000Z
 DTEND:20270306T050000Z
-UID:170456a5fcf5ca21971023752@hockeytech.com
+UID:vDDDTypes(2027-03-06 02:00:00+00:00\, Parameters({}))-Saskatoon Blades
+  @ Prince George Cougars
 LOCATION:CN Centre - Prince George\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moose Jaw Warriors @ Saskatoon Blades
 DTSTART:20270313T010000Z
 DTEND:20270313T040000Z
-UID:170456a5fcf5ca21971023780@hockeytech.com
+UID:vDDDTypes(2027-03-13 01:00:00+00:00\, Parameters({}))-Moose Jaw Warrio
+ rs @ Saskatoon Blades
 LOCATION:SaskTel Centre - Saskatoon\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Swift Current Broncos @ Saskatoon Blades
 DTSTART:20270314T010000Z
 DTEND:20270314T040000Z
-UID:170456a5fcf5ca21971023792@hockeytech.com
+UID:vDDDTypes(2027-03-14 01:00:00+00:00\, Parameters({}))-Swift Current Br
+ oncos @ Saskatoon Blades
 LOCATION:SaskTel Centre - Saskatoon\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saskatoon Blades @ Regina Pats
 DTSTART:20270318T010000Z
 DTEND:20270318T040000Z
-UID:170456a5fcf5ca21971023806@hockeytech.com
+UID:vDDDTypes(2027-03-18 01:00:00+00:00\, Parameters({}))-Saskatoon Blades
+  @ Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Saskatoon Blades
 DTSTART:20270320T010000Z
 DTEND:20270320T040000Z
-UID:170456a5fcf5ca21971023815@hockeytech.com
+UID:vDDDTypes(2027-03-20 01:00:00+00:00\, Parameters({}))-Regina Pats @ Sa
+ skatoon Blades
 LOCATION:SaskTel Centre - Saskatoon\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saskatoon Blades @ Swift Current Broncos
 DTSTART:20270321T000000Z
 DTEND:20270321T030000Z
-UID:170456a5fcf5ca21971023826@hockeytech.com
+UID:vDDDTypes(2027-03-21 00:00:00+00:00\, Parameters({}))-Saskatoon Blades
+  @ Swift Current Broncos
 LOCATION:InnovationPlex - Swift Current\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saskatoon Blades @ Moose Jaw Warriors
 DTSTART:20270324T010000Z
 DTEND:20270324T040000Z
-UID:170456a5fcf5ca21971023833@hockeytech.com
+UID:vDDDTypes(2027-03-24 01:00:00+00:00\, Parameters({}))-Saskatoon Blades
+  @ Moose Jaw Warriors
 LOCATION:Temple Gardens Centre - Moose Jaw\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saskatoon Blades @ Prince Albert Raiders
 DTSTART:20270327T010000Z
 DTEND:20270327T040000Z
-UID:170456a5fcf5ca21971023846@hockeytech.com
+UID:vDDDTypes(2027-03-27 01:00:00+00:00\, Parameters({}))-Saskatoon Blades
+  @ Prince Albert Raiders
 LOCATION:Art Hauser Centre - Prince Albert\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prince Albert Raiders @ Saskatoon Blades
 DTSTART:20270328T010000Z
 DTEND:20270328T040000Z
-UID:170456a5fcf5ca21971023854@hockeytech.com
+UID:vDDDTypes(2027-03-28 01:00:00+00:00\, Parameters({}))-Prince Albert Ra
+ iders @ Saskatoon Blades
 LOCATION:SaskTel Centre - Saskatoon\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Swift Current Broncos @ Regina Pats
 DTSTART:20260902T010000Z
 DTEND:20260902T040000Z
-UID:131366a5fcf5cc22411023030@hockeytech.com
+UID:vDDDTypes(2026-09-02 01:00:00+00:00\, Parameters({}))-Swift Current Br
+ oncos @ Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moose Jaw Warriors @ Regina Pats
 DTSTART:20260903T010000Z
 DTEND:20260903T040000Z
-UID:131366a5fcf5cc22411023032@hockeytech.com
+UID:vDDDTypes(2026-09-03 01:00:00+00:00\, Parameters({}))-Moose Jaw Warrio
+ rs @ Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Brandon Wheat Kings
 DTSTART:20260905T000000Z
 DTEND:20260905T030000Z
-UID:131366a5fcf5cc22411023033@hockeytech.com
+UID:vDDDTypes(2026-09-05 00:00:00+00:00\, Parameters({}))-Regina Pats @ Br
+ andon Wheat Kings
 LOCATION:Assiniboine Credit Union Place - Brandon\, MB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brandon Wheat Kings @ Regina Pats
 DTSTART:20260906T000000Z
 DTEND:20260906T030000Z
-UID:131366a5fcf5cc22411023048@hockeytech.com
+UID:vDDDTypes(2026-09-06 00:00:00+00:00\, Parameters({}))-Brandon Wheat Ki
+ ngs @ Regina Pats
 LOCATION:Ochapowace\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Moose Jaw Warriors
 DTSTART:20260909T010000Z
 DTEND:20260909T040000Z
-UID:131366a5fcf5cc22411023056@hockeytech.com
+UID:vDDDTypes(2026-09-09 01:00:00+00:00\, Parameters({}))-Regina Pats @ Mo
+ ose Jaw Warriors
 LOCATION:Temple Gardens Centre - Moose Jaw\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prince Albert Raiders @ Regina Pats
 DTSTART:20260912T010000Z
 DTEND:20260912T040000Z
-UID:131366a5fcf5cc22411023065@hockeytech.com
+UID:vDDDTypes(2026-09-12 01:00:00+00:00\, Parameters({}))-Prince Albert Ra
+ iders @ Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Prince Albert Raiders
 DTSTART:20260919T010000Z
 DTEND:20260919T040000Z
-UID:235816a5fcf5c89b051023084@hockeytech.com
+UID:vDDDTypes(2026-09-19 01:00:00+00:00\, Parameters({}))-Regina Pats @ Pr
+ ince Albert Raiders
 LOCATION:Art Hauser Centre - Prince Albert\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Brandon Wheat Kings
 DTSTART:20260926T000000Z
 DTEND:20260926T030000Z
-UID:235816a5fcf5c89b051023097@hockeytech.com
+UID:vDDDTypes(2026-09-26 00:00:00+00:00\, Parameters({}))-Regina Pats @ Br
+ andon Wheat Kings
 LOCATION:Assiniboine Credit Union Place - Brandon\, MB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Swift Current Broncos @ Regina Pats
 DTSTART:20260927T200000Z
 DTEND:20260927T230000Z
-UID:235816a5fcf5c89b051023115@hockeytech.com
+UID:vDDDTypes(2026-09-27 20:00:00+00:00\, Parameters({}))-Swift Current Br
+ oncos @ Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Edmonton Oil Kings
 DTSTART:20261003T010000Z
 DTEND:20261003T040000Z
-UID:235816a5fcf5c89b051023118@hockeytech.com
+UID:vDDDTypes(2026-10-03 01:00:00+00:00\, Parameters({}))-Regina Pats @ Ed
+ monton Oil Kings
 LOCATION:Rogers Place - Edmonton\, AB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Calgary Hitmen
 DTSTART:20261004T200000Z
 DTEND:20261004T230000Z
-UID:235816a5fcf5c89b051023135@hockeytech.com
+UID:vDDDTypes(2026-10-04 20:00:00+00:00\, Parameters({}))-Regina Pats @ Ca
+ lgary Hitmen
 LOCATION:Scotiabank Saddledome - Calgary\, AB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prince Albert Raiders @ Regina Pats
 DTSTART:20261010T010000Z
 DTEND:20261010T040000Z
-UID:235816a5fcf5c89b051023148@hockeytech.com
+UID:vDDDTypes(2026-10-10 01:00:00+00:00\, Parameters({}))-Prince Albert Ra
+ iders @ Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Medicine Hat Tigers @ Regina Pats
 DTSTART:20261017T010000Z
 DTEND:20261017T040000Z
-UID:235816a5fcf5c89b051023174@hockeytech.com
+UID:vDDDTypes(2026-10-17 01:00:00+00:00\, Parameters({}))-Medicine Hat Tig
+ ers @ Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Swift Current Broncos
 DTSTART:20261018T000000Z
 DTEND:20261018T030000Z
-UID:235816a5fcf5c89b051023186@hockeytech.com
+UID:vDDDTypes(2026-10-18 00:00:00+00:00\, Parameters({}))-Regina Pats @ Sw
+ ift Current Broncos
 LOCATION:InnovationPlex - Swift Current\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Thunderbirds @ Regina Pats
 DTSTART:20261022T010000Z
 DTEND:20261022T040000Z
-UID:235816a5fcf5c89b051023197@hockeytech.com
+UID:vDDDTypes(2026-10-22 01:00:00+00:00\, Parameters({}))-Seattle Thunderb
+ irds @ Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moose Jaw Warriors @ Regina Pats
 DTSTART:20261024T010000Z
 DTEND:20261024T040000Z
-UID:235816a5fcf5c89b051023207@hockeytech.com
+UID:vDDDTypes(2026-10-24 01:00:00+00:00\, Parameters({}))-Moose Jaw Warrio
+ rs @ Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Everett Silvertips @ Regina Pats
 DTSTART:20261028T010000Z
 DTEND:20261028T040000Z
-UID:235816a5fcf5c89b051023223@hockeytech.com
+UID:vDDDTypes(2026-10-28 01:00:00+00:00\, Parameters({}))-Everett Silverti
+ ps @ Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Moose Jaw Warriors
 DTSTART:20261031T010000Z
 DTEND:20261031T040000Z
-UID:235816a5fcf5c89b051023229@hockeytech.com
+UID:vDDDTypes(2026-10-31 01:00:00+00:00\, Parameters({}))-Regina Pats @ Mo
+ ose Jaw Warriors
 LOCATION:Temple Gardens Centre - Moose Jaw\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lethbridge Hurricanes @ Regina Pats
 DTSTART:20261101T200000Z
 DTEND:20261101T230000Z
-UID:235816a5fcf5c89b051023245@hockeytech.com
+UID:vDDDTypes(2026-11-01 20:00:00+00:00\, Parameters({}))-Lethbridge Hurri
+ canes @ Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brandon Wheat Kings @ Regina Pats
 DTSTART:20261107T010000Z
 DTEND:20261107T040000Z
-UID:235816a5fcf5c89b051023259@hockeytech.com
+UID:vDDDTypes(2026-11-07 01:00:00+00:00\, Parameters({}))-Brandon Wheat Ki
+ ngs @ Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portland Winterhawks @ Regina Pats
 DTSTART:20261114T010000Z
 DTEND:20261114T040000Z
-UID:235816a5fcf5c89b051023291@hockeytech.com
+UID:vDDDTypes(2026-11-14 01:00:00+00:00\, Parameters({}))-Portland Winterh
+ awks @ Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wenatchee Wild @ Regina Pats
 DTSTART:20261115T000000Z
 DTEND:20261115T030000Z
-UID:235816a5fcf5c89b051023299@hockeytech.com
+UID:vDDDTypes(2026-11-15 00:00:00+00:00\, Parameters({}))-Wenatchee Wild @
+  Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Prince George Cougars
 DTSTART:20261119T020000Z
 DTEND:20261119T050000Z
-UID:235816a5fcf5c89b051023311@hockeytech.com
+UID:vDDDTypes(2026-11-19 02:00:00+00:00\, Parameters({}))-Regina Pats @ Pr
+ ince George Cougars
 LOCATION:CN Centre - Prince George\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Kelowna Rockets
 DTSTART:20261122T010500Z
 DTEND:20261122T040500Z
-UID:235816a5fcf5c89b051023325@hockeytech.com
+UID:vDDDTypes(2026-11-22 01:05:00+00:00\, Parameters({}))-Regina Pats @ Ke
+ lowna Rockets
 LOCATION:Prospera Place - Kelowna\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Victoria Royals
 DTSTART:20261126T020500Z
 DTEND:20261126T050500Z
-UID:235816a5fcf5c89b051023344@hockeytech.com
+UID:vDDDTypes(2026-11-26 02:05:00+00:00\, Parameters({}))-Regina Pats @ Vi
+ ctoria Royals
 LOCATION:Save-On-Foods Memorial Arena - Victoria\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Vancouver Giants
 DTSTART:20261128T020000Z
 DTEND:20261128T050000Z
-UID:235816a5fcf5c89b051023352@hockeytech.com
+UID:vDDDTypes(2026-11-28 02:00:00+00:00\, Parameters({}))-Regina Pats @ Va
+ ncouver Giants
 LOCATION:Langley Events Centre - Langley\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Kamloops Blazers
 DTSTART:20261129T010000Z
 DTEND:20261129T040000Z
-UID:235816a5fcf5c89b051023355@hockeytech.com
+UID:vDDDTypes(2026-11-29 01:00:00+00:00\, Parameters({}))-Regina Pats @ Ka
+ mloops Blazers
 LOCATION:Sandman Centre - Kamloops\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Swift Current Broncos @ Regina Pats
 DTSTART:20261205T010000Z
 DTEND:20261205T040000Z
-UID:235816a5fcf5c89b051023375@hockeytech.com
+UID:vDDDTypes(2026-12-05 01:00:00+00:00\, Parameters({}))-Swift Current Br
+ oncos @ Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Red Deer Rebels @ Regina Pats
 DTSTART:20261209T010000Z
 DTEND:20261209T040000Z
-UID:235816a5fcf5c89b051023397@hockeytech.com
+UID:vDDDTypes(2026-12-09 01:00:00+00:00\, Parameters({}))-Red Deer Rebels 
+ @ Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Edmonton Oil Kings @ Regina Pats
 DTSTART:20261213T200000Z
 DTEND:20261213T230000Z
-UID:235816a5fcf5c89b051023425@hockeytech.com
+UID:vDDDTypes(2026-12-13 20:00:00+00:00\, Parameters({}))-Edmonton Oil Kin
+ gs @ Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moose Jaw Warriors @ Regina Pats
 DTSTART:20261219T010000Z
 DTEND:20261219T040000Z
-UID:235816a5fcf5c89b051023444@hockeytech.com
+UID:vDDDTypes(2026-12-19 01:00:00+00:00\, Parameters({}))-Moose Jaw Warrio
+ rs @ Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Moose Jaw Warriors
 DTSTART:20261220T000000Z
 DTEND:20261220T030000Z
-UID:235816a5fcf5c89b051023450@hockeytech.com
+UID:vDDDTypes(2026-12-20 00:00:00+00:00\, Parameters({}))-Regina Pats @ Mo
+ ose Jaw Warriors
 LOCATION:Temple Gardens Centre - Moose Jaw\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Brandon Wheat Kings
 DTSTART:20261227T220000Z
 DTEND:20261228T010000Z
-UID:235816a5fcf5c89b051023453@hockeytech.com
+UID:vDDDTypes(2026-12-27 22:00:00+00:00\, Parameters({}))-Regina Pats @ Br
+ andon Wheat Kings
 LOCATION:Assiniboine Credit Union Place - Brandon\, MB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brandon Wheat Kings @ Regina Pats
 DTSTART:20261230T010000Z
 DTEND:20261230T040000Z
-UID:235816a5fcf5c89b051023468@hockeytech.com
+UID:vDDDTypes(2026-12-30 01:00:00+00:00\, Parameters({}))-Brandon Wheat Ki
+ ngs @ Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prince Albert Raiders @ Regina Pats
 DTSTART:20270101T220000Z
 DTEND:20270102T010000Z
-UID:235816a5fcf5c89b051023486@hockeytech.com
+UID:vDDDTypes(2027-01-01 22:00:00+00:00\, Parameters({}))-Prince Albert Ra
+ iders @ Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Prince Albert Raiders
 DTSTART:20270103T010000Z
 DTEND:20270103T040000Z
-UID:235816a5fcf5c89b051023491@hockeytech.com
+UID:vDDDTypes(2027-01-03 01:00:00+00:00\, Parameters({}))-Regina Pats @ Pr
+ ince Albert Raiders
 LOCATION:Art Hauser Centre - Prince Albert\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spokane Chiefs @ Regina Pats
 DTSTART:20270109T010000Z
 DTEND:20270109T040000Z
-UID:235816a5fcf5c89b051023508@hockeytech.com
+UID:vDDDTypes(2027-01-09 01:00:00+00:00\, Parameters({}))-Spokane Chiefs @
+  Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tri-City Americans @ Regina Pats
 DTSTART:20270110T000000Z
 DTEND:20270110T030000Z
-UID:235816a5fcf5c89b051023520@hockeytech.com
+UID:vDDDTypes(2027-01-10 00:00:00+00:00\, Parameters({}))-Tri-City America
+ ns @ Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Medicine Hat Tigers
 DTSTART:20270114T020000Z
 DTEND:20270114T050000Z
-UID:235816a5fcf5c89b051023532@hockeytech.com
+UID:vDDDTypes(2027-01-14 02:00:00+00:00\, Parameters({}))-Regina Pats @ Me
+ dicine Hat Tigers
 LOCATION:Co-op Place - Medicine Hat\, AB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Calgary Hitmen
 DTSTART:20270116T020000Z
 DTEND:20270116T050000Z
-UID:235816a5fcf5c89b051023540@hockeytech.com
+UID:vDDDTypes(2027-01-16 02:00:00+00:00\, Parameters({}))-Regina Pats @ Ca
+ lgary Hitmen
 LOCATION:Scotiabank Saddledome - Calgary\, AB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Red Deer Rebels
 DTSTART:20270117T010000Z
 DTEND:20270117T040000Z
-UID:235816a5fcf5c89b051023550@hockeytech.com
+UID:vDDDTypes(2027-01-17 01:00:00+00:00\, Parameters({}))-Regina Pats @ Re
+ d Deer Rebels
 LOCATION:Marchant Crane Centrium - Red Deer\, AB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Calgary Hitmen @ Regina Pats
 DTSTART:20270123T010000Z
 DTEND:20270123T040000Z
-UID:235816a5fcf5c89b051023564@hockeytech.com
+UID:vDDDTypes(2027-01-23 01:00:00+00:00\, Parameters({}))-Calgary Hitmen @
+  Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Moose Jaw Warriors
 DTSTART:20270124T000000Z
 DTEND:20270124T030000Z
-UID:235816a5fcf5c89b051023575@hockeytech.com
+UID:vDDDTypes(2027-01-24 00:00:00+00:00\, Parameters({}))-Regina Pats @ Mo
+ ose Jaw Warriors
 LOCATION:Temple Gardens Centre - Moose Jaw\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moose Jaw Warriors @ Regina Pats
 DTSTART:20270124T220000Z
 DTEND:20270125T010000Z
-UID:235816a5fcf5c89b051023582@hockeytech.com
+UID:vDDDTypes(2027-01-24 22:00:00+00:00\, Parameters({}))-Moose Jaw Warrio
+ rs @ Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Swift Current Broncos
 DTSTART:20270130T010000Z
 DTEND:20270130T040000Z
-UID:235816a5fcf5c89b051023597@hockeytech.com
+UID:vDDDTypes(2027-01-30 01:00:00+00:00\, Parameters({}))-Regina Pats @ Sw
+ ift Current Broncos
 LOCATION:InnovationPlex - Swift Current\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lethbridge Hurricanes @ Regina Pats
 DTSTART:20270131T000000Z
 DTEND:20270131T030000Z
-UID:235816a5fcf5c89b051023607@hockeytech.com
+UID:vDDDTypes(2027-01-31 00:00:00+00:00\, Parameters({}))-Lethbridge Hurri
+ canes @ Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Swift Current Broncos @ Regina Pats
 DTSTART:20270204T010000Z
 DTEND:20270204T040000Z
-UID:235816a5fcf5c89b051023618@hockeytech.com
+UID:vDDDTypes(2027-02-04 01:00:00+00:00\, Parameters({}))-Swift Current Br
+ oncos @ Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Lethbridge Hurricanes
 DTSTART:20270206T020000Z
 DTEND:20270206T050000Z
-UID:235816a5fcf5c89b051023622@hockeytech.com
+UID:vDDDTypes(2027-02-06 02:00:00+00:00\, Parameters({}))-Regina Pats @ Le
+ thbridge Hurricanes
 LOCATION:VisitLethbridge.com Arena - Lethbridge\, AB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Medicine Hat Tigers
 DTSTART:20270207T020000Z
 DTEND:20270207T050000Z
-UID:235816a5fcf5c89b051023633@hockeytech.com
+UID:vDDDTypes(2027-02-07 02:00:00+00:00\, Parameters({}))-Regina Pats @ Me
+ dicine Hat Tigers
 LOCATION:Co-op Place - Medicine Hat\, AB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Calgary Hitmen @ Regina Pats
 DTSTART:20270213T010000Z
 DTEND:20270213T040000Z
-UID:235816a5fcf5c89b051023655@hockeytech.com
+UID:vDDDTypes(2027-02-13 01:00:00+00:00\, Parameters({}))-Calgary Hitmen @
+  Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Moose Jaw Warriors
 DTSTART:20270214T000000Z
 DTEND:20270214T030000Z
-UID:235816a5fcf5c89b051023664@hockeytech.com
+UID:vDDDTypes(2027-02-14 00:00:00+00:00\, Parameters({}))-Regina Pats @ Mo
+ ose Jaw Warriors
 LOCATION:Temple Gardens Centre - Moose Jaw\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brandon Wheat Kings @ Regina Pats
 DTSTART:20270220T010000Z
 DTEND:20270220T040000Z
-UID:235816a5fcf5c89b051023686@hockeytech.com
+UID:vDDDTypes(2027-02-20 01:00:00+00:00\, Parameters({}))-Brandon Wheat Ki
+ ngs @ Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Brandon Wheat Kings
 DTSTART:20270221T000000Z
 DTEND:20270221T030000Z
-UID:235816a5fcf5c89b051023691@hockeytech.com
+UID:vDDDTypes(2027-02-21 00:00:00+00:00\, Parameters({}))-Regina Pats @ Br
+ andon Wheat Kings
 LOCATION:Assiniboine Credit Union Place - Brandon\, MB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Medicine Hat Tigers @ Regina Pats
 DTSTART:20270224T010000Z
 DTEND:20270224T040000Z
-UID:235816a5fcf5c89b051023704@hockeytech.com
+UID:vDDDTypes(2027-02-24 01:00:00+00:00\, Parameters({}))-Medicine Hat Tig
+ ers @ Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Prince Albert Raiders
 DTSTART:20270225T010000Z
 DTEND:20270225T040000Z
-UID:235816a5fcf5c89b051023710@hockeytech.com
+UID:vDDDTypes(2027-02-25 01:00:00+00:00\, Parameters({}))-Regina Pats @ Pr
+ ince Albert Raiders
 LOCATION:Art Hauser Centre - Prince Albert\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Red Deer Rebels @ Regina Pats
 DTSTART:20270228T000000Z
 DTEND:20270228T030000Z
-UID:235816a5fcf5c89b051023728@hockeytech.com
+UID:vDDDTypes(2027-02-28 00:00:00+00:00\, Parameters({}))-Red Deer Rebels 
+ @ Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prince Albert Raiders @ Regina Pats
 DTSTART:20270228T200000Z
 DTEND:20270228T230000Z
-UID:235816a5fcf5c89b051023737@hockeytech.com
+UID:vDDDTypes(2027-02-28 20:00:00+00:00\, Parameters({}))-Prince Albert Ra
+ iders @ Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Red Deer Rebels
 DTSTART:20270307T010000Z
 DTEND:20270307T040000Z
-UID:235816a5fcf5c89b051023760@hockeytech.com
+UID:vDDDTypes(2027-03-07 01:00:00+00:00\, Parameters({}))-Regina Pats @ Re
+ d Deer Rebels
 LOCATION:Marchant Crane Centrium - Red Deer\, AB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Edmonton Oil Kings
 DTSTART:20270307T230000Z
 DTEND:20270308T020000Z
-UID:235816a5fcf5c89b051023764@hockeytech.com
+UID:vDDDTypes(2027-03-07 23:00:00+00:00\, Parameters({}))-Regina Pats @ Ed
+ monton Oil Kings
 LOCATION:Rogers Place - Edmonton\, AB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Lethbridge Hurricanes
 DTSTART:20270310T020000Z
 DTEND:20270310T050000Z
-UID:235816a5fcf5c89b051023768@hockeytech.com
+UID:vDDDTypes(2027-03-10 02:00:00+00:00\, Parameters({}))-Regina Pats @ Le
+ thbridge Hurricanes
 LOCATION:VisitLethbridge.com Arena - Lethbridge\, AB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Edmonton Oil Kings @ Regina Pats
 DTSTART:20270313T010000Z
 DTEND:20270313T040000Z
-UID:235816a5fcf5c89b051023779@hockeytech.com
+UID:vDDDTypes(2027-03-13 01:00:00+00:00\, Parameters({}))-Edmonton Oil Kin
+ gs @ Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moose Jaw Warriors @ Regina Pats
 DTSTART:20270314T220000Z
 DTEND:20270315T010000Z
-UID:235816a5fcf5c89b051023796@hockeytech.com
+UID:vDDDTypes(2027-03-14 22:00:00+00:00\, Parameters({}))-Moose Jaw Warrio
+ rs @ Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prince Albert Raiders @ Regina Pats
 DTSTART:20270321T000000Z
 DTEND:20270321T030000Z
-UID:235816a5fcf5c89b051023825@hockeytech.com
+UID:vDDDTypes(2027-03-21 00:00:00+00:00\, Parameters({}))-Prince Albert Ra
+ iders @ Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Swift Current Broncos
 DTSTART:20270325T010000Z
 DTEND:20270325T040000Z
-UID:235816a5fcf5c89b051023839@hockeytech.com
+UID:vDDDTypes(2027-03-25 01:00:00+00:00\, Parameters({}))-Regina Pats @ Sw
+ ift Current Broncos
 LOCATION:InnovationPlex - Swift Current\, SK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina Pats @ Brandon Wheat Kings
 DTSTART:20270327T000000Z
 DTEND:20270327T030000Z
-UID:235816a5fcf5c89b051023840@hockeytech.com
+UID:vDDDTypes(2027-03-27 00:00:00+00:00\, Parameters({}))-Regina Pats @ Br
+ andon Wheat Kings
 LOCATION:Assiniboine Credit Union Place - Brandon\, MB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brandon Wheat Kings @ Regina Pats
 DTSTART:20270328T000000Z
 DTEND:20270328T030000Z
-UID:235816a5fcf5c89b051023856@hockeytech.com
+UID:vDDDTypes(2027-03-28 00:00:00+00:00\, Parameters({}))-Brandon Wheat Ki
+ ngs @ Regina Pats
 LOCATION:Brandt Centre - Regina\, SK
 END:VEVENT
 END:VCALENDAR

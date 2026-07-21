@@ -7,7 +7,8 @@ BEGIN:VEVENT
 SUMMARY:Kitchener Rangers @ Kelowna Rockets
 DTSTART:20260523T010000Z
 DTEND:20260523T033000Z
-UID:chl-game-577@chl.ca
+UID:vDDDTypes(2026-05-23 01:00:00+00:00\, Parameters({}))-Kitchener Ranger
+ s @ Kelowna Rockets
 DESCRIPTION:Official CHL Ice Hockey Match\nStatus: Final\n\nSummary: Jack 
  Pridham\, Sam O'Reilly\, and Haeden Ellis all scored just 2:44 apart in th
  e third period as the Kitchener Rangers opened their ledger at the 2026 Me
@@ -19,7 +20,8 @@ BEGIN:VEVENT
 SUMMARY:Everett  Silvertips @ Chicoutimi Saguenéens
 DTSTART:20260524T010000Z
 DTEND:20260524T033000Z
-UID:chl-game-578@chl.ca
+UID:vDDDTypes(2026-05-24 01:00:00+00:00\, Parameters({}))-Everett  Silvert
+ ips @ Chicoutimi Saguenéens
 DESCRIPTION:Official CHL Ice Hockey Match\nStatus: Final\n\nSummary: Jesse
   Heslop and Matias Vanhanen each had a goal and an assist\, and top 2027 N
  HL draft prospect Landon DuPont had a helper as Everett defeated Chicoutim
@@ -30,7 +32,8 @@ BEGIN:VEVENT
 SUMMARY:Kelowna Rockets @ Chicoutimi Saguenéens
 DTSTART:20260525T010000Z
 DTEND:20260525T033000Z
-UID:chl-game-579@chl.ca
+UID:vDDDTypes(2026-05-25 01:00:00+00:00\, Parameters({}))-Kelowna Rockets 
+ @ Chicoutimi Saguenéens
 DESCRIPTION:Official CHL Ice Hockey Match\nStatus: Final (OT)\n\nSummary: 
  After exchanging third period goals\, this one needed overtime with both t
  eams looking for their first win of the Memorial Cup. Liam Lefebvre hammer
@@ -42,7 +45,8 @@ BEGIN:VEVENT
 SUMMARY:Everett  Silvertips @ Kitchener Rangers
 DTSTART:20260526T010000Z
 DTEND:20260526T033000Z
-UID:chl-game-580@chl.ca
+UID:vDDDTypes(2026-05-26 01:00:00+00:00\, Parameters({}))-Everett  Silvert
+ ips @ Kitchener Rangers
 DESCRIPTION:Official CHL Ice Hockey Match\nStatus: Final\n\nSummary: Jack 
  Pridham scored twice\, Cameron Reid had a goal and three assists\, and the
   Kitchener Rangers knocked off the Everett Silvertips  to record their sec
@@ -53,7 +57,8 @@ BEGIN:VEVENT
 SUMMARY:Chicoutimi Saguenéens @ Kitchener Rangers
 DTSTART:20260527T010000Z
 DTEND:20260527T033000Z
-UID:chl-game-581@chl.ca
+UID:vDDDTypes(2026-05-27 01:00:00+00:00\, Parameters({}))-Chicoutimi Sague
+ néens @ Kitchener Rangers
 DESCRIPTION:Official CHL Ice Hockey Match\nStatus: Final\n\nSummary: Sam O
  'Reilly and Jack Pridham had a goal and an assist each as the Kitchener Ra
  ngers remained perfect and booked their place in the Memorial Cup Final wi
@@ -64,7 +69,8 @@ BEGIN:VEVENT
 SUMMARY:Kelowna Rockets @ Everett  Silvertips
 DTSTART:20260528T010000Z
 DTEND:20260528T033000Z
-UID:chl-game-582@chl.ca
+UID:vDDDTypes(2026-05-28 01:00:00+00:00\, Parameters({}))-Kelowna Rockets 
+ @ Everett  Silvertips
 DESCRIPTION:Official CHL Ice Hockey Match\nStatus: Final\n\nSummary: Defen
  cemen Kayd Ruedig and Jaxon Pisani scored in a 25-second span in the first
   period\, and the Everett Silvertips beat the host Kelowna Rockets on Wedn
@@ -76,7 +82,8 @@ BEGIN:VEVENT
 SUMMARY:Chicoutimi Saguenéens @ Everett  Silvertips
 DTSTART:20260530T010000Z
 DTEND:20260530T033000Z
-UID:chl-game-584@chl.ca
+UID:vDDDTypes(2026-05-30 01:00:00+00:00\, Parameters({}))-Chicoutimi Sague
+ néens @ Everett  Silvertips
 DESCRIPTION:Official CHL Ice Hockey Match\nStatus: Final\n\nSummary: Lando
  n DuPont scored twice\, and Carter Bear added a goal and an assist as the 
  Silvertips rolled past the Saguenéens to advance to their first ever Memo
@@ -87,7 +94,8 @@ BEGIN:VEVENT
 SUMMARY:Everett  Silvertips @ Kitchener Rangers
 DTSTART:20260531T230000Z
 DTEND:20260601T013000Z
-UID:chl-game-585@chl.ca
+UID:vDDDTypes(2026-05-31 23:00:00+00:00\, Parameters({}))-Everett  Silvert
+ ips @ Kitchener Rangers
 DESCRIPTION:Official CHL Ice Hockey Match\nStatus: Final\n\nSummary: Luke 
  Ellinas scores for Kitchener and Matias Varhanen answers 28 seconds later 
  for Everett as the Memorial Cup Final gets off to a hot start. 

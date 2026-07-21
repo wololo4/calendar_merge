@@ -7,504 +7,576 @@ BEGIN:VEVENT
 SUMMARY:Syracuse Crunch @ Laval Rocket
 DTSTART:20261002T230000Z
 DTEND:20261003T020000Z
-UID:192376a5fcf5cacbf61029075@hockeytech.com
+UID:vDDDTypes(2026-10-02 23:00:00+00:00\, Parameters({}))-Syracuse Crunch 
+ @ Laval Rocket
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Syracuse Crunch @ Laval Rocket
 DTSTART:20261003T190000Z
 DTEND:20261003T220000Z
-UID:192376a5fcf5cacbf61029082@hockeytech.com
+UID:vDDDTypes(2026-10-03 19:00:00+00:00\, Parameters({}))-Syracuse Crunch 
+ @ Laval Rocket
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laval Rocket @ Springfield Thunderbirds
 DTSTART:20261010T220500Z
 DTEND:20261011T010500Z
-UID:192376a5fcf5cacbf61029120@hockeytech.com
+UID:vDDDTypes(2026-10-10 22:05:00+00:00\, Parameters({}))-Laval Rocket @ S
+ pringfield Thunderbirds
 LOCATION:MassMutual Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laval Rocket @ Hartford Wolf Pack
 DTSTART:20261011T190000Z
 DTEND:20261011T220000Z
-UID:192376a5fcf5cacbf61029128@hockeytech.com
+UID:vDDDTypes(2026-10-11 19:00:00+00:00\, Parameters({}))-Laval Rocket @ H
+ artford Wolf Pack
 LOCATION:PeoplesBank Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laval Rocket @ Belleville Senators
 DTSTART:20261016T230000Z
 DTEND:20261017T020000Z
-UID:192376a5fcf5cacbf61029137@hockeytech.com
+UID:vDDDTypes(2026-10-16 23:00:00+00:00\, Parameters({}))-Laval Rocket @ B
+ elleville Senators
 LOCATION:CAA Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laval Rocket @ Utica Comets
 DTSTART:20261017T220000Z
 DTEND:20261018T010000Z
-UID:192376a5fcf5cacbf61029160@hockeytech.com
+UID:vDDDTypes(2026-10-17 22:00:00+00:00\, Parameters({}))-Laval Rocket @ U
+ tica Comets
 LOCATION:Adirondack Bank Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Syracuse Crunch @ Laval Rocket
 DTSTART:20261021T230000Z
 DTEND:20261022T020000Z
-UID:192376a5fcf5cacbf61029171@hockeytech.com
+UID:vDDDTypes(2026-10-21 23:00:00+00:00\, Parameters({}))-Syracuse Crunch 
+ @ Laval Rocket
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamilton Hammers @ Laval Rocket
 DTSTART:20261023T230000Z
 DTEND:20261024T020000Z
-UID:192376a5fcf5cacbf61029182@hockeytech.com
+UID:vDDDTypes(2026-10-23 23:00:00+00:00\, Parameters({}))-Hamilton Hammers
+  @ Laval Rocket
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamilton Hammers @ Laval Rocket
 DTSTART:20261024T190000Z
 DTEND:20261024T220000Z
-UID:192376a5fcf5cacbf61029195@hockeytech.com
+UID:vDDDTypes(2026-10-24 19:00:00+00:00\, Parameters({}))-Hamilton Hammers
+  @ Laval Rocket
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laval Rocket @ Calgary Wranglers
 DTSTART:20261030T010000Z
 DTEND:20261030T040000Z
-UID:192376a5fcf5cacbf61029213@hockeytech.com
+UID:vDDDTypes(2026-10-30 01:00:00+00:00\, Parameters({}))-Laval Rocket @ C
+ algary Wranglers
 LOCATION:Scotiabank Saddledome
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laval Rocket @ Calgary Wranglers
 DTSTART:20261031T180000Z
 DTEND:20261031T210000Z
-UID:192376a5fcf5cacbf61029227@hockeytech.com
+UID:vDDDTypes(2026-10-31 18:00:00+00:00\, Parameters({}))-Laval Rocket @ C
+ algary Wranglers
 LOCATION:Scotiabank Saddledome
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lehigh Valley Phantoms @ Laval Rocket
 DTSTART:20261105T000000Z
 DTEND:20261105T030000Z
-UID:192376a5fcf5cacbf61029246@hockeytech.com
+UID:vDDDTypes(2026-11-05 00:00:00+00:00\, Parameters({}))-Lehigh Valley Ph
+ antoms @ Laval Rocket
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cleveland Monsters @ Laval Rocket
 DTSTART:20261107T000000Z
 DTEND:20261107T030000Z
-UID:192376a5fcf5cacbf61029257@hockeytech.com
+UID:vDDDTypes(2026-11-07 00:00:00+00:00\, Parameters({}))-Cleveland Monste
+ rs @ Laval Rocket
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cleveland Monsters @ Laval Rocket
 DTSTART:20261107T200000Z
 DTEND:20261107T230000Z
-UID:192376a5fcf5cacbf61029271@hockeytech.com
+UID:vDDDTypes(2026-11-07 20:00:00+00:00\, Parameters({}))-Cleveland Monste
+ rs @ Laval Rocket
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laval Rocket @ Syracuse Crunch
 DTSTART:20261112T000000Z
 DTEND:20261112T030000Z
-UID:192376a5fcf5cacbf61029294@hockeytech.com
+UID:vDDDTypes(2026-11-12 00:00:00+00:00\, Parameters({}))-Laval Rocket @ S
+ yracuse Crunch
 LOCATION:Upstate Medical University Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laval Rocket @ Rochester Americans
 DTSTART:20261114T000500Z
 DTEND:20261114T030500Z
-UID:192376a5fcf5cacbf61029304@hockeytech.com
+UID:vDDDTypes(2026-11-14 00:05:00+00:00\, Parameters({}))-Laval Rocket @ R
+ ochester Americans
 LOCATION:Blue Cross Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laval Rocket @ Rochester Americans
 DTSTART:20261114T220500Z
 DTEND:20261115T010500Z
-UID:192376a5fcf5cacbf61029315@hockeytech.com
+UID:vDDDTypes(2026-11-14 22:05:00+00:00\, Parameters({}))-Laval Rocket @ R
+ ochester Americans
 LOCATION:Blue Cross Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laval Rocket @ Belleville Senators
 DTSTART:20261118T153000Z
 DTEND:20261118T183000Z
-UID:192376a5fcf5cacbf61029334@hockeytech.com
+UID:vDDDTypes(2026-11-18 15:30:00+00:00\, Parameters({}))-Laval Rocket @ B
+ elleville Senators
 LOCATION:Canadian Tire Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Calgary Wranglers @ Laval Rocket
 DTSTART:20261121T200000Z
 DTEND:20261121T230000Z
-UID:192376a5fcf5cacbf61029356@hockeytech.com
+UID:vDDDTypes(2026-11-21 20:00:00+00:00\, Parameters({}))-Calgary Wrangler
+ s @ Laval Rocket
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Calgary Wranglers @ Laval Rocket
 DTSTART:20261122T200000Z
 DTEND:20261122T230000Z
-UID:192376a5fcf5cacbf61029368@hockeytech.com
+UID:vDDDTypes(2026-11-22 20:00:00+00:00\, Parameters({}))-Calgary Wrangler
+ s @ Laval Rocket
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laval Rocket @ Utica Comets
 DTSTART:20261128T000000Z
 DTEND:20261128T030000Z
-UID:192376a5fcf5cacbf61029396@hockeytech.com
+UID:vDDDTypes(2026-11-28 00:00:00+00:00\, Parameters({}))-Laval Rocket @ U
+ tica Comets
 LOCATION:Adirondack Bank Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laval Rocket @ Syracuse Crunch
 DTSTART:20261129T000000Z
 DTEND:20261129T030000Z
-UID:192376a5fcf5cacbf61029408@hockeytech.com
+UID:vDDDTypes(2026-11-29 00:00:00+00:00\, Parameters({}))-Laval Rocket @ S
+ yracuse Crunch
 LOCATION:Upstate Medical University Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toronto Marlies @ Laval Rocket
 DTSTART:20261203T000000Z
 DTEND:20261203T030000Z
-UID:192376a5fcf5cacbf61029427@hockeytech.com
+UID:vDDDTypes(2026-12-03 00:00:00+00:00\, Parameters({}))-Toronto Marlies 
+ @ Laval Rocket
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wilkes-Barre/Scranton Penguins @ Laval Rocket
 DTSTART:20261205T000000Z
 DTEND:20261205T030000Z
-UID:192376a5fcf5cacbf61029433@hockeytech.com
+UID:vDDDTypes(2026-12-05 00:00:00+00:00\, Parameters({}))-Wilkes-Barre/Scr
+ anton Penguins @ Laval Rocket
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Utica Comets @ Laval Rocket
 DTSTART:20261210T000000Z
 DTEND:20261210T030000Z
-UID:192376a5fcf5cacbf61029469@hockeytech.com
+UID:vDDDTypes(2026-12-10 00:00:00+00:00\, Parameters({}))-Utica Comets @ L
+ aval Rocket
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laval Rocket @ Cleveland Monsters
 DTSTART:20261212T000000Z
 DTEND:20261212T030000Z
-UID:192376a5fcf5cacbf61029474@hockeytech.com
+UID:vDDDTypes(2026-12-12 00:00:00+00:00\, Parameters({}))-Laval Rocket @ C
+ leveland Monsters
 LOCATION:Rocket Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laval Rocket @ Cleveland Monsters
 DTSTART:20261212T180000Z
 DTEND:20261212T210000Z
-UID:192376a5fcf5cacbf61029488@hockeytech.com
+UID:vDDDTypes(2026-12-12 18:00:00+00:00\, Parameters({}))-Laval Rocket @ C
+ leveland Monsters
 LOCATION:Rocket Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laval Rocket @ Toronto Marlies
 DTSTART:20261216T000000Z
 DTEND:20261216T030000Z
-UID:192376a5fcf5cacbf61029508@hockeytech.com
+UID:vDDDTypes(2026-12-16 00:00:00+00:00\, Parameters({}))-Laval Rocket @ T
+ oronto Marlies
 LOCATION:Coca-Cola Coliseum
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laval Rocket @ Belleville Senators
 DTSTART:20261217T000000Z
 DTEND:20261217T030000Z
-UID:192376a5fcf5cacbf61029513@hockeytech.com
+UID:vDDDTypes(2026-12-17 00:00:00+00:00\, Parameters({}))-Laval Rocket @ B
+ elleville Senators
 LOCATION:CAA Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laval Rocket @ Toronto Marlies
 DTSTART:20261219T210000Z
 DTEND:20261220T000000Z
-UID:192376a5fcf5cacbf61029544@hockeytech.com
+UID:vDDDTypes(2026-12-19 21:00:00+00:00\, Parameters({}))-Laval Rocket @ T
+ oronto Marlies
 LOCATION:Coca-Cola Coliseum
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laval Rocket @ Hamilton Hammers
 DTSTART:20261220T200000Z
 DTEND:20261220T230000Z
-UID:192376a5fcf5cacbf61029549@hockeytech.com
+UID:vDDDTypes(2026-12-20 20:00:00+00:00\, Parameters({}))-Laval Rocket @ H
+ amilton Hammers
 LOCATION:TD Coliseum
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laval Rocket @ Utica Comets
 DTSTART:20261227T200000Z
 DTEND:20261227T230000Z
-UID:192376a5fcf5cacbf61029563@hockeytech.com
+UID:vDDDTypes(2026-12-27 20:00:00+00:00\, Parameters({}))-Laval Rocket @ U
+ tica Comets
 LOCATION:Adirondack Bank Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Belleville Senators @ Laval Rocket
 DTSTART:20261231T000000Z
 DTEND:20261231T030000Z
-UID:192376a5fcf5cacbf61029578@hockeytech.com
+UID:vDDDTypes(2026-12-31 00:00:00+00:00\, Parameters({}))-Belleville Senat
+ ors @ Laval Rocket
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hartford Wolf Pack @ Laval Rocket
 DTSTART:20270102T200000Z
 DTEND:20270102T230000Z
-UID:192376a5fcf5cacbf61029598@hockeytech.com
+UID:vDDDTypes(2027-01-02 20:00:00+00:00\, Parameters({}))-Hartford Wolf Pa
+ ck @ Laval Rocket
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hartford Wolf Pack @ Laval Rocket
 DTSTART:20270103T200000Z
 DTEND:20270103T230000Z
-UID:192376a5fcf5cacbf61029610@hockeytech.com
+UID:vDDDTypes(2027-01-03 20:00:00+00:00\, Parameters({}))-Hartford Wolf Pa
+ ck @ Laval Rocket
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laval Rocket @ Hamilton Hammers
 DTSTART:20270107T000000Z
 DTEND:20270107T030000Z
-UID:192376a5fcf5cacbf61029621@hockeytech.com
+UID:vDDDTypes(2027-01-07 00:00:00+00:00\, Parameters({}))-Laval Rocket @ H
+ amilton Hammers
 LOCATION:TD Coliseum
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laval Rocket @ Rochester Americans
 DTSTART:20270109T000500Z
 DTEND:20270109T030500Z
-UID:192376a5fcf5cacbf61029635@hockeytech.com
+UID:vDDDTypes(2027-01-09 00:05:00+00:00\, Parameters({}))-Laval Rocket @ R
+ ochester Americans
 LOCATION:Blue Cross Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laval Rocket @ Syracuse Crunch
 DTSTART:20270110T000000Z
 DTEND:20270110T030000Z
-UID:192376a5fcf5cacbf61029649@hockeytech.com
+UID:vDDDTypes(2027-01-10 00:00:00+00:00\, Parameters({}))-Laval Rocket @ S
+ yracuse Crunch
 LOCATION:Upstate Medical University Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Belleville Senators @ Laval Rocket
 DTSTART:20270114T000000Z
 DTEND:20270114T030000Z
-UID:192376a5fcf5cacbf61029666@hockeytech.com
+UID:vDDDTypes(2027-01-14 00:00:00+00:00\, Parameters({}))-Belleville Senat
+ ors @ Laval Rocket
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rochester Americans @ Laval Rocket
 DTSTART:20270116T000000Z
 DTEND:20270116T030000Z
-UID:192376a5fcf5cacbf61029675@hockeytech.com
+UID:vDDDTypes(2027-01-16 00:00:00+00:00\, Parameters({}))-Rochester Americ
+ ans @ Laval Rocket
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rochester Americans @ Laval Rocket
 DTSTART:20270116T200000Z
 DTEND:20270116T230000Z
-UID:192376a5fcf5cacbf61029686@hockeytech.com
+UID:vDDDTypes(2027-01-16 20:00:00+00:00\, Parameters({}))-Rochester Americ
+ ans @ Laval Rocket
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laval Rocket @ Hartford Wolf Pack
 DTSTART:20270124T001500Z
 DTEND:20270124T031500Z
-UID:192376a5fcf5cacbf61029730@hockeytech.com
+UID:vDDDTypes(2027-01-24 00:15:00+00:00\, Parameters({}))-Laval Rocket @ H
+ artford Wolf Pack
 LOCATION:PeoplesBank Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laval Rocket @ Springfield Thunderbirds
 DTSTART:20270124T200500Z
 DTEND:20270124T230500Z
-UID:192376a5fcf5cacbf61029746@hockeytech.com
+UID:vDDDTypes(2027-01-24 20:05:00+00:00\, Parameters({}))-Laval Rocket @ S
+ pringfield Thunderbirds
 LOCATION:MassMutual Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Providence Bruins @ Laval Rocket
 DTSTART:20270128T000000Z
 DTEND:20270128T030000Z
-UID:192376a5fcf5cacbf61029752@hockeytech.com
+UID:vDDDTypes(2027-01-28 00:00:00+00:00\, Parameters({}))-Providence Bruin
+ s @ Laval Rocket
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Providence Bruins @ Laval Rocket
 DTSTART:20270130T000000Z
 DTEND:20270130T030000Z
-UID:192376a5fcf5cacbf61029760@hockeytech.com
+UID:vDDDTypes(2027-01-30 00:00:00+00:00\, Parameters({}))-Providence Bruin
+ s @ Laval Rocket
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Belleville Senators @ Laval Rocket
 DTSTART:20270204T000000Z
 DTEND:20270204T030000Z
-UID:192376a5fcf5cacbf61029794@hockeytech.com
+UID:vDDDTypes(2027-02-04 00:00:00+00:00\, Parameters({}))-Belleville Senat
+ ors @ Laval Rocket
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Utica Comets @ Laval Rocket
 DTSTART:20270206T000000Z
 DTEND:20270206T030000Z
-UID:192376a5fcf5cacbf61029807@hockeytech.com
+UID:vDDDTypes(2027-02-06 00:00:00+00:00\, Parameters({}))-Utica Comets @ L
+ aval Rocket
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rochester Americans @ Laval Rocket
 DTSTART:20270206T200000Z
 DTEND:20270206T230000Z
-UID:192376a5fcf5cacbf61029822@hockeytech.com
+UID:vDDDTypes(2027-02-06 20:00:00+00:00\, Parameters({}))-Rochester Americ
+ ans @ Laval Rocket
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laval Rocket @ Manitoba Moose
 DTSTART:20270213T200000Z
 DTEND:20270213T230000Z
-UID:192376a5fcf5cacbf61029846@hockeytech.com
+UID:vDDDTypes(2027-02-13 20:00:00+00:00\, Parameters({}))-Laval Rocket @ M
+ anitoba Moose
 LOCATION:Canada Life Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laval Rocket @ Manitoba Moose
 DTSTART:20270215T200000Z
 DTEND:20270215T230000Z
-UID:192376a5fcf5cacbf61029859@hockeytech.com
+UID:vDDDTypes(2027-02-15 20:00:00+00:00\, Parameters({}))-Laval Rocket @ M
+ anitoba Moose
 LOCATION:Canada Life Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laval Rocket @ Providence Bruins
 DTSTART:20270221T000500Z
 DTEND:20270221T030500Z
-UID:192376a5fcf5cacbf61029893@hockeytech.com
+UID:vDDDTypes(2027-02-21 00:05:00+00:00\, Parameters({}))-Laval Rocket @ P
+ rovidence Bruins
 LOCATION:Amica Mutual Pavilion
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laval Rocket @ Providence Bruins
 DTSTART:20270221T200500Z
 DTEND:20270221T230500Z
-UID:192376a5fcf5cacbf61029901@hockeytech.com
+UID:vDDDTypes(2027-02-21 20:05:00+00:00\, Parameters({}))-Laval Rocket @ P
+ rovidence Bruins
 LOCATION:Amica Mutual Pavilion
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laval Rocket @ Belleville Senators
 DTSTART:20270225T000000Z
 DTEND:20270225T030000Z
-UID:192376a5fcf5cacbf61029911@hockeytech.com
+UID:vDDDTypes(2027-02-25 00:00:00+00:00\, Parameters({}))-Laval Rocket @ B
+ elleville Senators
 LOCATION:CAA Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toronto Marlies @ Laval Rocket
 DTSTART:20270227T000000Z
 DTEND:20270227T030000Z
-UID:192376a5fcf5cacbf61029927@hockeytech.com
+UID:vDDDTypes(2027-02-27 00:00:00+00:00\, Parameters({}))-Toronto Marlies 
+ @ Laval Rocket
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toronto Marlies @ Laval Rocket
 DTSTART:20270227T200000Z
 DTEND:20270227T230000Z
-UID:192376a5fcf5cacbf61029940@hockeytech.com
+UID:vDDDTypes(2027-02-27 20:00:00+00:00\, Parameters({}))-Toronto Marlies 
+ @ Laval Rocket
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Utica Comets @ Laval Rocket
 DTSTART:20270304T000000Z
 DTEND:20270304T030000Z
-UID:192376a5fcf5cacbf61029960@hockeytech.com
+UID:vDDDTypes(2027-03-04 00:00:00+00:00\, Parameters({}))-Utica Comets @ L
+ aval Rocket
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamilton Hammers @ Laval Rocket
 DTSTART:20270306T000000Z
 DTEND:20270306T030000Z
-UID:192376a5fcf5cacbf61029970@hockeytech.com
+UID:vDDDTypes(2027-03-06 00:00:00+00:00\, Parameters({}))-Hamilton Hammers
+  @ Laval Rocket
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamilton Hammers @ Laval Rocket
 DTSTART:20270306T200000Z
 DTEND:20270306T230000Z
-UID:192376a5fcf5cacbf61029981@hockeytech.com
+UID:vDDDTypes(2027-03-06 20:00:00+00:00\, Parameters({}))-Hamilton Hammers
+  @ Laval Rocket
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laval Rocket @ Wilkes-Barre/Scranton Penguins
 DTSTART:20270310T233500Z
 DTEND:20270311T023500Z
-UID:192376a5fcf5cacbf61030008@hockeytech.com
+UID:vDDDTypes(2027-03-10 23:35:00+00:00\, Parameters({}))-Laval Rocket @ W
+ ilkes-Barre/Scranton Penguins
 LOCATION:Mohegan Arena at Casey Plaza
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laval Rocket @ Lehigh Valley Phantoms
 DTSTART:20270313T000500Z
 DTEND:20270313T030500Z
-UID:192376a5fcf5cacbf61030013@hockeytech.com
+UID:vDDDTypes(2027-03-13 00:05:00+00:00\, Parameters({}))-Laval Rocket @ L
+ ehigh Valley Phantoms
 LOCATION:PPL Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laval Rocket @ Hershey Bears
 DTSTART:20270314T210000Z
 DTEND:20270315T000000Z
-UID:192376a5fcf5cacbf61030038@hockeytech.com
+UID:vDDDTypes(2027-03-14 21:00:00+00:00\, Parameters({}))-Laval Rocket @ H
+ ershey Bears
 LOCATION:Giant Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hershey Bears @ Laval Rocket
 DTSTART:20270320T190000Z
 DTEND:20270320T220000Z
-UID:192376a5fcf5cacbf61030072@hockeytech.com
+UID:vDDDTypes(2027-03-20 19:00:00+00:00\, Parameters({}))-Hershey Bears @ 
+ Laval Rocket
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Belleville Senators @ Laval Rocket
 DTSTART:20270321T210000Z
 DTEND:20270322T000000Z
-UID:192376a5fcf5cacbf61030081@hockeytech.com
+UID:vDDDTypes(2027-03-21 21:00:00+00:00\, Parameters({}))-Belleville Senat
+ ors @ Laval Rocket
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laval Rocket @ Belleville Senators
 DTSTART:20270324T230000Z
 DTEND:20270325T020000Z
-UID:192376a5fcf5cacbf61030091@hockeytech.com
+UID:vDDDTypes(2027-03-24 23:00:00+00:00\, Parameters({}))-Laval Rocket @ B
+ elleville Senators
 LOCATION:CAA Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Springfield Thunderbirds @ Laval Rocket
 DTSTART:20270326T230000Z
 DTEND:20270327T020000Z
-UID:192376a5fcf5cacbf61030109@hockeytech.com
+UID:vDDDTypes(2027-03-26 23:00:00+00:00\, Parameters({}))-Springfield Thun
+ derbirds @ Laval Rocket
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Springfield Thunderbirds @ Laval Rocket
 DTSTART:20270327T190000Z
 DTEND:20270327T220000Z
-UID:192376a5fcf5cacbf61030124@hockeytech.com
+UID:vDDDTypes(2027-03-27 19:00:00+00:00\, Parameters({}))-Springfield Thun
+ derbirds @ Laval Rocket
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Belleville Senators @ Laval Rocket
 DTSTART:20270331T230000Z
 DTEND:20270401T020000Z
-UID:192376a5fcf5cacbf61030135@hockeytech.com
+UID:vDDDTypes(2027-03-31 23:00:00+00:00\, Parameters({}))-Belleville Senat
+ ors @ Laval Rocket
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Manitoba Moose @ Laval Rocket
 DTSTART:20270402T230000Z
 DTEND:20270403T020000Z
-UID:192376a5fcf5cacbf61030149@hockeytech.com
+UID:vDDDTypes(2027-04-02 23:00:00+00:00\, Parameters({}))-Manitoba Moose @
+  Laval Rocket
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Manitoba Moose @ Laval Rocket
 DTSTART:20270403T190000Z
 DTEND:20270403T220000Z
-UID:192376a5fcf5cacbf61030160@hockeytech.com
+UID:vDDDTypes(2027-04-03 19:00:00+00:00\, Parameters({}))-Manitoba Moose @
+  Laval Rocket
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laval Rocket @ Hamilton Hammers
 DTSTART:20270408T230000Z
 DTEND:20270409T020000Z
-UID:192376a5fcf5cacbf61030190@hockeytech.com
+UID:vDDDTypes(2027-04-08 23:00:00+00:00\, Parameters({}))-Laval Rocket @ H
+ amilton Hammers
 LOCATION:TD Coliseum
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laval Rocket @ Hamilton Hammers
 DTSTART:20270410T190000Z
 DTEND:20270410T220000Z
-UID:192376a5fcf5cacbf61030205@hockeytech.com
+UID:vDDDTypes(2027-04-10 19:00:00+00:00\, Parameters({}))-Laval Rocket @ H
+ amilton Hammers
 LOCATION:TD Coliseum
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laval Rocket @ Toronto Marlies
 DTSTART:20270411T200000Z
 DTEND:20270411T230000Z
-UID:192376a5fcf5cacbf61030222@hockeytech.com
+UID:vDDDTypes(2027-04-11 20:00:00+00:00\, Parameters({}))-Laval Rocket @ T
+ oronto Marlies
 LOCATION:Coca-Cola Coliseum
 END:VEVENT
 END:VCALENDAR

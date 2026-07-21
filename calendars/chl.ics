@@ -7,7 +7,8 @@ BEGIN:VEVENT
 SUMMARY:Skellefteå AIK @ HK Nitra
 DTSTART:20260904T160000Z
 DTEND:20260904T183000Z
-UID:chleu-game-2995@championshockeyleague.com
+UID:vDDDTypes(2026-09-04 16:00:00+00:00\, Parameters({}))-Skellefteå AIK 
+ @ HK Nitra
 DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
  ame Day 1\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
  /2955e4b9c682514ca88e1d64/hk-nitra-vs-skelleftea-aik
@@ -17,7 +18,8 @@ BEGIN:VEVENT
 SUMMARY:Skellefteå AIK @ Adler Mannheim
 DTSTART:20260906T150000Z
 DTEND:20260906T173000Z
-UID:chleu-game-3011@championshockeyleague.com
+UID:vDDDTypes(2026-09-06 15:00:00+00:00\, Parameters({}))-Skellefteå AIK 
+ @ Adler Mannheim
 DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
  ame Day 2\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
  /8ea8d511f11e851e50fd4110/adler-mannheim-vs-skelleftea-aik
@@ -27,7 +29,8 @@ BEGIN:VEVENT
 SUMMARY:Genève-Servette @ Skellefteå AIK
 DTSTART:20260910T170000Z
 DTEND:20260910T193000Z
-UID:chleu-game-3015@championshockeyleague.com
+UID:vDDDTypes(2026-09-10 17:00:00+00:00\, Parameters({}))-Genève-Servette
+  @ Skellefteå AIK
 DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
  ame Day 3\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
  /f53c78cf34039461d87b4a44/skelleftea-aik-vs-geneve-servette
@@ -37,7 +40,8 @@ BEGIN:VEVENT
 SUMMARY:HC Davos @ Skellefteå AIK
 DTSTART:20260912T123000Z
 DTEND:20260912T150000Z
-UID:chleu-game-3024@championshockeyleague.com
+UID:vDDDTypes(2026-09-12 12:30:00+00:00\, Parameters({}))-HC Davos @ Skell
+ efteå AIK
 DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
  ame Day 4\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
  /2c97b18b6dcb99eed865e111/skelleftea-aik-vs-hc-davos
@@ -47,7 +51,8 @@ BEGIN:VEVENT
 SUMMARY:Skellefteå AIK @ HC Pilsen
 DTSTART:20261006T153000Z
 DTEND:20261006T180000Z
-UID:chleu-game-3036@championshockeyleague.com
+UID:vDDDTypes(2026-10-06 15:30:00+00:00\, Parameters({}))-Skellefteå AIK 
+ @ HC Pilsen
 DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
  ame Day 5\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
  /1a7ccbdac3737e2e2123f998/hc-pilsen-vs-skelleftea-aik
@@ -57,7 +62,8 @@ BEGIN:VEVENT
 SUMMARY:Red Bull Salzburg @ Skellefteå AIK
 DTSTART:20261013T170000Z
 DTEND:20261013T193000Z
-UID:chleu-game-3053@championshockeyleague.com
+UID:vDDDTypes(2026-10-13 17:00:00+00:00\, Parameters({}))-Red Bull Salzbur
+ g @ Skellefteå AIK
 DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
  ame Day 6\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
  /94a430b5b1a8f81c4883aaa3/skelleftea-aik-vs-red-bull-salzburg
@@ -67,7 +73,8 @@ BEGIN:VEVENT
 SUMMARY:Kölner Haie @ Red Bull Salzburg
 DTSTART:20260903T171500Z
 DTEND:20260903T194500Z
-UID:chleu-game-2993@championshockeyleague.com
+UID:vDDDTypes(2026-09-03 17:15:00+00:00\, Parameters({}))-Kölner Haie @ R
+ ed Bull Salzburg
 DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
  ame Day 1\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
  /ec28c920c178cfafaf650188/red-bull-salzburg-vs-kolner-haie
@@ -77,7 +84,8 @@ BEGIN:VEVENT
 SUMMARY:Kölner Haie @ Tappara Tampere
 DTSTART:20260905T140000Z
 DTEND:20260905T163000Z
-UID:chleu-game-3000@championshockeyleague.com
+UID:vDDDTypes(2026-09-05 14:00:00+00:00\, Parameters({}))-Kölner Haie @ T
+ appara Tampere
 DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
  ame Day 2\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
  /8ed94128f8806f40a2957687/tappara-tampere-vs-kolner-haie
@@ -87,7 +95,8 @@ BEGIN:VEVENT
 SUMMARY:Frölunda Gothenburg @ Kölner Haie
 DTSTART:20260910T173000Z
 DTEND:20260910T200000Z
-UID:chleu-game-3017@championshockeyleague.com
+UID:vDDDTypes(2026-09-10 17:30:00+00:00\, Parameters({}))-Frölunda Gothen
+ burg @ Kölner Haie
 DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
  ame Day 3\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
  /d90c226758cacdc373f4946e/kolner-haie-vs-frolunda-gothenburg
@@ -97,7 +106,8 @@ BEGIN:VEVENT
 SUMMARY:KAC Klagenfurt @ Kölner Haie
 DTSTART:20260912T150000Z
 DTEND:20260912T173000Z
-UID:chleu-game-3029@championshockeyleague.com
+UID:vDDDTypes(2026-09-12 15:00:00+00:00\, Parameters({}))-KAC Klagenfurt @
+  Kölner Haie
 DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
  ame Day 4\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
  /a36c2ac20069ca066d69c16d/kolner-haie-vs-kac-klagenfurt
@@ -107,7 +117,8 @@ BEGIN:VEVENT
 SUMMARY:Herning Blue Fox @ Kölner Haie
 DTSTART:20261007T173000Z
 DTEND:20261007T200000Z
-UID:chleu-game-3044@championshockeyleague.com
+UID:vDDDTypes(2026-10-07 17:30:00+00:00\, Parameters({}))-Herning Blue Fox
+  @ Kölner Haie
 DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
  ame Day 5\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
  /1304690b8a655c2c91cec3d8/kolner-haie-vs-herning-blue-fox
@@ -117,7 +128,8 @@ BEGIN:VEVENT
 SUMMARY:Kölner Haie @ Genève-Servette
 DTSTART:20261014T174500Z
 DTEND:20261014T201500Z
-UID:chleu-game-3059@championshockeyleague.com
+UID:vDDDTypes(2026-10-14 17:45:00+00:00\, Parameters({}))-Kölner Haie @ G
+ enève-Servette
 DESCRIPTION:Champions Hockey League Match\nStage: Regular Season\nRound: G
  ame Day 6\nStatus: not-started\nMatch Page: https://www.chl.hockey/matches
  /5ed0449680b6681769378978/geneve-servette-vs-kolner-haie
