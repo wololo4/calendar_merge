@@ -18,7 +18,7 @@ def main():
     
     for league, team_name, calendar in results:
         if calendar is None:
-            print(f"Téléchargement: {league} – {team_name} (0 events)")
+            print(f"Téléchargement: {league} – {team_name} (0 events, skipped)")
             continue
     
         event_count = sum(1 for e in calendar.walk() if e.name == "VEVENT")
