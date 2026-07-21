@@ -113,12 +113,22 @@ KHL:
       url: https://www.khl.ru/calendar/ics/38;/
     - name: Torpeda Nizhny Novgorod
       url: https://www.khl.ru/calendar/ics/26;/
+#    - name: Amur Khabarovsk
+#      url: https://en.khl.ru/calendar/ics/54;/
+#    - name: Spartak Moscow
+#      url: https://en.khl.ru/calendar/ics/7;/
 
 VHL:
   parser: vhl
+  base_url: https://www.vhlru.ru/en/calendar
+  season_id: 1374
   teams:
     - name: Khimik Voskresensk
-      url: https://www.vhlru.ru/en/calendar/1374/0/15029/
+      team_id: 15029
+#    - name: Gornyak-UGMK
+#      team_id: 15008
+#    - name: AKM
+#      team_id: 15005
 
 SHL:
   parser: ics
