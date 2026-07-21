@@ -56,8 +56,12 @@ def load_feeds():
         # ============================
         if parser == "chl_europe":
             url = data["url"]
-            team_filter = data.get("filter", {}).get("teams", [])
-            feeds.append((league, "CHL Europe", url, team_filter))
+
+            for team in data.get("teams", [])):
+                team_name = team["name"]
+                team_code = team["code"]
+                
+                feeds.append((league, team_name, url, [team_code))
             continue
 
         # ============================
