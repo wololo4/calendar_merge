@@ -8,7 +8,7 @@ from parsers.chl_europe import parse_chl_europe_json_to_calendar
 from parsers.ufa import parse_ufa_json_to_calendar
 from parsers.vhl import parse_vhl_html
 from parsers.liiga import parse_liiga_json_to_calendar
-from parsers.del import parse_del_html
+from parsers.del_parser import parse_del_html
 
 def download_single_feed(feed_info):
     """Worker function to process one feed concurrently."""
