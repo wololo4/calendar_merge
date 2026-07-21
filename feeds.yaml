@@ -62,6 +62,15 @@ WHL:
     - name: Regina Pats
       team_id: 212
 
+BCHL:
+  parser: leaguestat
+  base_url: https://cluster.leaguestat.com/components/calendar/ical_add_games.php
+  cleint_code: bchl
+  season_id: [72]
+  teams:
+    - name: Victoria Grizzlies
+      team_id: 18
+
 CHL_Memorial_Cup:
   parser: chl_memorial
   teams:
