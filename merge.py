@@ -30,6 +30,11 @@ def main():
             if event.name != "VEVENT":
                 continue
 
+            # Remove ECAL welcome event
+            summary = str(event.get("SUMMARY", ""))
+            if "Welcome to the" in summary:
+                continue
+
             key = event_id(event)
             if key in seen[league]:
                 continue
