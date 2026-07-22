@@ -1,0 +1,454 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SIDEARM Sports//NONSGML SIDEARM//EN
+X-WR-CALNAME:Men's Hockey - msumavericks.com
+X-PUBLISHED-TTL:PT120M
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey vs Wisconsin
+DTSTART:20261010T000700Z
+DTEND:20261010T030700Z
+DTSTAMP:20260722T181739Z
+UID:vcal_19964-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey vs Wisconsin\nStreaming Video: https
+ ://www.flohockey.tv/\n
+LOCATION:Mankato\, Minn. \, Mayo Clinic HSEC
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=19964&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey vs Wisconsin
+DTSTART:20261010T230700Z
+DTEND:20261011T020700Z
+DTSTAMP:20260722T181739Z
+UID:vcal_19965-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey vs Wisconsin\nStreaming Video: https
+ ://www.flohockey.tv/\n
+LOCATION:Mankato\, Minn. \, Mayo Clinic HSEC
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=19965&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey at Merrimack
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+DTSTAMP:20260722T181739Z
+UID:vcal_19966-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey at Merrimack\n
+LOCATION:North Andover\, Mass.
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=19966&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey at Merrimack
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+DTSTAMP:20260722T181739Z
+UID:vcal_19967-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey at Merrimack\n
+LOCATION:North Andover\, Mass.
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=19967&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey at St. Thomas
+DTSTART:20261024T000700Z
+DTEND:20261024T030700Z
+DTSTAMP:20260722T181739Z
+UID:vcal_19968-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey at St. Thomas\n
+LOCATION:St. Paul\, Minn.
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=19968&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey vs St. Thomas
+DTSTART:20261024T230700Z
+DTEND:20261025T020700Z
+DTSTAMP:20260722T181739Z
+UID:vcal_19969-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey vs St. Thomas\nStreaming Video: http
+ s://www.flohockey.tv/\n
+LOCATION:Mankato\, Minn. \, Mayo Clinic HSEC
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=19969&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey vs Lake Superior State
+DTSTART:20261031T000700Z
+DTEND:20261031T030700Z
+DTSTAMP:20260722T181739Z
+UID:vcal_19970-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey vs Lake Superior State\nStreaming Vi
+ deo: https://www.flohockey.tv/\n
+LOCATION:Mankato\, Minn. \, Mayo Clinic HSEC
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=19970&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey vs Lake Superior State
+DTSTART:20261031T230700Z
+DTEND:20261101T020700Z
+DTSTAMP:20260722T181739Z
+UID:vcal_19971-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey vs Lake Superior State\nStreaming Vi
+ deo: https://www.flohockey.tv/\n
+LOCATION:Mankato\, Minn. \, Mayo Clinic HSEC
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=19971&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey at Northern Michigan
+DTSTART:20261107T000700Z
+DTEND:20261107T030700Z
+DTSTAMP:20260722T181739Z
+UID:vcal_19976-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey at Northern Michigan\n
+LOCATION:Marquette\, Mich.
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=19976&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey at Northern Michigan
+DTSTART:20261107T230700Z
+DTEND:20261108T020700Z
+DTSTAMP:20260722T181739Z
+UID:vcal_19977-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey at Northern Michigan\n
+LOCATION:Marquette\, Mich.
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=19977&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey at Bemidji State
+DTSTART:20261114T010700Z
+DTEND:20261114T040700Z
+DTSTAMP:20260722T181739Z
+UID:vcal_19972-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey at Bemidji State\n
+LOCATION:Bemidji\, Minn.
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=19972&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey at Bemidji State
+DTSTART:20261115T000700Z
+DTEND:20261115T030700Z
+DTSTAMP:20260722T181739Z
+UID:vcal_19973-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey at Bemidji State\n
+LOCATION:Bemidji\, Minn.
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=19973&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey vs Michigan Tech
+DTSTART:20261121T010700Z
+DTEND:20261121T040700Z
+DTSTAMP:20260722T181739Z
+UID:vcal_19974-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey vs Michigan Tech\nStreaming Video: h
+ ttps://www.flohockey.tv/\n
+LOCATION:Mankato\, Minn. \, Mayo Clinic HSEC
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=19974&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey vs Michigan Tech
+DTSTART:20261122T000700Z
+DTEND:20261122T030700Z
+DTSTAMP:20260722T181739Z
+UID:vcal_19975-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey vs Michigan Tech\nStreaming Video: h
+ ttps://www.flohockey.tv/\n
+LOCATION:Mankato\, Minn. \, Mayo Clinic HSEC
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=19975&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey at Minnesota
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+DTSTAMP:20260722T181739Z
+UID:vcal_20071-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey at Minnesota\n
+LOCATION:Minneapolis\, Minn.
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=20071&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey vs Minnesota
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+DTSTAMP:20260722T181739Z
+UID:vcal_20072-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey vs Minnesota\nStreaming Video: https
+ ://www.flohockey.tv/\n
+LOCATION:Mankato\, Minn. \, Mayo Clinic HSEC
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=20072&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey vs Bowling Green
+DTSTART:20261205T010700Z
+DTEND:20261205T040700Z
+DTSTAMP:20260722T181739Z
+UID:vcal_19978-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey vs Bowling Green\nStreaming Video: h
+ ttps://www.flohockey.tv/\n
+LOCATION:Mankato\, Minn. \, Mayo Clinic HSEC
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=19978&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey vs Bowling Green
+DTSTART:20261206T000700Z
+DTEND:20261206T030700Z
+DTSTAMP:20260722T181739Z
+UID:vcal_19979-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey vs Bowling Green\nStreaming Video: h
+ ttps://www.flohockey.tv/\n
+LOCATION:Mankato\, Minn. \, Mayo Clinic HSEC
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=19979&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey at Lake Superior State
+DTSTART:20261212T000700Z
+DTEND:20261212T030700Z
+DTSTAMP:20260722T181739Z
+UID:vcal_19980-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey at Lake Superior State\n
+LOCATION:Sault Ste. Marie\, Mich.
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=19980&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey at Lake Superior State
+DTSTART:20261212T230700Z
+DTEND:20261213T020700Z
+DTSTAMP:20260722T181739Z
+UID:vcal_19981-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey at Lake Superior State\n
+LOCATION:Sault Ste. Marie\, Mich.
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=19981&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey at Ferris State
+DTSTART:20270109T000700Z
+DTEND:20270109T030700Z
+DTSTAMP:20260722T181739Z
+UID:vcal_19982-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey at Ferris State\n
+LOCATION:Big Rapids\, Mich.
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=19982&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey at Ferris State
+DTSTART:20270109T230700Z
+DTEND:20270110T020700Z
+DTSTAMP:20260722T181739Z
+UID:vcal_19983-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey at Ferris State\n
+LOCATION:Big Rapids\, Mich.
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=19983&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey vs Augustana
+DTSTART:20270116T010700Z
+DTEND:20270116T040700Z
+DTSTAMP:20260722T181739Z
+UID:vcal_19984-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey vs Augustana\nStreaming Video: https
+ ://www.flohockey.tv/\n
+LOCATION:Mankato\, Minn. \, Mayo Clinic HSEC
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=19984&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey vs Augustana
+DTSTART:20270117T000700Z
+DTEND:20270117T030700Z
+DTSTAMP:20260722T181739Z
+UID:vcal_19985-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey vs Augustana\nStreaming Video: https
+ ://www.flohockey.tv/\n
+LOCATION:Mankato\, Minn. \, Mayo Clinic HSEC
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=19985&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey at Bowling Green
+DTSTART:20270123T000700Z
+DTEND:20270123T030700Z
+DTSTAMP:20260722T181739Z
+UID:vcal_19986-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey at Bowling Green\n
+LOCATION:Bowling Green\, Ohio
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=19986&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey at Bowling Green
+DTSTART:20270123T230700Z
+DTEND:20270124T020700Z
+DTSTAMP:20260722T181739Z
+UID:vcal_19987-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey at Bowling Green\n
+LOCATION:Bowling Green\, Ohio
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=19987&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey vs Bemidji State
+DTSTART:20270130T010700Z
+DTEND:20270130T040700Z
+DTSTAMP:20260722T181739Z
+UID:vcal_19988-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey vs Bemidji State\nStreaming Video: h
+ ttps://www.flohockey.tv/\n
+LOCATION:Mankato\, Minn. \, Mayo Clinic HSEC
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=19988&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey vs Bemidji State
+DTSTART:20270131T000700Z
+DTEND:20270131T030700Z
+DTSTAMP:20260722T181739Z
+UID:vcal_19989-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey vs Bemidji State\nStreaming Video: h
+ ttps://www.flohockey.tv/\n
+LOCATION:Mankato\, Minn. \, Mayo Clinic HSEC
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=19989&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey at Michigan Tech
+DTSTART:20270206T000700Z
+DTEND:20270206T030700Z
+DTSTAMP:20260722T181739Z
+UID:vcal_19990-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey at Michigan Tech\n
+LOCATION:Houghton\, Mich.
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=19990&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey at Michigan Tech
+DTSTART:20270206T220700Z
+DTEND:20270207T010700Z
+DTSTAMP:20260722T181739Z
+UID:vcal_19991-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey at Michigan Tech\n
+LOCATION:Houghton\, Mich.
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=19991&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey vs Northern Michigan
+DTSTART:20270220T010700Z
+DTEND:20270220T040700Z
+DTSTAMP:20260722T181739Z
+UID:vcal_19992-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey vs Northern Michigan\nStreaming Vide
+ o: https://www.flohockey.tv/\n
+LOCATION:Mankato\, Minn. \, Mayo Clinic HSEC
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=19992&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey vs Northern Michigan
+DTSTART:20270221T000700Z
+DTEND:20270221T030700Z
+DTSTAMP:20260722T181739Z
+UID:vcal_19993-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey vs Northern Michigan\nStreaming Vide
+ o: https://www.flohockey.tv/\n
+LOCATION:Mankato\, Minn. \, Mayo Clinic HSEC
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=19993&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey at Augustana
+DTSTART:20270227T010700Z
+DTEND:20270227T040700Z
+DTSTAMP:20260722T181739Z
+UID:vcal_19994-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey at Augustana\n
+LOCATION:Sioux Falls\, S.D.
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=19994&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey at Augustana
+DTSTART:20270228T000700Z
+DTEND:20270228T030700Z
+DTSTAMP:20260722T181739Z
+UID:vcal_19995-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey at Augustana\n
+LOCATION:Sioux Falls\, S.D.
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=19995&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey vs CCHA Mason Cup Playoffs - First Round
+  Series
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270307
+DTSTAMP:20260722T181739Z
+UID:vcal_19996-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey vs CCHA Mason Cup Playoffs - First R
+ ound Series\n
+LOCATION:TBA
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=19996&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey vs CCHA Mason Cup Playoffs - Semifinals
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+DTSTAMP:20260722T181739Z
+UID:vcal_19997-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey vs CCHA Mason Cup Playoffs - Semifin
+ als\n
+LOCATION:TBA
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=19997&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey vs CCHA Mason Cup Championship
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+DTSTAMP:20260722T181739Z
+UID:vcal_19998-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey vs CCHA Mason Cup Championship\n
+LOCATION:TBA
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=19998&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey vs NCAA Regional
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270328
+DTSTAMP:20260722T181739Z
+UID:vcal_19999-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey vs NCAA Regional\n
+LOCATION:TBA
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=19999&amp;sport_id=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSU-Mankato  Men's Hockey vs NCAA Frozen Four
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270410
+DTSTAMP:20260722T181739Z
+UID:vcal_20000-msumavericks.com
+DESCRIPTION:MSU-Mankato  Men's Hockey vs NCAA Frozen Four\n
+LOCATION:Washington\, D.C.
+PRIORITY:3
+URL:https://msumavericks.com/calendar.aspx?game_id=20000&amp;sport_id=7
+END:VEVENT
+END:VCALENDAR

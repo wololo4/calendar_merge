@@ -1,0 +1,426 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SIDEARM Sports//NONSGML SIDEARM//EN
+X-WR-CALNAME:Ice Hockey - mgoblue.com
+X-PUBLISHED-TTL:PT120M
+BEGIN:VEVENT
+SUMMARY:University of Michigan Ice Hockey vs Bowling Green
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+DTSTAMP:20260722T180916Z
+UID:vcal_30472-mgoblue.com
+DESCRIPTION:University of Michigan Ice Hockey vs Bowling Green\n https://m
+ goblue.com/calendar.aspx?game_id=30472&amp\;sport_id=11
+LOCATION:Ann Arbor\, Mich.
+PRIORITY:3
+URL:https://mgoblue.com/calendar.aspx?game_id=30472&amp;sport_id=11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Michigan Ice Hockey at Bowling Green
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+DTSTAMP:20260722T180916Z
+UID:vcal_30473-mgoblue.com
+DESCRIPTION:University of Michigan Ice Hockey at Bowling Green\n https://m
+ goblue.com/calendar.aspx?game_id=30473&amp\;sport_id=11
+LOCATION:Bowling Green\, Ohio
+PRIORITY:3
+URL:https://mgoblue.com/calendar.aspx?game_id=30473&amp;sport_id=11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Michigan Ice Hockey vs Alaska Anchorage
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+DTSTAMP:20260722T180916Z
+UID:vcal_30474-mgoblue.com
+DESCRIPTION:University of Michigan Ice Hockey vs Alaska Anchorage\n https:
+ //mgoblue.com/calendar.aspx?game_id=30474&amp\;sport_id=11
+LOCATION:Ann Arbor\, Mich.
+PRIORITY:3
+URL:https://mgoblue.com/calendar.aspx?game_id=30474&amp;sport_id=11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Michigan Ice Hockey vs Alaska Anchorage
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260722T180916Z
+UID:vcal_30475-mgoblue.com
+DESCRIPTION:University of Michigan Ice Hockey vs Alaska Anchorage\n https:
+ //mgoblue.com/calendar.aspx?game_id=30475&amp\;sport_id=11
+LOCATION:Ann Arbor\, Mich.
+PRIORITY:3
+URL:https://mgoblue.com/calendar.aspx?game_id=30475&amp;sport_id=11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Michigan Ice Hockey at Denver
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+DTSTAMP:20260722T180916Z
+UID:vcal_30476-mgoblue.com
+DESCRIPTION:University of Michigan Ice Hockey at Denver\n https://mgoblue.
+ com/calendar.aspx?game_id=30476&amp\;sport_id=11
+LOCATION:Denver\, Colo.
+PRIORITY:3
+URL:https://mgoblue.com/calendar.aspx?game_id=30476&amp;sport_id=11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Michigan Ice Hockey at Denver
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+DTSTAMP:20260722T180916Z
+UID:vcal_30477-mgoblue.com
+DESCRIPTION:University of Michigan Ice Hockey at Denver\n https://mgoblue.
+ com/calendar.aspx?game_id=30477&amp\;sport_id=11
+LOCATION:Denver\, Colo.
+PRIORITY:3
+URL:https://mgoblue.com/calendar.aspx?game_id=30477&amp;sport_id=11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Michigan Ice Hockey vs Western Michigan 
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+DTSTAMP:20260722T180916Z
+UID:vcal_30478-mgoblue.com
+DESCRIPTION:University of Michigan Ice Hockey vs Western Michigan \n https
+ ://mgoblue.com/calendar.aspx?game_id=30478&amp\;sport_id=11
+LOCATION:Ann Arbor\, Mich.
+PRIORITY:3
+URL:https://mgoblue.com/calendar.aspx?game_id=30478&amp;sport_id=11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Michigan Ice Hockey at Ohio State 
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261101
+DTSTAMP:20260722T180916Z
+UID:vcal_30607-mgoblue.com
+DESCRIPTION:University of Michigan Ice Hockey at Ohio State \n https://mgo
+ blue.com/calendar.aspx?game_id=30607&amp\;sport_id=11
+LOCATION:Columbus\, Ohio
+PRIORITY:3
+URL:https://mgoblue.com/calendar.aspx?game_id=30607&amp;sport_id=11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Michigan Ice Hockey at Ohio State 
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261101
+DTSTAMP:20260722T180916Z
+UID:vcal_30608-mgoblue.com
+DESCRIPTION:University of Michigan Ice Hockey at Ohio State \n https://mgo
+ blue.com/calendar.aspx?game_id=30608&amp\;sport_id=11
+LOCATION:Columbus\, Ohio
+PRIORITY:3
+URL:https://mgoblue.com/calendar.aspx?game_id=30608&amp;sport_id=11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Michigan Ice Hockey vs Penn State 
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261115
+DTSTAMP:20260722T180916Z
+UID:vcal_30609-mgoblue.com
+DESCRIPTION:University of Michigan Ice Hockey vs Penn State \n https://mgo
+ blue.com/calendar.aspx?game_id=30609&amp\;sport_id=11
+LOCATION:Ann Arbor\, Mich.
+PRIORITY:3
+URL:https://mgoblue.com/calendar.aspx?game_id=30609&amp;sport_id=11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Michigan Ice Hockey vs Penn State 
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261115
+DTSTAMP:20260722T180916Z
+UID:vcal_30610-mgoblue.com
+DESCRIPTION:University of Michigan Ice Hockey vs Penn State \n https://mgo
+ blue.com/calendar.aspx?game_id=30610&amp\;sport_id=11
+LOCATION:Ann Arbor\, Mich.
+PRIORITY:3
+URL:https://mgoblue.com/calendar.aspx?game_id=30610&amp;sport_id=11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Michigan Ice Hockey at Michigan State
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261122
+DTSTAMP:20260722T180916Z
+UID:vcal_30611-mgoblue.com
+DESCRIPTION:University of Michigan Ice Hockey at Michigan State\n https://
+ mgoblue.com/calendar.aspx?game_id=30611&amp\;sport_id=11
+LOCATION:East Lansing\, Mich.
+PRIORITY:3
+URL:https://mgoblue.com/calendar.aspx?game_id=30611&amp;sport_id=11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Michigan Ice Hockey vs Michigan State
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261122
+DTSTAMP:20260722T180916Z
+UID:vcal_30612-mgoblue.com
+DESCRIPTION:University of Michigan Ice Hockey vs Michigan State\n https://
+ mgoblue.com/calendar.aspx?game_id=30612&amp\;sport_id=11
+LOCATION:Ann Arbor\, Mich.
+PRIORITY:3
+URL:https://mgoblue.com/calendar.aspx?game_id=30612&amp;sport_id=11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Michigan Ice Hockey vs Ferris State 
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+DTSTAMP:20260722T180916Z
+UID:vcal_30479-mgoblue.com
+DESCRIPTION:University of Michigan Ice Hockey vs Ferris State \n https://m
+ goblue.com/calendar.aspx?game_id=30479&amp\;sport_id=11
+LOCATION:Ann Arbor\, Mich.
+PRIORITY:3
+URL:https://mgoblue.com/calendar.aspx?game_id=30479&amp;sport_id=11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Michigan Ice Hockey vs Ferris State 
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+DTSTAMP:20260722T180916Z
+UID:vcal_30480-mgoblue.com
+DESCRIPTION:University of Michigan Ice Hockey vs Ferris State \n https://m
+ goblue.com/calendar.aspx?game_id=30480&amp\;sport_id=11
+LOCATION:Ann Arbor\, Mich.
+PRIORITY:3
+URL:https://mgoblue.com/calendar.aspx?game_id=30480&amp;sport_id=11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Michigan Ice Hockey vs Wisconsin
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261206
+DTSTAMP:20260722T180916Z
+UID:vcal_30613-mgoblue.com
+DESCRIPTION:University of Michigan Ice Hockey vs Wisconsin\n https://mgobl
+ ue.com/calendar.aspx?game_id=30613&amp\;sport_id=11
+LOCATION:Ann Arbor\, Mich.
+PRIORITY:3
+URL:https://mgoblue.com/calendar.aspx?game_id=30613&amp;sport_id=11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Michigan Ice Hockey vs Wisconsin
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261206
+DTSTAMP:20260722T180916Z
+UID:vcal_30614-mgoblue.com
+DESCRIPTION:University of Michigan Ice Hockey vs Wisconsin\n https://mgobl
+ ue.com/calendar.aspx?game_id=30614&amp\;sport_id=11
+LOCATION:Ann Arbor\, Mich.
+PRIORITY:3
+URL:https://mgoblue.com/calendar.aspx?game_id=30614&amp;sport_id=11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Michigan Ice Hockey at USNTDP (ex)
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+DTSTAMP:20260722T180916Z
+UID:vcal_30481-mgoblue.com
+DESCRIPTION:University of Michigan Ice Hockey at USNTDP (ex)\n https://mgo
+ blue.com/calendar.aspx?game_id=30481&amp\;sport_id=11
+LOCATION:Plymouth\, Mich.
+PRIORITY:3
+URL:https://mgoblue.com/calendar.aspx?game_id=30481&amp;sport_id=11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Michigan Ice Hockey at Minnesota
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270110
+DTSTAMP:20260722T180916Z
+UID:vcal_30615-mgoblue.com
+DESCRIPTION:University of Michigan Ice Hockey at Minnesota\n https://mgobl
+ ue.com/calendar.aspx?game_id=30615&amp\;sport_id=11
+LOCATION:Minneapolis\, Minn.
+PRIORITY:3
+URL:https://mgoblue.com/calendar.aspx?game_id=30615&amp;sport_id=11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Michigan Ice Hockey at Minnesota
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270110
+DTSTAMP:20260722T180916Z
+UID:vcal_30616-mgoblue.com
+DESCRIPTION:University of Michigan Ice Hockey at Minnesota\n https://mgobl
+ ue.com/calendar.aspx?game_id=30616&amp\;sport_id=11
+LOCATION:Minneapolis\, Minn.
+PRIORITY:3
+URL:https://mgoblue.com/calendar.aspx?game_id=30616&amp;sport_id=11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Michigan Ice Hockey at Notre Dame
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270117
+DTSTAMP:20260722T180916Z
+UID:vcal_30617-mgoblue.com
+DESCRIPTION:University of Michigan Ice Hockey at Notre Dame\n https://mgob
+ lue.com/calendar.aspx?game_id=30617&amp\;sport_id=11
+LOCATION:South Bend\, Ind.
+PRIORITY:3
+URL:https://mgoblue.com/calendar.aspx?game_id=30617&amp;sport_id=11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Michigan Ice Hockey at Notre Dame
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270117
+DTSTAMP:20260722T180916Z
+UID:vcal_30618-mgoblue.com
+DESCRIPTION:University of Michigan Ice Hockey at Notre Dame\n https://mgob
+ lue.com/calendar.aspx?game_id=30618&amp\;sport_id=11
+LOCATION:South Bend\, Ind.
+PRIORITY:3
+URL:https://mgoblue.com/calendar.aspx?game_id=30618&amp;sport_id=11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Michigan Ice Hockey vs Ohio State
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270124
+DTSTAMP:20260722T180916Z
+UID:vcal_30619-mgoblue.com
+DESCRIPTION:University of Michigan Ice Hockey vs Ohio State\n https://mgob
+ lue.com/calendar.aspx?game_id=30619&amp\;sport_id=11
+LOCATION:Ann Arbor\, Mich.
+PRIORITY:3
+URL:https://mgoblue.com/calendar.aspx?game_id=30619&amp;sport_id=11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Michigan Ice Hockey vs Ohio State
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270124
+DTSTAMP:20260722T180916Z
+UID:vcal_30620-mgoblue.com
+DESCRIPTION:University of Michigan Ice Hockey vs Ohio State\n https://mgob
+ lue.com/calendar.aspx?game_id=30620&amp\;sport_id=11
+LOCATION:Ann Arbor\, Mich.
+PRIORITY:3
+URL:https://mgoblue.com/calendar.aspx?game_id=30620&amp;sport_id=11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Michigan Ice Hockey at Western Michigan 
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+DTSTAMP:20260722T180916Z
+UID:vcal_30482-mgoblue.com
+DESCRIPTION:University of Michigan Ice Hockey at Western Michigan \n https
+ ://mgoblue.com/calendar.aspx?game_id=30482&amp\;sport_id=11
+LOCATION:Kalamazoo\, Mich.
+PRIORITY:3
+URL:https://mgoblue.com/calendar.aspx?game_id=30482&amp;sport_id=11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Michigan Ice Hockey at Michigan State
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270207
+DTSTAMP:20260722T180916Z
+UID:vcal_30621-mgoblue.com
+DESCRIPTION:University of Michigan Ice Hockey at Michigan State\n https://
+ mgoblue.com/calendar.aspx?game_id=30621&amp\;sport_id=11
+LOCATION:East Lansing\, Mich.
+PRIORITY:3
+URL:https://mgoblue.com/calendar.aspx?game_id=30621&amp;sport_id=11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Michigan Ice Hockey vs Michigan State
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270207
+DTSTAMP:20260722T180916Z
+UID:vcal_30622-mgoblue.com
+DESCRIPTION:University of Michigan Ice Hockey vs Michigan State\n https://
+ mgoblue.com/calendar.aspx?game_id=30622&amp\;sport_id=11
+LOCATION:TBD
+PRIORITY:3
+URL:https://mgoblue.com/calendar.aspx?game_id=30622&amp;sport_id=11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Michigan Ice Hockey vs Notre Dame
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270214
+DTSTAMP:20260722T180916Z
+UID:vcal_30623-mgoblue.com
+DESCRIPTION:University of Michigan Ice Hockey vs Notre Dame\n https://mgob
+ lue.com/calendar.aspx?game_id=30623&amp\;sport_id=11
+LOCATION:Ann Arbor\, Mich.
+PRIORITY:3
+URL:https://mgoblue.com/calendar.aspx?game_id=30623&amp;sport_id=11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Michigan Ice Hockey vs Notre Dame
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270214
+DTSTAMP:20260722T180916Z
+UID:vcal_30624-mgoblue.com
+DESCRIPTION:University of Michigan Ice Hockey vs Notre Dame\n https://mgob
+ lue.com/calendar.aspx?game_id=30624&amp\;sport_id=11
+LOCATION:Ann Arbor\, Mich.
+PRIORITY:3
+URL:https://mgoblue.com/calendar.aspx?game_id=30624&amp;sport_id=11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Michigan Ice Hockey at Wisconsin
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270221
+DTSTAMP:20260722T180916Z
+UID:vcal_30625-mgoblue.com
+DESCRIPTION:University of Michigan Ice Hockey at Wisconsin\n https://mgobl
+ ue.com/calendar.aspx?game_id=30625&amp\;sport_id=11
+LOCATION:Madison\, Wis.
+PRIORITY:3
+URL:https://mgoblue.com/calendar.aspx?game_id=30625&amp;sport_id=11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Michigan Ice Hockey at Wisconsin
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270221
+DTSTAMP:20260722T180916Z
+UID:vcal_30626-mgoblue.com
+DESCRIPTION:University of Michigan Ice Hockey at Wisconsin\n https://mgobl
+ ue.com/calendar.aspx?game_id=30626&amp\;sport_id=11
+LOCATION:Madison\, Wis.
+PRIORITY:3
+URL:https://mgoblue.com/calendar.aspx?game_id=30626&amp;sport_id=11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Michigan Ice Hockey vs Minnesota
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270228
+DTSTAMP:20260722T180916Z
+UID:vcal_30627-mgoblue.com
+DESCRIPTION:University of Michigan Ice Hockey vs Minnesota\n https://mgobl
+ ue.com/calendar.aspx?game_id=30627&amp\;sport_id=11
+LOCATION:Ann Arbor\, Mich.
+PRIORITY:3
+URL:https://mgoblue.com/calendar.aspx?game_id=30627&amp;sport_id=11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Michigan Ice Hockey vs Minnesota
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270228
+DTSTAMP:20260722T180916Z
+UID:vcal_30628-mgoblue.com
+DESCRIPTION:University of Michigan Ice Hockey vs Minnesota\n https://mgobl
+ ue.com/calendar.aspx?game_id=30628&amp\;sport_id=11
+LOCATION:Ann Arbor\, Mich.
+PRIORITY:3
+URL:https://mgoblue.com/calendar.aspx?game_id=30628&amp;sport_id=11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Michigan Ice Hockey at Penn State 
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+DTSTAMP:20260722T180916Z
+UID:vcal_30634-mgoblue.com
+DESCRIPTION:University of Michigan Ice Hockey at Penn State \n https://mgo
+ blue.com/calendar.aspx?game_id=30634&amp\;sport_id=11
+LOCATION:University Park\, Pa.
+PRIORITY:3
+URL:https://mgoblue.com/calendar.aspx?game_id=30634&amp;sport_id=11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Michigan Ice Hockey at Penn State 
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+DTSTAMP:20260722T180916Z
+UID:vcal_30635-mgoblue.com
+DESCRIPTION:University of Michigan Ice Hockey at Penn State \n https://mgo
+ blue.com/calendar.aspx?game_id=30635&amp\;sport_id=11
+LOCATION:University Park\, Pa.
+PRIORITY:3
+URL:https://mgoblue.com/calendar.aspx?game_id=30635&amp;sport_id=11
+END:VEVENT
+END:VCALENDAR

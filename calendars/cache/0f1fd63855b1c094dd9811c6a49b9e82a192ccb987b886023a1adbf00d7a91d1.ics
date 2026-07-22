@@ -1,0 +1,470 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SIDEARM Sports//NONSGML SIDEARM//EN
+X-WR-CALNAME:Men's Hockey - gophersports.com
+X-PUBLISHED-TTL:PT120M
+BEGIN:VEVENT
+SUMMARY:University of Minnesota  Men's Hockey at Michigan Tech
+DTSTART:20261002T230000Z
+DTEND:20261003T020000Z
+DTSTAMP:20260722T181409Z
+UID:vcal_23024-gophersports.com
+DESCRIPTION:University of Minnesota  Men's Hockey at Michigan Tech\n https
+ ://gophersports.com/calendar.aspx?game_id=23024&amp\;sport_id=8
+LOCATION:Houghton\, MI
+PRIORITY:3
+URL:https://gophersports.com/calendar.aspx?game_id=23024&amp;sport_id=8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Minnesota  Men's Hockey at Michigan Tech
+DTSTART:20261003T220000Z
+DTEND:20261004T010000Z
+DTSTAMP:20260722T181409Z
+UID:vcal_23025-gophersports.com
+DESCRIPTION:University of Minnesota  Men's Hockey at Michigan Tech\n https
+ ://gophersports.com/calendar.aspx?game_id=23025&amp\;sport_id=8
+LOCATION:Houghton\, MI
+PRIORITY:3
+URL:https://gophersports.com/calendar.aspx?game_id=23025&amp;sport_id=8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Minnesota  Men's Hockey at Minnesota Duluth
+DTSTART:20261017T000000Z
+DTEND:20261017T030000Z
+DTSTAMP:20260722T181409Z
+UID:vcal_23026-gophersports.com
+DESCRIPTION:University of Minnesota  Men's Hockey at Minnesota Duluth\n ht
+ tps://gophersports.com/calendar.aspx?game_id=23026&amp\;sport_id=8
+LOCATION:Duluth\, MN
+PRIORITY:3
+URL:https://gophersports.com/calendar.aspx?game_id=23026&amp;sport_id=8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Minnesota  Men's Hockey at Minnesota Duluth
+DTSTART:20261017T230000Z
+DTEND:20261018T020000Z
+DTSTAMP:20260722T181409Z
+UID:vcal_23027-gophersports.com
+DESCRIPTION:University of Minnesota  Men's Hockey at Minnesota Duluth\n ht
+ tps://gophersports.com/calendar.aspx?game_id=23027&amp\;sport_id=8
+LOCATION:Duluth\, MN
+PRIORITY:3
+URL:https://gophersports.com/calendar.aspx?game_id=23027&amp;sport_id=8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Minnesota  Men's Hockey vs North Dakota
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+DTSTAMP:20260722T181409Z
+UID:vcal_23028-gophersports.com
+DESCRIPTION:University of Minnesota  Men's Hockey vs North Dakota\nTickets
+ : https://gophersports.com/sports/2019/3/19/mens-hockey-tickets\n https://
+ gophersports.com/calendar.aspx?game_id=23028&amp\;sport_id=8
+LOCATION:3M Arena at Mariucci
+PRIORITY:3
+URL:https://gophersports.com/calendar.aspx?game_id=23028&amp;sport_id=8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Minnesota  Men's Hockey vs North Dakota
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+DTSTAMP:20260722T181409Z
+UID:vcal_23029-gophersports.com
+DESCRIPTION:University of Minnesota  Men's Hockey vs North Dakota\nTickets
+ : https://gophersports.com/sports/2019/3/19/mens-hockey-tickets\n https://
+ gophersports.com/calendar.aspx?game_id=23029&amp\;sport_id=8
+LOCATION:3M Arena at Mariucci
+PRIORITY:3
+URL:https://gophersports.com/calendar.aspx?game_id=23029&amp;sport_id=8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Minnesota  Men's Hockey vs Penn State- Exact Series 
+ Dates Will Be Announced Later
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261101
+DTSTAMP:20260722T181409Z
+UID:vcal_23036-gophersports.com
+DESCRIPTION:University of Minnesota  Men's Hockey vs Penn State- Exact Ser
+ ies Dates Will Be Announced Later\nTickets: https://gophersports.com/sport
+ s/2019/3/19/mens-hockey-tickets\n https://gophersports.com/calendar.aspx?g
+ ame_id=23036&amp\;sport_id=8
+LOCATION:3M Arena at Mariucci
+PRIORITY:3
+URL:https://gophersports.com/calendar.aspx?game_id=23036&amp;sport_id=8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Minnesota  Men's Hockey vs Penn State
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261101
+DTSTAMP:20260722T181409Z
+UID:vcal_23046-gophersports.com
+DESCRIPTION:University of Minnesota  Men's Hockey vs Penn State\nTickets: 
+ https://gophersports.com/sports/2019/3/19/mens-hockey-tickets\n https://go
+ phersports.com/calendar.aspx?game_id=23046&amp\;sport_id=8
+LOCATION:3M Arena at Mariucci
+PRIORITY:3
+URL:https://gophersports.com/calendar.aspx?game_id=23046&amp;sport_id=8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Minnesota  Men's Hockey vs Wisconsin- Exact Series D
+ ates Will Be Announced Later
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261108
+DTSTAMP:20260722T181409Z
+UID:vcal_23047-gophersports.com
+DESCRIPTION:University of Minnesota  Men's Hockey vs Wisconsin- Exact Seri
+ es Dates Will Be Announced Later\nTickets: https://gophersports.com/sports
+ /2019/3/19/mens-hockey-tickets\n https://gophersports.com/calendar.aspx?ga
+ me_id=23047&amp\;sport_id=8
+LOCATION:3M Arena at Mariucci
+PRIORITY:3
+URL:https://gophersports.com/calendar.aspx?game_id=23047&amp;sport_id=8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Minnesota  Men's Hockey vs Wisconsin
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261108
+DTSTAMP:20260722T181409Z
+UID:vcal_23041-gophersports.com
+DESCRIPTION:University of Minnesota  Men's Hockey vs Wisconsin\nTickets: h
+ ttps://gophersports.com/sports/2019/3/19/mens-hockey-tickets\n https://gop
+ hersports.com/calendar.aspx?game_id=23041&amp\;sport_id=8
+LOCATION:3M Arena at Mariucci
+PRIORITY:3
+URL:https://gophersports.com/calendar.aspx?game_id=23041&amp;sport_id=8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Minnesota  Men's Hockey vs Alaska Anchorage
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+DTSTAMP:20260722T181409Z
+UID:vcal_23030-gophersports.com
+DESCRIPTION:University of Minnesota  Men's Hockey vs Alaska Anchorage\nTic
+ kets: https://gophersports.com/sports/2019/3/19/mens-hockey-tickets\n http
+ s://gophersports.com/calendar.aspx?game_id=23030&amp\;sport_id=8
+LOCATION:3M Arena at Mariucci
+PRIORITY:3
+URL:https://gophersports.com/calendar.aspx?game_id=23030&amp;sport_id=8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Minnesota  Men's Hockey vs Alaska Anchorage
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+DTSTAMP:20260722T181409Z
+UID:vcal_23031-gophersports.com
+DESCRIPTION:University of Minnesota  Men's Hockey vs Alaska Anchorage\nTic
+ kets: https://gophersports.com/sports/2019/3/19/mens-hockey-tickets\n http
+ s://gophersports.com/calendar.aspx?game_id=23031&amp\;sport_id=8
+LOCATION:3M Arena at Mariucci
+PRIORITY:3
+URL:https://gophersports.com/calendar.aspx?game_id=23031&amp;sport_id=8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Minnesota  Men's Hockey vs Minnesota State
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+DTSTAMP:20260722T181409Z
+UID:vcal_23032-gophersports.com
+DESCRIPTION:University of Minnesota  Men's Hockey vs Minnesota State\nTick
+ ets: https://gophersports.com/sports/2019/3/19/mens-hockey-tickets\n https
+ ://gophersports.com/calendar.aspx?game_id=23032&amp\;sport_id=8
+LOCATION:3M Arena at Mariucci
+PRIORITY:3
+URL:https://gophersports.com/calendar.aspx?game_id=23032&amp;sport_id=8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Minnesota  Men's Hockey at Minnesota State
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+DTSTAMP:20260722T181409Z
+UID:vcal_23033-gophersports.com
+DESCRIPTION:University of Minnesota  Men's Hockey at Minnesota State\n htt
+ ps://gophersports.com/calendar.aspx?game_id=23033&amp\;sport_id=8
+LOCATION:Mankato\, MN
+PRIORITY:3
+URL:https://gophersports.com/calendar.aspx?game_id=23033&amp;sport_id=8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Minnesota  Men's Hockey at Notre Dame- Exact Series 
+ Dates Will Be Announced Later
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261206
+DTSTAMP:20260722T181409Z
+UID:vcal_23043-gophersports.com
+DESCRIPTION:University of Minnesota  Men's Hockey at Notre Dame- Exact Ser
+ ies Dates Will Be Announced Later\n https://gophersports.com/calendar.aspx
+ ?game_id=23043&amp\;sport_id=8
+LOCATION:South Bend\, IN
+PRIORITY:3
+URL:https://gophersports.com/calendar.aspx?game_id=23043&amp;sport_id=8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Minnesota  Men's Hockey at Notre Dame
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261206
+DTSTAMP:20260722T181409Z
+UID:vcal_23048-gophersports.com
+DESCRIPTION:University of Minnesota  Men's Hockey at Notre Dame\n https://
+ gophersports.com/calendar.aspx?game_id=23048&amp\;sport_id=8
+LOCATION:South Bend\, IN
+PRIORITY:3
+URL:https://gophersports.com/calendar.aspx?game_id=23048&amp;sport_id=8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Minnesota  Men's Hockey at Michigan State
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261213
+DTSTAMP:20260722T181409Z
+UID:vcal_23049-gophersports.com
+DESCRIPTION:University of Minnesota  Men's Hockey at Michigan State\n http
+ s://gophersports.com/calendar.aspx?game_id=23049&amp\;sport_id=8
+LOCATION:East Lansing\, MI
+PRIORITY:3
+URL:https://gophersports.com/calendar.aspx?game_id=23049&amp;sport_id=8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Minnesota  Men's Hockey at Michigan State- Exact Ser
+ ies Dates Will Be Announced Later
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261213
+DTSTAMP:20260722T181409Z
+UID:vcal_23040-gophersports.com
+DESCRIPTION:University of Minnesota  Men's Hockey at Michigan State- Exact
+  Series Dates Will Be Announced Later\n https://gophersports.com/calendar.
+ aspx?game_id=23040&amp\;sport_id=8
+LOCATION:East Lansing\, MI
+PRIORITY:3
+URL:https://gophersports.com/calendar.aspx?game_id=23040&amp;sport_id=8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Minnesota  Men's Hockey vs Bemidji State- (Exhibitio
+ n)
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+DTSTAMP:20260722T181409Z
+UID:vcal_23050-gophersports.com
+DESCRIPTION:University of Minnesota  Men's Hockey vs Bemidji State- (Exhib
+ ition)\nTickets: https://gophersports.com/sports/2019/3/19/mens-hockey-tic
+ kets\n https://gophersports.com/calendar.aspx?game_id=23050&amp\;sport_id=
+ 8
+LOCATION:3M Arena at Mariucci
+PRIORITY:3
+URL:https://gophersports.com/calendar.aspx?game_id=23050&amp;sport_id=8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Minnesota  Men's Hockey vs Michigan
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270110
+DTSTAMP:20260722T181409Z
+UID:vcal_23051-gophersports.com
+DESCRIPTION:University of Minnesota  Men's Hockey vs Michigan\nTickets: ht
+ tps://gophersports.com/sports/2019/3/19/mens-hockey-tickets\n https://goph
+ ersports.com/calendar.aspx?game_id=23051&amp\;sport_id=8
+LOCATION:3M Arena at Mariucci
+PRIORITY:3
+URL:https://gophersports.com/calendar.aspx?game_id=23051&amp;sport_id=8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Minnesota  Men's Hockey vs Michigan- Exact Series Da
+ tes Will Be Announced Later
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270110
+DTSTAMP:20260722T181409Z
+UID:vcal_23039-gophersports.com
+DESCRIPTION:University of Minnesota  Men's Hockey vs Michigan- Exact Serie
+ s Dates Will Be Announced Later\nTickets: https://gophersports.com/sports/
+ 2019/3/19/mens-hockey-tickets\n https://gophersports.com/calendar.aspx?gam
+ e_id=23039&amp\;sport_id=8
+LOCATION:3M Arena at Mariucci
+PRIORITY:3
+URL:https://gophersports.com/calendar.aspx?game_id=23039&amp;sport_id=8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Minnesota  Men's Hockey at Ohio State- Exact Series 
+ Dates Will Be Announced Later
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270117
+DTSTAMP:20260722T181409Z
+UID:vcal_23037-gophersports.com
+DESCRIPTION:University of Minnesota  Men's Hockey at Ohio State- Exact Ser
+ ies Dates Will Be Announced Later\n https://gophersports.com/calendar.aspx
+ ?game_id=23037&amp\;sport_id=8
+LOCATION:Columbus\, OH
+PRIORITY:3
+URL:https://gophersports.com/calendar.aspx?game_id=23037&amp;sport_id=8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Minnesota  Men's Hockey at Ohio State
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270117
+DTSTAMP:20260722T181409Z
+UID:vcal_23052-gophersports.com
+DESCRIPTION:University of Minnesota  Men's Hockey at Ohio State\n https://
+ gophersports.com/calendar.aspx?game_id=23052&amp\;sport_id=8
+LOCATION:Columbus\, OH
+PRIORITY:3
+URL:https://gophersports.com/calendar.aspx?game_id=23052&amp;sport_id=8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Minnesota  Men's Hockey vs Notre Dame
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270124
+DTSTAMP:20260722T181409Z
+UID:vcal_23053-gophersports.com
+DESCRIPTION:University of Minnesota  Men's Hockey vs Notre Dame\nTickets: 
+ https://gophersports.com/sports/2019/3/19/mens-hockey-tickets\n https://go
+ phersports.com/calendar.aspx?game_id=23053&amp\;sport_id=8
+LOCATION:3M Arena at Mariucci
+PRIORITY:3
+URL:https://gophersports.com/calendar.aspx?game_id=23053&amp;sport_id=8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Minnesota  Men's Hockey vs Notre Dame- Exact Series 
+ Dates Will Be Announced Later
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270124
+DTSTAMP:20260722T181409Z
+UID:vcal_23035-gophersports.com
+DESCRIPTION:University of Minnesota  Men's Hockey vs Notre Dame- Exact Ser
+ ies Dates Will Be Announced Later\nTickets: https://gophersports.com/sport
+ s/2019/3/19/mens-hockey-tickets\n https://gophersports.com/calendar.aspx?g
+ ame_id=23035&amp\;sport_id=8
+LOCATION:3M Arena at Mariucci
+PRIORITY:3
+URL:https://gophersports.com/calendar.aspx?game_id=23035&amp;sport_id=8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Minnesota  Men's Hockey vs Michigan State
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270131
+DTSTAMP:20260722T181409Z
+UID:vcal_23054-gophersports.com
+DESCRIPTION:University of Minnesota  Men's Hockey vs Michigan State\nTicke
+ ts: https://gophersports.com/sports/2019/3/19/mens-hockey-tickets\n https:
+ //gophersports.com/calendar.aspx?game_id=23054&amp\;sport_id=8
+LOCATION:3M Arena at Mariucci
+PRIORITY:3
+URL:https://gophersports.com/calendar.aspx?game_id=23054&amp;sport_id=8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Minnesota  Men's Hockey vs Michigan State- Exact Ser
+ ies Dates Will Be Announced Later
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270131
+DTSTAMP:20260722T181409Z
+UID:vcal_23045-gophersports.com
+DESCRIPTION:University of Minnesota  Men's Hockey vs Michigan State- Exact
+  Series Dates Will Be Announced Later\nTickets: https://gophersports.com/s
+ ports/2019/3/19/mens-hockey-tickets\n https://gophersports.com/calendar.as
+ px?game_id=23045&amp\;sport_id=8
+LOCATION:3M Arena at Mariucci
+PRIORITY:3
+URL:https://gophersports.com/calendar.aspx?game_id=23045&amp;sport_id=8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Minnesota  Men's Hockey at Wisconsin- Exact Series D
+ ates Will Be Announced Later
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270207
+DTSTAMP:20260722T181409Z
+UID:vcal_23055-gophersports.com
+DESCRIPTION:University of Minnesota  Men's Hockey at Wisconsin- Exact Seri
+ es Dates Will Be Announced Later\n https://gophersports.com/calendar.aspx?
+ game_id=23055&amp\;sport_id=8
+LOCATION:Madison\, WI
+PRIORITY:3
+URL:https://gophersports.com/calendar.aspx?game_id=23055&amp;sport_id=8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Minnesota  Men's Hockey at Wisconsin
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270207
+DTSTAMP:20260722T181409Z
+UID:vcal_23034-gophersports.com
+DESCRIPTION:University of Minnesota  Men's Hockey at Wisconsin\n https://g
+ ophersports.com/calendar.aspx?game_id=23034&amp\;sport_id=8
+LOCATION:Madison\, WI
+PRIORITY:3
+URL:https://gophersports.com/calendar.aspx?game_id=23034&amp;sport_id=8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Minnesota  Men's Hockey at Penn State- Exact Series 
+ Dates Will Be Announced Later
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270214
+DTSTAMP:20260722T181409Z
+UID:vcal_23038-gophersports.com
+DESCRIPTION:University of Minnesota  Men's Hockey at Penn State- Exact Ser
+ ies Dates Will Be Announced Later\n https://gophersports.com/calendar.aspx
+ ?game_id=23038&amp\;sport_id=8
+LOCATION:University Park\, PA
+PRIORITY:3
+URL:https://gophersports.com/calendar.aspx?game_id=23038&amp;sport_id=8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Minnesota  Men's Hockey at Penn State
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270214
+DTSTAMP:20260722T181409Z
+UID:vcal_23056-gophersports.com
+DESCRIPTION:University of Minnesota  Men's Hockey at Penn State\n https://
+ gophersports.com/calendar.aspx?game_id=23056&amp\;sport_id=8
+LOCATION:University Park\, PA
+PRIORITY:3
+URL:https://gophersports.com/calendar.aspx?game_id=23056&amp;sport_id=8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Minnesota  Men's Hockey vs Ohio State- Exact Series 
+ Dates Will Be Announced Later
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270221
+DTSTAMP:20260722T181409Z
+UID:vcal_23057-gophersports.com
+DESCRIPTION:University of Minnesota  Men's Hockey vs Ohio State- Exact Ser
+ ies Dates Will Be Announced Later\nTickets: https://gophersports.com/sport
+ s/2019/3/19/mens-hockey-tickets\n https://gophersports.com/calendar.aspx?g
+ ame_id=23057&amp\;sport_id=8
+LOCATION:3M Arena at Mariucci
+PRIORITY:3
+URL:https://gophersports.com/calendar.aspx?game_id=23057&amp;sport_id=8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Minnesota  Men's Hockey vs Ohio State
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270221
+DTSTAMP:20260722T181409Z
+UID:vcal_23042-gophersports.com
+DESCRIPTION:University of Minnesota  Men's Hockey vs Ohio State\nTickets: 
+ https://gophersports.com/sports/2019/3/19/mens-hockey-tickets\n https://go
+ phersports.com/calendar.aspx?game_id=23042&amp\;sport_id=8
+LOCATION:3M Arena at Mariucci
+PRIORITY:3
+URL:https://gophersports.com/calendar.aspx?game_id=23042&amp;sport_id=8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Minnesota  Men's Hockey at Michigan- Exact Series Da
+ tes Will Be Announced Later
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270228
+DTSTAMP:20260722T181409Z
+UID:vcal_23044-gophersports.com
+DESCRIPTION:University of Minnesota  Men's Hockey at Michigan- Exact Serie
+ s Dates Will Be Announced Later\n https://gophersports.com/calendar.aspx?g
+ ame_id=23044&amp\;sport_id=8
+LOCATION:Ann Arbor\, MI
+PRIORITY:3
+URL:https://gophersports.com/calendar.aspx?game_id=23044&amp;sport_id=8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Minnesota  Men's Hockey at Michigan
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270228
+DTSTAMP:20260722T181409Z
+UID:vcal_23061-gophersports.com
+DESCRIPTION:University of Minnesota  Men's Hockey at Michigan\n https://go
+ phersports.com/calendar.aspx?game_id=23061&amp\;sport_id=8
+LOCATION:Ann Arbor\, MI
+PRIORITY:3
+URL:https://gophersports.com/calendar.aspx?game_id=23061&amp;sport_id=8
+END:VEVENT
+END:VCALENDAR

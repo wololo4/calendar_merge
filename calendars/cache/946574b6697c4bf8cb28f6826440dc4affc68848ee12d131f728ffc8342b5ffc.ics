@@ -1,0 +1,412 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SIDEARM Sports//NONSGML SIDEARM//EN
+X-WR-CALNAME:Men's Ice Hockey - dartmouthsports.com
+X-PUBLISHED-TTL:PT120M
+BEGIN:VEVENT
+SUMMARY:Dartmouth College Men's Ice Hockey at Norwich- Scrimmage
+DTSTART:20261017T230000Z
+DTEND:20261018T020000Z
+DTSTAMP:20260722T181508Z
+UID:vcal_31582-dartmouthsports.com
+DESCRIPTION:Dartmouth College Men's Ice Hockey at Norwich- Scrimmage\n htt
+ ps://dartmouthsports.com/calendar.aspx?game_id=31582&amp\;sport_id=9
+LOCATION:Northfield\, Vt. / Kreitzberg Arena
+PRIORITY:3
+URL:https://dartmouthsports.com/calendar.aspx?game_id=31582&amp;sport_id=9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dartmouth College Men's Ice Hockey vs Alaska Fairbanks
+DTSTART:20261031T230000Z
+DTEND:20261101T020000Z
+DTSTAMP:20260722T181508Z
+UID:vcal_31552-dartmouthsports.com
+DESCRIPTION:Dartmouth College Men's Ice Hockey vs Alaska Fairbanks\nStream
+ ing Video: https://www.espn.com/search/_/q/dart/o/watch\nTickets: https://
+ lp.constantcontactpages.com/sv/20wpBYu/Hockey2526\n https://dartmouthsport
+ s.com/calendar.aspx?game_id=31552&amp\;sport_id=9
+LOCATION:Hanover\, N.H.\, Thompson Arena
+PRIORITY:3
+URL:https://dartmouthsports.com/calendar.aspx?game_id=31552&amp;sport_id=9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dartmouth College Men's Ice Hockey vs Alaska Fairbanks
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+DTSTAMP:20260722T181508Z
+UID:vcal_31553-dartmouthsports.com
+DESCRIPTION:Dartmouth College Men's Ice Hockey vs Alaska Fairbanks\nStream
+ ing Video: https://www.espn.com/search/_/q/dart/o/watch\nTickets: https://
+ lp.constantcontactpages.com/sv/20wpBYu/Hockey2526\n https://dartmouthsport
+ s.com/calendar.aspx?game_id=31553&amp\;sport_id=9
+LOCATION:Hanover\, N.H.\, Thompson Arena
+PRIORITY:3
+URL:https://dartmouthsports.com/calendar.aspx?game_id=31553&amp;sport_id=9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dartmouth College Men's Ice Hockey vs Yale
+DTSTART:20261107T000000Z
+DTEND:20261107T030000Z
+DTSTAMP:20260722T181508Z
+UID:vcal_31554-dartmouthsports.com
+DESCRIPTION:Dartmouth College Men's Ice Hockey vs Yale\nStreaming Video: h
+ ttps://www.espn.com/search/_/q/dart/o/watch\nTickets: https://lp.constantc
+ ontactpages.com/sv/20wpBYu/Hockey2526\n https://dartmouthsports.com/calend
+ ar.aspx?game_id=31554&amp\;sport_id=9
+LOCATION:Hanover\, N.H.\, Thompson Arena
+PRIORITY:3
+URL:https://dartmouthsports.com/calendar.aspx?game_id=31554&amp;sport_id=9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dartmouth College Men's Ice Hockey vs Brown
+DTSTART:20261108T000000Z
+DTEND:20261108T030000Z
+DTSTAMP:20260722T181508Z
+UID:vcal_31555-dartmouthsports.com
+DESCRIPTION:Dartmouth College Men's Ice Hockey vs Brown\nStreaming Video: 
+ https://www.espn.com/search/_/q/dart/o/watch\nTickets: https://lp.constant
+ contactpages.com/sv/20wpBYu/Hockey2526\n https://dartmouthsports.com/calen
+ dar.aspx?game_id=31555&amp\;sport_id=9
+LOCATION:Hanover\, N.H.\, Thompson Arena
+PRIORITY:3
+URL:https://dartmouthsports.com/calendar.aspx?game_id=31555&amp;sport_id=9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dartmouth College Men's Ice Hockey at Quinnipiac
+DTSTART:20261114T000000Z
+DTEND:20261114T030000Z
+DTSTAMP:20260722T181508Z
+UID:vcal_31556-dartmouthsports.com
+DESCRIPTION:Dartmouth College Men's Ice Hockey at Quinnipiac\n https://dar
+ tmouthsports.com/calendar.aspx?game_id=31556&amp\;sport_id=9
+LOCATION:Hamden\, Conn. / M & T Bank Arena
+PRIORITY:3
+URL:https://dartmouthsports.com/calendar.aspx?game_id=31556&amp;sport_id=9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dartmouth College Men's Ice Hockey at Princeton
+DTSTART:20261115T000000Z
+DTEND:20261115T030000Z
+DTSTAMP:20260722T181508Z
+UID:vcal_31557-dartmouthsports.com
+DESCRIPTION:Dartmouth College Men's Ice Hockey at Princeton\n https://dart
+ mouthsports.com/calendar.aspx?game_id=31557&amp\;sport_id=9
+LOCATION:Princeton\, N.J. / Hobey Baker Rink
+PRIORITY:3
+URL:https://dartmouthsports.com/calendar.aspx?game_id=31557&amp;sport_id=9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dartmouth College Men's Ice Hockey at Harvard
+DTSTART:20261128T000000Z
+DTEND:20261128T030000Z
+DTSTAMP:20260722T181508Z
+UID:vcal_31558-dartmouthsports.com
+DESCRIPTION:Dartmouth College Men's Ice Hockey at Harvard\n https://dartmo
+ uthsports.com/calendar.aspx?game_id=31558&amp\;sport_id=9
+LOCATION:Cambridge\, Mass. / Bright-Landry Hockey Center
+PRIORITY:3
+URL:https://dartmouthsports.com/calendar.aspx?game_id=31558&amp;sport_id=9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dartmouth College Men's Ice Hockey vs Northeastern
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+DTSTAMP:20260722T181508Z
+UID:vcal_31559-dartmouthsports.com
+DESCRIPTION:Dartmouth College Men's Ice Hockey vs Northeastern\nStreaming 
+ Video: https://www.espn.com/search/_/q/dart/o/watch\nTickets: https://lp.c
+ onstantcontactpages.com/sv/20wpBYu/Hockey2526\n https://dartmouthsports.co
+ m/calendar.aspx?game_id=31559&amp\;sport_id=9
+LOCATION:Hanover\, N.H.\, Thompson Arena
+PRIORITY:3
+URL:https://dartmouthsports.com/calendar.aspx?game_id=31559&amp;sport_id=9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dartmouth College Men's Ice Hockey at Union
+DTSTART:20261205T000000Z
+DTEND:20261205T030000Z
+DTSTAMP:20260722T181508Z
+UID:vcal_31560-dartmouthsports.com
+DESCRIPTION:Dartmouth College Men's Ice Hockey at Union\n https://dartmout
+ hsports.com/calendar.aspx?game_id=31560&amp\;sport_id=9
+LOCATION:Schenectady\, N.Y. / M&T Bank Center
+PRIORITY:3
+URL:https://dartmouthsports.com/calendar.aspx?game_id=31560&amp;sport_id=9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dartmouth College Men's Ice Hockey at RPI
+DTSTART:20261206T000000Z
+DTEND:20261206T030000Z
+DTSTAMP:20260722T181508Z
+UID:vcal_31561-dartmouthsports.com
+DESCRIPTION:Dartmouth College Men's Ice Hockey at RPI\n https://dartmouths
+ ports.com/calendar.aspx?game_id=31561&amp\;sport_id=9
+LOCATION:Troy\, N.Y. / Houston Field House
+PRIORITY:3
+URL:https://dartmouthsports.com/calendar.aspx?game_id=31561&amp;sport_id=9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dartmouth College Men's Ice Hockey vs Stonehill
+DTSTART:20261211T000000Z
+DTEND:20261211T030000Z
+DTSTAMP:20260722T181508Z
+UID:vcal_31562-dartmouthsports.com
+DESCRIPTION:Dartmouth College Men's Ice Hockey vs Stonehill\nStreaming Vid
+ eo: https://www.espn.com/search/_/q/dart/o/watch\nTickets: https://lp.cons
+ tantcontactpages.com/sv/20wpBYu/Hockey2526\n https://dartmouthsports.com/c
+ alendar.aspx?game_id=31562&amp\;sport_id=9
+LOCATION:Hanover\, N.H.\, Thompson Arena
+PRIORITY:3
+URL:https://dartmouthsports.com/calendar.aspx?game_id=31562&amp;sport_id=9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dartmouth College Men's Ice Hockey vs New Hampshire
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+DTSTAMP:20260722T181508Z
+UID:vcal_31563-dartmouthsports.com
+DESCRIPTION:Dartmouth College Men's Ice Hockey vs New Hampshire\nStreaming
+  Video: https://www.espn.com/search/_/q/dart/o/watch\nTickets: https://lp.
+ constantcontactpages.com/sv/20wpBYu/Hockey2526\n https://dartmouthsports.c
+ om/calendar.aspx?game_id=31563&amp\;sport_id=9
+LOCATION:Hanover\, N.H.\, Thompson Arena
+PRIORITY:3
+URL:https://dartmouthsports.com/calendar.aspx?game_id=31563&amp;sport_id=9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dartmouth College Men's Ice Hockey vs Holy Cross
+DTSTART:20261216T000000Z
+DTEND:20261216T030000Z
+DTSTAMP:20260722T181508Z
+UID:vcal_31564-dartmouthsports.com
+DESCRIPTION:Dartmouth College Men's Ice Hockey vs Holy Cross\nStreaming Vi
+ deo: https://www.espn.com/search/_/q/dart/o/watch\nTickets: https://lp.con
+ stantcontactpages.com/sv/20wpBYu/Hockey2526\n https://dartmouthsports.com/
+ calendar.aspx?game_id=31564&amp\;sport_id=9
+LOCATION:Hanover\, N.H.\, Thompson Arena
+PRIORITY:3
+URL:https://dartmouthsports.com/calendar.aspx?game_id=31564&amp;sport_id=9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dartmouth College Men's Ice Hockey at Vermont
+DTSTART:20261220T000000Z
+DTEND:20261220T030000Z
+DTSTAMP:20260722T181508Z
+UID:vcal_31565-dartmouthsports.com
+DESCRIPTION:Dartmouth College Men's Ice Hockey at Vermont\n https://dartmo
+ uthsports.com/calendar.aspx?game_id=31565&amp\;sport_id=9
+LOCATION:Burlington\, Vt. / Gutterson Fieldhouse
+PRIORITY:3
+URL:https://dartmouthsports.com/calendar.aspx?game_id=31565&amp;sport_id=9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dartmouth College Men's Ice Hockey at Brown
+DTSTART:20270102T000000Z
+DTEND:20270102T030000Z
+DTSTAMP:20260722T181508Z
+UID:vcal_31566-dartmouthsports.com
+DESCRIPTION:Dartmouth College Men's Ice Hockey at Brown\n https://dartmout
+ hsports.com/calendar.aspx?game_id=31566&amp\;sport_id=9
+LOCATION:Providence\, RI / Meehan Auditorium
+PRIORITY:3
+URL:https://dartmouthsports.com/calendar.aspx?game_id=31566&amp;sport_id=9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dartmouth College Men's Ice Hockey at Yale
+DTSTART:20270103T000000Z
+DTEND:20270103T030000Z
+DTSTAMP:20260722T181508Z
+UID:vcal_31567-dartmouthsports.com
+DESCRIPTION:Dartmouth College Men's Ice Hockey at Yale\n https://dartmouth
+ sports.com/calendar.aspx?game_id=31567&amp\;sport_id=9
+LOCATION:New Haven\, Conn. / Ingalls Rink
+PRIORITY:3
+URL:https://dartmouthsports.com/calendar.aspx?game_id=31567&amp;sport_id=9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dartmouth College Men's Ice Hockey vs Princeton
+DTSTART:20270109T000000Z
+DTEND:20270109T030000Z
+DTSTAMP:20260722T181508Z
+UID:vcal_31568-dartmouthsports.com
+DESCRIPTION:Dartmouth College Men's Ice Hockey vs Princeton\nStreaming Vid
+ eo: https://www.espn.com/search/_/q/dart/o/watch\nTickets: https://lp.cons
+ tantcontactpages.com/sv/20wpBYu/Hockey2526\n https://dartmouthsports.com/c
+ alendar.aspx?game_id=31568&amp\;sport_id=9
+LOCATION:Hanover\, N.H.\, Thompson Arena
+PRIORITY:3
+URL:https://dartmouthsports.com/calendar.aspx?game_id=31568&amp;sport_id=9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dartmouth College Men's Ice Hockey vs Quinnipiac
+DTSTART:20270110T000000Z
+DTEND:20270110T030000Z
+DTSTAMP:20260722T181508Z
+UID:vcal_31569-dartmouthsports.com
+DESCRIPTION:Dartmouth College Men's Ice Hockey vs Quinnipiac\nStreaming Vi
+ deo: https://www.espn.com/search/_/q/dart/o/watch\nTickets: https://lp.con
+ stantcontactpages.com/sv/20wpBYu/Hockey2526\n https://dartmouthsports.com/
+ calendar.aspx?game_id=31569&amp\;sport_id=9
+LOCATION:Hanover\, N.H.\, Thompson Arena
+PRIORITY:3
+URL:https://dartmouthsports.com/calendar.aspx?game_id=31569&amp;sport_id=9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dartmouth College Men's Ice Hockey vs St. Lawrence
+DTSTART:20270116T000000Z
+DTEND:20270116T030000Z
+DTSTAMP:20260722T181508Z
+UID:vcal_31570-dartmouthsports.com
+DESCRIPTION:Dartmouth College Men's Ice Hockey vs St. Lawrence\nStreaming 
+ Video: https://www.espn.com/search/_/q/dart/o/watch\nTickets: https://lp.c
+ onstantcontactpages.com/sv/20wpBYu/Hockey2526\n https://dartmouthsports.co
+ m/calendar.aspx?game_id=31570&amp\;sport_id=9
+LOCATION:Hanover\, N.H.\, Thompson Arena
+PRIORITY:3
+URL:https://dartmouthsports.com/calendar.aspx?game_id=31570&amp;sport_id=9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dartmouth College Men's Ice Hockey vs Clarkson
+DTSTART:20270117T000000Z
+DTEND:20270117T030000Z
+DTSTAMP:20260722T181508Z
+UID:vcal_31571-dartmouthsports.com
+DESCRIPTION:Dartmouth College Men's Ice Hockey vs Clarkson\nStreaming Vide
+ o: https://www.espn.com/search/_/q/dart/o/watch\nTickets: https://lp.const
+ antcontactpages.com/sv/20wpBYu/Hockey2526\n https://dartmouthsports.com/ca
+ lendar.aspx?game_id=31571&amp\;sport_id=9
+LOCATION:Hanover\, N.H.\, Thompson Arena
+PRIORITY:3
+URL:https://dartmouthsports.com/calendar.aspx?game_id=31571&amp;sport_id=9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dartmouth College Men's Ice Hockey at Colgate
+DTSTART:20270123T000000Z
+DTEND:20270123T030000Z
+DTSTAMP:20260722T181508Z
+UID:vcal_31572-dartmouthsports.com
+DESCRIPTION:Dartmouth College Men's Ice Hockey at Colgate\n https://dartmo
+ uthsports.com/calendar.aspx?game_id=31572&amp\;sport_id=9
+LOCATION:Hamilton\, N.Y. / Class of 1965 Arena
+PRIORITY:3
+URL:https://dartmouthsports.com/calendar.aspx?game_id=31572&amp;sport_id=9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dartmouth College Men's Ice Hockey at Cornell
+DTSTART:20270124T000000Z
+DTEND:20270124T030000Z
+DTSTAMP:20260722T181508Z
+UID:vcal_31573-dartmouthsports.com
+DESCRIPTION:Dartmouth College Men's Ice Hockey at Cornell\n https://dartmo
+ uthsports.com/calendar.aspx?game_id=31573&amp\;sport_id=9
+LOCATION:Ithaca\, N.Y. / Lynah Rink
+PRIORITY:3
+URL:https://dartmouthsports.com/calendar.aspx?game_id=31573&amp;sport_id=9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dartmouth College Men's Ice Hockey at Merrimack
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+DTSTAMP:20260722T181508Z
+UID:vcal_31574-dartmouthsports.com
+DESCRIPTION:Dartmouth College Men's Ice Hockey at Merrimack\n https://dart
+ mouthsports.com/calendar.aspx?game_id=31574&amp\;sport_id=9
+LOCATION:North Andover\, Mass. / Lawler Arena
+PRIORITY:3
+URL:https://dartmouthsports.com/calendar.aspx?game_id=31574&amp;sport_id=9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dartmouth College Men's Ice Hockey vs Harvard
+DTSTART:20270206T000000Z
+DTEND:20270206T030000Z
+DTSTAMP:20260722T181508Z
+UID:vcal_31575-dartmouthsports.com
+DESCRIPTION:Dartmouth College Men's Ice Hockey vs Harvard\nStreaming Video
+ : https://www.espn.com/search/_/q/dart/o/watch\nTickets: https://lp.consta
+ ntcontactpages.com/sv/20wpBYu/Hockey2526\n https://dartmouthsports.com/cal
+ endar.aspx?game_id=31575&amp\;sport_id=9
+LOCATION:Hanover\, N.H.\, Thompson Arena
+PRIORITY:3
+URL:https://dartmouthsports.com/calendar.aspx?game_id=31575&amp;sport_id=9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dartmouth College Men's Ice Hockey vs RPI
+DTSTART:20270213T000000Z
+DTEND:20270213T030000Z
+DTSTAMP:20260722T181508Z
+UID:vcal_31576-dartmouthsports.com
+DESCRIPTION:Dartmouth College Men's Ice Hockey vs RPI\nStreaming Video: ht
+ tps://www.espn.com/search/_/q/dart/o/watch\nTickets: https://lp.constantco
+ ntactpages.com/sv/20wpBYu/Hockey2526\n https://dartmouthsports.com/calenda
+ r.aspx?game_id=31576&amp\;sport_id=9
+LOCATION:Hanover\, N.H.\, Thompson Arena
+PRIORITY:3
+URL:https://dartmouthsports.com/calendar.aspx?game_id=31576&amp;sport_id=9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dartmouth College Men's Ice Hockey vs Union
+DTSTART:20270214T000000Z
+DTEND:20270214T030000Z
+DTSTAMP:20260722T181508Z
+UID:vcal_31577-dartmouthsports.com
+DESCRIPTION:Dartmouth College Men's Ice Hockey vs Union\nStreaming Video: 
+ https://www.espn.com/search/_/q/dart/o/watch\nTickets: https://lp.constant
+ contactpages.com/sv/20wpBYu/Hockey2526\n https://dartmouthsports.com/calen
+ dar.aspx?game_id=31577&amp\;sport_id=9
+LOCATION:Hanover\, N.H.\, Thompson Arena
+PRIORITY:3
+URL:https://dartmouthsports.com/calendar.aspx?game_id=31577&amp;sport_id=9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dartmouth College Men's Ice Hockey vs Cornell
+DTSTART:20270220T000000Z
+DTEND:20270220T030000Z
+DTSTAMP:20260722T181508Z
+UID:vcal_31578-dartmouthsports.com
+DESCRIPTION:Dartmouth College Men's Ice Hockey vs Cornell\nStreaming Video
+ : https://www.espn.com/search/_/q/dart/o/watch\nTickets: https://lp.consta
+ ntcontactpages.com/sv/20wpBYu/Hockey2526\n https://dartmouthsports.com/cal
+ endar.aspx?game_id=31578&amp\;sport_id=9
+LOCATION:Hanover\, N.H.\, Thompson Arena
+PRIORITY:3
+URL:https://dartmouthsports.com/calendar.aspx?game_id=31578&amp;sport_id=9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dartmouth College Men's Ice Hockey vs Colgate
+DTSTART:20270221T000000Z
+DTEND:20270221T030000Z
+DTSTAMP:20260722T181508Z
+UID:vcal_31579-dartmouthsports.com
+DESCRIPTION:Dartmouth College Men's Ice Hockey vs Colgate\nStreaming Video
+ : https://www.espn.com/search/_/q/dart/o/watch\nTickets: https://lp.consta
+ ntcontactpages.com/sv/20wpBYu/Hockey2526\n https://dartmouthsports.com/cal
+ endar.aspx?game_id=31579&amp\;sport_id=9
+LOCATION:Hanover\, N.H.\, Thompson Arena
+PRIORITY:3
+URL:https://dartmouthsports.com/calendar.aspx?game_id=31579&amp;sport_id=9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dartmouth College Men's Ice Hockey at Clarkson
+DTSTART:20270227T000000Z
+DTEND:20270227T030000Z
+DTSTAMP:20260722T181508Z
+UID:vcal_31580-dartmouthsports.com
+DESCRIPTION:Dartmouth College Men's Ice Hockey at Clarkson\n https://dartm
+ outhsports.com/calendar.aspx?game_id=31580&amp\;sport_id=9
+LOCATION:Potsdam\, N.Y. / Cheel Arena
+PRIORITY:3
+URL:https://dartmouthsports.com/calendar.aspx?game_id=31580&amp;sport_id=9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dartmouth College Men's Ice Hockey at St. Lawrence
+DTSTART:20270227T220000Z
+DTEND:20270228T010000Z
+DTSTAMP:20260722T181508Z
+UID:vcal_31581-dartmouthsports.com
+DESCRIPTION:Dartmouth College Men's Ice Hockey at St. Lawrence\n https://d
+ artmouthsports.com/calendar.aspx?game_id=31581&amp\;sport_id=9
+LOCATION:Canton\, N.Y. / Appleton Arena
+PRIORITY:3
+URL:https://dartmouthsports.com/calendar.aspx?game_id=31581&amp;sport_id=9
+END:VEVENT
+END:VCALENDAR

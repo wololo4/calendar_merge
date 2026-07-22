@@ -1,0 +1,503 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SIDEARM Sports//NONSGML SIDEARM//EN
+X-WR-CALNAME:Men's Ice Hockey - goterriers.com
+X-PUBLISHED-TTL:PT120M
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey at Alaska
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+DTSTAMP:20260722T174147Z
+UID:vcal_33102-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey at Alaska\n https://goterri
+ ers.com/calendar.aspx?game_id=33102&amp\;sport_id=5
+LOCATION:Fairbanks\, AK
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33102&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey at Alaska
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+DTSTAMP:20260722T174148Z
+UID:vcal_33103-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey at Alaska\n https://goterri
+ ers.com/calendar.aspx?game_id=33103&amp\;sport_id=5
+LOCATION:Fairbanks\, AK
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33103&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey vs Brown
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260722T174148Z
+UID:vcal_33104-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey vs Brown\nTV: ESPN+\nStream
+ ing Video: http://www.goterriers.com/hockeyeast\nTickets: https://am.ticke
+ tmaster.com/agganis/buy?filterType=2\n https://goterriers.com/calendar.asp
+ x?game_id=33104&amp\;sport_id=5
+LOCATION:Boston\, MA\, Agganis Arena
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33104&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey at Vermont
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+DTSTAMP:20260722T174148Z
+UID:vcal_33105-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey at Vermont\nTV: ESPN+\nStre
+ aming Video: http://www.goterriers.com/hockeyeast\n https://goterriers.com
+ /calendar.aspx?game_id=33105&amp\;sport_id=5
+LOCATION:Burlington\, VT
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33105&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey at Vermont
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+DTSTAMP:20260722T174148Z
+UID:vcal_33106-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey at Vermont\nTV: ESPN+\nStre
+ aming Video: http://www.goterriers.com/hockeyeast\n https://goterriers.com
+ /calendar.aspx?game_id=33106&amp\;sport_id=5
+LOCATION:Burlington\, VT
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33106&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey at UConn
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+DTSTAMP:20260722T174148Z
+UID:vcal_33107-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey at UConn\nTV: ESPN+\nStream
+ ing Video: http://www.goterriers.com/hockeyeast\n https://goterriers.com/c
+ alendar.aspx?game_id=33107&amp\;sport_id=5
+LOCATION:Storrs\, CT
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33107&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey vs UConn
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+DTSTAMP:20260722T174148Z
+UID:vcal_33108-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey vs UConn\nTV: ESPN+\nStream
+ ing Video: http://www.goterriers.com/hockeyeast\nTickets: https://am.ticke
+ tmaster.com/agganis/buy?filterType=2\n https://goterriers.com/calendar.asp
+ x?game_id=33108&amp\;sport_id=5
+LOCATION:Boston\, MA\, Agganis Arena
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33108&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey vs Maine
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+DTSTAMP:20260722T174148Z
+UID:vcal_33109-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey vs Maine\nTV: ESPN+\nStream
+ ing Video: http://www.goterriers.com/hockeyeast\nTickets: https://am.ticke
+ tmaster.com/agganis/buy?filterType=2\n https://goterriers.com/calendar.asp
+ x?game_id=33109&amp\;sport_id=5
+LOCATION:Boston\, MA\, Agganis Arena
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33109&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey vs Maine
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+DTSTAMP:20260722T174148Z
+UID:vcal_33110-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey vs Maine\nTV: ESPN+\nStream
+ ing Video: http://www.goterriers.com/hockeyeast\nTickets: https://am.ticke
+ tmaster.com/agganis/buy?filterType=2\n https://goterriers.com/calendar.asp
+ x?game_id=33110&amp\;sport_id=5
+LOCATION:Boston\, MA\, Agganis Arena
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33110&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey at Michigan State
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+DTSTAMP:20260722T174148Z
+UID:vcal_33111-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey at Michigan State\n https:/
+ /goterriers.com/calendar.aspx?game_id=33111&amp\;sport_id=5
+LOCATION:East Lansing\, MI
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33111&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey at Michigan State
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+DTSTAMP:20260722T174148Z
+UID:vcal_33112-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey at Michigan State\n https:/
+ /goterriers.com/calendar.aspx?game_id=33112&amp\;sport_id=5
+LOCATION:East Lansing\, MI
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33112&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey vs Harvard
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+DTSTAMP:20260722T174148Z
+UID:vcal_33113-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey vs Harvard\nTV: ESPN+\nStre
+ aming Video: http://www.goterriers.com/hockeyeast\nTickets: https://am.tic
+ ketmaster.com/agganis/buy?filterType=2\n https://goterriers.com/calendar.a
+ spx?game_id=33113&amp\;sport_id=5
+LOCATION:Boston\, MA\, Agganis Arena
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33113&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey vs Quinnipiac
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+DTSTAMP:20260722T174148Z
+UID:vcal_33114-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey vs Quinnipiac\nTV: ESPN+\nS
+ treaming Video: http://www.goterriers.com/hockeyeast\nTickets: https://am.
+ ticketmaster.com/agganis/buy?filterType=2\n https://goterriers.com/calenda
+ r.aspx?game_id=33114&amp\;sport_id=5
+LOCATION:Boston\, MA\, Agganis Arena
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33114&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey at Merrimack
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+DTSTAMP:20260722T174148Z
+UID:vcal_33115-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey at Merrimack\nTV: ESPN+\nSt
+ reaming Video: http://www.goterriers.com/hockeyeast\n https://goterriers.c
+ om/calendar.aspx?game_id=33115&amp\;sport_id=5
+LOCATION:North Andover\, MA
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33115&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey vs Merrimack
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+DTSTAMP:20260722T174148Z
+UID:vcal_33116-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey vs Merrimack\nTV: ESPN+\nSt
+ reaming Video: http://www.goterriers.com/hockeyeast\nTickets: https://am.t
+ icketmaster.com/agganis/buy?filterType=2\n https://goterriers.com/calendar
+ .aspx?game_id=33116&amp\;sport_id=5
+LOCATION:Boston\, MA\, Agganis Arena
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33116&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey vs Denver
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+DTSTAMP:20260722T174148Z
+UID:vcal_33117-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey vs Denver\nTV: ESPN+\nStrea
+ ming Video: http://www.goterriers.com/hockeyeast\nTickets: https://am.tick
+ etmaster.com/agganis/buy?filterType=2\n https://goterriers.com/calendar.as
+ px?game_id=33117&amp\;sport_id=5
+LOCATION:Boston\, MA\, Agganis Arena
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33117&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey vs Denver
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+DTSTAMP:20260722T174148Z
+UID:vcal_33118-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey vs Denver\nTV: ESPN+\nStrea
+ ming Video: http://www.goterriers.com/hockeyeast\nTickets: https://am.tick
+ etmaster.com/agganis/buy?filterType=2\n https://goterriers.com/calendar.as
+ px?game_id=33118&amp\;sport_id=5
+LOCATION:Boston\, MA\, Agganis Arena
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33118&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey at Cornell
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+DTSTAMP:20260722T174148Z
+UID:vcal_33119-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey at Cornell\nTV: ESPN+\nStre
+ aming Video: http://www.goterriers.com/hockeyeast\n https://goterriers.com
+ /calendar.aspx?game_id=33119&amp\;sport_id=5
+LOCATION:Ithaca\, NY
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33119&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey at Colgate
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+DTSTAMP:20260722T174148Z
+UID:vcal_33120-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey at Colgate\nTV: ESPN+\nStre
+ aming Video: http://www.goterriers.com/hockeyeast\n https://goterriers.com
+ /calendar.aspx?game_id=33120&amp\;sport_id=5
+LOCATION:Hamilton\, NY
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33120&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey vs Northeastern
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+DTSTAMP:20260722T174148Z
+UID:vcal_33121-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey vs Northeastern\nTV: ESPN+\
+ nStreaming Video: http://www.goterriers.com/hockeyeast\nTickets: https://a
+ m.ticketmaster.com/agganis/buy?filterType=2\n https://goterriers.com/calen
+ dar.aspx?game_id=33121&amp\;sport_id=5
+LOCATION:Boston\, MA\, Agganis Arena
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33121&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey vs Northeastern
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+DTSTAMP:20260722T174148Z
+UID:vcal_33122-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey vs Northeastern\nTV: ESPN+\
+ nStreaming Video: http://www.goterriers.com/hockeyeast\nTickets: https://a
+ m.ticketmaster.com/agganis/buy?filterType=2\n https://goterriers.com/calen
+ dar.aspx?game_id=33122&amp\;sport_id=5
+LOCATION:Boston\, MA\, Agganis Arena
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33122&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey vs UMass
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+DTSTAMP:20260722T174148Z
+UID:vcal_33124-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey vs UMass\nTV: ESPN+\nStream
+ ing Video: http://www.goterriers.com/hockeyeast\nTickets: https://am.ticke
+ tmaster.com/agganis/buy?filterType=2\n https://goterriers.com/calendar.asp
+ x?game_id=33124&amp\;sport_id=5
+LOCATION:Boston\, MA\, Agganis Arena
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33124&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey at UMass
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+DTSTAMP:20260722T174148Z
+UID:vcal_33125-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey at UMass\nTV: ESPN+\nStream
+ ing Video: http://www.goterriers.com/hockeyeast\n https://goterriers.com/c
+ alendar.aspx?game_id=33125&amp\;sport_id=5
+LOCATION:Amherst\, MA
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33125&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey at UMass Lowell
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+DTSTAMP:20260722T174148Z
+UID:vcal_33126-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey at UMass Lowell\nTV: ESPN+\
+ nStreaming Video: http://www.goterriers.com/hockeyeast\n https://goterrier
+ s.com/calendar.aspx?game_id=33126&amp\;sport_id=5
+LOCATION:Lowell\, MA
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33126&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey vs UMass Lowell
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+DTSTAMP:20260722T174148Z
+UID:vcal_33127-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey vs UMass Lowell\nTV: ESPN+\
+ nStreaming Video: http://www.goterriers.com/hockeyeast\nTickets: https://a
+ m.ticketmaster.com/agganis/buy?filterType=2\n https://goterriers.com/calen
+ dar.aspx?game_id=33127&amp\;sport_id=5
+LOCATION:Boston\, MA\, Agganis Arena
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33127&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey vs Providence
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+DTSTAMP:20260722T174148Z
+UID:vcal_33128-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey vs Providence\nTV: ESPN+\nS
+ treaming Video: http://www.goterriers.com/hockeyeast\nTickets: https://am.
+ ticketmaster.com/agganis/buy?filterType=2\n https://goterriers.com/calenda
+ r.aspx?game_id=33128&amp\;sport_id=5
+LOCATION:Boston\, MA\, Agganis Arena
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33128&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey at Providence
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+DTSTAMP:20260722T174148Z
+UID:vcal_33129-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey at Providence\nTV: ESPN+\nS
+ treaming Video: http://www.goterriers.com/hockeyeast\n https://goterriers.
+ com/calendar.aspx?game_id=33129&amp\;sport_id=5
+LOCATION:Providence\, RI
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33129&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey at Boston College
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+DTSTAMP:20260722T174148Z
+UID:vcal_33130-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey at Boston College\nTV: ESPN
+ +\nStreaming Video: http://www.goterriers.com/hockeyeast\n https://goterri
+ ers.com/calendar.aspx?game_id=33130&amp\;sport_id=5
+LOCATION:Chestnut Hill\, MA
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33130&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey vs Boston College- 74th Dunkin'
+  Men's Beanpot Semifinals
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+DTSTAMP:20260722T174148Z
+UID:vcal_33132-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey vs Boston College- 74th Dun
+ kin' Men's Beanpot Semifinals\n https://goterriers.com/calendar.aspx?game_
+ id=33132&amp\;sport_id=5
+LOCATION:Boston\, MA (TD Garden)
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33132&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey at Maine
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+DTSTAMP:20260722T174148Z
+UID:vcal_33133-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey at Maine\nTV: ESPN+\nStream
+ ing Video: http://www.goterriers.com/hockeyeast\n https://goterriers.com/c
+ alendar.aspx?game_id=33133&amp\;sport_id=5
+LOCATION:Orono\, ME
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33133&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey vs Harvard/Northeastern- 74th D
+ unkin' Men's Beanpot
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+DTSTAMP:20260722T174148Z
+UID:vcal_33134-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey vs Harvard/Northeastern- 74
+ th Dunkin' Men's Beanpot\n https://goterriers.com/calendar.aspx?game_id=33
+ 134&amp\;sport_id=5
+LOCATION:Boston\, MA (TD Garden)
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33134&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey vs New Hampshire
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+DTSTAMP:20260722T174148Z
+UID:vcal_33135-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey vs New Hampshire\nTV: ESPN+
+ \nStreaming Video: http://www.goterriers.com/hockeyeast\nTickets: https://
+ am.ticketmaster.com/agganis/buy?filterType=2\n https://goterriers.com/cale
+ ndar.aspx?game_id=33135&amp\;sport_id=5
+LOCATION:Boston\, MA\, Agganis Arena
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33135&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey at New Hampshire
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+DTSTAMP:20260722T174148Z
+UID:vcal_33136-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey at New Hampshire\nTV: ESPN+
+ \nStreaming Video: http://www.goterriers.com/hockeyeast\n https://goterrie
+ rs.com/calendar.aspx?game_id=33136&amp\;sport_id=5
+LOCATION:Durham\, NH
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33136&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey at Boston College
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+DTSTAMP:20260722T174148Z
+UID:vcal_33131-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey at Boston College\nTV: ESPN
+ +\nStreaming Video: http://www.goterriers.com/hockeyeast\n https://goterri
+ ers.com/calendar.aspx?game_id=33131&amp\;sport_id=5
+LOCATION:Chestnut Hill\, MA
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33131&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey vs Boston College
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+DTSTAMP:20260722T174148Z
+UID:vcal_33137-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey vs Boston College\nTV: ESPN
+ +\nStreaming Video: http://www.goterriers.com/hockeyeast\nTickets: https:/
+ /am.ticketmaster.com/agganis/buy?filterType=2\n https://goterriers.com/cal
+ endar.aspx?game_id=33137&amp\;sport_id=5
+LOCATION:Boston\, MA\, Agganis Arena
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33137&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey vs Northeastern
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+DTSTAMP:20260722T174148Z
+UID:vcal_33138-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey vs Northeastern\nTV: ESPN+\
+ nStreaming Video: http://www.goterriers.com/hockeyeast\nTickets: https://a
+ m.ticketmaster.com/agganis/buy?filterType=2\n https://goterriers.com/calen
+ dar.aspx?game_id=33138&amp\;sport_id=5
+LOCATION:Boston\, MA\, Agganis Arena
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33138&amp;sport_id=5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston University Men's Ice Hockey vs UMass Lowell
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+DTSTAMP:20260722T174148Z
+UID:vcal_33139-goterriers.com
+DESCRIPTION:Boston University Men's Ice Hockey vs UMass Lowell\nTV: ESPN+\
+ nStreaming Video: http://www.goterriers.com/hockeyeast\nTickets: https://a
+ m.ticketmaster.com/agganis/buy?filterType=2\n https://goterriers.com/calen
+ dar.aspx?game_id=33139&amp\;sport_id=5
+LOCATION:Boston\, MA\, Agganis Arena
+PRIORITY:3
+URL:https://goterriers.com/calendar.aspx?game_id=33139&amp;sport_id=5
+END:VEVENT
+END:VCALENDAR

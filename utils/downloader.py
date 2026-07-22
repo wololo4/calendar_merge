@@ -1,8 +1,10 @@
+import os
 import requests
 import json
 from icalendar import Calendar
 
 from parsers.nhl import parse_nhl_json_to_calendar
+from utils.cache import load_cached_calendar, save_cached_calendar
 from parsers.chl_canada import parse_chl_json_to_calendar
 from parsers.chl_europe import parse_chl_europe_json_to_calendar
 from parsers.ufa import parse_ufa_json_to_calendar
@@ -13,6 +15,13 @@ from parsers.del_parser import parse_del_html
 def download_single_feed(feed_info):
     """Worker function to process one feed concurrently."""
     league, team_name, url, team_filter, parser = feed_info
+    cache_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), "calendars", "cache")
+    cache_key = f"{league}:{team_name}"
+    cached_calendar = load_cached_calendar(cache_dir, cache_key)
+    if cached_calendar is not None:
+        print(f"Using cached calendar for {league} - {team_name}")
+        return league, team_name, cached_calendar
+
     session = requests.Session()
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
@@ -42,7 +51,9 @@ def download_single_feed(feed_info):
             if url.endswith(".ics"):
                 try:
                     ics_data = response.content.strip()
-                    return league, team_name, Calendar.from_ical(ics_data)
+                    calendar = Calendar.from_ical(ics_data)
+                    save_cached_calendar(cache_dir, cache_key, calendar)
+                    return league, team_name, calendar
                 except Exception as e:
                     return league, team_name, None
 
@@ -56,7 +67,9 @@ def download_single_feed(feed_info):
             games_list = raw_json.get("games", [])
             preseason_games = [g for g in games_list if g.get("gameType") == 1]
 
-            return league, team_name, parse_nhl_json_to_calendar({"games": preseason_games})
+            calendar = parse_nhl_json_to_calendar({"games": preseason_games})
+            save_cached_calendar(cache_dir, cache_key, calendar)
+            return league, team_name, calendar
 
         if parser == "nhl":
             return league, team_name, None
@@ -66,7 +79,9 @@ def download_single_feed(feed_info):
         # ============================
         if league == "VHL":
             html = response.text
-            return league, team_name, parse_vhl_html(html, team_name)
+            calendar = parse_vhl_html(html, team_name)
+            save_cached_calendar(cache_dir, cache_key, calendar)
+            return league, team_name, calendar
 
         # ============================
         # LIIGA JSON
@@ -82,14 +97,18 @@ def download_single_feed(feed_info):
                 if home == team_id or away == team_id:
                     filtered.append(game)
 
-            return league, team_name, parse_liiga_json_to_calendar(filtered)
+            calendar = parse_liiga_json_to_calendar(filtered)
+            save_cached_calendar(cache_dir, cache_key, calendar)
+            return league, team_name, calendar
 
         # ============================
         # DEL HTML
         # ============================
         if parser == "del":
             html = response.text
-            return league, team_name, parse_del_html(html, team_name)
+            calendar = parse_del_html(html, team_name)
+            save_cached_calendar(cache_dir, cache_key, calendar)
+            return league, team_name, calendar
 
         # ============================
         # UFA JSON  (FIX)
@@ -97,7 +116,9 @@ def download_single_feed(feed_info):
         if parser == "ufa":
             try:
                 raw_json = response.json()
-                return league, team_name, parse_ufa_json_to_calendar(raw_json)
+                calendar = parse_ufa_json_to_calendar(raw_json)
+                save_cached_calendar(cache_dir, cache_key, calendar)
+                return league, team_name, calendar
             except Exception:
                 return league, team_name, None
 
@@ -109,10 +130,14 @@ def download_single_feed(feed_info):
 
             # CHL Europe JSON
             if raw_json.get("_type") == "Corebine.Core.Protocol.Response.Array":
-                return league, team_name, parse_chl_europe_json_to_calendar(raw_json, team_filter)
+                calendar = parse_chl_europe_json_to_calendar(raw_json, team_filter)
+                save_cached_calendar(cache_dir, cache_key, calendar)
+                return league, team_name, calendar
 
             # CHL Canada JSON
-            return league, team_name, parse_chl_json_to_calendar(raw_json)
+            calendar = parse_chl_json_to_calendar(raw_json)
+            save_cached_calendar(cache_dir, cache_key, calendar)
+            return league, team_name, calendar
 
         except (ValueError, TypeError, json.JSONDecodeError):
             # ICS fallback
@@ -120,7 +145,9 @@ def download_single_feed(feed_info):
             if not ics_data:
                 print(f"Skipping empty ICS for {league} - {team_name} (season not available yet)")
                 return league, team_name, None
-            return league, team_name, Calendar.from_ical(ics_data)
+            calendar = Calendar.from_ical(ics_data)
+            save_cached_calendar(cache_dir, cache_key, calendar)
+            return league, team_name, calendar
 
     except Exception as e:
         print(f"Error downloading {league} - {team_name}: {e}")

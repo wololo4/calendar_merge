@@ -4,6 +4,56 @@ PRODID:-//Hockey Calendar//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+SUMMARY:MTL @ TOR
+DTSTART:20260919T230000Z
+DTEND:20260920T013000Z
+UID:vDDDTypes(2026-09-19 23:00:00+00:00\, Parameters({}))-MTL @ TOR
+DESCRIPTION:Official NHL Ice Hockey Match\nLeague Stage: Pre-Season\nGame 
+ Center: https://www.nhl.com/gamecenter/mtl-vs-tor/2026/09/19/2026010006\nT
+ ickets: https://www.ticketmaster.ca/event/100064EDD6F5121D
+LOCATION:Scotiabank Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TOR @ MTL
+DTSTART:20260919T230000Z
+DTEND:20260920T013000Z
+UID:vDDDTypes(2026-09-19 23:00:00+00:00\, Parameters({}))-TOR @ MTL
+DESCRIPTION:Official NHL Ice Hockey Match\nLeague Stage: Pre-Season\nGame 
+ Center: https://www.nhl.com/gamecenter/tor-vs-mtl/2026/09/19/2026010007\nT
+ ickets: https://www.nhl.com/canadiens/tickets/
+LOCATION:Centre Bell
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OTT @ MTL
+DTSTART:20260921T230000Z
+DTEND:20260922T013000Z
+UID:vDDDTypes(2026-09-21 23:00:00+00:00\, Parameters({}))-OTT @ MTL
+DESCRIPTION:Official NHL Ice Hockey Match\nLeague Stage: Pre-Season\nGame 
+ Center: https://www.nhl.com/gamecenter/ott-vs-mtl/2026/09/21/2026010022\nT
+ ickets: https://www.nhl.com/canadiens/tickets/
+LOCATION:Colis√©e Vid√©otron
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MTL @ OTT
+DTSTART:20260926T160000Z
+DTEND:20260926T183000Z
+UID:vDDDTypes(2026-09-26 16:00:00+00:00\, Parameters({}))-MTL @ OTT
+DESCRIPTION:Official NHL Ice Hockey Match\nLeague Stage: Pre-Season\nGame 
+ Center: https://www.nhl.com/gamecenter/mtl-vs-ott/2026/09/26/2026010064\nT
+ ickets: https://www.nhl.com/senators/tickets/
+LOCATION:Canadian Tire Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OTT @ MTL
+DTSTART:20260926T230000Z
+DTEND:20260927T013000Z
+UID:vDDDTypes(2026-09-26 23:00:00+00:00\, Parameters({}))-OTT @ MTL
+DESCRIPTION:Official NHL Ice Hockey Match\nLeague Stage: Pre-Season\nGame 
+ Center: https://www.nhl.com/gamecenter/ott-vs-mtl/2026/09/26/2026010065\nT
+ ickets: https://www.nhl.com/canadiens/tickets/
+LOCATION:Centre Bell
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 Montreal Canadiens @ Toronto Maple Leafs
 DTSTART:20260929T230000Z
 DTEND:20260930T010000Z
@@ -676,53 +726,57 @@ UID:vDDDTypes(2027-04-10 23:00:00+00:00\, Parameters({}))-🏒 Montreal Ca
 LOCATION:Canadian Tire Centre
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MTL @ TOR
+SUMMARY:🏒 Montreal Canadiens @ Toronto Maple Leafs
 DTSTART:20260919T230000Z
-DTEND:20260920T013000Z
-UID:vDDDTypes(2026-09-19 23:00:00+00:00\, Parameters({}))-MTL @ TOR
-DESCRIPTION:Official NHL Ice Hockey Match\nLeague Stage: Pre-Season\nGame 
- Center: https://www.nhl.com/gamecenter/mtl-vs-tor/2026/09/19/2026010006\nT
- ickets: https://www.nhl.com/mapleleafs/tickets/
+DTEND:20260920T010000Z
+UID:vDDDTypes(2026-09-19 23:00:00+00:00\, Parameters({}))-🏒 Montreal Ca
+ nadiens @ Toronto Maple Leafs
+DESCRIPTION:Pre-Season\n\nGrab your Tickets Now 🎟️\nhttps://ecal.ai/f
+ /2lc63X/3FJgj\n\nGet the Gear 🛍️\nhttps://ecal.ai/f/2lc63Z/3FJgj\n\nL
+ atest News 📰\nhttps://ecal.ai/f/2lc642/3FJgj\n\nManage my ECAL\nhttps:/
+ /ecal.ai/f/2lc648/3FJgj\n\n
 LOCATION:Scotiabank Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TOR @ MTL
+SUMMARY:🏒 Toronto Maple Leafs @ Montreal Canadiens
 DTSTART:20260919T230000Z
-DTEND:20260920T013000Z
-UID:vDDDTypes(2026-09-19 23:00:00+00:00\, Parameters({}))-TOR @ MTL
-DESCRIPTION:Official NHL Ice Hockey Match\nLeague Stage: Pre-Season\nGame 
- Center: https://www.nhl.com/gamecenter/tor-vs-mtl/2026/09/19/2026010007\nT
- ickets: https://www.nhl.com/canadiens/tickets/
+DTEND:20260920T010000Z
+UID:vDDDTypes(2026-09-19 23:00:00+00:00\, Parameters({}))-🏒 Toronto Map
+ le Leafs @ Montreal Canadiens
+DESCRIPTION:Pre-Season\n\nManage my ECAL\nhttps://ecal.ai/f/2lc64f/3FJgj\n
+ \n
 LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OTT @ MTL
+SUMMARY:🏒 Ottawa Senators @ Montreal Canadiens
 DTSTART:20260921T230000Z
-DTEND:20260922T013000Z
-UID:vDDDTypes(2026-09-21 23:00:00+00:00\, Parameters({}))-OTT @ MTL
-DESCRIPTION:Official NHL Ice Hockey Match\nLeague Stage: Pre-Season\nGame 
- Center: https://www.nhl.com/gamecenter/ott-vs-mtl/2026/09/21/2026010022\nT
- ickets: https://www.nhl.com/canadiens/tickets/
+DTEND:20260922T010000Z
+UID:vDDDTypes(2026-09-21 23:00:00+00:00\, Parameters({}))-🏒 Ottawa Sena
+ tors @ Montreal Canadiens
+DESCRIPTION:Pre-Season\n\nManage my ECAL\nhttps://ecal.ai/f/2lc64l/3FJgj\n
+ \n
 LOCATION:Colis√©e Vid√©otron
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MTL @ OTT
+SUMMARY:🏒 Montreal Canadiens @ Ottawa Senators
 DTSTART:20260926T160000Z
-DTEND:20260926T183000Z
-UID:vDDDTypes(2026-09-26 16:00:00+00:00\, Parameters({}))-MTL @ OTT
-DESCRIPTION:Official NHL Ice Hockey Match\nLeague Stage: Pre-Season\nGame 
- Center: https://www.nhl.com/gamecenter/mtl-vs-ott/2026/09/26/2026010064\nT
- ickets: https://www.nhl.com/senators/tickets/
+DTEND:20260926T180000Z
+UID:vDDDTypes(2026-09-26 16:00:00+00:00\, Parameters({}))-🏒 Montreal Ca
+ nadiens @ Ottawa Senators
+DESCRIPTION:Pre-Season\n\nGrab your Tickets Now 🎟️\nhttps://ecal.ai/f
+ /2lc64p/3FJgj\n\nGet the Gear 🛍️\nhttps://ecal.ai/f/2lc64q/3FJgj\n\nL
+ atest News 📰\nhttps://ecal.ai/f/2lc64r/3FJgj\n\nManage my ECAL\nhttps:/
+ /ecal.ai/f/2lc64v/3FJgj\n\n
 LOCATION:Canadian Tire Centre
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OTT @ MTL
+SUMMARY:🏒 Ottawa Senators @ Montreal Canadiens
 DTSTART:20260926T230000Z
-DTEND:20260927T013000Z
-UID:vDDDTypes(2026-09-26 23:00:00+00:00\, Parameters({}))-OTT @ MTL
-DESCRIPTION:Official NHL Ice Hockey Match\nLeague Stage: Pre-Season\nGame 
- Center: https://www.nhl.com/gamecenter/ott-vs-mtl/2026/09/26/2026010065\nT
- ickets: https://www.nhl.com/canadiens/tickets/
+DTEND:20260927T010000Z
+UID:vDDDTypes(2026-09-26 23:00:00+00:00\, Parameters({}))-🏒 Ottawa Sena
+ tors @ Montreal Canadiens
+DESCRIPTION:Pre-Season\n\nManage my ECAL\nhttps://ecal.ai/f/2lc64y/3FJgj\n
+ \n
 LOCATION:Centre Bell
 END:VEVENT
 END:VCALENDAR
