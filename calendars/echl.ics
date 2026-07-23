@@ -7,8 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Trenton Ironhawks @ Trois-Rivières Lions
 DTSTART;TZID="UTC-04:00":20261016T190000
 DTEND;TZID="UTC-04:00":20261016T220000
-UID:vDDDTypes(2026-10-16 19:00:00-04:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trenton Ironhawks @ Trois-Rivières Lions
+UID:https://lions3r.com/fr/matchs/2026/10/16/trenton-ironhawks
 DESCRIPTION:Trenton Ironhawks at Trois-Rivières Lions
 LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
@@ -16,8 +15,7 @@ BEGIN:VEVENT
 SUMMARY:Trois-Rivières Lions @ Worcester Railers
 DTSTART;TZID="UTC-04:00":20261018T150500
 DTEND;TZID="UTC-04:00":20261018T180500
-UID:vDDDTypes(2026-10-18 15:05:00-04:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trois-Rivières Lions @ Worcester Railers
+UID:https://lions3r.com/fr/matchs/2026/10/18/worcester-railers
 DESCRIPTION:Trois-Rivières Lions at Worcester Railers
 LOCATION:DCU Center\, Worcester\, Massachusetts
 END:VEVENT
@@ -25,8 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Trois-Rivières Lions @ Norfolk Admirals
 DTSTART;TZID="UTC-04:00":20261023T190500
 DTEND;TZID="UTC-04:00":20261023T220500
-UID:vDDDTypes(2026-10-23 19:05:00-04:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trois-Rivières Lions @ Norfolk Admirals
+UID:https://lions3r.com/fr/matchs/2026/10/23/norfolk-admirals
 DESCRIPTION:Trois-Rivières Lions at Norfolk Admirals
 LOCATION:Norfolk Scope\, Norfolk\, Virginia
 END:VEVENT
@@ -34,8 +31,7 @@ BEGIN:VEVENT
 SUMMARY:Trois-Rivières Lions @ Norfolk Admirals
 DTSTART;TZID="UTC-04:00":20261024T190500
 DTEND;TZID="UTC-04:00":20261024T220500
-UID:vDDDTypes(2026-10-24 19:05:00-04:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trois-Rivières Lions @ Norfolk Admirals
+UID:https://lions3r.com/fr/matchs/2026/10/24/norfolk-admirals
 DESCRIPTION:Trois-Rivières Lions at Norfolk Admirals
 LOCATION:Norfolk Scope\, Norfolk\, Virginia
 END:VEVENT
@@ -43,8 +39,7 @@ BEGIN:VEVENT
 SUMMARY:Trois-Rivières Lions @ Norfolk Admirals
 DTSTART;TZID="UTC-04:00":20261025T150500
 DTEND;TZID="UTC-04:00":20261025T180500
-UID:vDDDTypes(2026-10-25 15:05:00-04:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trois-Rivières Lions @ Norfolk Admirals
+UID:https://lions3r.com/fr/matchs/2026/10/25/norfolk-admirals
 DESCRIPTION:Trois-Rivières Lions at Norfolk Admirals
 LOCATION:Norfolk Scope\, Norfolk\, Virginia
 END:VEVENT
@@ -52,8 +47,7 @@ BEGIN:VEVENT
 SUMMARY:Maine Mariners @ Trois-Rivières Lions
 DTSTART;TZID="UTC-04:00":20261030T190000
 DTEND;TZID="UTC-04:00":20261030T220000
-UID:vDDDTypes(2026-10-30 19:00:00-04:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Maine Mariners @ Trois-Rivières Lions
+UID:https://lions3r.com/fr/matchs/2026/10/30/maine-mariners
 DESCRIPTION:Maine Mariners at Trois-Rivières Lions
 LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
@@ -61,8 +55,7 @@ BEGIN:VEVENT
 SUMMARY:Maine Mariners @ Trois-Rivières Lions
 DTSTART;TZID="UTC-04:00":20261031T130000
 DTEND;TZID="UTC-04:00":20261031T160000
-UID:vDDDTypes(2026-10-31 13:00:00-04:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Maine Mariners @ Trois-Rivières Lions
+UID:https://lions3r.com/fr/matchs/2026/10/31/maine-mariners
 DESCRIPTION:Maine Mariners at Trois-Rivières Lions
 LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
@@ -70,8 +63,7 @@ BEGIN:VEVENT
 SUMMARY:Adirondack Thunder @ Trois-Rivières Lions
 DTSTART;TZID="UTC-05:00":20261106T190000
 DTEND;TZID="UTC-05:00":20261106T220000
-UID:vDDDTypes(2026-11-06 19:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Adirondack Thunder @ Trois-Rivières Lions
+UID:https://lions3r.com/fr/matchs/2026/11/06/adirondack-thunder
 DESCRIPTION:Adirondack Thunder at Trois-Rivières Lions
 LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
@@ -79,8 +71,7 @@ BEGIN:VEVENT
 SUMMARY:Adirondack Thunder @ Trois-Rivières Lions
 DTSTART;TZID="UTC-05:00":20261107T150000
 DTEND;TZID="UTC-05:00":20261107T180000
-UID:vDDDTypes(2026-11-07 15:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Adirondack Thunder @ Trois-Rivières Lions
+UID:https://lions3r.com/fr/matchs/2026/11/07/adirondack-thunder
 DESCRIPTION:Adirondack Thunder at Trois-Rivières Lions
 LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
@@ -88,8 +79,7 @@ BEGIN:VEVENT
 SUMMARY:Trois-Rivières Lions @ Savannah Ghost Pirates
 DTSTART;TZID="UTC-05:00":20261112T190000
 DTEND;TZID="UTC-05:00":20261112T220000
-UID:vDDDTypes(2026-11-12 19:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trois-Rivières Lions @ Savannah Ghost Pirates
+UID:https://lions3r.com/fr/matchs/2026/11/12/savannah-ghost-pirates
 DESCRIPTION:Trois-Rivières Lions at Savannah Ghost Pirates
 LOCATION:Enmarket Arena\, Savannah\, Georgia
 END:VEVENT
@@ -97,8 +87,7 @@ BEGIN:VEVENT
 SUMMARY:Trois-Rivières Lions @ Atlanta Gladiators
 DTSTART;TZID="UTC-05:00":20261113T191000
 DTEND;TZID="UTC-05:00":20261113T221000
-UID:vDDDTypes(2026-11-13 19:10:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trois-Rivières Lions @ Atlanta Gladiators
+UID:https://lions3r.com/fr/matchs/2026/11/13/atlanta-gladiators
 DESCRIPTION:Trois-Rivières Lions at Atlanta Gladiators
 LOCATION:Gas South Arena\, Duluth\, Georgia
 END:VEVENT
@@ -106,8 +95,7 @@ BEGIN:VEVENT
 SUMMARY:Trois-Rivières Lions @ Atlanta Gladiators
 DTSTART;TZID="UTC-05:00":20261115T151000
 DTEND;TZID="UTC-05:00":20261115T181000
-UID:vDDDTypes(2026-11-15 15:10:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trois-Rivières Lions @ Atlanta Gladiators
+UID:https://lions3r.com/fr/matchs/2026/11/15/atlanta-gladiators
 DESCRIPTION:Trois-Rivières Lions at Atlanta Gladiators
 LOCATION:Gas South Arena\, Duluth\, Georgia
 END:VEVENT
@@ -115,8 +103,7 @@ BEGIN:VEVENT
 SUMMARY:Adirondack Thunder @ Trois-Rivières Lions
 DTSTART;TZID="UTC-05:00":20261120T190000
 DTEND;TZID="UTC-05:00":20261120T220000
-UID:vDDDTypes(2026-11-20 19:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Adirondack Thunder @ Trois-Rivières Lions
+UID:https://lions3r.com/fr/matchs/2026/11/20/adirondack-thunder
 DESCRIPTION:Adirondack Thunder at Trois-Rivières Lions
 LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
@@ -124,8 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Adirondack Thunder @ Trois-Rivières Lions
 DTSTART;TZID="UTC-05:00":20261121T150000
 DTEND;TZID="UTC-05:00":20261121T180000
-UID:vDDDTypes(2026-11-21 15:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Adirondack Thunder @ Trois-Rivières Lions
+UID:https://lions3r.com/fr/matchs/2026/11/21/adirondack-thunder
 DESCRIPTION:Adirondack Thunder at Trois-Rivières Lions
 LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
@@ -133,8 +119,7 @@ BEGIN:VEVENT
 SUMMARY:Trois-Rivières Lions @ Adirondack Thunder
 DTSTART;TZID="UTC-05:00":20261125T190000
 DTEND;TZID="UTC-05:00":20261125T220000
-UID:vDDDTypes(2026-11-25 19:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trois-Rivières Lions @ Adirondack Thunder
+UID:https://lions3r.com/fr/matchs/2026/11/25/adirondack-thunder
 DESCRIPTION:Trois-Rivières Lions at Adirondack Thunder
 LOCATION:Harding Mazzotti Arena\, Glens Falls\, New York
 END:VEVENT
@@ -142,8 +127,7 @@ BEGIN:VEVENT
 SUMMARY:Trois-Rivières Lions @ Trenton Ironhawks
 DTSTART;TZID="UTC-05:00":20261127T190000
 DTEND;TZID="UTC-05:00":20261127T220000
-UID:vDDDTypes(2026-11-27 19:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trois-Rivières Lions @ Trenton Ironhawks
+UID:https://lions3r.com/fr/matchs/2026/11/27/trenton-ironhawks
 DESCRIPTION:Trois-Rivières Lions at Trenton Ironhawks
 LOCATION:CURE Insurance Arena\, Trenton\, New Jersey
 END:VEVENT
@@ -151,8 +135,7 @@ BEGIN:VEVENT
 SUMMARY:Trois-Rivières Lions @ Reading Royals
 DTSTART;TZID="UTC-05:00":20261128T190000
 DTEND;TZID="UTC-05:00":20261128T220000
-UID:vDDDTypes(2026-11-28 19:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trois-Rivières Lions @ Reading Royals
+UID:https://lions3r.com/fr/matchs/2026/11/28/reading-royals
 DESCRIPTION:Trois-Rivières Lions at Reading Royals
 LOCATION:Santander Arena\, Reading\, Pennsylvania
 END:VEVENT
@@ -160,8 +143,7 @@ BEGIN:VEVENT
 SUMMARY:Greensboro Gargoyles @ Trois-Rivières Lions
 DTSTART;TZID="UTC-05:00":20261204T190000
 DTEND;TZID="UTC-05:00":20261204T220000
-UID:vDDDTypes(2026-12-04 19:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Greensboro Gargoyles @ Trois-Rivières Lions
+UID:https://lions3r.com/fr/matchs/2026/12/04/greensboro-gargoyles
 DESCRIPTION:Greensboro Gargoyles at Trois-Rivières Lions
 LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
@@ -169,8 +151,7 @@ BEGIN:VEVENT
 SUMMARY:Greensboro Gargoyles @ Trois-Rivières Lions
 DTSTART;TZID="UTC-05:00":20261205T150000
 DTEND;TZID="UTC-05:00":20261205T180000
-UID:vDDDTypes(2026-12-05 15:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Greensboro Gargoyles @ Trois-Rivières Lions
+UID:https://lions3r.com/fr/matchs/2026/12/05/greensboro-gargoyles
 DESCRIPTION:Greensboro Gargoyles at Trois-Rivières Lions
 LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
@@ -178,8 +159,7 @@ BEGIN:VEVENT
 SUMMARY:Greensboro Gargoyles @ Trois-Rivières Lions
 DTSTART;TZID="UTC-05:00":20261206T130000
 DTEND;TZID="UTC-05:00":20261206T160000
-UID:vDDDTypes(2026-12-06 13:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Greensboro Gargoyles @ Trois-Rivières Lions
+UID:https://lions3r.com/fr/matchs/2026/12/06/greensboro-gargoyles
 DESCRIPTION:Greensboro Gargoyles at Trois-Rivières Lions
 LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
@@ -187,8 +167,7 @@ BEGIN:VEVENT
 SUMMARY:Trois-Rivières Lions @ Trenton Ironhawks
 DTSTART;TZID="UTC-05:00":20261210T190000
 DTEND;TZID="UTC-05:00":20261210T220000
-UID:vDDDTypes(2026-12-10 19:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trois-Rivières Lions @ Trenton Ironhawks
+UID:https://lions3r.com/fr/matchs/2026/12/10/trenton-ironhawks
 DESCRIPTION:Trois-Rivières Lions at Trenton Ironhawks
 LOCATION:CURE Insurance Arena\, Trenton\, New Jersey
 END:VEVENT
@@ -196,8 +175,7 @@ BEGIN:VEVENT
 SUMMARY:Trois-Rivières Lions @ Trenton Ironhawks
 DTSTART;TZID="UTC-05:00":20261211T190000
 DTEND;TZID="UTC-05:00":20261211T220000
-UID:vDDDTypes(2026-12-11 19:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trois-Rivières Lions @ Trenton Ironhawks
+UID:https://lions3r.com/fr/matchs/2026/12/11/trenton-ironhawks
 DESCRIPTION:Trois-Rivières Lions at Trenton Ironhawks
 LOCATION:CURE Insurance Arena\, Trenton\, New Jersey
 END:VEVENT
@@ -205,8 +183,7 @@ BEGIN:VEVENT
 SUMMARY:Trois-Rivières Lions @ Reading Royals
 DTSTART;TZID="UTC-05:00":20261212T190000
 DTEND;TZID="UTC-05:00":20261212T220000
-UID:vDDDTypes(2026-12-12 19:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trois-Rivières Lions @ Reading Royals
+UID:https://lions3r.com/fr/matchs/2026/12/12/reading-royals
 DESCRIPTION:Trois-Rivières Lions at Reading Royals
 LOCATION:Santander Arena\, Reading\, Pennsylvania
 END:VEVENT
@@ -214,8 +191,7 @@ BEGIN:VEVENT
 SUMMARY:Norfolk Admirals @ Trois-Rivières Lions
 DTSTART;TZID="UTC-05:00":20261216T190000
 DTEND;TZID="UTC-05:00":20261216T220000
-UID:vDDDTypes(2026-12-16 19:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Norfolk Admirals @ Trois-Rivières Lions
+UID:https://lions3r.com/fr/matchs/2026/12/16/norfolk-admirals
 DESCRIPTION:Norfolk Admirals at Trois-Rivières Lions
 LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
@@ -223,8 +199,7 @@ BEGIN:VEVENT
 SUMMARY:Norfolk Admirals @ Trois-Rivières Lions
 DTSTART;TZID="UTC-05:00":20261218T190000
 DTEND;TZID="UTC-05:00":20261218T220000
-UID:vDDDTypes(2026-12-18 19:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Norfolk Admirals @ Trois-Rivières Lions
+UID:https://lions3r.com/fr/matchs/2026/12/18/norfolk-admirals
 DESCRIPTION:Norfolk Admirals at Trois-Rivières Lions
 LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
@@ -232,8 +207,7 @@ BEGIN:VEVENT
 SUMMARY:Norfolk Admirals @ Trois-Rivières Lions
 DTSTART;TZID="UTC-05:00":20261219T150000
 DTEND;TZID="UTC-05:00":20261219T180000
-UID:vDDDTypes(2026-12-19 15:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Norfolk Admirals @ Trois-Rivières Lions
+UID:https://lions3r.com/fr/matchs/2026/12/19/norfolk-admirals
 DESCRIPTION:Norfolk Admirals at Trois-Rivières Lions
 LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
@@ -241,8 +215,7 @@ BEGIN:VEVENT
 SUMMARY:Reading Royals @ Trois-Rivières Lions
 DTSTART;TZID="UTC-05:00":20261227T150000
 DTEND;TZID="UTC-05:00":20261227T180000
-UID:vDDDTypes(2026-12-27 15:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Reading Royals @ Trois-Rivières Lions
+UID:https://lions3r.com/fr/matchs/2026/12/27/reading-royals
 DESCRIPTION:Reading Royals at Trois-Rivières Lions
 LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
@@ -250,8 +223,7 @@ BEGIN:VEVENT
 SUMMARY:Reading Royals @ Trois-Rivières Lions
 DTSTART;TZID="UTC-05:00":20261228T190000
 DTEND;TZID="UTC-05:00":20261228T220000
-UID:vDDDTypes(2026-12-28 19:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Reading Royals @ Trois-Rivières Lions
+UID:https://lions3r.com/fr/matchs/2026/12/28/reading-royals
 DESCRIPTION:Reading Royals at Trois-Rivières Lions
 LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
@@ -259,8 +231,7 @@ BEGIN:VEVENT
 SUMMARY:Trois-Rivières Lions @ Worcester Railers
 DTSTART;TZID="UTC-05:00":20270101T170500
 DTEND;TZID="UTC-05:00":20270101T200500
-UID:vDDDTypes(2027-01-01 17:05:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trois-Rivières Lions @ Worcester Railers
+UID:https://lions3r.com/fr/matchs/2027/01/01/worcester-railers
 DESCRIPTION:Trois-Rivières Lions at Worcester Railers
 LOCATION:DCU Center\, Worcester\, Massachusetts
 END:VEVENT
@@ -268,8 +239,7 @@ BEGIN:VEVENT
 SUMMARY:Trois-Rivières Lions @ Trenton Ironhawks
 DTSTART;TZID="UTC-05:00":20270102T180000
 DTEND;TZID="UTC-05:00":20270102T210000
-UID:vDDDTypes(2027-01-02 18:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trois-Rivières Lions @ Trenton Ironhawks
+UID:https://lions3r.com/fr/matchs/2027/01/02/trenton-ironhawks
 DESCRIPTION:Trois-Rivières Lions at Trenton Ironhawks
 LOCATION:CURE Insurance Arena\, Trenton\, New Jersey
 END:VEVENT
@@ -277,8 +247,7 @@ BEGIN:VEVENT
 SUMMARY:Trois-Rivières Lions @ Trenton Ironhawks
 DTSTART;TZID="UTC-05:00":20270103T150000
 DTEND;TZID="UTC-05:00":20270103T180000
-UID:vDDDTypes(2027-01-03 15:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trois-Rivières Lions @ Trenton Ironhawks
+UID:https://lions3r.com/fr/matchs/2027/01/03/trenton-ironhawks
 DESCRIPTION:Trois-Rivières Lions at Trenton Ironhawks
 LOCATION:CURE Insurance Arena\, Trenton\, New Jersey
 END:VEVENT
@@ -286,8 +255,7 @@ BEGIN:VEVENT
 SUMMARY:Adirondack Thunder @ Trois-Rivières Lions
 DTSTART;TZID="UTC-05:00":20270108T190000
 DTEND;TZID="UTC-05:00":20270108T220000
-UID:vDDDTypes(2027-01-08 19:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Adirondack Thunder @ Trois-Rivières Lions
+UID:https://lions3r.com/fr/matchs/2027/01/08/adirondack-thunder
 DESCRIPTION:Adirondack Thunder at Trois-Rivières Lions
 LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
@@ -295,8 +263,7 @@ BEGIN:VEVENT
 SUMMARY:Trois-Rivières Lions @ Adirondack Thunder
 DTSTART;TZID="UTC-05:00":20270109T190000
 DTEND;TZID="UTC-05:00":20270109T220000
-UID:vDDDTypes(2027-01-09 19:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trois-Rivières Lions @ Adirondack Thunder
+UID:https://lions3r.com/fr/matchs/2027/01/09/adirondack-thunder
 DESCRIPTION:Trois-Rivières Lions at Adirondack Thunder
 LOCATION:Harding Mazzotti Arena\, Glens Falls\, New York
 END:VEVENT
@@ -304,8 +271,7 @@ BEGIN:VEVENT
 SUMMARY:Trois-Rivières Lions @ Adirondack Thunder
 DTSTART;TZID="UTC-05:00":20270110T150000
 DTEND;TZID="UTC-05:00":20270110T180000
-UID:vDDDTypes(2027-01-10 15:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trois-Rivières Lions @ Adirondack Thunder
+UID:https://lions3r.com/fr/matchs/2027/01/10/adirondack-thunder
 DESCRIPTION:Trois-Rivières Lions at Adirondack Thunder
 LOCATION:Harding Mazzotti Arena\, Glens Falls\, New York
 END:VEVENT
@@ -313,8 +279,7 @@ BEGIN:VEVENT
 SUMMARY:Trois-Rivières Lions @ Reading Royals
 DTSTART;TZID="UTC-05:00":20270115T190000
 DTEND;TZID="UTC-05:00":20270115T220000
-UID:vDDDTypes(2027-01-15 19:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trois-Rivières Lions @ Reading Royals
+UID:https://lions3r.com/fr/matchs/2027/01/15/reading-royals
 DESCRIPTION:Trois-Rivières Lions at Reading Royals
 LOCATION:Santander Arena\, Reading\, Pennsylvania
 END:VEVENT
@@ -322,8 +287,7 @@ BEGIN:VEVENT
 SUMMARY:Trois-Rivières Lions @ Reading Royals
 DTSTART;TZID="UTC-05:00":20270116T190000
 DTEND;TZID="UTC-05:00":20270116T220000
-UID:vDDDTypes(2027-01-16 19:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trois-Rivières Lions @ Reading Royals
+UID:https://lions3r.com/fr/matchs/2027/01/16/reading-royals
 DESCRIPTION:Trois-Rivières Lions at Reading Royals
 LOCATION:Santander Arena\, Reading\, Pennsylvania
 END:VEVENT
@@ -331,8 +295,7 @@ BEGIN:VEVENT
 SUMMARY:Fort Wayne Komets @ Trois-Rivières Lions
 DTSTART;TZID="UTC-05:00":20270120T190000
 DTEND;TZID="UTC-05:00":20270120T220000
-UID:vDDDTypes(2027-01-20 19:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Fort Wayne Komets @ Trois-Rivières Lions
+UID:https://lions3r.com/fr/matchs/2027/01/20/fort-wayne-komets
 DESCRIPTION:Fort Wayne Komets at Trois-Rivières Lions
 LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
@@ -340,8 +303,7 @@ BEGIN:VEVENT
 SUMMARY:Fort Wayne Komets @ Trois-Rivières Lions
 DTSTART;TZID="UTC-05:00":20270122T190000
 DTEND;TZID="UTC-05:00":20270122T220000
-UID:vDDDTypes(2027-01-22 19:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Fort Wayne Komets @ Trois-Rivières Lions
+UID:https://lions3r.com/fr/matchs/2027/01/22/fort-wayne-komets
 DESCRIPTION:Fort Wayne Komets at Trois-Rivières Lions
 LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
@@ -349,8 +311,7 @@ BEGIN:VEVENT
 SUMMARY:Fort Wayne Komets @ Trois-Rivières Lions
 DTSTART;TZID="UTC-05:00":20270123T150000
 DTEND;TZID="UTC-05:00":20270123T180000
-UID:vDDDTypes(2027-01-23 15:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Fort Wayne Komets @ Trois-Rivières Lions
+UID:https://lions3r.com/fr/matchs/2027/01/23/fort-wayne-komets
 DESCRIPTION:Fort Wayne Komets at Trois-Rivières Lions
 LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
@@ -358,8 +319,7 @@ BEGIN:VEVENT
 SUMMARY:Trois-Rivières Lions @ Fort Wayne Komets
 DTSTART;TZID="UTC-05:00":20270129T193500
 DTEND;TZID="UTC-05:00":20270129T223500
-UID:vDDDTypes(2027-01-29 19:35:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trois-Rivières Lions @ Fort Wayne Komets
+UID:https://lions3r.com/fr/matchs/2027/01/29/fort-wayne-komets
 DESCRIPTION:Trois-Rivières Lions at Fort Wayne Komets
 LOCATION:Memorial Coliseum\, Fort Wayne\, Indiana
 END:VEVENT
@@ -367,8 +327,7 @@ BEGIN:VEVENT
 SUMMARY:Trois-Rivières Lions @ Fort Wayne Komets
 DTSTART;TZID="UTC-05:00":20270130T193500
 DTEND;TZID="UTC-05:00":20270130T223500
-UID:vDDDTypes(2027-01-30 19:35:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trois-Rivières Lions @ Fort Wayne Komets
+UID:https://lions3r.com/fr/matchs/2027/01/30/fort-wayne-komets
 DESCRIPTION:Trois-Rivières Lions at Fort Wayne Komets
 LOCATION:Memorial Coliseum\, Fort Wayne\, Indiana
 END:VEVENT
@@ -376,8 +335,7 @@ BEGIN:VEVENT
 SUMMARY:Trois-Rivières Lions @ Fort Wayne Komets
 DTSTART;TZID="UTC-05:00":20270131T170500
 DTEND;TZID="UTC-05:00":20270131T200500
-UID:vDDDTypes(2027-01-31 17:05:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trois-Rivières Lions @ Fort Wayne Komets
+UID:https://lions3r.com/fr/matchs/2027/01/31/fort-wayne-komets
 DESCRIPTION:Trois-Rivières Lions at Fort Wayne Komets
 LOCATION:Memorial Coliseum\, Fort Wayne\, Indiana
 END:VEVENT
@@ -385,8 +343,7 @@ BEGIN:VEVENT
 SUMMARY:Adirondack Thunder @ Trois-Rivières Lions
 DTSTART;TZID="UTC-05:00":20270203T190000
 DTEND;TZID="UTC-05:00":20270203T220000
-UID:vDDDTypes(2027-02-03 19:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Adirondack Thunder @ Trois-Rivières Lions
+UID:https://lions3r.com/fr/matchs/2027/02/03/adirondack-thunder
 DESCRIPTION:Adirondack Thunder at Trois-Rivières Lions
 LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
@@ -394,8 +351,7 @@ BEGIN:VEVENT
 SUMMARY:Norfolk Admirals @ Trois-Rivières Lions
 DTSTART;TZID="UTC-05:00":20270205T190000
 DTEND;TZID="UTC-05:00":20270205T220000
-UID:vDDDTypes(2027-02-05 19:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Norfolk Admirals @ Trois-Rivières Lions
+UID:https://lions3r.com/fr/matchs/2027/02/05/norfolk-admirals
 DESCRIPTION:Norfolk Admirals at Trois-Rivières Lions
 LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
@@ -403,8 +359,7 @@ BEGIN:VEVENT
 SUMMARY:Norfolk Admirals @ Trois-Rivières Lions
 DTSTART;TZID="UTC-05:00":20270206T150000
 DTEND;TZID="UTC-05:00":20270206T180000
-UID:vDDDTypes(2027-02-06 15:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Norfolk Admirals @ Trois-Rivières Lions
+UID:https://lions3r.com/fr/matchs/2027/02/06/norfolk-admirals
 DESCRIPTION:Norfolk Admirals at Trois-Rivières Lions
 LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
@@ -412,8 +367,7 @@ BEGIN:VEVENT
 SUMMARY:Trois-Rivières Lions @ Maine Mariners
 DTSTART;TZID="UTC-05:00":20270207T150000
 DTEND;TZID="UTC-05:00":20270207T180000
-UID:vDDDTypes(2027-02-07 15:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trois-Rivières Lions @ Maine Mariners
+UID:https://lions3r.com/fr/matchs/2027/02/07/maine-mariners
 DESCRIPTION:Trois-Rivières Lions at Maine Mariners
 LOCATION:Cross Insurance Arena\, Portland\, Maine
 END:VEVENT
@@ -421,8 +375,7 @@ BEGIN:VEVENT
 SUMMARY:Trois-Rivières Lions @ Cincinnati Cyclones
 DTSTART;TZID="UTC-05:00":20270210T190500
 DTEND;TZID="UTC-05:00":20270210T220500
-UID:vDDDTypes(2027-02-10 19:05:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trois-Rivières Lions @ Cincinnati Cyclones
+UID:https://lions3r.com/fr/matchs/2027/02/10/cincinnati-cyclones
 DESCRIPTION:Trois-Rivières Lions at Cincinnati Cyclones
 LOCATION:Heritage Bank Center\, Cincinnati\, Ohio
 END:VEVENT
@@ -430,8 +383,7 @@ BEGIN:VEVENT
 SUMMARY:Trois-Rivières Lions @ Bloomington Bison
 DTSTART;TZID="UTC-06:00":20270212T190000
 DTEND;TZID="UTC-06:00":20270212T220000
-UID:vDDDTypes(2027-02-12 19:00:00-06:00\, Parameters({'TZID': 'Canada/Cent
- ral'}))-Trois-Rivières Lions @ Bloomington Bison
+UID:https://lions3r.com/fr/matchs/2027/02/12/bloomington-bison
 DESCRIPTION:Trois-Rivières Lions at Bloomington Bison
 LOCATION:Grossinger Motors Arena\, Bloomington\, Illinois
 END:VEVENT
@@ -439,8 +391,7 @@ BEGIN:VEVENT
 SUMMARY:Trois-Rivières Lions @ Bloomington Bison
 DTSTART;TZID="UTC-06:00":20270213T190000
 DTEND;TZID="UTC-06:00":20270213T220000
-UID:vDDDTypes(2027-02-13 19:00:00-06:00\, Parameters({'TZID': 'Canada/Cent
- ral'}))-Trois-Rivières Lions @ Bloomington Bison
+UID:https://lions3r.com/fr/matchs/2027/02/13/bloomington-bison
 DESCRIPTION:Trois-Rivières Lions at Bloomington Bison
 LOCATION:Grossinger Motors Arena\, Bloomington\, Illinois
 END:VEVENT
@@ -448,8 +399,7 @@ BEGIN:VEVENT
 SUMMARY:Maine Mariners @ Trois-Rivières Lions
 DTSTART;TZID="UTC-05:00":20270219T190000
 DTEND;TZID="UTC-05:00":20270219T220000
-UID:vDDDTypes(2027-02-19 19:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Maine Mariners @ Trois-Rivières Lions
+UID:https://lions3r.com/fr/matchs/2027/02/19/maine-mariners
 DESCRIPTION:Maine Mariners at Trois-Rivières Lions
 LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
@@ -457,8 +407,7 @@ BEGIN:VEVENT
 SUMMARY:Maine Mariners @ Trois-Rivières Lions
 DTSTART;TZID="UTC-05:00":20270220T150000
 DTEND;TZID="UTC-05:00":20270220T180000
-UID:vDDDTypes(2027-02-20 15:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Maine Mariners @ Trois-Rivières Lions
+UID:https://lions3r.com/fr/matchs/2027/02/20/maine-mariners
 DESCRIPTION:Maine Mariners at Trois-Rivières Lions
 LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
@@ -466,8 +415,7 @@ BEGIN:VEVENT
 SUMMARY:Trois-Rivières Lions @ Maine Mariners
 DTSTART;TZID="UTC-05:00":20270221T150000
 DTEND;TZID="UTC-05:00":20270221T180000
-UID:vDDDTypes(2027-02-21 15:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trois-Rivières Lions @ Maine Mariners
+UID:https://lions3r.com/fr/matchs/2027/02/21/maine-mariners
 DESCRIPTION:Trois-Rivières Lions at Maine Mariners
 LOCATION:Cross Insurance Arena\, Portland\, Maine
 END:VEVENT
@@ -475,8 +423,7 @@ BEGIN:VEVENT
 SUMMARY:Worcester Railers @ Trois-Rivières Lions
 DTSTART;TZID="UTC-05:00":20270226T190000
 DTEND;TZID="UTC-05:00":20270226T220000
-UID:vDDDTypes(2027-02-26 19:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Worcester Railers @ Trois-Rivières Lions
+UID:https://lions3r.com/fr/matchs/2027/02/26/worcester-railers
 DESCRIPTION:Worcester Railers at Trois-Rivières Lions
 LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
@@ -484,8 +431,7 @@ BEGIN:VEVENT
 SUMMARY:Worcester Railers @ Trois-Rivières Lions
 DTSTART;TZID="UTC-05:00":20270227T150000
 DTEND;TZID="UTC-05:00":20270227T180000
-UID:vDDDTypes(2027-02-27 15:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Worcester Railers @ Trois-Rivières Lions
+UID:https://lions3r.com/fr/matchs/2027/02/27/worcester-railers
 DESCRIPTION:Worcester Railers at Trois-Rivières Lions
 LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
@@ -493,8 +439,7 @@ BEGIN:VEVENT
 SUMMARY:Worcester Railers @ Trois-Rivières Lions
 DTSTART;TZID="UTC-05:00":20270228T130000
 DTEND;TZID="UTC-05:00":20270228T160000
-UID:vDDDTypes(2027-02-28 13:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Worcester Railers @ Trois-Rivières Lions
+UID:https://lions3r.com/fr/matchs/2027/02/28/worcester-railers
 DESCRIPTION:Worcester Railers at Trois-Rivières Lions
 LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
@@ -502,8 +447,7 @@ BEGIN:VEVENT
 SUMMARY:Greensboro Gargoyles @ Trois-Rivières Lions
 DTSTART;TZID="UTC-05:00":20270305T190000
 DTEND;TZID="UTC-05:00":20270305T220000
-UID:vDDDTypes(2027-03-05 19:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Greensboro Gargoyles @ Trois-Rivières Lions
+UID:https://lions3r.com/fr/matchs/2027/03/05/greensboro-gargoyles
 DESCRIPTION:Greensboro Gargoyles at Trois-Rivières Lions
 LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
@@ -511,8 +455,7 @@ BEGIN:VEVENT
 SUMMARY:Greensboro Gargoyles @ Trois-Rivières Lions
 DTSTART;TZID="UTC-05:00":20270306T150000
 DTEND;TZID="UTC-05:00":20270306T180000
-UID:vDDDTypes(2027-03-06 15:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Greensboro Gargoyles @ Trois-Rivières Lions
+UID:https://lions3r.com/fr/matchs/2027/03/06/greensboro-gargoyles
 DESCRIPTION:Greensboro Gargoyles at Trois-Rivières Lions
 LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
@@ -520,8 +463,7 @@ BEGIN:VEVENT
 SUMMARY:Greensboro Gargoyles @ Trois-Rivières Lions
 DTSTART;TZID="UTC-05:00":20270307T130000
 DTEND;TZID="UTC-05:00":20270307T160000
-UID:vDDDTypes(2027-03-07 13:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Greensboro Gargoyles @ Trois-Rivières Lions
+UID:https://lions3r.com/fr/matchs/2027/03/07/greensboro-gargoyles
 DESCRIPTION:Greensboro Gargoyles at Trois-Rivières Lions
 LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
@@ -529,8 +471,7 @@ BEGIN:VEVENT
 SUMMARY:Adirondack Thunder @ Trois-Rivières Lions
 DTSTART;TZID="UTC-05:00":20270310T190000
 DTEND;TZID="UTC-05:00":20270310T220000
-UID:vDDDTypes(2027-03-10 19:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Adirondack Thunder @ Trois-Rivières Lions
+UID:https://lions3r.com/fr/matchs/2027/03/10/adirondack-thunder
 DESCRIPTION:Adirondack Thunder at Trois-Rivières Lions
 LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
@@ -538,8 +479,7 @@ BEGIN:VEVENT
 SUMMARY:Trois-Rivières Lions @ Adirondack Thunder
 DTSTART;TZID="UTC-05:00":20270312T190000
 DTEND;TZID="UTC-05:00":20270312T220000
-UID:vDDDTypes(2027-03-12 19:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trois-Rivières Lions @ Adirondack Thunder
+UID:https://lions3r.com/fr/matchs/2027/03/12/adirondack-thunder
 DESCRIPTION:Trois-Rivières Lions at Adirondack Thunder
 LOCATION:Harding Mazzotti Arena\, Glens Falls\, New York
 END:VEVENT
@@ -547,8 +487,7 @@ BEGIN:VEVENT
 SUMMARY:Trois-Rivières Lions @ Adirondack Thunder
 DTSTART;TZID="UTC-05:00":20270313T190000
 DTEND;TZID="UTC-05:00":20270313T220000
-UID:vDDDTypes(2027-03-13 19:00:00-05:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trois-Rivières Lions @ Adirondack Thunder
+UID:https://lions3r.com/fr/matchs/2027/03/13/adirondack-thunder
 DESCRIPTION:Trois-Rivières Lions at Adirondack Thunder
 LOCATION:Harding Mazzotti Arena\, Glens Falls\, New York
 END:VEVENT
@@ -556,8 +495,7 @@ BEGIN:VEVENT
 SUMMARY:Trois-Rivières Lions @ Maine Mariners
 DTSTART;TZID="UTC-04:00":20270319T191500
 DTEND;TZID="UTC-04:00":20270319T221500
-UID:vDDDTypes(2027-03-19 19:15:00-04:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trois-Rivières Lions @ Maine Mariners
+UID:https://lions3r.com/fr/matchs/2027/03/19/maine-mariners
 DESCRIPTION:Trois-Rivières Lions at Maine Mariners
 LOCATION:Cross Insurance Arena\, Portland\, Maine
 END:VEVENT
@@ -565,8 +503,7 @@ BEGIN:VEVENT
 SUMMARY:Trenton Ironhawks @ Trois-Rivières Lions
 DTSTART;TZID="UTC-04:00":20270320T150000
 DTEND;TZID="UTC-04:00":20270320T180000
-UID:vDDDTypes(2027-03-20 15:00:00-04:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trenton Ironhawks @ Trois-Rivières Lions
+UID:https://lions3r.com/fr/matchs/2027/03/20/trenton-ironhawks
 DESCRIPTION:Trenton Ironhawks at Trois-Rivières Lions
 LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
@@ -574,8 +511,7 @@ BEGIN:VEVENT
 SUMMARY:Trenton Ironhawks @ Trois-Rivières Lions
 DTSTART;TZID="UTC-04:00":20270321T130000
 DTEND;TZID="UTC-04:00":20270321T160000
-UID:vDDDTypes(2027-03-21 13:00:00-04:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trenton Ironhawks @ Trois-Rivières Lions
+UID:https://lions3r.com/fr/matchs/2027/03/21/trenton-ironhawks
 DESCRIPTION:Trenton Ironhawks at Trois-Rivières Lions
 LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
@@ -583,8 +519,7 @@ BEGIN:VEVENT
 SUMMARY:Trois-Rivières Lions @ Greensboro Gargoyles
 DTSTART;TZID="UTC-04:00":20270326T190000
 DTEND;TZID="UTC-04:00":20270326T220000
-UID:vDDDTypes(2027-03-26 19:00:00-04:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trois-Rivières Lions @ Greensboro Gargoyles
+UID:https://lions3r.com/fr/matchs/2027/03/26/greensboro-gargoyles
 DESCRIPTION:Trois-Rivières Lions at Greensboro Gargoyles
 LOCATION:First Horizon Coliseum\, Greensboro\, North Carolina
 END:VEVENT
@@ -592,8 +527,7 @@ BEGIN:VEVENT
 SUMMARY:Trois-Rivières Lions @ Greensboro Gargoyles
 DTSTART;TZID="UTC-04:00":20270327T190000
 DTEND;TZID="UTC-04:00":20270327T220000
-UID:vDDDTypes(2027-03-27 19:00:00-04:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trois-Rivières Lions @ Greensboro Gargoyles
+UID:https://lions3r.com/fr/matchs/2027/03/27/greensboro-gargoyles
 DESCRIPTION:Trois-Rivières Lions at Greensboro Gargoyles
 LOCATION:First Horizon Coliseum\, Greensboro\, North Carolina
 END:VEVENT
@@ -601,8 +535,7 @@ BEGIN:VEVENT
 SUMMARY:Reading Royals @ Trois-Rivières Lions
 DTSTART;TZID="UTC-04:00":20270402T190000
 DTEND;TZID="UTC-04:00":20270402T220000
-UID:vDDDTypes(2027-04-02 19:00:00-04:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Reading Royals @ Trois-Rivières Lions
+UID:https://lions3r.com/fr/matchs/2027/04/02/reading-royals
 DESCRIPTION:Reading Royals at Trois-Rivières Lions
 LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
@@ -610,8 +543,7 @@ BEGIN:VEVENT
 SUMMARY:Reading Royals @ Trois-Rivières Lions
 DTSTART;TZID="UTC-04:00":20270403T150000
 DTEND;TZID="UTC-04:00":20270403T180000
-UID:vDDDTypes(2027-04-03 15:00:00-04:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Reading Royals @ Trois-Rivières Lions
+UID:https://lions3r.com/fr/matchs/2027/04/03/reading-royals
 DESCRIPTION:Reading Royals at Trois-Rivières Lions
 LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
@@ -619,8 +551,7 @@ BEGIN:VEVENT
 SUMMARY:Reading Royals @ Trois-Rivières Lions
 DTSTART;TZID="UTC-04:00":20270404T130000
 DTEND;TZID="UTC-04:00":20270404T160000
-UID:vDDDTypes(2027-04-04 13:00:00-04:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Reading Royals @ Trois-Rivières Lions
+UID:https://lions3r.com/fr/matchs/2027/04/04/reading-royals
 DESCRIPTION:Reading Royals at Trois-Rivières Lions
 LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
@@ -628,8 +559,7 @@ BEGIN:VEVENT
 SUMMARY:Trois-Rivières Lions @ Maine Mariners
 DTSTART;TZID="UTC-04:00":20270409T191500
 DTEND;TZID="UTC-04:00":20270409T221500
-UID:vDDDTypes(2027-04-09 19:15:00-04:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trois-Rivières Lions @ Maine Mariners
+UID:https://lions3r.com/fr/matchs/2027/04/09/maine-mariners
 DESCRIPTION:Trois-Rivières Lions at Maine Mariners
 LOCATION:Cross Insurance Arena\, Portland\, Maine
 END:VEVENT
@@ -637,8 +567,7 @@ BEGIN:VEVENT
 SUMMARY:Trois-Rivières Lions @ Worcester Railers
 DTSTART;TZID="UTC-04:00":20270410T180500
 DTEND;TZID="UTC-04:00":20270410T210500
-UID:vDDDTypes(2027-04-10 18:05:00-04:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trois-Rivières Lions @ Worcester Railers
+UID:https://lions3r.com/fr/matchs/2027/04/10/worcester-railers
 DESCRIPTION:Trois-Rivières Lions at Worcester Railers
 LOCATION:DCU Center\, Worcester\, Massachusetts
 END:VEVENT
@@ -646,8 +575,7 @@ BEGIN:VEVENT
 SUMMARY:Trois-Rivières Lions @ Worcester Railers
 DTSTART;TZID="UTC-04:00":20270411T150500
 DTEND;TZID="UTC-04:00":20270411T180500
-UID:vDDDTypes(2027-04-11 15:05:00-04:00\, Parameters({'TZID': 'Canada/East
- ern'}))-Trois-Rivières Lions @ Worcester Railers
+UID:https://lions3r.com/fr/matchs/2027/04/11/worcester-railers
 DESCRIPTION:Trois-Rivières Lions at Worcester Railers
 LOCATION:DCU Center\, Worcester\, Massachusetts
 END:VEVENT
