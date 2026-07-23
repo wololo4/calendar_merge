@@ -6,7 +6,6 @@ from utils.database import export_calendar_from_db, initialize_database, store_e
 from utils.downloader import download_single_feed
 from utils.feeds import load_feeds
 from utils.calendar import create_calendar, event_id
-from utils.cache import load_cached_calendar, save_cached_calendar
 
 def event_id(event):
     dtstart = str(event.get("DTSTART"))
@@ -26,7 +25,6 @@ def main():
     seen = defaultdict(set)
     feeds = load_feeds()
     initialize_database()
-    cache_dir = os.path.join(os.path.dirname(__file__), "calendars", "cache")
 
     # OPTIMIZATION: Download all URLs at the same time using a Thread Pool
     # max_workers=10 runs up to 10 network requests simultaneously
@@ -37,15 +35,6 @@ def main():
         if calendar is None:
             print(f"Téléchargement: {league} – {team_name} (0 events, skipped)")
             continue
-
-        cache_key = f"{league}:{team_name}"
-        cached_calendar = load_cached_calendar(cache_dir, cache_key)
-        if cached_calendar is not None:
-            calendar = cached_calendar
-            print(f"Using cached calendar for {league} - {team_name}")
-        else:
-            save_cached_calendar(cache_dir, cache_key, calendar)
-            print(f"Saved calendar cache for {league} - {team_name}")
     
         event_count = sum(1 for e in calendar.walk() if e.name == "VEVENT")
         print(f"Téléchargement: {league} – {team_name} ({event_count} events)")
@@ -112,19 +101,18 @@ def main():
                 if field in event:
                     del event[field]
 
-            key = event_id(event)
-            if key in seen[league]:
+            uid = str(event.get("UID", "")).strip()
+
+            if uid in seen[league]:
                 continue
-            
-            # FIX UID STABLE
-            event["UID"] = key
-            
-            seen[league].add(key)
+
+            seen[league].add(uid)
             leagues[league].append(event)
 
             summary = str(event.get("SUMMARY", ""))
             location = str(event.get("LOCATION", ""))
             description = str(event.get("DESCRIPTION", ""))
+            uid = str(event.get("UID", ""))
             dtstart = event.get("DTSTART")
             dtend = event.get("DTEND")
             dtstart_value = dtstart.dt.isoformat() if hasattr(dtstart, "dt") else str(dtstart)
@@ -135,7 +123,7 @@ def main():
                 team_name=team_name,
                 source_url="",
                 parser="",
-                uid=key,
+                uid=uid,
                 summary=summary,
                 location=location or None,
                 description=description or None,

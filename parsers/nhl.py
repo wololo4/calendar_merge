@@ -2,6 +2,14 @@ from icalendar import Event
 from datetime import datetime, timedelta, timezone
 from utils.calendar import create_calendar
 
+def get_fr_or_default(obj):
+    return obj.get("fr") or obj.get("default")
+
+def get_full_team_name_fr(team):
+    city = get_fr_or_default(team.get("placeName", {}))
+    name = get_fr_or_default(team.get("commonName", {}))
+    return f"{city} {name}"
+
 def parse_nhl_json_to_calendar(json_data):
     """Converts modern NHL REST API club season JSON data into an icalendar Calendar object."""
     cal = create_calendar()
@@ -17,7 +25,7 @@ def parse_nhl_json_to_calendar(json_data):
 
         # Build Unique Identifier using the official NHL Game ID
         game_id = game.get("id", "unknown")
-        event.add("uid", f"nhl-game-{game_id}@nhle.com")
+        event.add("uid", f"nhl{game_id}")
 
         try:
             # Clean up the timezone suffix 'Z' for fromisoformat compatibility
@@ -42,15 +50,15 @@ def parse_nhl_json_to_calendar(json_data):
         away_team = game.get("awayTeam", {})
         home_team = game.get("homeTeam", {})
 
-        away_abbrev = away_team.get("abbrev", "AWAY")
-        home_abbrev = home_team.get("abbrev", "HOME")
+        away_abbrev = get_full_team_name_fr(away_team)
+        home_abbrev = get_full_team_name_fr(home_team)
 
         # Create matchup text representation
-        event.add("summary", f"{away_abbrev} @ {home_abbrev}")
+        event.add("summary", f"🏒 | {away_abbrev} @ {home_abbrev}")
 
         # Extract explicit venue names gracefully from the dictionary node
-        venue_info = game.get("venue", {})
-        venue_name = venue_info.get("default", f"{home_abbrev} Home Arena")
+ 
+        venue_name = get_fr_or_default(game.get("venue", {}))
         event.add("location", venue_name)
 
         # Map game type values to readable descriptors
@@ -58,10 +66,7 @@ def parse_nhl_json_to_calendar(json_data):
         game_type_id = game.get("gameType", 2)
         game_type_str = "Regular Season" if game_type_id == 2 else "Pre-Season" if game_type_id == 1 else "Playoffs"
 
-        description = [
-            "Official NHL Ice Hockey Match",
-            f"League Stage: {game_type_str}",
-        ]
+        description = [f"{game_type_str} Game"]
 
         # Extract networks dynamically from TV broadcast array
         broadcasts = game.get("tvBroadcasts", [])

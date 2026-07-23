@@ -24,6 +24,63 @@ def load_feeds():
                 feeds.append((league, team_name, url, [], "nhl"))
             continue
 
+                # ============================
+        # AHL JSON (statviewfeed)
+        # ============================
+        if parser == "ahl":
+            base_url = data["base_url"]
+            feed_type = data["feed"]
+            view = data["view"]
+            client_code = data["client_code"]
+            site_id = data["site_id"]
+            league_id = data["league_id"]
+            conference_id = data["conference_id"]
+            division_id = data["division_id"]
+            month = data["month"]
+            location = data["location"]
+            lang = data["lang"]
+            key = data["key"]
+
+            # season_id can be int or list
+            season_ids = data["season_id"]
+            if isinstance(season_ids, int):
+                season_ids = [season_ids]
+
+            for team in data["teams"]:
+                team_name = team["name"]
+                team_id = team["team_id"]
+
+                for season_id in season_ids:
+                    url = (
+                        f"{base_url}"
+                        f"?feed={feed_type}"
+                        f"&view={view}"
+                        f"&team={team_id}"
+                        f"&season={season_id}"
+                        f"&month={month}"
+                        f"&location={location}"
+                        f"&key={key}"
+                        f"&client_code={client_code}"
+                        f"&site_id={site_id}"
+                        f"&league_id={league_id}"
+                        f"&conference_id={conference_id}"
+                        f"&division_id={division_id}"
+                        f"&lang={lang}"
+                    )
+
+                    feeds.append(
+                        (
+                            league,
+                            f"{team_name} (S{season_id})",
+                            url,
+                            [],     # no team filter
+                            parser  # "ahl"
+                        )
+                    )
+
+            continue
+
+
         # ============================
         # LeagueStat leagues (AHL, OHL, LHJMQ, WHL)
         # unified structure

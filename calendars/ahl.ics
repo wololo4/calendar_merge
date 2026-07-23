@@ -4,579 +4,604 @@ PRODID:-//Hockey Calendar//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:Syracuse Crunch @ Laval Rocket
-DTSTART:20261002T230000Z
-DTEND:20261003T020000Z
-UID:vDDDTypes(2026-10-02 23:00:00+00:00\, Parameters({}))-Syracuse Crunch 
- @ Laval Rocket
+SUMMARY:🏒 | Syracuse Crunch @ Laval Rocket
+DTSTART;TZID="UTC-04:00":20261002T190000
+DTEND;TZID="UTC-04:00":20261002T213000
+UID:ahl1029075
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029075
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Syracuse Crunch @ Laval Rocket
-DTSTART:20261003T190000Z
-DTEND:20261003T220000Z
-UID:vDDDTypes(2026-10-03 19:00:00+00:00\, Parameters({}))-Syracuse Crunch 
- @ Laval Rocket
+SUMMARY:🏒 | Syracuse Crunch @ Laval Rocket
+DTSTART;TZID="UTC-04:00":20261003T150000
+DTEND;TZID="UTC-04:00":20261003T173000
+UID:ahl1029082
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029082
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laval Rocket @ Springfield Thunderbirds
-DTSTART:20261010T220500Z
-DTEND:20261011T010500Z
-UID:vDDDTypes(2026-10-10 22:05:00+00:00\, Parameters({}))-Laval Rocket @ S
- pringfield Thunderbirds
+SUMMARY:🏒 | Laval Rocket @ Springfield Thunderbirds
+DTSTART;TZID="UTC-04:00":20261010T180500
+DTEND;TZID="UTC-04:00":20261010T203500
+UID:ahl1029120
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029120
 LOCATION:MassMutual Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laval Rocket @ Hartford Wolf Pack
-DTSTART:20261011T190000Z
-DTEND:20261011T220000Z
-UID:vDDDTypes(2026-10-11 19:00:00+00:00\, Parameters({}))-Laval Rocket @ H
- artford Wolf Pack
+SUMMARY:🏒 | Laval Rocket @ Hartford Wolf Pack
+DTSTART;TZID="UTC-04:00":20261011T150000
+DTEND;TZID="UTC-04:00":20261011T173000
+UID:ahl1029128
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029128\nFlo
+ Hockey: https://flohockey.tv/events/16052248
 LOCATION:PeoplesBank Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laval Rocket @ Belleville Senators
-DTSTART:20261016T230000Z
-DTEND:20261017T020000Z
-UID:vDDDTypes(2026-10-16 23:00:00+00:00\, Parameters({}))-Laval Rocket @ B
- elleville Senators
+SUMMARY:🏒 | Laval Rocket @ Belleville Senators
+DTSTART;TZID="UTC-04:00":20261016T190000
+DTEND;TZID="UTC-04:00":20261016T213000
+UID:ahl1029137
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029137
 LOCATION:CAA Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laval Rocket @ Utica Comets
-DTSTART:20261017T220000Z
-DTEND:20261018T010000Z
-UID:vDDDTypes(2026-10-17 22:00:00+00:00\, Parameters({}))-Laval Rocket @ U
- tica Comets
+SUMMARY:🏒 | Laval Rocket @ Utica Comets
+DTSTART;TZID="UTC-04:00":20261017T180000
+DTEND;TZID="UTC-04:00":20261017T203000
+UID:ahl1029160
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029160\nFlo
+ Hockey: https://flohockey.tv/events/16051856
 LOCATION:Adirondack Bank Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Syracuse Crunch @ Laval Rocket
-DTSTART:20261021T230000Z
-DTEND:20261022T020000Z
-UID:vDDDTypes(2026-10-21 23:00:00+00:00\, Parameters({}))-Syracuse Crunch 
- @ Laval Rocket
+SUMMARY:🏒 | Syracuse Crunch @ Laval Rocket
+DTSTART;TZID="UTC-04:00":20261021T190000
+DTEND;TZID="UTC-04:00":20261021T213000
+UID:ahl1029171
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029171
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hamilton Hammers @ Laval Rocket
-DTSTART:20261023T230000Z
-DTEND:20261024T020000Z
-UID:vDDDTypes(2026-10-23 23:00:00+00:00\, Parameters({}))-Hamilton Hammers
-  @ Laval Rocket
+SUMMARY:🏒 | Hamilton Hammers @ Laval Rocket
+DTSTART;TZID="UTC-04:00":20261023T190000
+DTEND;TZID="UTC-04:00":20261023T213000
+UID:ahl1029182
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029182\nFlo
+ Hockey: https://flohockey.tv/events/16053485
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hamilton Hammers @ Laval Rocket
-DTSTART:20261024T190000Z
-DTEND:20261024T220000Z
-UID:vDDDTypes(2026-10-24 19:00:00+00:00\, Parameters({}))-Hamilton Hammers
-  @ Laval Rocket
+SUMMARY:🏒 | Hamilton Hammers @ Laval Rocket
+DTSTART;TZID="UTC-04:00":20261024T150000
+DTEND;TZID="UTC-04:00":20261024T173000
+UID:ahl1029195
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029195\nFlo
+ Hockey: https://flohockey.tv/events/16052202
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laval Rocket @ Calgary Wranglers
-DTSTART:20261030T010000Z
-DTEND:20261030T040000Z
-UID:vDDDTypes(2026-10-30 01:00:00+00:00\, Parameters({}))-Laval Rocket @ C
- algary Wranglers
+SUMMARY:🏒 | Laval Rocket @ Calgary Wranglers
+DTSTART;TZID="UTC-06:00":20261029T190000
+DTEND;TZID="UTC-06:00":20261029T213000
+UID:ahl1029213
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029213\nFlo
+ Hockey: https://flohockey.tv/events/16051757
 LOCATION:Scotiabank Saddledome
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laval Rocket @ Calgary Wranglers
-DTSTART:20261031T180000Z
-DTEND:20261031T210000Z
-UID:vDDDTypes(2026-10-31 18:00:00+00:00\, Parameters({}))-Laval Rocket @ C
- algary Wranglers
+SUMMARY:🏒 | Laval Rocket @ Calgary Wranglers
+DTSTART;TZID="UTC-06:00":20261031T120000
+DTEND;TZID="UTC-06:00":20261031T143000
+UID:ahl1029227
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029227
 LOCATION:Scotiabank Saddledome
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lehigh Valley Phantoms @ Laval Rocket
-DTSTART:20261105T000000Z
-DTEND:20261105T030000Z
-UID:vDDDTypes(2026-11-05 00:00:00+00:00\, Parameters({}))-Lehigh Valley Ph
- antoms @ Laval Rocket
+SUMMARY:🏒 | Lehigh Valley Phantoms @ Laval Rocket
+DTSTART;TZID="UTC-05:00":20261104T190000
+DTEND;TZID="UTC-05:00":20261104T213000
+UID:ahl1029246
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029246
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cleveland Monsters @ Laval Rocket
-DTSTART:20261107T000000Z
-DTEND:20261107T030000Z
-UID:vDDDTypes(2026-11-07 00:00:00+00:00\, Parameters({}))-Cleveland Monste
- rs @ Laval Rocket
+SUMMARY:🏒 | Cleveland Monsters @ Laval Rocket
+DTSTART;TZID="UTC-05:00":20261106T190000
+DTEND;TZID="UTC-05:00":20261106T213000
+UID:ahl1029257
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029257
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cleveland Monsters @ Laval Rocket
-DTSTART:20261107T200000Z
-DTEND:20261107T230000Z
-UID:vDDDTypes(2026-11-07 20:00:00+00:00\, Parameters({}))-Cleveland Monste
- rs @ Laval Rocket
+SUMMARY:🏒 | Cleveland Monsters @ Laval Rocket
+DTSTART;TZID="UTC-05:00":20261107T150000
+DTEND;TZID="UTC-05:00":20261107T173000
+UID:ahl1029271
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029271
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laval Rocket @ Syracuse Crunch
-DTSTART:20261112T000000Z
-DTEND:20261112T030000Z
-UID:vDDDTypes(2026-11-12 00:00:00+00:00\, Parameters({}))-Laval Rocket @ S
- yracuse Crunch
+SUMMARY:🏒 | Laval Rocket @ Syracuse Crunch
+DTSTART;TZID="UTC-05:00":20261111T190000
+DTEND;TZID="UTC-05:00":20261111T213000
+UID:ahl1029294
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029294
 LOCATION:Upstate Medical University Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laval Rocket @ Rochester Americans
-DTSTART:20261114T000500Z
-DTEND:20261114T030500Z
-UID:vDDDTypes(2026-11-14 00:05:00+00:00\, Parameters({}))-Laval Rocket @ R
- ochester Americans
+SUMMARY:🏒 | Laval Rocket @ Rochester Americans
+DTSTART;TZID="UTC-05:00":20261113T190500
+DTEND;TZID="UTC-05:00":20261113T213500
+UID:ahl1029304
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029304
 LOCATION:Blue Cross Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laval Rocket @ Rochester Americans
-DTSTART:20261114T220500Z
-DTEND:20261115T010500Z
-UID:vDDDTypes(2026-11-14 22:05:00+00:00\, Parameters({}))-Laval Rocket @ R
- ochester Americans
+SUMMARY:🏒 | Laval Rocket @ Rochester Americans
+DTSTART;TZID="UTC-05:00":20261114T170500
+DTEND;TZID="UTC-05:00":20261114T193500
+UID:ahl1029315
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029315
 LOCATION:Blue Cross Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laval Rocket @ Belleville Senators
-DTSTART:20261118T153000Z
-DTEND:20261118T183000Z
-UID:vDDDTypes(2026-11-18 15:30:00+00:00\, Parameters({}))-Laval Rocket @ B
- elleville Senators
+SUMMARY:🏒 | Laval Rocket @ Belleville Senators
+DTSTART;TZID="UTC-05:00":20261118T103000
+DTEND;TZID="UTC-05:00":20261118T130000
+UID:ahl1029334
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029334
 LOCATION:Canadian Tire Centre
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Calgary Wranglers @ Laval Rocket
-DTSTART:20261121T200000Z
-DTEND:20261121T230000Z
-UID:vDDDTypes(2026-11-21 20:00:00+00:00\, Parameters({}))-Calgary Wrangler
- s @ Laval Rocket
+SUMMARY:🏒 | Calgary Wranglers @ Laval Rocket
+DTSTART;TZID="UTC-05:00":20261121T150000
+DTEND;TZID="UTC-05:00":20261121T173000
+UID:ahl1029356
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029356
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Calgary Wranglers @ Laval Rocket
-DTSTART:20261122T200000Z
-DTEND:20261122T230000Z
-UID:vDDDTypes(2026-11-22 20:00:00+00:00\, Parameters({}))-Calgary Wrangler
- s @ Laval Rocket
-LOCATION:Place Bell
+SUMMARY:🏒 | Calgary Wranglers @ Laval Rocket
+DTSTART;TZID="UTC-05:00":20261122T150000
+DTEND;TZID="UTC-05:00":20261122T173000
+UID:ahl1029368
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029368\nFlo
+ Hockey: https://flohockey.tv/events/16051918
+LOCATION:Bell Centre
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laval Rocket @ Utica Comets
-DTSTART:20261128T000000Z
-DTEND:20261128T030000Z
-UID:vDDDTypes(2026-11-28 00:00:00+00:00\, Parameters({}))-Laval Rocket @ U
- tica Comets
+SUMMARY:🏒 | Laval Rocket @ Utica Comets
+DTSTART;TZID="UTC-05:00":20261127T190000
+DTEND;TZID="UTC-05:00":20261127T213000
+UID:ahl1029396
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029396
 LOCATION:Adirondack Bank Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laval Rocket @ Syracuse Crunch
-DTSTART:20261129T000000Z
-DTEND:20261129T030000Z
-UID:vDDDTypes(2026-11-29 00:00:00+00:00\, Parameters({}))-Laval Rocket @ S
- yracuse Crunch
+SUMMARY:🏒 | Laval Rocket @ Syracuse Crunch
+DTSTART;TZID="UTC-05:00":20261128T190000
+DTEND;TZID="UTC-05:00":20261128T213000
+UID:ahl1029408
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029408
 LOCATION:Upstate Medical University Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto Marlies @ Laval Rocket
-DTSTART:20261203T000000Z
-DTEND:20261203T030000Z
-UID:vDDDTypes(2026-12-03 00:00:00+00:00\, Parameters({}))-Toronto Marlies 
- @ Laval Rocket
+SUMMARY:🏒 | Toronto Marlies @ Laval Rocket
+DTSTART;TZID="UTC-05:00":20261202T190000
+DTEND;TZID="UTC-05:00":20261202T213000
+UID:ahl1029427
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029427
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wilkes-Barre/Scranton Penguins @ Laval Rocket
-DTSTART:20261205T000000Z
-DTEND:20261205T030000Z
-UID:vDDDTypes(2026-12-05 00:00:00+00:00\, Parameters({}))-Wilkes-Barre/Scr
- anton Penguins @ Laval Rocket
+SUMMARY:🏒 | Wilkes-Barre/Scranton Penguins @ Laval Rocket
+DTSTART;TZID="UTC-05:00":20261204T190000
+DTEND;TZID="UTC-05:00":20261204T213000
+UID:ahl1029433
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029433
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Utica Comets @ Laval Rocket
-DTSTART:20261210T000000Z
-DTEND:20261210T030000Z
-UID:vDDDTypes(2026-12-10 00:00:00+00:00\, Parameters({}))-Utica Comets @ L
- aval Rocket
+SUMMARY:🏒 | Utica Comets @ Laval Rocket
+DTSTART;TZID="UTC-05:00":20261209T190000
+DTEND;TZID="UTC-05:00":20261209T213000
+UID:ahl1029469
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029469
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laval Rocket @ Cleveland Monsters
-DTSTART:20261212T000000Z
-DTEND:20261212T030000Z
-UID:vDDDTypes(2026-12-12 00:00:00+00:00\, Parameters({}))-Laval Rocket @ C
- leveland Monsters
+SUMMARY:🏒 | Laval Rocket @ Cleveland Monsters
+DTSTART;TZID="UTC-05:00":20261211T190000
+DTEND;TZID="UTC-05:00":20261211T213000
+UID:ahl1029474
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029474
 LOCATION:Rocket Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laval Rocket @ Cleveland Monsters
-DTSTART:20261212T180000Z
-DTEND:20261212T210000Z
-UID:vDDDTypes(2026-12-12 18:00:00+00:00\, Parameters({}))-Laval Rocket @ C
- leveland Monsters
+SUMMARY:🏒 | Laval Rocket @ Cleveland Monsters
+DTSTART;TZID="UTC-05:00":20261212T130000
+DTEND;TZID="UTC-05:00":20261212T153000
+UID:ahl1029488
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029488\nFlo
+ Hockey: https://flohockey.tv/events/16052109
 LOCATION:Rocket Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laval Rocket @ Toronto Marlies
-DTSTART:20261216T000000Z
-DTEND:20261216T030000Z
-UID:vDDDTypes(2026-12-16 00:00:00+00:00\, Parameters({}))-Laval Rocket @ T
- oronto Marlies
+SUMMARY:🏒 | Laval Rocket @ Toronto Marlies
+DTSTART;TZID="UTC-05:00":20261215T190000
+DTEND;TZID="UTC-05:00":20261215T213000
+UID:ahl1029508
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029508\nFlo
+ Hockey: https://flohockey.tv/events/16051720
 LOCATION:Coca-Cola Coliseum
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laval Rocket @ Belleville Senators
-DTSTART:20261217T000000Z
-DTEND:20261217T030000Z
-UID:vDDDTypes(2026-12-17 00:00:00+00:00\, Parameters({}))-Laval Rocket @ B
- elleville Senators
+SUMMARY:🏒 | Laval Rocket @ Belleville Senators
+DTSTART;TZID="UTC-05:00":20261216T190000
+DTEND;TZID="UTC-05:00":20261216T213000
+UID:ahl1029513
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029513
 LOCATION:CAA Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laval Rocket @ Toronto Marlies
-DTSTART:20261219T210000Z
-DTEND:20261220T000000Z
-UID:vDDDTypes(2026-12-19 21:00:00+00:00\, Parameters({}))-Laval Rocket @ T
- oronto Marlies
+SUMMARY:🏒 | Laval Rocket @ Toronto Marlies
+DTSTART;TZID="UTC-05:00":20261219T160000
+DTEND;TZID="UTC-05:00":20261219T183000
+UID:ahl1029544
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029544\nFlo
+ Hockey: https://flohockey.tv/events/16052006
 LOCATION:Coca-Cola Coliseum
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laval Rocket @ Hamilton Hammers
-DTSTART:20261220T200000Z
-DTEND:20261220T230000Z
-UID:vDDDTypes(2026-12-20 20:00:00+00:00\, Parameters({}))-Laval Rocket @ H
- amilton Hammers
+SUMMARY:🏒 | Laval Rocket @ Hamilton Hammers
+DTSTART;TZID="UTC-05:00":20261220T150000
+DTEND;TZID="UTC-05:00":20261220T173000
+UID:ahl1029549
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029549\nFlo
+ Hockey: https://flohockey.tv/events/16053384
 LOCATION:TD Coliseum
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laval Rocket @ Utica Comets
-DTSTART:20261227T200000Z
-DTEND:20261227T230000Z
-UID:vDDDTypes(2026-12-27 20:00:00+00:00\, Parameters({}))-Laval Rocket @ U
- tica Comets
+SUMMARY:🏒 | Laval Rocket @ Utica Comets
+DTSTART;TZID="UTC-05:00":20261227T150000
+DTEND;TZID="UTC-05:00":20261227T173000
+UID:ahl1029563
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029563
 LOCATION:Adirondack Bank Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Belleville Senators @ Laval Rocket
-DTSTART:20261231T000000Z
-DTEND:20261231T030000Z
-UID:vDDDTypes(2026-12-31 00:00:00+00:00\, Parameters({}))-Belleville Senat
- ors @ Laval Rocket
+SUMMARY:🏒 | Belleville Senators @ Laval Rocket
+DTSTART;TZID="UTC-05:00":20261230T190000
+DTEND;TZID="UTC-05:00":20261230T213000
+UID:ahl1029578
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029578\nFlo
+ Hockey: https://flohockey.tv/events/16052441
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hartford Wolf Pack @ Laval Rocket
-DTSTART:20270102T200000Z
-DTEND:20270102T230000Z
-UID:vDDDTypes(2027-01-02 20:00:00+00:00\, Parameters({}))-Hartford Wolf Pa
- ck @ Laval Rocket
+SUMMARY:🏒 | Hartford Wolf Pack @ Laval Rocket
+DTSTART;TZID="UTC-05:00":20270102T150000
+DTEND;TZID="UTC-05:00":20270102T173000
+UID:ahl1029598
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029598
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hartford Wolf Pack @ Laval Rocket
-DTSTART:20270103T200000Z
-DTEND:20270103T230000Z
-UID:vDDDTypes(2027-01-03 20:00:00+00:00\, Parameters({}))-Hartford Wolf Pa
- ck @ Laval Rocket
+SUMMARY:🏒 | Hartford Wolf Pack @ Laval Rocket
+DTSTART;TZID="UTC-05:00":20270103T150000
+DTEND;TZID="UTC-05:00":20270103T173000
+UID:ahl1029610
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029610\nFlo
+ Hockey: https://flohockey.tv/events/16052460
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laval Rocket @ Hamilton Hammers
-DTSTART:20270107T000000Z
-DTEND:20270107T030000Z
-UID:vDDDTypes(2027-01-07 00:00:00+00:00\, Parameters({}))-Laval Rocket @ H
- amilton Hammers
+SUMMARY:🏒 | Laval Rocket @ Hamilton Hammers
+DTSTART;TZID="UTC-05:00":20270106T190000
+DTEND;TZID="UTC-05:00":20270106T213000
+UID:ahl1029621
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029621\nFlo
+ Hockey: https://flohockey.tv/events/16052440
 LOCATION:TD Coliseum
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laval Rocket @ Rochester Americans
-DTSTART:20270109T000500Z
-DTEND:20270109T030500Z
-UID:vDDDTypes(2027-01-09 00:05:00+00:00\, Parameters({}))-Laval Rocket @ R
- ochester Americans
+SUMMARY:🏒 | Laval Rocket @ Rochester Americans
+DTSTART;TZID="UTC-05:00":20270108T190500
+DTEND;TZID="UTC-05:00":20270108T213500
+UID:ahl1029635
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029635
 LOCATION:Blue Cross Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laval Rocket @ Syracuse Crunch
-DTSTART:20270110T000000Z
-DTEND:20270110T030000Z
-UID:vDDDTypes(2027-01-10 00:00:00+00:00\, Parameters({}))-Laval Rocket @ S
- yracuse Crunch
+SUMMARY:🏒 | Laval Rocket @ Syracuse Crunch
+DTSTART;TZID="UTC-05:00":20270109T190000
+DTEND;TZID="UTC-05:00":20270109T213000
+UID:ahl1029649
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029649
 LOCATION:Upstate Medical University Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Belleville Senators @ Laval Rocket
-DTSTART:20270114T000000Z
-DTEND:20270114T030000Z
-UID:vDDDTypes(2027-01-14 00:00:00+00:00\, Parameters({}))-Belleville Senat
- ors @ Laval Rocket
+SUMMARY:🏒 | Belleville Senators @ Laval Rocket
+DTSTART;TZID="UTC-05:00":20270113T190000
+DTEND;TZID="UTC-05:00":20270113T213000
+UID:ahl1029666
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029666
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rochester Americans @ Laval Rocket
-DTSTART:20270116T000000Z
-DTEND:20270116T030000Z
-UID:vDDDTypes(2027-01-16 00:00:00+00:00\, Parameters({}))-Rochester Americ
- ans @ Laval Rocket
+SUMMARY:🏒 | Rochester Americans @ Laval Rocket
+DTSTART;TZID="UTC-05:00":20270115T190000
+DTEND;TZID="UTC-05:00":20270115T213000
+UID:ahl1029675
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029675
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rochester Americans @ Laval Rocket
-DTSTART:20270116T200000Z
-DTEND:20270116T230000Z
-UID:vDDDTypes(2027-01-16 20:00:00+00:00\, Parameters({}))-Rochester Americ
- ans @ Laval Rocket
+SUMMARY:🏒 | Rochester Americans @ Laval Rocket
+DTSTART;TZID="UTC-05:00":20270116T150000
+DTEND;TZID="UTC-05:00":20270116T173000
+UID:ahl1029686
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029686
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laval Rocket @ Hartford Wolf Pack
-DTSTART:20270124T001500Z
-DTEND:20270124T031500Z
-UID:vDDDTypes(2027-01-24 00:15:00+00:00\, Parameters({}))-Laval Rocket @ H
- artford Wolf Pack
+SUMMARY:🏒 | Laval Rocket @ Hartford Wolf Pack
+DTSTART;TZID="UTC-05:00":20270123T191500
+DTEND;TZID="UTC-05:00":20270123T214500
+UID:ahl1029730
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029730
 LOCATION:PeoplesBank Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laval Rocket @ Springfield Thunderbirds
-DTSTART:20270124T200500Z
-DTEND:20270124T230500Z
-UID:vDDDTypes(2027-01-24 20:05:00+00:00\, Parameters({}))-Laval Rocket @ S
- pringfield Thunderbirds
+SUMMARY:🏒 | Laval Rocket @ Springfield Thunderbirds
+DTSTART;TZID="UTC-05:00":20270124T150500
+DTEND;TZID="UTC-05:00":20270124T173500
+UID:ahl1029746
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029746
 LOCATION:MassMutual Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Providence Bruins @ Laval Rocket
-DTSTART:20270128T000000Z
-DTEND:20270128T030000Z
-UID:vDDDTypes(2027-01-28 00:00:00+00:00\, Parameters({}))-Providence Bruin
- s @ Laval Rocket
+SUMMARY:🏒 | Providence Bruins @ Laval Rocket
+DTSTART;TZID="UTC-05:00":20270127T190000
+DTEND;TZID="UTC-05:00":20270127T213000
+UID:ahl1029752
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029752\nFlo
+ Hockey: https://flohockey.tv/events/16051987
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Providence Bruins @ Laval Rocket
-DTSTART:20270130T000000Z
-DTEND:20270130T030000Z
-UID:vDDDTypes(2027-01-30 00:00:00+00:00\, Parameters({}))-Providence Bruin
- s @ Laval Rocket
+SUMMARY:🏒 | Providence Bruins @ Laval Rocket
+DTSTART;TZID="UTC-05:00":20270129T190000
+DTEND;TZID="UTC-05:00":20270129T213000
+UID:ahl1029760
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029760\nFlo
+ Hockey: https://flohockey.tv/events/16052300
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Belleville Senators @ Laval Rocket
-DTSTART:20270204T000000Z
-DTEND:20270204T030000Z
-UID:vDDDTypes(2027-02-04 00:00:00+00:00\, Parameters({}))-Belleville Senat
- ors @ Laval Rocket
+SUMMARY:🏒 | Belleville Senators @ Laval Rocket
+DTSTART;TZID="UTC-05:00":20270203T190000
+DTEND;TZID="UTC-05:00":20270203T213000
+UID:ahl1029794
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029794\nFlo
+ Hockey: https://flohockey.tv/events/16051988
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Utica Comets @ Laval Rocket
-DTSTART:20270206T000000Z
-DTEND:20270206T030000Z
-UID:vDDDTypes(2027-02-06 00:00:00+00:00\, Parameters({}))-Utica Comets @ L
- aval Rocket
+SUMMARY:🏒 | Utica Comets @ Laval Rocket
+DTSTART;TZID="UTC-05:00":20270205T190000
+DTEND;TZID="UTC-05:00":20270205T213000
+UID:ahl1029807
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029807
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rochester Americans @ Laval Rocket
-DTSTART:20270206T200000Z
-DTEND:20270206T230000Z
-UID:vDDDTypes(2027-02-06 20:00:00+00:00\, Parameters({}))-Rochester Americ
- ans @ Laval Rocket
+SUMMARY:🏒 | Rochester Americans @ Laval Rocket
+DTSTART;TZID="UTC-05:00":20270206T150000
+DTEND;TZID="UTC-05:00":20270206T173000
+UID:ahl1029822
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029822\nFlo
+ Hockey: https://flohockey.tv/events/16052023
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laval Rocket @ Manitoba Moose
-DTSTART:20270213T200000Z
-DTEND:20270213T230000Z
-UID:vDDDTypes(2027-02-13 20:00:00+00:00\, Parameters({}))-Laval Rocket @ M
- anitoba Moose
+SUMMARY:🏒 | Laval Rocket @ Manitoba Moose
+DTSTART;TZID="UTC-06:00":20270213T140000
+DTEND;TZID="UTC-06:00":20270213T163000
+UID:ahl1029846
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029846\nFlo
+ Hockey: https://flohockey.tv/events/16052558
 LOCATION:Canada Life Centre
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laval Rocket @ Manitoba Moose
-DTSTART:20270215T200000Z
-DTEND:20270215T230000Z
-UID:vDDDTypes(2027-02-15 20:00:00+00:00\, Parameters({}))-Laval Rocket @ M
- anitoba Moose
+SUMMARY:🏒 | Laval Rocket @ Manitoba Moose
+DTSTART;TZID="UTC-06:00":20270215T140000
+DTEND;TZID="UTC-06:00":20270215T163000
+UID:ahl1029859
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029859\nFlo
+ Hockey: https://flohockey.tv/events/16052832
 LOCATION:Canada Life Centre
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laval Rocket @ Providence Bruins
-DTSTART:20270221T000500Z
-DTEND:20270221T030500Z
-UID:vDDDTypes(2027-02-21 00:05:00+00:00\, Parameters({}))-Laval Rocket @ P
- rovidence Bruins
+SUMMARY:🏒 | Laval Rocket @ Providence Bruins
+DTSTART;TZID="UTC-05:00":20270220T190500
+DTEND;TZID="UTC-05:00":20270220T213500
+UID:ahl1029893
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029893
 LOCATION:Amica Mutual Pavilion
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laval Rocket @ Providence Bruins
-DTSTART:20270221T200500Z
-DTEND:20270221T230500Z
-UID:vDDDTypes(2027-02-21 20:05:00+00:00\, Parameters({}))-Laval Rocket @ P
- rovidence Bruins
+SUMMARY:🏒 | Laval Rocket @ Providence Bruins
+DTSTART;TZID="UTC-05:00":20270221T150500
+DTEND;TZID="UTC-05:00":20270221T173500
+UID:ahl1029901
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029901\nFlo
+ Hockey: https://flohockey.tv/events/16052389
 LOCATION:Amica Mutual Pavilion
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laval Rocket @ Belleville Senators
-DTSTART:20270225T000000Z
-DTEND:20270225T030000Z
-UID:vDDDTypes(2027-02-25 00:00:00+00:00\, Parameters({}))-Laval Rocket @ B
- elleville Senators
+SUMMARY:🏒 | Laval Rocket @ Belleville Senators
+DTSTART;TZID="UTC-05:00":20270224T190000
+DTEND;TZID="UTC-05:00":20270224T213000
+UID:ahl1029911
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029911
 LOCATION:CAA Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto Marlies @ Laval Rocket
-DTSTART:20270227T000000Z
-DTEND:20270227T030000Z
-UID:vDDDTypes(2027-02-27 00:00:00+00:00\, Parameters({}))-Toronto Marlies 
- @ Laval Rocket
+SUMMARY:🏒 | Toronto Marlies @ Laval Rocket
+DTSTART;TZID="UTC-05:00":20270226T190000
+DTEND;TZID="UTC-05:00":20270226T213000
+UID:ahl1029927
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029927
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto Marlies @ Laval Rocket
-DTSTART:20270227T200000Z
-DTEND:20270227T230000Z
-UID:vDDDTypes(2027-02-27 20:00:00+00:00\, Parameters({}))-Toronto Marlies 
- @ Laval Rocket
+SUMMARY:🏒 | Toronto Marlies @ Laval Rocket
+DTSTART;TZID="UTC-05:00":20270227T150000
+DTEND;TZID="UTC-05:00":20270227T173000
+UID:ahl1029940
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029940
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Utica Comets @ Laval Rocket
-DTSTART:20270304T000000Z
-DTEND:20270304T030000Z
-UID:vDDDTypes(2027-03-04 00:00:00+00:00\, Parameters({}))-Utica Comets @ L
- aval Rocket
+SUMMARY:🏒 | Utica Comets @ Laval Rocket
+DTSTART;TZID="UTC-05:00":20270303T190000
+DTEND;TZID="UTC-05:00":20270303T213000
+UID:ahl1029960
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029960
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hamilton Hammers @ Laval Rocket
-DTSTART:20270306T000000Z
-DTEND:20270306T030000Z
-UID:vDDDTypes(2027-03-06 00:00:00+00:00\, Parameters({}))-Hamilton Hammers
-  @ Laval Rocket
+SUMMARY:🏒 | Hamilton Hammers @ Laval Rocket
+DTSTART;TZID="UTC-05:00":20270305T190000
+DTEND;TZID="UTC-05:00":20270305T213000
+UID:ahl1029970
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029970\nFlo
+ Hockey: https://flohockey.tv/events/16051755
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hamilton Hammers @ Laval Rocket
-DTSTART:20270306T200000Z
-DTEND:20270306T230000Z
-UID:vDDDTypes(2027-03-06 20:00:00+00:00\, Parameters({}))-Hamilton Hammers
-  @ Laval Rocket
+SUMMARY:🏒 | Hamilton Hammers @ Laval Rocket
+DTSTART;TZID="UTC-05:00":20270306T150000
+DTEND;TZID="UTC-05:00":20270306T173000
+UID:ahl1029981
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1029981\nFlo
+ Hockey: https://flohockey.tv/events/16052522
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laval Rocket @ Wilkes-Barre/Scranton Penguins
-DTSTART:20270310T233500Z
-DTEND:20270311T023500Z
-UID:vDDDTypes(2027-03-10 23:35:00+00:00\, Parameters({}))-Laval Rocket @ W
- ilkes-Barre/Scranton Penguins
+SUMMARY:🏒 | Laval Rocket @ Wilkes-Barre/Scranton Penguins
+DTSTART;TZID="UTC-05:00":20270310T183500
+DTEND;TZID="UTC-05:00":20270310T210500
+UID:ahl1030008
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1030008
 LOCATION:Mohegan Arena at Casey Plaza
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laval Rocket @ Lehigh Valley Phantoms
-DTSTART:20270313T000500Z
-DTEND:20270313T030500Z
-UID:vDDDTypes(2027-03-13 00:05:00+00:00\, Parameters({}))-Laval Rocket @ L
- ehigh Valley Phantoms
+SUMMARY:🏒 | Laval Rocket @ Lehigh Valley Phantoms
+DTSTART;TZID="UTC-05:00":20270312T190500
+DTEND;TZID="UTC-05:00":20270312T213500
+UID:ahl1030013
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1030013
 LOCATION:PPL Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laval Rocket @ Hershey Bears
-DTSTART:20270314T210000Z
-DTEND:20270315T000000Z
-UID:vDDDTypes(2027-03-14 21:00:00+00:00\, Parameters({}))-Laval Rocket @ H
- ershey Bears
+SUMMARY:🏒 | Laval Rocket @ Hershey Bears
+DTSTART;TZID="UTC-04:00":20270314T170000
+DTEND;TZID="UTC-04:00":20270314T193000
+UID:ahl1030038
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1030038
 LOCATION:Giant Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hershey Bears @ Laval Rocket
-DTSTART:20270320T190000Z
-DTEND:20270320T220000Z
-UID:vDDDTypes(2027-03-20 19:00:00+00:00\, Parameters({}))-Hershey Bears @ 
- Laval Rocket
+SUMMARY:🏒 | Hershey Bears @ Laval Rocket
+DTSTART;TZID="UTC-04:00":20270320T150000
+DTEND;TZID="UTC-04:00":20270320T173000
+UID:ahl1030072
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1030072
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Belleville Senators @ Laval Rocket
-DTSTART:20270321T210000Z
-DTEND:20270322T000000Z
-UID:vDDDTypes(2027-03-21 21:00:00+00:00\, Parameters({}))-Belleville Senat
- ors @ Laval Rocket
+SUMMARY:🏒 | Belleville Senators @ Laval Rocket
+DTSTART;TZID="UTC-04:00":20270321T170000
+DTEND;TZID="UTC-04:00":20270321T193000
+UID:ahl1030081
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1030081
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laval Rocket @ Belleville Senators
-DTSTART:20270324T230000Z
-DTEND:20270325T020000Z
-UID:vDDDTypes(2027-03-24 23:00:00+00:00\, Parameters({}))-Laval Rocket @ B
- elleville Senators
+SUMMARY:🏒 | Laval Rocket @ Belleville Senators
+DTSTART;TZID="UTC-04:00":20270324T190000
+DTEND;TZID="UTC-04:00":20270324T213000
+UID:ahl1030091
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1030091\nFlo
+ Hockey: https://flohockey.tv/events/16052556
 LOCATION:CAA Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Springfield Thunderbirds @ Laval Rocket
-DTSTART:20270326T230000Z
-DTEND:20270327T020000Z
-UID:vDDDTypes(2027-03-26 23:00:00+00:00\, Parameters({}))-Springfield Thun
- derbirds @ Laval Rocket
+SUMMARY:🏒 | Springfield Thunderbirds @ Laval Rocket
+DTSTART;TZID="UTC-04:00":20270326T190000
+DTEND;TZID="UTC-04:00":20270326T213000
+UID:ahl1030109
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1030109
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Springfield Thunderbirds @ Laval Rocket
-DTSTART:20270327T190000Z
-DTEND:20270327T220000Z
-UID:vDDDTypes(2027-03-27 19:00:00+00:00\, Parameters({}))-Springfield Thun
- derbirds @ Laval Rocket
+SUMMARY:🏒 | Springfield Thunderbirds @ Laval Rocket
+DTSTART;TZID="UTC-04:00":20270327T150000
+DTEND;TZID="UTC-04:00":20270327T173000
+UID:ahl1030124
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1030124
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Belleville Senators @ Laval Rocket
-DTSTART:20270331T230000Z
-DTEND:20270401T020000Z
-UID:vDDDTypes(2027-03-31 23:00:00+00:00\, Parameters({}))-Belleville Senat
- ors @ Laval Rocket
+SUMMARY:🏒 | Belleville Senators @ Laval Rocket
+DTSTART;TZID="UTC-04:00":20270331T190000
+DTEND;TZID="UTC-04:00":20270331T213000
+UID:ahl1030135
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1030135
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Manitoba Moose @ Laval Rocket
-DTSTART:20270402T230000Z
-DTEND:20270403T020000Z
-UID:vDDDTypes(2027-04-02 23:00:00+00:00\, Parameters({}))-Manitoba Moose @
-  Laval Rocket
+SUMMARY:🏒 | Manitoba Moose @ Laval Rocket
+DTSTART;TZID="UTC-04:00":20270402T190000
+DTEND;TZID="UTC-04:00":20270402T213000
+UID:ahl1030149
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1030149
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Manitoba Moose @ Laval Rocket
-DTSTART:20270403T190000Z
-DTEND:20270403T220000Z
-UID:vDDDTypes(2027-04-03 19:00:00+00:00\, Parameters({}))-Manitoba Moose @
-  Laval Rocket
+SUMMARY:🏒 | Manitoba Moose @ Laval Rocket
+DTSTART;TZID="UTC-04:00":20270403T150000
+DTEND;TZID="UTC-04:00":20270403T173000
+UID:ahl1030160
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1030160
 LOCATION:Place Bell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laval Rocket @ Hamilton Hammers
-DTSTART:20270408T230000Z
-DTEND:20270409T020000Z
-UID:vDDDTypes(2027-04-08 23:00:00+00:00\, Parameters({}))-Laval Rocket @ H
- amilton Hammers
+SUMMARY:🏒 | Laval Rocket @ Hamilton Hammers
+DTSTART;TZID="UTC-04:00":20270408T190000
+DTEND;TZID="UTC-04:00":20270408T213000
+UID:ahl1030190
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1030190\nFlo
+ Hockey: https://flohockey.tv/events/16051751
 LOCATION:TD Coliseum
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laval Rocket @ Hamilton Hammers
-DTSTART:20270410T190000Z
-DTEND:20270410T220000Z
-UID:vDDDTypes(2027-04-10 19:00:00+00:00\, Parameters({}))-Laval Rocket @ H
- amilton Hammers
+SUMMARY:🏒 | Laval Rocket @ Hamilton Hammers
+DTSTART;TZID="UTC-04:00":20270410T150000
+DTEND;TZID="UTC-04:00":20270410T173000
+UID:ahl1030205
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1030205\nFlo
+ Hockey: https://flohockey.tv/events/16053241
 LOCATION:TD Coliseum
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laval Rocket @ Toronto Marlies
-DTSTART:20270411T200000Z
-DTEND:20270411T230000Z
-UID:vDDDTypes(2027-04-11 20:00:00+00:00\, Parameters({}))-Laval Rocket @ T
- oronto Marlies
+SUMMARY:🏒 | Laval Rocket @ Toronto Marlies
+DTSTART;TZID="UTC-04:00":20270411T160000
+DTEND;TZID="UTC-04:00":20270411T183000
+UID:ahl1030222
+DESCRIPTION:Game Center: https://theahl.com/stats/game-center/1030222
 LOCATION:Coca-Cola Coliseum
 END:VEVENT
 END:VCALENDAR
