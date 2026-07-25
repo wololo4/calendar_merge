@@ -11,11 +11,6 @@ UID:echl25493
 DESCRIPTION:Game Center: https://echl.com/games/2026/10/16/trois-rivieres-
  lions-vs-trenton-ironhawks
 LOCATION:Colisée Vidéotron
-=======
-DTEND;TZID="UTC-04:00":20261016T220000
-UID:https://lions3r.com/fr/matchs/2026/10/16/trenton-ironhawks
-DESCRIPTION:Trenton Ironhawks at Trois-Rivières Lions
-LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Worcester Railers
@@ -47,10 +42,11 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Norfolk Admirals
 DTSTART;TZID="UTC-04:00":20261025T150500
-DTEND;TZID="UTC-04:00":20261025T180500
-UID:https://lions3r.com/fr/matchs/2026/10/25/norfolk-admirals
-DESCRIPTION:Trois-Rivières Lions at Norfolk Admirals
-LOCATION:Norfolk Scope\, Norfolk\, Virginia
+DTEND;TZID="UTC-04:00":20261025T173500
+UID:echl25540
+DESCRIPTION:Game Center: https://echl.com/games/2026/10/25/norfolk-admiral
+ s-vs-trois-rivieres-lions
+LOCATION:Norfolk Scope
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Maine Mariners @ Trois-Rivières Lions
@@ -213,10 +209,6 @@ UID:echl25830
 DESCRIPTION:Game Center: https://echl.com/games/2026/12/12/reading-royals-
  vs-trois-rivieres-lions
 LOCATION:Santander Arena
-DTEND;TZID="UTC-05:00":20261212T220000
-UID:https://lions3r.com/fr/matchs/2026/12/12/reading-royals
-DESCRIPTION:Trois-Rivières Lions at Reading Royals
-LOCATION:Santander Arena\, Reading\, Pennsylvania
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Norfolk Admirals @ Trois-Rivières Lions

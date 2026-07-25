@@ -744,8 +744,10 @@ DTSTART:20270310T000000Z
 DTEND:20270310T023000Z
 UID:nhl2026021094
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
- er/mtl-vs-nyi/2027/03/09/2026021094\nTickets: https://www.nhl.com/islander
- s/tickets/
+ er/mtl-vs-nyi/2027/03/09/2026021094\nTickets: https://www.ticketmaster.com
+ /new-york-islanders-vs-montreal-canadiens-belmont-park-new-york-03-09-2027
+ /event/300064E2D30962BC?utm_source=nyi_website&utm_medium=schedulepage&utm
+ _campaign=nyi_belmontdepositcampaign&utm_content=030927tickets
 LOCATION:UBS Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -866,8 +868,10 @@ DTSTART:20270404T233000Z
 DTEND:20270405T020000Z
 UID:nhl2026021294
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
- er/mtl-vs-nyi/2027/04/04/2026021294\nTickets: https://www.nhl.com/islander
- s/tickets/
+ er/mtl-vs-nyi/2027/04/04/2026021294\nTickets: https://www.ticketmaster.com
+ /new-york-islanders-vs-montreal-canadiens-belmont-park-new-york-04-04-2027
+ /event/300064E2D3336309?utm_source=nyi_website&utm_medium=schedulepage&utm
+ _campaign=nyi_belmontdepositcampaign&utm_content=040427tickets
 LOCATION:UBS Arena
 END:VEVENT
 BEGIN:VEVENT
