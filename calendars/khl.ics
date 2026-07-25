@@ -7,8 +7,7 @@ BEGIN:VEVENT
 SUMMARY: Северсталь - Салават Юлаев
 DTSTART;TZID="UTC+03:00":20260905T000000
 DTEND;TZID="UTC+03:00":20260905T023000
-UID:vDDDTypes(2026-09-05 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Северсталь - Салават Юлаев
+UID:901980
 DESCRIPTION:Место проведения: Череповец МАУ «
  Ледовый Дворец»\n\n \n\n
 END:VEVENT
@@ -16,8 +15,7 @@ BEGIN:VEVENT
 SUMMARY: Авангард - Салават Юлаев
 DTSTART;TZID="UTC+03:00":20260907T000000
 DTEND;TZID="UTC+03:00":20260907T023000
-UID:vDDDTypes(2026-09-07 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Авангард - Салават Юлаев
+UID:901989
 DESCRIPTION:Место проведения: Омск «G-Drive Арена
  »\n\n \n\n
 END:VEVENT
@@ -25,8 +23,7 @@ BEGIN:VEVENT
 SUMMARY: Барыс - Салават Юлаев
 DTSTART;TZID="UTC+03:00":20260909T000000
 DTEND;TZID="UTC+03:00":20260909T023000
-UID:vDDDTypes(2026-09-09 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Барыс - Салават Юлаев
+UID:901998
 DESCRIPTION:Место проведения: Астана «Барыс А
  рена»\n\n \n\n
 END:VEVENT
@@ -34,8 +31,7 @@ BEGIN:VEVENT
 SUMMARY: Салават Юлаев - Ак Барс
 DTSTART;TZID="UTC+03:00":20260916T000000
 DTEND;TZID="UTC+03:00":20260916T023000
-UID:vDDDTypes(2026-09-16 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Салават Юлаев - Ак Барс
+UID:902022
 DESCRIPTION:Место проведения: Уфа УСА «Уфа-Аре
  на»\n\n \n\n
 END:VEVENT
@@ -43,8 +39,7 @@ BEGIN:VEVENT
 SUMMARY: Салават Юлаев - Нефтехимик
 DTSTART;TZID="UTC+03:00":20260918T000000
 DTEND;TZID="UTC+03:00":20260918T023000
-UID:vDDDTypes(2026-09-18 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Салават Юлаев - Нефтехимик
+UID:902034
 DESCRIPTION:Место проведения: Уфа УСА «Уфа-Аре
  на»\n\n \n\n
 END:VEVENT
@@ -52,8 +47,7 @@ BEGIN:VEVENT
 SUMMARY: Салават Юлаев - Спартак
 DTSTART;TZID="UTC+03:00":20260920T000000
 DTEND;TZID="UTC+03:00":20260920T023000
-UID:vDDDTypes(2026-09-20 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Салават Юлаев - Спартак
+UID:902040
 DESCRIPTION:Место проведения: Уфа УСА «Уфа-Аре
  на»\n\n \n\n
 END:VEVENT
@@ -61,8 +55,7 @@ BEGIN:VEVENT
 SUMMARY: Салават Юлаев - Металлург Мг
 DTSTART;TZID="UTC+03:00":20260923T000000
 DTEND;TZID="UTC+03:00":20260923T023000
-UID:vDDDTypes(2026-09-23 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Салават Юлаев - Металлург Мг
+UID:902054
 DESCRIPTION:Место проведения: Уфа УСА «Уфа-Аре
  на»\n\n \n\n
 END:VEVENT
@@ -70,8 +63,7 @@ BEGIN:VEVENT
 SUMMARY: Динамо М - Салават Юлаев
 DTSTART;TZID="UTC+03:00":20260926T000000
 DTEND;TZID="UTC+03:00":20260926T023000
-UID:vDDDTypes(2026-09-26 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Динамо М - Салават Юлаев
+UID:902064
 DESCRIPTION:Место проведения: Москва «ВТБ Аре
  на»\n\n \n\n
 END:VEVENT
@@ -79,8 +71,7 @@ BEGIN:VEVENT
 SUMMARY: Торпедо - Салават Юлаев
 DTSTART;TZID="UTC+03:00":20260928T000000
 DTEND;TZID="UTC+03:00":20260928T023000
-UID:vDDDTypes(2026-09-28 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Торпедо - Салават Юлаев
+UID:902074
 DESCRIPTION:Место проведения: Нижний Новгород
   КРК «Нагорный»\n\n \n\n
 END:VEVENT
@@ -88,8 +79,7 @@ BEGIN:VEVENT
 SUMMARY: ХК Сочи - Салават Юлаев
 DTSTART;TZID="UTC+03:00":20260930T000000
 DTEND;TZID="UTC+03:00":20260930T023000
-UID:vDDDTypes(2026-09-30 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-ХК Сочи - Салават Юлаев
+UID:902080
 DESCRIPTION:Место проведения: ФТ Сириус ДС «Бо
  льшой»\n\n \n\n
 END:VEVENT
@@ -97,8 +87,7 @@ BEGIN:VEVENT
 SUMMARY: Салават Юлаев - Сибирь
 DTSTART;TZID="UTC+03:00":20261002T000000
 DTEND;TZID="UTC+03:00":20261002T023000
-UID:vDDDTypes(2026-10-02 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Салават Юлаев - Сибирь
+UID:902090
 DESCRIPTION:Место проведения: Уфа УСА «Уфа-Аре
  на»\n\n \n\n
 END:VEVENT
@@ -106,8 +95,7 @@ BEGIN:VEVENT
 SUMMARY: ЦСКА - Салават Юлаев
 DTSTART;TZID="UTC+03:00":20261005T193000
 DTEND;TZID="UTC+03:00":20261005T220000
-UID:vDDDTypes(2026-10-05 19:30:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-ЦСКА - Салават Юлаев
+UID:902102
 DESCRIPTION:Место проведения: Москва МСК «ЦСК
  А Арена»\n\n \n\n
 END:VEVENT
@@ -115,8 +103,7 @@ BEGIN:VEVENT
 SUMMARY: Сибирь - Салават Юлаев
 DTSTART;TZID="UTC+03:00":20261007T000000
 DTEND;TZID="UTC+03:00":20261007T023000
-UID:vDDDTypes(2026-10-07 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Сибирь - Салават Юлаев
+UID:902110
 DESCRIPTION:Место проведения: Новосибирск «Си
  бирь-Арена»\n\n \n\n
 END:VEVENT
@@ -124,8 +111,7 @@ BEGIN:VEVENT
 SUMMARY: Металлург Мг - Салават Юлаев
 DTSTART;TZID="UTC+03:00":20261009T000000
 DTEND;TZID="UTC+03:00":20261009T023000
-UID:vDDDTypes(2026-10-09 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Металлург Мг - Салават Юлаев
+UID:902120
 DESCRIPTION:Место проведения: Магнитогорск УК
  РК «Арена Металлург»\n\n \n\n
 END:VEVENT
@@ -133,8 +119,7 @@ BEGIN:VEVENT
 SUMMARY: Салават Юлаев - Нефтехимик
 DTSTART;TZID="UTC+03:00":20261012T000000
 DTEND;TZID="UTC+03:00":20261012T023000
-UID:vDDDTypes(2026-10-12 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Салават Юлаев - Нефтехимик
+UID:902128
 DESCRIPTION:Место проведения: Уфа УСА «Уфа-Аре
  на»\n\n \n\n
 END:VEVENT
@@ -142,8 +127,7 @@ BEGIN:VEVENT
 SUMMARY: Салават Юлаев - Сибирь
 DTSTART;TZID="UTC+03:00":20261014T000000
 DTEND;TZID="UTC+03:00":20261014T023000
-UID:vDDDTypes(2026-10-14 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Салават Юлаев - Сибирь
+UID:902135
 DESCRIPTION:Место проведения: Уфа УСА «Уфа-Аре
  на»\n\n \n\n
 END:VEVENT
@@ -151,8 +135,7 @@ BEGIN:VEVENT
 SUMMARY: Амур - Салават Юлаев
 DTSTART;TZID="UTC+03:00":20261017T000000
 DTEND;TZID="UTC+03:00":20261017T023000
-UID:vDDDTypes(2026-10-17 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Амур - Салават Юлаев
+UID:902150
 DESCRIPTION:Место проведения: Хабаровск СЗК «
  Платинум Арена»\n\n \n\n
 END:VEVENT
@@ -160,8 +143,7 @@ BEGIN:VEVENT
 SUMMARY: Адмирал - Салават Юлаев
 DTSTART;TZID="UTC+03:00":20261019T000000
 DTEND;TZID="UTC+03:00":20261019T023000
-UID:vDDDTypes(2026-10-19 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Адмирал - Салават Юлаев
+UID:902159
 DESCRIPTION:Место проведения: Владивосток КСК
   «Фетисов Арена»\n\n \n\n
 END:VEVENT
@@ -169,8 +151,7 @@ BEGIN:VEVENT
 SUMMARY: Металлург Мг - Салават Юлаев
 DTSTART;TZID="UTC+03:00":20261021T000000
 DTEND;TZID="UTC+03:00":20261021T023000
-UID:vDDDTypes(2026-10-21 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Металлург Мг - Салават Юлаев
+UID:902164
 DESCRIPTION:Место проведения: Магнитогорск УК
  РК «Арена Металлург»\n\n \n\n
 END:VEVENT
@@ -178,8 +159,7 @@ BEGIN:VEVENT
 SUMMARY: Салават Юлаев - Ак Барс
 DTSTART;TZID="UTC+03:00":20261025T000000
 DTEND;TZID="UTC+03:00":20261025T023000
-UID:vDDDTypes(2026-10-25 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Салават Юлаев - Ак Барс
+UID:902178
 DESCRIPTION:Место проведения: Уфа УСА «Уфа-Аре
  на»\n\n \n\n
 END:VEVENT
@@ -187,8 +167,7 @@ BEGIN:VEVENT
 SUMMARY: Салават Юлаев - ХК Сочи
 DTSTART;TZID="UTC+03:00":20261027T000000
 DTEND;TZID="UTC+03:00":20261027T023000
-UID:vDDDTypes(2026-10-27 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Салават Юлаев - ХК Сочи
+UID:902187
 DESCRIPTION:Место проведения: Уфа УСА «Уфа-Аре
  на»\n\n \n\n
 END:VEVENT
@@ -196,8 +175,7 @@ BEGIN:VEVENT
 SUMMARY: Драконы - Салават Юлаев
 DTSTART;TZID="UTC+03:00":20261101T000000
 DTEND;TZID="UTC+03:00":20261101T023000
-UID:vDDDTypes(2026-11-01 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Драконы - Салават Юлаев
+UID:902210
 DESCRIPTION:Место проведения: Санкт-Петербург
   «СКА Арена»\n\n \n\n
 END:VEVENT
@@ -205,8 +183,7 @@ BEGIN:VEVENT
 SUMMARY: Салават Юлаев - Лада
 DTSTART;TZID="UTC+03:00":20261104T000000
 DTEND;TZID="UTC+03:00":20261104T023000
-UID:vDDDTypes(2026-11-04 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Салават Юлаев - Лада
+UID:902222
 DESCRIPTION:Место проведения: Уфа УСА «Уфа-Аре
  на»\n\n \n\n
 END:VEVENT
@@ -214,8 +191,7 @@ BEGIN:VEVENT
 SUMMARY: Салават Юлаев - Автомобилист
 DTSTART;TZID="UTC+03:00":20261106T000000
 DTEND;TZID="UTC+03:00":20261106T023000
-UID:vDDDTypes(2026-11-06 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Салават Юлаев - Автомобилист
+UID:902231
 DESCRIPTION:Место проведения: Уфа УСА «Уфа-Аре
  на»\n\n \n\n
 END:VEVENT
@@ -223,8 +199,7 @@ BEGIN:VEVENT
 SUMMARY: Нефтехимик - Салават Юлаев
 DTSTART;TZID="UTC+03:00":20261110T000000
 DTEND;TZID="UTC+03:00":20261110T023000
-UID:vDDDTypes(2026-11-10 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Нефтехимик - Салават Юлаев
+UID:902245
 DESCRIPTION:Место проведения: Нижнекамск ЛД «
  Нефтехим Арена»\n\n \n\n
 END:VEVENT
@@ -232,8 +207,7 @@ BEGIN:VEVENT
 SUMMARY: Салават Юлаев - Ак Барс
 DTSTART;TZID="UTC+03:00":20261112T000000
 DTEND;TZID="UTC+03:00":20261112T023000
-UID:vDDDTypes(2026-11-12 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Салават Юлаев - Ак Барс
+UID:902252
 DESCRIPTION:Место проведения: Уфа УСА «Уфа-Аре
  на»\n\n \n\n
 END:VEVENT
@@ -241,8 +215,7 @@ BEGIN:VEVENT
 SUMMARY: Салават Юлаев - Адмирал
 DTSTART;TZID="UTC+03:00":20261116T000000
 DTEND;TZID="UTC+03:00":20261116T023000
-UID:vDDDTypes(2026-11-16 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Салават Юлаев - Адмирал
+UID:902266
 DESCRIPTION:Место проведения: Уфа УСА «Уфа-Аре
  на»\n\n \n\n
 END:VEVENT
@@ -250,8 +223,7 @@ BEGIN:VEVENT
 SUMMARY: Салават Юлаев - Барыс
 DTSTART;TZID="UTC+03:00":20261118T000000
 DTEND;TZID="UTC+03:00":20261118T023000
-UID:vDDDTypes(2026-11-18 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Салават Юлаев - Барыс
+UID:902278
 DESCRIPTION:Место проведения: Уфа УСА «Уфа-Аре
  на»\n\n \n\n
 END:VEVENT
@@ -259,8 +231,7 @@ BEGIN:VEVENT
 SUMMARY: Салават Юлаев - Нефтехимик
 DTSTART;TZID="UTC+03:00":20261124T000000
 DTEND;TZID="UTC+03:00":20261124T023000
-UID:vDDDTypes(2026-11-24 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Салават Юлаев - Нефтехимик
+UID:902296
 DESCRIPTION:Место проведения: Уфа УСА «Уфа-Аре
  на»\n\n \n\n
 END:VEVENT
@@ -268,8 +239,7 @@ BEGIN:VEVENT
 SUMMARY: Салават Юлаев - Динамо Мн
 DTSTART;TZID="UTC+03:00":20261126T000000
 DTEND;TZID="UTC+03:00":20261126T023000
-UID:vDDDTypes(2026-11-26 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Салават Юлаев - Динамо Мн
+UID:902308
 DESCRIPTION:Место проведения: Уфа УСА «Уфа-Аре
  на»\n\n \n\n
 END:VEVENT
@@ -277,8 +247,7 @@ BEGIN:VEVENT
 SUMMARY: СКА - Салават Юлаев
 DTSTART;TZID="UTC+03:00":20261129T000000
 DTEND;TZID="UTC+03:00":20261129T023000
-UID:vDDDTypes(2026-11-29 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-СКА - Салават Юлаев
+UID:902316
 DESCRIPTION:Место проведения: Санкт-Петербург
   «СКА Арена»\n\n \n\n
 END:VEVENT
@@ -286,8 +255,7 @@ BEGIN:VEVENT
 SUMMARY: Ак Барс - Салават Юлаев
 DTSTART;TZID="UTC+03:00":20261201T000000
 DTEND;TZID="UTC+03:00":20261201T023000
-UID:vDDDTypes(2026-12-01 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Ак Барс - Салават Юлаев
+UID:902323
 DESCRIPTION:Место проведения: Казань ЛДС «Тат
  нефть Арена»\n\n \n\n
 END:VEVENT
@@ -295,8 +263,7 @@ BEGIN:VEVENT
 SUMMARY: Салават Юлаев - Амур
 DTSTART;TZID="UTC+03:00":20261204T000000
 DTEND;TZID="UTC+03:00":20261204T023000
-UID:vDDDTypes(2026-12-04 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Салават Юлаев - Амур
+UID:902339
 DESCRIPTION:Место проведения: Уфа УСА «Уфа-Аре
  на»\n\n \n\n
 END:VEVENT
@@ -304,8 +271,7 @@ BEGIN:VEVENT
 SUMMARY: Салават Юлаев - Северсталь
 DTSTART;TZID="UTC+03:00":20261206T000000
 DTEND;TZID="UTC+03:00":20261206T023000
-UID:vDDDTypes(2026-12-06 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Салават Юлаев - Северсталь
+UID:902348
 DESCRIPTION:Место проведения: Уфа УСА «Уфа-Аре
  на»\n\n \n\n
 END:VEVENT
@@ -313,8 +279,7 @@ BEGIN:VEVENT
 SUMMARY: Ак Барс - Салават Юлаев
 DTSTART;TZID="UTC+03:00":20261216T000000
 DTEND;TZID="UTC+03:00":20261216T023000
-UID:vDDDTypes(2026-12-16 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Ак Барс - Салават Юлаев
+UID:902357
 DESCRIPTION:Место проведения: Казань ЛДС «Тат
  нефть Арена»\n\n \n\n
 END:VEVENT
@@ -322,8 +287,7 @@ BEGIN:VEVENT
 SUMMARY: Салават Юлаев - Адмирал
 DTSTART;TZID="UTC+03:00":20261219T000000
 DTEND;TZID="UTC+03:00":20261219T023000
-UID:vDDDTypes(2026-12-19 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Салават Юлаев - Адмирал
+UID:902372
 DESCRIPTION:Место проведения: Уфа УСА «Уфа-Аре
  на»\n\n \n\n
 END:VEVENT
@@ -331,8 +295,7 @@ BEGIN:VEVENT
 SUMMARY: Динамо Мн - Салават Юлаев
 DTSTART;TZID="UTC+03:00":20261221T000000
 DTEND;TZID="UTC+03:00":20261221T023000
-UID:vDDDTypes(2026-12-21 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Динамо Мн - Салават Юлаев
+UID:902379
 DESCRIPTION:Место проведения: Минск МКСК «Мин
  ск-Арена»\n\n \n\n
 END:VEVENT
@@ -340,8 +303,7 @@ BEGIN:VEVENT
 SUMMARY: Нефтехимик - Салават Юлаев
 DTSTART;TZID="UTC+03:00":20261223T000000
 DTEND;TZID="UTC+03:00":20261223T023000
-UID:vDDDTypes(2026-12-23 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Нефтехимик - Салават Юлаев
+UID:902384
 DESCRIPTION:Место проведения: Нижнекамск ЛД «
  Нефтехим Арена»\n\n \n\n
 END:VEVENT
@@ -349,8 +311,7 @@ BEGIN:VEVENT
 SUMMARY: Салават Юлаев - Автомобилист
 DTSTART;TZID="UTC+03:00":20261226T000000
 DTEND;TZID="UTC+03:00":20261226T023000
-UID:vDDDTypes(2026-12-26 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Салават Юлаев - Автомобилист
+UID:902397
 DESCRIPTION:Место проведения: Уфа УСА «Уфа-Аре
  на»\n\n \n\n
 END:VEVENT
@@ -358,8 +319,7 @@ BEGIN:VEVENT
 SUMMARY: Салават Юлаев - Металлург Мг
 DTSTART;TZID="UTC+03:00":20261228T000000
 DTEND;TZID="UTC+03:00":20261228T023000
-UID:vDDDTypes(2026-12-28 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Салават Юлаев - Металлург Мг
+UID:902406
 DESCRIPTION:Место проведения: Уфа УСА «Уфа-Аре
  на»\n\n \n\n
 END:VEVENT
@@ -367,8 +327,7 @@ BEGIN:VEVENT
 SUMMARY: Нефтехимик - Салават Юлаев
 DTSTART;TZID="UTC+03:00":20270104T000000
 DTEND;TZID="UTC+03:00":20270104T023000
-UID:vDDDTypes(2027-01-04 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Нефтехимик - Салават Юлаев
+UID:902427
 DESCRIPTION:Место проведения: Нижнекамск ЛД «
  Нефтехим Арена»\n\n \n\n
 END:VEVENT
@@ -376,8 +335,7 @@ BEGIN:VEVENT
 SUMMARY: Трактор - Салават Юлаев
 DTSTART;TZID="UTC+03:00":20270106T000000
 DTEND;TZID="UTC+03:00":20270106T023000
-UID:vDDDTypes(2027-01-06 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Трактор - Салават Юлаев
+UID:902436
 DESCRIPTION:Место проведения: Челябинск ЛА «Т
  рактор» им. В. Белоусова\n\n \n\n
 END:VEVENT
@@ -385,8 +343,7 @@ BEGIN:VEVENT
 SUMMARY: Авангард - Салават Юлаев
 DTSTART;TZID="UTC+03:00":20270108T000000
 DTEND;TZID="UTC+03:00":20270108T023000
-UID:vDDDTypes(2027-01-08 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Авангард - Салават Юлаев
+UID:902445
 DESCRIPTION:Место проведения: Омск «G-Drive Арена
  »\n\n \n\n
 END:VEVENT
@@ -394,8 +351,7 @@ BEGIN:VEVENT
 SUMMARY: Салават Юлаев - Авангард
 DTSTART;TZID="UTC+03:00":20270111T000000
 DTEND;TZID="UTC+03:00":20270111T023000
-UID:vDDDTypes(2027-01-11 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Салават Юлаев - Авангард
+UID:902455
 DESCRIPTION:Место проведения: Уфа УСА «Уфа-Аре
  на»\n\n \n\n
 END:VEVENT
@@ -403,8 +359,7 @@ BEGIN:VEVENT
 SUMMARY: Салават Юлаев - Локомотив
 DTSTART;TZID="UTC+03:00":20270113T000000
 DTEND;TZID="UTC+03:00":20270113T023000
-UID:vDDDTypes(2027-01-13 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Салават Юлаев - Локомотив
+UID:902466
 DESCRIPTION:Место проведения: Уфа УСА «Уфа-Аре
  на»\n\n \n\n
 END:VEVENT
@@ -412,8 +367,7 @@ BEGIN:VEVENT
 SUMMARY: Салават Юлаев - Трактор
 DTSTART;TZID="UTC+03:00":20270115T000000
 DTEND;TZID="UTC+03:00":20270115T023000
-UID:vDDDTypes(2027-01-15 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Салават Юлаев - Трактор
+UID:902472
 DESCRIPTION:Место проведения: Уфа УСА «Уфа-Аре
  на»\n\n \n\n
 END:VEVENT
@@ -421,8 +375,7 @@ BEGIN:VEVENT
 SUMMARY: Трактор - Салават Юлаев
 DTSTART;TZID="UTC+03:00":20270119T000000
 DTEND;TZID="UTC+03:00":20270119T023000
-UID:vDDDTypes(2027-01-19 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Трактор - Салават Юлаев
+UID:902489
 DESCRIPTION:Место проведения: Челябинск ЛА «Т
  рактор» им. В. Белоусова\n\n \n\n
 END:VEVENT
@@ -430,8 +383,7 @@ BEGIN:VEVENT
 SUMMARY: Спартак - Салават Юлаев
 DTSTART;TZID="UTC+03:00":20270121T000000
 DTEND;TZID="UTC+03:00":20270121T023000
-UID:vDDDTypes(2027-01-21 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Спартак - Салават Юлаев
+UID:902497
 DESCRIPTION:Место проведения: Москва ДС «Мега
  спорт»\n\n \n\n
 END:VEVENT
@@ -439,8 +391,7 @@ BEGIN:VEVENT
 SUMMARY: Локомотив - Салават Юлаев
 DTSTART;TZID="UTC+03:00":20270123T000000
 DTEND;TZID="UTC+03:00":20270123T023000
-UID:vDDDTypes(2027-01-23 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Локомотив - Салават Юлаев
+UID:902505
 DESCRIPTION:Место проведения: Ярославль УКРК 
  «Арена-2000-Локомотив»\n\n \n\n
 END:VEVENT
@@ -448,8 +399,7 @@ BEGIN:VEVENT
 SUMMARY: Салават Юлаев - Драконы
 DTSTART;TZID="UTC+03:00":20270126T000000
 DTEND;TZID="UTC+03:00":20270126T023000
-UID:vDDDTypes(2027-01-26 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Салават Юлаев - Драконы
+UID:902515
 DESCRIPTION:Место проведения: Уфа УСА «Уфа-Аре
  на»\n\n \n\n
 END:VEVENT
@@ -457,8 +407,7 @@ BEGIN:VEVENT
 SUMMARY: Лада - Салават Юлаев
 DTSTART;TZID="UTC+03:00":20270129T000000
 DTEND;TZID="UTC+03:00":20270129T023000
-UID:vDDDTypes(2027-01-29 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Лада - Салават Юлаев
+UID:902525
 DESCRIPTION:Место проведения: Тольятти ЛДС «Л
  ада-Арена»\n\n \n\n
 END:VEVENT
@@ -466,8 +415,7 @@ BEGIN:VEVENT
 SUMMARY: Автомобилист - Салават Юлаев
 DTSTART;TZID="UTC+03:00":20270131T000000
 DTEND;TZID="UTC+03:00":20270131T023000
-UID:vDDDTypes(2027-01-31 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Автомобилист - Салават Юлаев
+UID:902535
 DESCRIPTION:Место проведения: Екатеринбург «У
  ГМК Арена»\n\n \n\n
 END:VEVENT
@@ -475,8 +423,7 @@ BEGIN:VEVENT
 SUMMARY: Салават Юлаев - СКА
 DTSTART;TZID="UTC+03:00":20270203T000000
 DTEND;TZID="UTC+03:00":20270203T023000
-UID:vDDDTypes(2027-02-03 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Салават Юлаев - СКА
+UID:902550
 DESCRIPTION:Место проведения: Уфа УСА «Уфа-Аре
  на»\n\n \n\n
 END:VEVENT
@@ -484,8 +431,7 @@ BEGIN:VEVENT
 SUMMARY: Ак Барс - Салават Юлаев
 DTSTART;TZID="UTC+03:00":20270209T000000
 DTEND;TZID="UTC+03:00":20270209T023000
-UID:vDDDTypes(2027-02-09 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Ак Барс - Салават Юлаев
+UID:902557
 DESCRIPTION:Место проведения: Казань ЛДС «Тат
  нефть Арена»\n\n \n\n
 END:VEVENT
@@ -493,8 +439,7 @@ BEGIN:VEVENT
 SUMMARY: Автомобилист - Салават Юлаев
 DTSTART;TZID="UTC+03:00":20270211T000000
 DTEND;TZID="UTC+03:00":20270211T023000
-UID:vDDDTypes(2027-02-11 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Автомобилист - Салават Юлаев
+UID:902572
 DESCRIPTION:Место проведения: Екатеринбург «У
  ГМК Арена»\n\n \n\n
 END:VEVENT
@@ -502,8 +447,7 @@ BEGIN:VEVENT
 SUMMARY: Салават Юлаев - ЦСКА
 DTSTART;TZID="UTC+03:00":20270213T000000
 DTEND;TZID="UTC+03:00":20270213T023000
-UID:vDDDTypes(2027-02-13 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Салават Юлаев - ЦСКА
+UID:902582
 DESCRIPTION:Место проведения: Уфа УСА «Уфа-Аре
  на»\n\n \n\n
 END:VEVENT
@@ -511,8 +455,7 @@ BEGIN:VEVENT
 SUMMARY: Салават Юлаев - Амур
 DTSTART;TZID="UTC+03:00":20270215T000000
 DTEND;TZID="UTC+03:00":20270215T023000
-UID:vDDDTypes(2027-02-15 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Салават Юлаев - Амур
+UID:902587
 DESCRIPTION:Место проведения: Уфа УСА «Уфа-Аре
  на»\n\n \n\n
 END:VEVENT
@@ -520,8 +463,7 @@ BEGIN:VEVENT
 SUMMARY: Салават Юлаев - ХК Сочи
 DTSTART;TZID="UTC+03:00":20270218T000000
 DTEND;TZID="UTC+03:00":20270218T023000
-UID:vDDDTypes(2027-02-18 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Салават Юлаев - ХК Сочи
+UID:902597
 DESCRIPTION:Место проведения: Уфа УСА «Уфа-Аре
  на»\n\n \n\n
 END:VEVENT
@@ -529,8 +471,7 @@ BEGIN:VEVENT
 SUMMARY: Салават Юлаев - Динамо М
 DTSTART;TZID="UTC+03:00":20270220T000000
 DTEND;TZID="UTC+03:00":20270220T023000
-UID:vDDDTypes(2027-02-20 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Салават Юлаев - Динамо М
+UID:902608
 DESCRIPTION:Место проведения: Уфа УСА «Уфа-Аре
  на»\n\n \n\n
 END:VEVENT
@@ -538,8 +479,7 @@ BEGIN:VEVENT
 SUMMARY: ХК Сочи - Салават Юлаев
 DTSTART;TZID="UTC+03:00":20270223T000000
 DTEND;TZID="UTC+03:00":20270223T023000
-UID:vDDDTypes(2027-02-23 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-ХК Сочи - Салават Юлаев
+UID:902619
 DESCRIPTION:Место проведения: ФТ Сириус ДС «Бо
  льшой»\n\n \n\n
 END:VEVENT
@@ -547,8 +487,7 @@ BEGIN:VEVENT
 SUMMARY: Барыс - Салават Юлаев
 DTSTART;TZID="UTC+03:00":20270225T000000
 DTEND;TZID="UTC+03:00":20270225T023000
-UID:vDDDTypes(2027-02-25 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Барыс - Салават Юлаев
+UID:902630
 DESCRIPTION:Место проведения: Астана «Барыс А
  рена»\n\n \n\n
 END:VEVENT
@@ -556,8 +495,7 @@ BEGIN:VEVENT
 SUMMARY: Салават Юлаев - Торпедо
 DTSTART;TZID="UTC+03:00":20270301T000000
 DTEND;TZID="UTC+03:00":20270301T023000
-UID:vDDDTypes(2027-03-01 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Салават Юлаев - Торпедо
+UID:902644
 DESCRIPTION:Место проведения: Уфа УСА «Уфа-Аре
  на»\n\n \n\n
 END:VEVENT
@@ -565,8 +503,7 @@ BEGIN:VEVENT
 SUMMARY: Адмирал - Салават Юлаев
 DTSTART;TZID="UTC+03:00":20270306T000000
 DTEND;TZID="UTC+03:00":20270306T023000
-UID:vDDDTypes(2027-03-06 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Адмирал - Салават Юлаев
+UID:902662
 DESCRIPTION:Место проведения: Владивосток КСК
   «Фетисов Арена»\n\n \n\n
 END:VEVENT
@@ -574,8 +511,7 @@ BEGIN:VEVENT
 SUMMARY: Амур - Салават Юлаев
 DTSTART;TZID="UTC+03:00":20270308T000000
 DTEND;TZID="UTC+03:00":20270308T023000
-UID:vDDDTypes(2027-03-08 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Амур - Салават Юлаев
+UID:902671
 DESCRIPTION:Место проведения: Хабаровск СЗК «
  Платинум Арена»\n\n \n\n
 END:VEVENT
@@ -583,8 +519,7 @@ BEGIN:VEVENT
 SUMMARY: Сибирь - Салават Юлаев
 DTSTART;TZID="UTC+03:00":20270310T000000
 DTEND;TZID="UTC+03:00":20270310T023000
-UID:vDDDTypes(2027-03-10 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Сибирь - Салават Юлаев
+UID:902679
 DESCRIPTION:Место проведения: Новосибирск «Си
  бирь-Арена»\n\n \n\n
 END:VEVENT
@@ -592,8 +527,7 @@ BEGIN:VEVENT
 SUMMARY: Салават Юлаев - Авангард
 DTSTART;TZID="UTC+03:00":20270315T000000
 DTEND;TZID="UTC+03:00":20270315T023000
-UID:vDDDTypes(2027-03-15 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Салават Юлаев - Авангард
+UID:902698
 DESCRIPTION:Место проведения: Уфа УСА «Уфа-Аре
  на»\n\n \n\n
 END:VEVENT
@@ -601,8 +535,7 @@ BEGIN:VEVENT
 SUMMARY: Салават Юлаев - Барыс
 DTSTART;TZID="UTC+03:00":20270317T000000
 DTEND;TZID="UTC+03:00":20270317T023000
-UID:vDDDTypes(2027-03-17 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Салават Юлаев - Барыс
+UID:902707
 DESCRIPTION:Место проведения: Уфа УСА «Уфа-Аре
  на»\n\n \n\n
 END:VEVENT
@@ -610,8 +543,7 @@ BEGIN:VEVENT
 SUMMARY: Салават Юлаев - Трактор
 DTSTART;TZID="UTC+03:00":20270320T000000
 DTEND;TZID="UTC+03:00":20270320T023000
-UID:vDDDTypes(2027-03-20 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Салават Юлаев - Трактор
+UID:902719
 DESCRIPTION:Место проведения: Уфа УСА «Уфа-Аре
  на»\n\n \n\n
 END:VEVENT
@@ -619,8 +551,7 @@ BEGIN:VEVENT
 SUMMARY: Спартак - Торпедо
 DTSTART;TZID="UTC+03:00":20260905T000000
 DTEND;TZID="UTC+03:00":20260905T023000
-UID:vDDDTypes(2026-09-05 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Спартак - Торпедо
+UID:901979
 DESCRIPTION:Место проведения: Москва ДС «Мега
  спорт»\n\n \n\n
 END:VEVENT
@@ -628,8 +559,7 @@ BEGIN:VEVENT
 SUMMARY: Динамо Мн - Торпедо
 DTSTART;TZID="UTC+03:00":20260907T000000
 DTEND;TZID="UTC+03:00":20260907T023000
-UID:vDDDTypes(2026-09-07 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Динамо Мн - Торпедо
+UID:901986
 DESCRIPTION:Место проведения: Минск МКСК «Мин
  ск-Арена»\n\n \n\n
 END:VEVENT
@@ -637,8 +567,7 @@ BEGIN:VEVENT
 SUMMARY: ЦСКА - Торпедо
 DTSTART;TZID="UTC+03:00":20260909T193000
 DTEND;TZID="UTC+03:00":20260909T220000
-UID:vDDDTypes(2026-09-09 19:30:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-ЦСКА - Торпедо
+UID:901997
 DESCRIPTION:Место проведения: Москва МСК «ЦСК
  А Арена»\n\n \n\n
 END:VEVENT
@@ -646,8 +575,7 @@ BEGIN:VEVENT
 SUMMARY: Лада - Торпедо
 DTSTART;TZID="UTC+03:00":20260911T000000
 DTEND;TZID="UTC+03:00":20260911T023000
-UID:vDDDTypes(2026-09-11 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Лада - Торпедо
+UID:902007
 DESCRIPTION:Место проведения: Тольятти ЛДС «Л
  ада-Арена»\n\n \n\n
 END:VEVENT
@@ -655,8 +583,7 @@ BEGIN:VEVENT
 SUMMARY: Торпедо - Ак Барс
 DTSTART;TZID="UTC+03:00":20260914T000000
 DTEND;TZID="UTC+03:00":20260914T023000
-UID:vDDDTypes(2026-09-14 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Торпедо - Ак Барс
+UID:902018
 DESCRIPTION:Место проведения: Нижний Новгород
   КРК «Нагорный»\n\n \n\n
 END:VEVENT
@@ -664,8 +591,7 @@ BEGIN:VEVENT
 SUMMARY: Торпедо - ЦСКА
 DTSTART;TZID="UTC+03:00":20260918T000000
 DTEND;TZID="UTC+03:00":20260918T023000
-UID:vDDDTypes(2026-09-18 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Торпедо - ЦСКА
+UID:902035
 DESCRIPTION:Место проведения: Нижний Новгород
   КРК «Нагорный»\n\n \n\n
 END:VEVENT
@@ -673,8 +599,7 @@ BEGIN:VEVENT
 SUMMARY: Торпедо - Авангард
 DTSTART;TZID="UTC+03:00":20260922T000000
 DTEND;TZID="UTC+03:00":20260922T023000
-UID:vDDDTypes(2026-09-22 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Торпедо - Авангард
+UID:902049
 DESCRIPTION:Место проведения: Нижний Новгород
   КРК «Нагорный»\n\n \n\n
 END:VEVENT
@@ -682,8 +607,7 @@ BEGIN:VEVENT
 SUMMARY: Торпедо - ХК Сочи
 DTSTART;TZID="UTC+03:00":20260924T000000
 DTEND;TZID="UTC+03:00":20260924T023000
-UID:vDDDTypes(2026-09-24 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Торпедо - ХК Сочи
+UID:902055
 DESCRIPTION:Место проведения: Нижний Новгород
   КРК «Нагорный»\n\n \n\n
 END:VEVENT
@@ -691,8 +615,7 @@ BEGIN:VEVENT
 SUMMARY: Динамо М - Торпедо
 DTSTART;TZID="UTC+03:00":20261001T000000
 DTEND;TZID="UTC+03:00":20261001T023000
-UID:vDDDTypes(2026-10-01 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Динамо М - Торпедо
+UID:902087
 DESCRIPTION:Место проведения: Москва «ВТБ Аре
  на»\n\n \n\n
 END:VEVENT
@@ -700,8 +623,7 @@ BEGIN:VEVENT
 SUMMARY: ХК Сочи - Торпедо
 DTSTART;TZID="UTC+03:00":20261003T000000
 DTEND;TZID="UTC+03:00":20261003T023000
-UID:vDDDTypes(2026-10-03 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-ХК Сочи - Торпедо
+UID:902097
 DESCRIPTION:Место проведения: ФТ Сириус ДС «Бо
  льшой»\n\n \n\n
 END:VEVENT
@@ -709,8 +631,7 @@ BEGIN:VEVENT
 SUMMARY: Динамо Мн - Торпедо
 DTSTART;TZID="UTC+03:00":20261005T000000
 DTEND;TZID="UTC+03:00":20261005T023000
-UID:vDDDTypes(2026-10-05 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Динамо Мн - Торпедо
+UID:902105
 DESCRIPTION:Место проведения: Минск МКСК «Мин
  ск-Арена»\n\n \n\n
 END:VEVENT
@@ -718,8 +639,7 @@ BEGIN:VEVENT
 SUMMARY: Торпедо - Северсталь
 DTSTART;TZID="UTC+03:00":20261008T000000
 DTEND;TZID="UTC+03:00":20261008T023000
-UID:vDDDTypes(2026-10-08 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Торпедо - Северсталь
+UID:902115
 DESCRIPTION:Место проведения: Нижний Новгород
   КРК «Нагорный»\n\n \n\n
 END:VEVENT
@@ -727,8 +647,7 @@ BEGIN:VEVENT
 SUMMARY: Торпедо - Металлург Мг
 DTSTART;TZID="UTC+03:00":20261012T000000
 DTEND;TZID="UTC+03:00":20261012T023000
-UID:vDDDTypes(2026-10-12 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Торпедо - Металлург Мг
+UID:902132
 DESCRIPTION:Место проведения: Нижний Новгород
   КРК «Нагорный»\n\n \n\n
 END:VEVENT
@@ -736,8 +655,7 @@ BEGIN:VEVENT
 SUMMARY: Торпедо - ХК Сочи
 DTSTART;TZID="UTC+03:00":20261014T000000
 DTEND;TZID="UTC+03:00":20261014T023000
-UID:vDDDTypes(2026-10-14 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Торпедо - ХК Сочи
+UID:902134
 DESCRIPTION:Место проведения: Нижний Новгород
   КРК «Нагорный»\n\n \n\n
 END:VEVENT
@@ -745,8 +663,7 @@ BEGIN:VEVENT
 SUMMARY: Торпедо - Динамо М
 DTSTART;TZID="UTC+03:00":20261016T000000
 DTEND;TZID="UTC+03:00":20261016T023000
-UID:vDDDTypes(2026-10-16 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Торпедо - Динамо М
+UID:902147
 DESCRIPTION:Место проведения: Нижний Новгород
   КРК «Нагорный»\n\n \n\n
 END:VEVENT
@@ -754,8 +671,7 @@ BEGIN:VEVENT
 SUMMARY: Северсталь - Торпедо
 DTSTART;TZID="UTC+03:00":20261019T000000
 DTEND;TZID="UTC+03:00":20261019T023000
-UID:vDDDTypes(2026-10-19 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Северсталь - Торпедо
+UID:902157
 DESCRIPTION:Место проведения: Череповец МАУ «
  Ледовый Дворец»\n\n \n\n
 END:VEVENT
@@ -763,8 +679,7 @@ BEGIN:VEVENT
 SUMMARY: Ак Барс - Торпедо
 DTSTART;TZID="UTC+03:00":20261021T000000
 DTEND;TZID="UTC+03:00":20261021T023000
-UID:vDDDTypes(2026-10-21 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Ак Барс - Торпедо
+UID:902166
 DESCRIPTION:Место проведения: Казань ЛДС «Тат
  нефть Арена»\n\n \n\n
 END:VEVENT
@@ -772,8 +687,7 @@ BEGIN:VEVENT
 SUMMARY: Торпедо - Динамо Мн
 DTSTART;TZID="UTC+03:00":20261024T000000
 DTEND;TZID="UTC+03:00":20261024T023000
-UID:vDDDTypes(2026-10-24 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Торпедо - Динамо Мн
+UID:902176
 DESCRIPTION:Место проведения: Нижний Новгород
   КРК «Нагорный»\n\n \n\n
 END:VEVENT
@@ -781,8 +695,7 @@ BEGIN:VEVENT
 SUMMARY: СКА - Торпедо
 DTSTART;TZID="UTC+03:00":20261027T000000
 DTEND;TZID="UTC+03:00":20261027T023000
-UID:vDDDTypes(2026-10-27 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-СКА - Торпедо
+UID:902188
 DESCRIPTION:Место проведения: Санкт-Петербург
   «СКА Арена»\n\n \n\n
 END:VEVENT
@@ -790,8 +703,7 @@ BEGIN:VEVENT
 SUMMARY: Автомобилист - Торпедо
 DTSTART;TZID="UTC+03:00":20261029T000000
 DTEND;TZID="UTC+03:00":20261029T023000
-UID:vDDDTypes(2026-10-29 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Автомобилист - Торпедо
+UID:902195
 DESCRIPTION:Место проведения: Екатеринбург «У
  ГМК Арена»\n\n \n\n
 END:VEVENT
@@ -799,8 +711,7 @@ BEGIN:VEVENT
 SUMMARY: Торпедо - Спартак
 DTSTART;TZID="UTC+03:00":20261101T000000
 DTEND;TZID="UTC+03:00":20261101T023000
-UID:vDDDTypes(2026-11-01 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Торпедо - Спартак
+UID:902208
 DESCRIPTION:Место проведения: Нижний Новгород
   КРК «Нагорный»\n\n \n\n
 END:VEVENT
@@ -808,8 +719,7 @@ BEGIN:VEVENT
 SUMMARY: Торпедо - Динамо М
 DTSTART;TZID="UTC+03:00":20261103T000000
 DTEND;TZID="UTC+03:00":20261103T023000
-UID:vDDDTypes(2026-11-03 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Торпедо - Динамо М
+UID:902217
 DESCRIPTION:Место проведения: Нижний Новгород
   КРК «Нагорный»\n\n \n\n
 END:VEVENT
@@ -817,8 +727,7 @@ BEGIN:VEVENT
 SUMMARY: Ак Барс - Торпедо
 DTSTART;TZID="UTC+03:00":20261109T000000
 DTEND;TZID="UTC+03:00":20261109T023000
-UID:vDDDTypes(2026-11-09 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Ак Барс - Торпедо
+UID:902239
 DESCRIPTION:Место проведения: Казань ЛДС «Тат
  нефть Арена»\n\n \n\n
 END:VEVENT
@@ -826,8 +735,7 @@ BEGIN:VEVENT
 SUMMARY: ЦСКА - Торпедо
 DTSTART;TZID="UTC+03:00":20261111T193000
 DTEND;TZID="UTC+03:00":20261111T220000
-UID:vDDDTypes(2026-11-11 19:30:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-ЦСКА - Торпедо
+UID:902247
 DESCRIPTION:Место проведения: Москва МСК «ЦСК
  А Арена»\n\n \n\n
 END:VEVENT
@@ -835,8 +743,7 @@ BEGIN:VEVENT
 SUMMARY: Торпедо - Лада
 DTSTART;TZID="UTC+03:00":20261113T000000
 DTEND;TZID="UTC+03:00":20261113T023000
-UID:vDDDTypes(2026-11-13 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Торпедо - Лада
+UID:902256
 DESCRIPTION:Место проведения: Нижний Новгород
   КРК «Нагорный»\n\n \n\n
 END:VEVENT
@@ -844,8 +751,7 @@ BEGIN:VEVENT
 SUMMARY: Торпедо - Динамо Мн
 DTSTART;TZID="UTC+03:00":20261115T000000
 DTEND;TZID="UTC+03:00":20261115T023000
-UID:vDDDTypes(2026-11-15 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Торпедо - Динамо Мн
+UID:902263
 DESCRIPTION:Место проведения: Нижний Новгород
   КРК «Нагорный»\n\n \n\n
 END:VEVENT
@@ -853,8 +759,7 @@ BEGIN:VEVENT
 SUMMARY: Торпедо - Локомотив
 DTSTART;TZID="UTC+03:00":20261120T000000
 DTEND;TZID="UTC+03:00":20261120T023000
-UID:vDDDTypes(2026-11-20 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Торпедо - Локомотив
+UID:902283
 DESCRIPTION:Место проведения: Нижний Новгород
   КРК «Нагорный»\n\n \n\n
 END:VEVENT
@@ -862,8 +767,7 @@ BEGIN:VEVENT
 SUMMARY: Торпедо - Автомобилист
 DTSTART;TZID="UTC+03:00":20261122T000000
 DTEND;TZID="UTC+03:00":20261122T023000
-UID:vDDDTypes(2026-11-22 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Торпедо - Автомобилист
+UID:902289
 DESCRIPTION:Место проведения: Нижний Новгород
   КРК «Нагорный»\n\n \n\n
 END:VEVENT
@@ -871,8 +775,7 @@ BEGIN:VEVENT
 SUMMARY: Торпедо - Сибирь
 DTSTART;TZID="UTC+03:00":20261125T000000
 DTEND;TZID="UTC+03:00":20261125T023000
-UID:vDDDTypes(2026-11-25 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Торпедо - Сибирь
+UID:902301
 DESCRIPTION:Место проведения: Нижний Новгород
   КРК «Нагорный»\n\n \n\n
 END:VEVENT
@@ -880,8 +783,7 @@ BEGIN:VEVENT
 SUMMARY: Спартак - Торпедо
 DTSTART;TZID="UTC+03:00":20261128T000000
 DTEND;TZID="UTC+03:00":20261128T023000
-UID:vDDDTypes(2026-11-28 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Спартак - Торпедо
+UID:902312
 DESCRIPTION:Место проведения: Москва ДС «Мега
  спорт»\n\n \n\n
 END:VEVENT
@@ -889,8 +791,7 @@ BEGIN:VEVENT
 SUMMARY: Динамо М - Торпедо
 DTSTART;TZID="UTC+03:00":20261130T000000
 DTEND;TZID="UTC+03:00":20261130T023000
-UID:vDDDTypes(2026-11-30 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Динамо М - Торпедо
+UID:902319
 DESCRIPTION:Место проведения: Москва «ВТБ Аре
  на»\n\n \n\n
 END:VEVENT
@@ -898,8 +799,7 @@ BEGIN:VEVENT
 SUMMARY: Торпедо - Адмирал
 DTSTART;TZID="UTC+03:00":20261204T000000
 DTEND;TZID="UTC+03:00":20261204T023000
-UID:vDDDTypes(2026-12-04 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Торпедо - Адмирал
+UID:902333
 DESCRIPTION:Место проведения: Нижний Новгород
   КРК «Нагорный»\n\n \n\n
 END:VEVENT
@@ -907,8 +807,7 @@ BEGIN:VEVENT
 SUMMARY: Торпедо - Лада
 DTSTART;TZID="UTC+03:00":20261215T000000
 DTEND;TZID="UTC+03:00":20261215T023000
-UID:vDDDTypes(2026-12-15 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Торпедо - Лада
+UID:902350
 DESCRIPTION:Место проведения: Нижний Новгород
   КРК «Нагорный»\n\n \n\n
 END:VEVENT
@@ -916,8 +815,7 @@ BEGIN:VEVENT
 SUMMARY: Торпедо - ЦСКА
 DTSTART;TZID="UTC+03:00":20261217T000000
 DTEND;TZID="UTC+03:00":20261217T023000
-UID:vDDDTypes(2026-12-17 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Торпедо - ЦСКА
+UID:902359
 DESCRIPTION:Место проведения: Нижний Новгород
   КРК «Нагорный»\n\n \n\n
 END:VEVENT
@@ -925,8 +823,7 @@ BEGIN:VEVENT
 SUMMARY: Торпедо - Локомотив
 DTSTART;TZID="UTC+03:00":20261219T000000
 DTEND;TZID="UTC+03:00":20261219T023000
-UID:vDDDTypes(2026-12-19 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Торпедо - Локомотив
+UID:902370
 DESCRIPTION:Место проведения: Нижний Новгород
   КРК «Нагорный»\n\n \n\n
 END:VEVENT
@@ -934,8 +831,7 @@ BEGIN:VEVENT
 SUMMARY: Торпедо - СКА
 DTSTART;TZID="UTC+03:00":20261222T000000
 DTEND;TZID="UTC+03:00":20261222T023000
-UID:vDDDTypes(2026-12-22 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Торпедо - СКА
+UID:902381
 DESCRIPTION:Место проведения: Нижний Новгород
   КРК «Нагорный»\n\n \n\n
 END:VEVENT
@@ -943,8 +839,7 @@ BEGIN:VEVENT
 SUMMARY: Лада - Торпедо
 DTSTART;TZID="UTC+03:00":20261226T000000
 DTEND;TZID="UTC+03:00":20261226T023000
-UID:vDDDTypes(2026-12-26 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Лада - Торпедо
+UID:902396
 DESCRIPTION:Место проведения: Тольятти ЛДС «Л
  ада-Арена»\n\n \n\n
 END:VEVENT
@@ -952,8 +847,7 @@ BEGIN:VEVENT
 SUMMARY: Торпедо - Ак Барс
 DTSTART;TZID="UTC+03:00":20261228T000000
 DTEND;TZID="UTC+03:00":20261228T023000
-UID:vDDDTypes(2026-12-28 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Торпедо - Ак Барс
+UID:902403
 DESCRIPTION:Место проведения: Нижний Новгород
   КРК «Нагорный»\n\n \n\n
 END:VEVENT
@@ -961,8 +855,7 @@ BEGIN:VEVENT
 SUMMARY: Торпедо - Северсталь
 DTSTART;TZID="UTC+03:00":20261230T000000
 DTEND;TZID="UTC+03:00":20261230T023000
-UID:vDDDTypes(2026-12-30 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Торпедо - Северсталь
+UID:902413
 DESCRIPTION:Место проведения: Нижний Новгород
   КРК «Нагорный»\n\n \n\n
 END:VEVENT
@@ -970,8 +863,7 @@ BEGIN:VEVENT
 SUMMARY: Торпедо - Лада
 DTSTART;TZID="UTC+03:00":20270103T000000
 DTEND;TZID="UTC+03:00":20270103T023000
-UID:vDDDTypes(2027-01-03 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Торпедо - Лада
+UID:902422
 DESCRIPTION:Место проведения: Нижний Новгород
   КРК «Нагорный»\n\n \n\n
 END:VEVENT
@@ -979,8 +871,7 @@ BEGIN:VEVENT
 SUMMARY: Сибирь - Торпедо
 DTSTART;TZID="UTC+03:00":20270105T000000
 DTEND;TZID="UTC+03:00":20270105T023000
-UID:vDDDTypes(2027-01-05 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Сибирь - Торпедо
+UID:902432
 DESCRIPTION:Место проведения: Новосибирск «Си
  бирь-Арена»\n\n \n\n
 END:VEVENT
@@ -988,8 +879,7 @@ BEGIN:VEVENT
 SUMMARY: Барыс - Торпедо
 DTSTART;TZID="UTC+03:00":20270107T000000
 DTEND;TZID="UTC+03:00":20270107T023000
-UID:vDDDTypes(2027-01-07 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Барыс - Торпедо
+UID:902439
 DESCRIPTION:Место проведения: Астана «Барыс А
  рена»\n\n \n\n
 END:VEVENT
@@ -997,8 +887,7 @@ BEGIN:VEVENT
 SUMMARY: Торпедо - Спартак
 DTSTART;TZID="UTC+03:00":20270110T000000
 DTEND;TZID="UTC+03:00":20270110T023000
-UID:vDDDTypes(2027-01-10 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Торпедо - Спартак
+UID:902451
 DESCRIPTION:Место проведения: Нижний Новгород
   КРК «Нагорный»\n\n \n\n
 END:VEVENT
@@ -1006,8 +895,7 @@ BEGIN:VEVENT
 SUMMARY: Торпедо - Нефтехимик
 DTSTART;TZID="UTC+03:00":20270112T000000
 DTEND;TZID="UTC+03:00":20270112T023000
-UID:vDDDTypes(2027-01-12 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Торпедо - Нефтехимик
+UID:902458
 DESCRIPTION:Место проведения: Нижний Новгород
   КРК «Нагорный»\n\n \n\n
 END:VEVENT
@@ -1015,8 +903,7 @@ BEGIN:VEVENT
 SUMMARY: Северсталь - Торпедо
 DTSTART;TZID="UTC+03:00":20270118T000000
 DTEND;TZID="UTC+03:00":20270118T023000
-UID:vDDDTypes(2027-01-18 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Северсталь - Торпедо
+UID:902484
 DESCRIPTION:Место проведения: Череповец МАУ «
  Ледовый Дворец»\n\n \n\n
 END:VEVENT
@@ -1024,8 +911,7 @@ BEGIN:VEVENT
 SUMMARY: Драконы - Торпедо
 DTSTART;TZID="UTC+03:00":20270120T000000
 DTEND;TZID="UTC+03:00":20270120T023000
-UID:vDDDTypes(2027-01-20 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Драконы - Торпедо
+UID:902492
 DESCRIPTION:Место проведения: Санкт-Петербург
   «СКА Арена»\n\n \n\n
 END:VEVENT
@@ -1033,8 +919,7 @@ BEGIN:VEVENT
 SUMMARY: ХК Сочи - Торпедо
 DTSTART;TZID="UTC+03:00":20270122T000000
 DTEND;TZID="UTC+03:00":20270122T023000
-UID:vDDDTypes(2027-01-22 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-ХК Сочи - Торпедо
+UID:902501
 DESCRIPTION:Место проведения: ФТ Сириус ДС «Бо
  льшой»\n\n \n\n
 END:VEVENT
@@ -1042,8 +927,7 @@ BEGIN:VEVENT
 SUMMARY: Металлург Мг - Торпедо
 DTSTART;TZID="UTC+03:00":20270124T000000
 DTEND;TZID="UTC+03:00":20270124T023000
-UID:vDDDTypes(2027-01-24 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Металлург Мг - Торпедо
+UID:902507
 DESCRIPTION:Место проведения: Магнитогорск УК
  РК «Арена Металлург»\n\n \n\n
 END:VEVENT
@@ -1051,8 +935,7 @@ BEGIN:VEVENT
 SUMMARY: Торпедо - Драконы
 DTSTART;TZID="UTC+03:00":20270128T000000
 DTEND;TZID="UTC+03:00":20270128T023000
-UID:vDDDTypes(2027-01-28 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Торпедо - Драконы
+UID:902523
 DESCRIPTION:Место проведения: Нижний Новгород
   КРК «Нагорный»\n\n \n\n
 END:VEVENT
@@ -1060,8 +943,7 @@ BEGIN:VEVENT
 SUMMARY: Торпедо - Трактор
 DTSTART;TZID="UTC+03:00":20270130T000000
 DTEND;TZID="UTC+03:00":20270130T023000
-UID:vDDDTypes(2027-01-30 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Торпедо - Трактор
+UID:902534
 DESCRIPTION:Место проведения: Нижний Новгород
   КРК «Нагорный»\n\n \n\n
 END:VEVENT
@@ -1069,8 +951,7 @@ BEGIN:VEVENT
 SUMMARY: Адмирал - Торпедо
 DTSTART;TZID="UTC+03:00":20270202T000000
 DTEND;TZID="UTC+03:00":20270202T023000
-UID:vDDDTypes(2027-02-02 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Адмирал - Торпедо
+UID:902547
 DESCRIPTION:Место проведения: Владивосток КСК
   «Фетисов Арена»\n\n \n\n
 END:VEVENT
@@ -1078,8 +959,7 @@ BEGIN:VEVENT
 SUMMARY: Амур - Торпедо
 DTSTART;TZID="UTC+03:00":20270204T000000
 DTEND;TZID="UTC+03:00":20270204T023000
-UID:vDDDTypes(2027-02-04 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Амур - Торпедо
+UID:902553
 DESCRIPTION:Место проведения: Хабаровск СЗК «
  Платинум Арена»\n\n \n\n
 END:VEVENT
@@ -1087,8 +967,7 @@ BEGIN:VEVENT
 SUMMARY: Торпедо - Нефтехимик
 DTSTART;TZID="UTC+03:00":20270210T000000
 DTEND;TZID="UTC+03:00":20270210T023000
-UID:vDDDTypes(2027-02-10 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Торпедо - Нефтехимик
+UID:902565
 DESCRIPTION:Место проведения: Нижний Новгород
   КРК «Нагорный»\n\n \n\n
 END:VEVENT
@@ -1096,8 +975,7 @@ BEGIN:VEVENT
 SUMMARY: Торпедо - Амур
 DTSTART;TZID="UTC+03:00":20270213T000000
 DTEND;TZID="UTC+03:00":20270213T023000
-UID:vDDDTypes(2027-02-13 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Торпедо - Амур
+UID:902577
 DESCRIPTION:Место проведения: Нижний Новгород
   КРК «Нагорный»\n\n \n\n
 END:VEVENT
@@ -1105,8 +983,7 @@ BEGIN:VEVENT
 SUMMARY: Нефтехимик - Торпедо
 DTSTART;TZID="UTC+03:00":20270218T000000
 DTEND;TZID="UTC+03:00":20270218T023000
-UID:vDDDTypes(2027-02-18 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Нефтехимик - Торпедо
+UID:902598
 DESCRIPTION:Место проведения: Нижнекамск ЛД «
  Нефтехим Арена»\n\n \n\n
 END:VEVENT
@@ -1114,8 +991,7 @@ BEGIN:VEVENT
 SUMMARY: Авангард - Торпедо
 DTSTART;TZID="UTC+03:00":20270220T000000
 DTEND;TZID="UTC+03:00":20270220T023000
-UID:vDDDTypes(2027-02-20 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Авангард - Торпедо
+UID:902609
 DESCRIPTION:Место проведения: Омск «G-Drive Арена
  »\n\n \n\n
 END:VEVENT
@@ -1123,8 +999,7 @@ BEGIN:VEVENT
 SUMMARY: Торпедо - СКА
 DTSTART;TZID="UTC+03:00":20270222T000000
 DTEND;TZID="UTC+03:00":20270222T023000
-UID:vDDDTypes(2027-02-22 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Торпедо - СКА
+UID:902614
 DESCRIPTION:Место проведения: Нижний Новгород
   КРК «Нагорный»\n\n \n\n
 END:VEVENT
@@ -1132,8 +1007,7 @@ BEGIN:VEVENT
 SUMMARY: Локомотив - Торпедо
 DTSTART;TZID="UTC+03:00":20270225T000000
 DTEND;TZID="UTC+03:00":20270225T023000
-UID:vDDDTypes(2027-02-25 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Локомотив - Торпедо
+UID:902631
 DESCRIPTION:Место проведения: Ярославль УКРК 
  «Арена-2000-Локомотив»\n\n \n\n
 END:VEVENT
@@ -1141,8 +1015,7 @@ BEGIN:VEVENT
 SUMMARY: СКА - Торпедо
 DTSTART;TZID="UTC+03:00":20270227T000000
 DTEND;TZID="UTC+03:00":20270227T023000
-UID:vDDDTypes(2027-02-27 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-СКА - Торпедо
+UID:902637
 DESCRIPTION:Место проведения: Санкт-Петербург
   «СКА Арена»\n\n \n\n
 END:VEVENT
@@ -1150,8 +1023,7 @@ BEGIN:VEVENT
 SUMMARY: Торпедо - Барыс
 DTSTART;TZID="UTC+03:00":20270304T000000
 DTEND;TZID="UTC+03:00":20270304T023000
-UID:vDDDTypes(2027-03-04 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Торпедо - Барыс
+UID:902659
 DESCRIPTION:Место проведения: Нижний Новгород
   КРК «Нагорный»\n\n \n\n
 END:VEVENT
@@ -1159,8 +1031,7 @@ BEGIN:VEVENT
 SUMMARY: Локомотив - Торпедо
 DTSTART;TZID="UTC+03:00":20270307T000000
 DTEND;TZID="UTC+03:00":20270307T023000
-UID:vDDDTypes(2027-03-07 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Локомотив - Торпедо
+UID:902668
 DESCRIPTION:Место проведения: Ярославль УКРК 
  «Арена-2000-Локомотив»\n\n \n\n
 END:VEVENT
@@ -1168,8 +1039,7 @@ BEGIN:VEVENT
 SUMMARY: Драконы - Торпедо
 DTSTART;TZID="UTC+03:00":20270309T000000
 DTEND;TZID="UTC+03:00":20270309T023000
-UID:vDDDTypes(2027-03-09 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Драконы - Торпедо
+UID:902677
 DESCRIPTION:Место проведения: Санкт-Петербург
   «СКА Арена»\n\n \n\n
 END:VEVENT
@@ -1177,8 +1047,7 @@ BEGIN:VEVENT
 SUMMARY: Трактор - Торпедо
 DTSTART;TZID="UTC+03:00":20270311T000000
 DTEND;TZID="UTC+03:00":20270311T023000
-UID:vDDDTypes(2027-03-11 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Трактор - Торпедо
+UID:902684
 DESCRIPTION:Место проведения: Челябинск ЛА «Т
  рактор» им. В. Белоусова\n\n \n\n
 END:VEVENT
@@ -1186,8 +1055,7 @@ BEGIN:VEVENT
 SUMMARY: Торпедо - Драконы
 DTSTART;TZID="UTC+03:00":20270314T000000
 DTEND;TZID="UTC+03:00":20270314T023000
-UID:vDDDTypes(2027-03-14 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Торпедо - Драконы
+UID:902695
 DESCRIPTION:Место проведения: Нижний Новгород
   КРК «Нагорный»\n\n \n\n
 END:VEVENT
@@ -1195,8 +1063,7 @@ BEGIN:VEVENT
 SUMMARY: Лада - Торпедо
 DTSTART;TZID="UTC+03:00":20270316T000000
 DTEND;TZID="UTC+03:00":20270316T023000
-UID:vDDDTypes(2027-03-16 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Лада - Торпедо
+UID:902701
 DESCRIPTION:Место проведения: Тольятти ЛДС «Л
  ада-Арена»\n\n \n\n
 END:VEVENT
@@ -1204,8 +1071,7 @@ BEGIN:VEVENT
 SUMMARY: Нефтехимик - Торпедо
 DTSTART;TZID="UTC+03:00":20270318T000000
 DTEND;TZID="UTC+03:00":20270318T023000
-UID:vDDDTypes(2027-03-18 00:00:00+03:00\, Parameters({'TZID': 'Europe/Mosc
- ow'}))-Нефтехимик - Торпедо
+UID:902712
 DESCRIPTION:Место проведения: Нижнекамск ЛД «
  Нефтехим Арена»\n\n \n\n
 END:VEVENT
