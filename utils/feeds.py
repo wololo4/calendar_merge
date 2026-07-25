@@ -1,4 +1,26 @@
 import yaml
+from parsers.ncaa import ncaa_date_range
+from datetime import datetime
+from dateutil.relativedelta import relativedelta
+
+def parse_any_date(s):
+    # Formats possibles
+    formats = [
+        "%Y-%m-%d",
+        "%m-%d-%Y",
+        "%m/%d/%Y",
+        "%Y/%m/%d",
+        "%m-%d-%y",
+        "%m/%d/%y",
+    ]
+
+    for fmt in formats:
+        try:
+            return datetime.strptime(s, fmt).date()
+        except ValueError:
+            pass
+
+    raise ValueError(f"Unrecognized date format: {s}")
 
 def load_feeds():
     with open("feeds.yaml", "r", encoding="utf-8") as f:
@@ -25,89 +47,116 @@ def load_feeds():
             continue
 
                 # ============================
-        # AHL JSON (statviewfeed)
+        # HockeyTech leagues (AHL, ECHL, LHJMQ, OHL, WHL, BCHL, PWHL)
         # ============================
-        if parser == "ahl":
+        if parser == "hockeytech":
             base_url = data["base_url"]
-            feed_type = data["feed"]
-            view = data["view"]
-            client_code = data["client_code"]
-            site_id = data["site_id"]
-            league_id = data["league_id"]
-            conference_id = data["conference_id"]
-            division_id = data["division_id"]
-            month = data["month"]
-            location = data["location"]
-            lang = data["lang"]
-            key = data["key"]
 
-            # season_id can be int or list
-            season_ids = data["season_id"]
+            # season_id can be int or list (ECHL uses int)
+            season_ids = data.get("season_id", [])
             if isinstance(season_ids, int):
                 season_ids = [season_ids]
 
-            for team in data["teams"]:
+            if not data.get("teams", []):
+                for season_id in season_ids:
+                    url = f"{base_url}&season_id={season_id}"
+                    feeds.append(
+                        (
+                            league,
+                            f"{league} (S{season_id})",
+                            url,
+                            [],
+                            "hockeytech"
+                        )
+                    )
+                continue
+
+            for team in data.get("teams", []):
                 team_name = team["name"]
                 team_id = team["team_id"]
 
                 for season_id in season_ids:
+                    # HockeyTech schedule URL already contains season_id inside the JSON response
+                    # so we do NOT append season_id to the URL.
                     url = (
                         f"{base_url}"
-                        f"?feed={feed_type}"
-                        f"&view={view}"
-                        f"&team={team_id}"
-                        f"&season={season_id}"
-                        f"&month={month}"
-                        f"&location={location}"
-                        f"&key={key}"
-                        f"&client_code={client_code}"
-                        f"&site_id={site_id}"
-                        f"&league_id={league_id}"
-                        f"&conference_id={conference_id}"
-                        f"&division_id={division_id}"
-                        f"&lang={lang}"
+                        f"&team_id={team_id}"
+                        f"&season_id={season_id}"
                     )
 
                     feeds.append(
                         (
-                            league,
+                            league,            # "ECHL"
                             f"{team_name} (S{season_id})",
-                            url,
-                            [],     # no team filter
-                            parser  # "ahl"
+                            url,               # base_url from YAML
+                            [team_id],         # team filter list
+                            "hockeytech"       # parser name
                         )
                     )
 
             continue
 
-
         # ============================
-        # LeagueStat leagues (AHL, OHL, LHJMQ, WHL)
-        # unified structure
+        # NCAA (SIDEARM JSON)
         # ============================
-        if parser == "leaguestat":
-            base_url = data["base_url"]
-            client_code = data["client_code"]
+        if parser == "ncaa":
+            from_date, to_date = ncaa_date_range()
 
-            # season_id can be int or list
-            season_ids = data["season_id"]
-            if isinstance(season_ids, int):
-                season_ids = [season_ids]
+            from_date = parse_any_date(from_date)
+            to_date   = parse_any_date(to_date)
 
-            for team in data["teams"]:
+            for team in data.get("teams", []):
                 team_name = team["name"]
-                team_id = team["team_id"]
+                base_url = team["base_url"]
 
-                for season_id in season_ids:
+                # NEW: detect responsive-calendar feeds
+                if "responsive-calendar.ashx" in base_url:
+                    # Generate one URL per month
+                    current = from_date.replace(day=1)
+
+                    while current <= to_date:
+                        # MM/DD/YYYY
+                        date_param = f"{current.month:02d}/01/{current.year}"
+
+                        url = (
+                            f"{base_url}"
+                            f"?type=month"
+                            f"&sport={team['sport_id']}"
+                            f"&date={date_param}"
+                        )
+
+                        feeds.append(
+                            (
+                                league,
+                                team_name,
+                                url,
+                                [],          # no team filter
+                                "ncaa"
+                            )
+                        )
+
+                        current = current + relativedelta(months=1)
+
+                else:
+                    # Standard SIDEARM NCAA JSON feed
                     url = (
-                        f"{base_url}"
-                        f"?client_code={client_code}"
-                        f"&season_id={season_id}"
-                        f"&team_id={team_id}"
+                        f"{base_url}/from/{from_date}/to/{to_date}"
+                        f"?sportId={team['sport_id']}"
                     )
-                    feeds.append((league, f"{team_name} (S{season_id})", url, [], parser))
+
+                    # NCAA does NOT use team filters
+                    feeds.append(
+                        (
+                            league,
+                            team_name,
+                            url,
+                            [],          # no team filter
+                            "ncaa"
+                        )
+                    )
 
             continue
+
 
         # ============================
         # CHL Europe (JSON + filters)
@@ -152,15 +201,6 @@ def load_feeds():
                 team_name = team["name"]
                 url = team["url"]
                 feeds.append((league, team_name, url, None, parser))
-            continue
-            
-        # ============================
-        # CHL Memorial Cup (JSON)
-        # ============================
-        if parser == "chl_memorial":
-            for team in data["teams"]:
-                url = team["url"]
-                feeds.append((league, team["name"], url, [], parser))
             continue
 
         # ============================
