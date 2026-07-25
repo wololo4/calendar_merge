@@ -11,10 +11,18 @@ def event_id(event):
     dtstart = str(event.get("DTSTART"))
     summary = str(event.get("SUMMARY", "")).strip()
 
-    if " vs " in summary:
-        parts = summary.split(" vs ")
-        home = parts[0].strip()
-        away = parts[1].strip()
+    # Remove emoji prefix
+    if summary.startswith("🏒 |"):
+        summary = summary.replace("🏒 |", "").strip()
+
+    # Normalize separators
+    summary = summary.replace(" @ ", " vs ")
+    summary = summary.replace(" - ", " vs ")
+    summary = summary.split(" vs ")[0:2]  # ignore extra text
+
+    if len(summary) == 2:
+        home = summary[0].strip()
+        away = summary[1].strip()
         teams_sorted = "-".join(sorted([home, away]))
         return f"{dtstart}-{teams_sorted}"
 

@@ -5,13 +5,27 @@ import re
 from icalendar import Calendar
 
 from parsers.nhl import parse_nhl_json_to_calendar
-from parsers.ahl import parse_ahl_json_to_calendar
+from parsers.hockeytech import parse_hockeytech
+from parsers.ncaa import parse_ncaa, events_to_ics
 from parsers.chl_canada import parse_chl_json_to_calendar
 from parsers.chl_europe import parse_chl_europe_json_to_calendar
 from parsers.ufa import parse_ufa_json_to_calendar
 from parsers.vhl import parse_vhl_html
 from parsers.liiga import parse_liiga_json_to_calendar
 from parsers.del_parser import parse_del_html
+
+def parse_responsive_calendar(raw_json, team_name):
+    events = []
+
+    for day in raw_json:
+        day_events = day.get("events")
+        if not day_events:
+            continue
+
+        for ev in day_events:
+            events.append(ev)
+
+    return events
 
 def download_single_feed(feed_info):
     """Worker function to process one feed concurrently."""
@@ -52,41 +66,34 @@ def download_single_feed(feed_info):
             calendar = parse_nhl_json_to_calendar({"games": games_list})
             return league, team_name, calendar
 
-
         # ============================
-        # AHL JSON
+        # HockeyTech JSON
         # ============================
-
-        if parser == "ahl":
+        if parser == "hockeytech":
             try:
-                text = response.text.strip()
+                raw_json = response.json()
+                calendar = parse_hockeytech(raw_json, team_filter)
+                return league, team_name, calendar
+            except Exception as e:
+                print("Error parsing HockeyTech JSON:", e)
+                return league, team_name, None
 
-                # Remove outer parentheses
-                if text.startswith("(") and text.endswith(")"):
-                    text = text[1:-1]
-
-                # Remove trailing garbage brackets
-                while text.endswith("]"):
-                    text = text[:-1]
-                text = text + "]"
-
-                # Fix JavaScript escapes
-                text = text.replace("\\/", "/")
-
-                # Convert JS booleans to JSON booleans (same spelling)
-                # No change needed: "false" and "true" are valid JSON
-
-                # Convert single quotes to double quotes ONLY when safe
-                # (Your feed already uses double quotes → no change needed)
-
-                # Now parse JSON
-                raw_json = json.loads(text)[0]
-
-                calendar = parse_ahl_json_to_calendar(raw_json)
+        # ============================
+        # NCAA / SIDEARM JSON
+        # ============================
+        if parser == "ncaa":
+            if "responsive-calendar.ashx" in response.url:
+                raw_json = response.json()
+                events = parse_responsive_calendar(raw_json, team_name)
+                calendar = events_to_ics(events)
                 return league, team_name, calendar
 
+            try:
+                raw_json = response.json()
+                calendar = parse_ncaa(raw_json, team_name)
+                return league, team_name, calendar
             except Exception as e:
-                print("Error parsing AHL JSON:", e)
+                print("Error parsing NCAA JSON:", e)
                 return league, team_name, None
 
 
