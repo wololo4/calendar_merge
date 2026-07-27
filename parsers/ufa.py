@@ -12,16 +12,16 @@ def parse_ufa_json_to_calendar(json_data):
 
         # Safety Check: Skip if the game has no scheduled timestamp yet
         if not start_timestamp:
-            away = game.get("awayTeamName", "Away Team")
-            home = game.get("homeTeamName", "Home Team")
+            away = game.get("awayTeamName")
+            home = game.get("homeTeamName")
             print(f"Matchup sauté (Timestamp manquant): {away} @ {home}")
             continue
 
         event = Event()
 
         # Build Unique Identifier using the provided gameID string
-        game_id = game.get("gameID", "unknown")
-        event.add("uid", f"ufa-game-{game_id}@ufastats.com")
+        game_id = game.get("gameID")
+        event.add("uid", f"ufa{game_id}")
 
         try:
             # Parse the ISO-8601 date string directly (handles offsets perfectly)
@@ -41,17 +41,19 @@ def parse_ufa_json_to_calendar(json_data):
 
         # Extract root-level team names and stadium locations
         away_name = game.get("awayTeamName", "Away Team")
+        away_city = game.get("awayTeamCity", "Away City")
         home_name = game.get("homeTeamName", "Home Team")
-        location = game.get("locationName", "UFA Field")
+        home_city = game.get("homeTeamCity", "Home City")
+        location = game.get("locationName", "UFA field")
 
-        event.add("summary", f"{away_name} @ {home_name}")
+        event.add("summary", f"🥏 | {away_city} {away_name} @ {home_city} {home_name}")
         event.add("location", location)
 
         # Include official streaming and ticket URLs inside the description field
         description = [
-            "Official UFA Ultimate Frisbee Match",
-            f"Status: {game.get('status', 'Upcoming')}",
+            f"Game Center: https://www.watchufa.com/league/game/{game_id}"
         ]
+
         if game.get("streamingURL"):
             description.append(f"Watch Live: {game['streamingURL']}")
         if game.get("ticketURL"):

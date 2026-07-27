@@ -7,12 +7,13 @@ from icalendar import Calendar
 from parsers.nhl import parse_nhl_json_to_calendar
 from parsers.hockeytech import parse_hockeytech
 from parsers.ncaa import parse_ncaa, events_to_ics
-from parsers.chl_canada import parse_chl_json_to_calendar
+from parsers.khl import parse_khl_ics
 from parsers.chl_europe import parse_chl_europe_json_to_calendar
 from parsers.ufa import parse_ufa_json_to_calendar
 from parsers.vhl import parse_vhl_html
 from parsers.liiga import parse_liiga_json_to_calendar
 from parsers.del_parser import parse_del_html
+from parsers.shl import parse_shl_json_to_calendar
 
 def parse_responsive_calendar(raw_json, team_name):
     events = []
@@ -38,8 +39,8 @@ def download_single_feed(feed_info):
 
     if "khl.ru" in url:
         headers.update({
-            "Referer": "https://www.khl.ru/",
-            "Origin": "https://www.khl.ru",
+            "Referer": "https://www.en.khl.ru/",
+            "Origin": "https://www.en.khl.ru",
             "Accept": "text/calendar,text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
             "Connection": "keep-alive",
             "Upgrade-Insecure-Requests": "1"
@@ -96,13 +97,29 @@ def download_single_feed(feed_info):
                 print("Error parsing NCAA JSON:", e)
                 return league, team_name, None
 
+        # ============================
+        # KHL HTML
+        # ============================
+        if league == "KHL":
+            html = response.text
+            calendar = parse_khl_ics(html, team_name, team_filter)
+            return league, team_name, calendar
+
 
         # ============================
         # VHL HTML
         # ============================
         if league == "VHL":
             html = response.text
-            calendar = parse_vhl_html(html, team_name)
+            calendar = parse_vhl_html(html, team_name, team_filter)
+            return league, team_name, calendar
+
+        # ============================
+        # SHL JSON
+        # ============================
+        if league == "SHL":
+            json_data = response.json()
+            calendar = parse_shl_json_to_calendar(league, team_name, json_data)
             return league, team_name, calendar
 
         # ============================

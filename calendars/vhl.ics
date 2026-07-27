@@ -4,375 +4,560 @@ PRODID:-//Hockey Calendar//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Kristall S vs Khimik
+SUMMARY:🏒 | Kristall Saratov vs Khimik Voskresensk
 DTSTART:20260316T000000
 DTEND:20260316T000000
-UID:vhl-Kristall S-Khimik-2026-03-16 00:00:00
+UID:vhl899213
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8992
+ 13'
+LOCATION:Sports Palace Kristall
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Dizel vs Khimik
+SUMMARY:🏒 | Dizel Penza vs Khimik Voskresensk
 DTSTART:20260314T000000
 DTEND:20260314T000000
-UID:vhl-Dizel-Khimik-2026-03-14 00:00:00
+UID:vhl899203
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8992
+ 03'
+LOCATION:Dizel Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Ryazan-VDV vs Khimik
+SUMMARY:🏒 | Ryazan-VDV vs Khimik Voskresensk
 DTSTART:20260312T000000
 DTEND:20260312T000000
-UID:vhl-Ryazan-VDV-Khimik-2026-03-12 00:00:00
+UID:vhl899191
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8991
+ 91'
+LOCATION:Ryazan Olympic Sports Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | AKM vs Khimik
+SUMMARY:🏒 | AKM Tula vs Khimik Voskresensk
 DTSTART:20260310T000000
 DTEND:20260310T000000
-UID:vhl-AKM-Khimik-2026-03-10 00:00:00
+UID:vhl899177
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8991
+ 77'
+LOCATION:Ice Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Khimik vs Chelny
+SUMMARY:🏒 | Khimik Voskresensk vs Chelny Naberezhnye
 DTSTART:20260305T000000
 DTEND:20260305T000000
-UID:vhl-Khimik-Chelny-2026-03-05 00:00:00
+UID:vhl899161
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8991
+ 61'
+LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Khimik vs Neftyanik
+SUMMARY:🏒 | Khimik Voskresensk vs Neftyanik Almetyevsk
 DTSTART:20260303T000000
 DTEND:20260303T000000
-UID:vhl-Khimik-Neftyanik-2026-03-03 00:00:00
+UID:vhl899150
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8991
+ 50'
+LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Khimik vs CSK VVS
+SUMMARY:🏒 | Khimik Voskresensk vs CSK VVS Samara
 DTSTART:20260301T000000
 DTEND:20260301T000000
-UID:vhl-Khimik-CSK VVS-2026-03-01 00:00:00
+UID:vhl899139
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8991
+ 39'
+LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Khimik vs Bars
+SUMMARY:🏒 | Khimik Voskresensk vs Bars Kazan
 DTSTART:20260227T000000
 DTEND:20260227T000000
-UID:vhl-Khimik-Bars-2026-02-27 00:00:00
+UID:vhl899127
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8991
+ 27'
+LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Dynamo SPb vs Khimik
+SUMMARY:🏒 | Dynamo Saint-Petersburg vs Khimik Voskresensk
 DTSTART:20260220T000000
 DTEND:20260220T000000
-UID:vhl-Dynamo SPb-Khimik-2026-02-20 00:00:00
+UID:vhl899094
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8990
+ 94'
+LOCATION:Yubileyny Sports Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | SKA-VMF vs Khimik
+SUMMARY:🏒 | SKA-VMF Saint Petersburg vs Khimik Voskresensk
 DTSTART:20260218T000000
 DTEND:20260218T000000
-UID:vhl-SKA-VMF-Khimik-2026-02-18 00:00:00
+UID:vhl899082
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8990
+ 82'
+LOCATION:Hockey City Sport Complex
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Khimik vs HC Norilsk
+SUMMARY:🏒 | Khimik Voskresensk vs HC Norilsk
 DTSTART:20260213T000000
 DTEND:20260213T000000
-UID:vhl-Khimik-HC Norilsk-2026-02-13 00:00:00
+UID:vhl899055
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8990
+ 55'
+LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Khimik vs Sokol
+SUMMARY:🏒 | Khimik Voskresensk vs Sokol Krasnoyarsk
 DTSTART:20260211T000000
 DTEND:20260211T000000
-UID:vhl-Khimik-Sokol-2026-02-11 00:00:00
+UID:vhl899044
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8990
+ 44'
+LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Khimik vs Metallurg Nk
+SUMMARY:🏒 | Khimik Voskresensk vs Metallurg Novokuznetsk
 DTSTART:20260209T000000
 DTEND:20260209T000000
-UID:vhl-Khimik-Metallurg Nk-2026-02-09 00:00:00
+UID:vhl899031
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8990
+ 31'
+LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Khimik vs Dynamo-Altai
+SUMMARY:🏒 | Khimik Voskresensk vs Dynamo Altai Barnaul
 DTSTART:20260207T000000
 DTEND:20260207T000000
-UID:vhl-Khimik-Dynamo-Altai-2026-02-07 00:00:00
+UID:vhl899022
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8990
+ 22'
+LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | HC Tambov vs Khimik
+SUMMARY:🏒 | HC Tambov vs Khimik Voskresensk
 DTSTART:20260202T000000
 DTEND:20260202T000000
-UID:vhl-HC Tambov-Khimik-2026-02-02 00:00:00
+UID:vhl898999
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8989
+ 99'
+LOCATION:Crystall Ice Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Rostov vs Khimik
+SUMMARY:🏒 | HC Rostov vs Khimik Voskresensk
 DTSTART:20260131T000000
 DTEND:20260131T000000
-UID:vhl-Rostov-Khimik-2026-01-31 00:00:00
+UID:vhl898984
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8989
+ 84'
+LOCATION:Ice Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Buran vs Khimik
+SUMMARY:🏒 | Buran Voronezh vs Khimik Voskresensk
 DTSTART:20260129T000000
 DTEND:20260129T000000
-UID:vhl-Buran-Khimik-2026-01-29 00:00:00
+UID:vhl898974
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8989
+ 74'
+LOCATION:LDS Jubileiny
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Khimik vs Omskie Krylya
+SUMMARY:🏒 | Khimik Voskresensk vs Omskie Krylya Omsk
 DTSTART:20260125T000000
 DTEND:20260125T000000
-UID:vhl-Khimik-Omskie Krylya-2026-01-25 00:00:00
+UID:vhl898954
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8989
+ 54'
+LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Khimik vs Zauralye
+SUMMARY:🏒 | Khimik Voskresensk vs Zauralye Kurgan
 DTSTART:20260123T000000
 DTEND:20260123T000000
-UID:vhl-Khimik-Zauralye-2026-01-23 00:00:00
+UID:vhl898941
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8989
+ 41'
+LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Khimik vs Rubin
+SUMMARY:🏒 | Khimik Voskresensk vs Rubin Tyumen
 DTSTART:20260121T000000
 DTEND:20260121T000000
-UID:vhl-Khimik-Rubin-2026-01-21 00:00:00
+UID:vhl898929
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8989
+ 29'
+LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Khimik vs Ugra
+SUMMARY:🏒 | Khimik Voskresensk vs Ugra Khanty-Mansiysk
 DTSTART:20260119T000000
 DTEND:20260119T000000
-UID:vhl-Khimik-Ugra-2026-01-19 00:00:00
+UID:vhl898918
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8989
+ 18'
+LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Zvezda vs Khimik
+SUMMARY:🏒 | Zvezda Moscow vs Khimik Voskresensk
 DTSTART:20260115T000000
 DTEND:20260115T000000
-UID:vhl-Zvezda-Khimik-2026-01-15 00:00:00
+UID:vhl898898
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8988
+ 98'
+LOCATION:CSKA Ice Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Torpedo-Gorky vs Khimik
+SUMMARY:🏒 | Topedo-Gorky Nizhny-Novgorod vs Khimik Voskresensk
 DTSTART:20260105T000000
 DTEND:20260105T000000
-UID:vhl-Torpedo-Gorky-Khimik-2026-01-05 00:00:00
+UID:vhl898851
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8988
+ 51'
+LOCATION:Konovalenko Sports Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Yuzhny Ural vs Khimik
-DTSTART:20261227T000000
-DTEND:20261227T000000
-UID:vhl-Yuzhny Ural-Khimik-2026-12-27 00:00:00
+SUMMARY:🏒 | Yuzhny Ural Orsk vs Khimik Voskresensk
+DTSTART:20251227T000000
+DTEND:20251227T000000
+UID:vhl898838
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8988
+ 38'
+LOCATION:Ice Palace Yubileyny
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Magnitka vs Khimik
-DTSTART:20261225T000000
-DTEND:20261225T000000
-UID:vhl-Magnitka-Khimik-2026-12-25 00:00:00
+SUMMARY:🏒 | Magnitka Magnitogorsk vs Khimik Voskresensk
+DTSTART:20251225T000000
+DTEND:20251225T000000
+UID:vhl898827
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8988
+ 27'
+LOCATION:Ice Sport Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Chelmet vs Khimik
-DTSTART:20261223T000000
-DTEND:20261223T000000
-UID:vhl-Chelmet-Khimik-2026-12-23 00:00:00
+SUMMARY:🏒 | Chelmet Chelyabinsk vs Khimik Voskresensk
+DTSTART:20251223T000000
+DTEND:20251223T000000
+UID:vhl898814
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8988
+ 14'
+LOCATION:Yunost Sport Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Gornyak-UGMK vs Khimik
-DTSTART:20261221T000000
-DTEND:20261221T000000
-UID:vhl-Gornyak-UGMK-Khimik-2026-12-21 00:00:00
+SUMMARY:🏒 | Gornyak-UGMK Verkhnyaya Pyshma vs Khimik Voskresensk
+DTSTART:20251221T000000
+DTEND:20251221T000000
+UID:vhl898800
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8988
+ 00'
+LOCATION:Alexei Kozitsyn Ice Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Khimik vs Toros
-DTSTART:20261217T000000
-DTEND:20261217T000000
-UID:vhl-Khimik-Toros-2026-12-17 00:00:00
+SUMMARY:🏒 | Khimik Voskresensk vs Toros Neftekamsk
+DTSTART:20251217T000000
+DTEND:20251217T000000
+UID:vhl898786
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8987
+ 86'
+LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Khimik vs Izhstal
-DTSTART:20261215T000000
-DTEND:20261215T000000
-UID:vhl-Khimik-Izhstal-2026-12-15 00:00:00
+SUMMARY:🏒 | Khimik Voskresensk vs Izhstal Izhevsk
+DTSTART:20251215T000000
+DTEND:20251215T000000
+UID:vhl898776
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8987
+ 76'
+LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Khimik vs Olimpiya
-DTSTART:20261213T000000
-DTEND:20261213T000000
-UID:vhl-Khimik-Olimpiya-2026-12-13 00:00:00
+SUMMARY:🏒 | Khimik Voskresensk vs Olympiya Kirovo-Chepetsk
+DTSTART:20251213T000000
+DTEND:20251213T000000
+UID:vhl898765
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8987
+ 65'
+LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Khimik vs Molot
-DTSTART:20261211T000000
-DTEND:20261211T000000
-UID:vhl-Khimik-Molot-2026-12-11 00:00:00
+SUMMARY:🏒 | Khimik Voskresensk vs Molot Perm
+DTSTART:20251211T000000
+DTEND:20251211T000000
+UID:vhl898751
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8987
+ 51'
+LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Toros vs Khimik
-DTSTART:20261205T000000
-DTEND:20261205T000000
-UID:vhl-Toros-Khimik-2026-12-05 00:00:00
+SUMMARY:🏒 | Toros Neftekamsk vs Khimik Voskresensk
+DTSTART:20251205T000000
+DTEND:20251205T000000
+UID:vhl898727
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8987
+ 27'
+LOCATION:Ice Palace Neftekamsk
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Izhstal vs Khimik
-DTSTART:20261203T000000
-DTEND:20261203T000000
-UID:vhl-Izhstal-Khimik-2026-12-03 00:00:00
+SUMMARY:🏒 | Izhstal Izhevsk vs Khimik Voskresensk
+DTSTART:20251203T000000
+DTEND:20251203T000000
+UID:vhl898716
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8987
+ 16'
+LOCATION:Sports Palace Izhstal
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Olimpiya vs Khimik
-DTSTART:20261201T000000
-DTEND:20261201T000000
-UID:vhl-Olimpiya-Khimik-2026-12-01 00:00:00
+SUMMARY:🏒 | Olympiya Kirovo-Chepetsk vs Khimik Voskresensk
+DTSTART:20251201T000000
+DTEND:20251201T000000
+UID:vhl898705
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8987
+ 05'
+LOCATION:Olimp-Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Molot vs Khimik
-DTSTART:20261129T000000
-DTEND:20261129T000000
-UID:vhl-Molot-Khimik-2026-11-29 00:00:00
+SUMMARY:🏒 | Molot Perm vs Khimik Voskresensk
+DTSTART:20251129T000000
+DTEND:20251129T000000
+UID:vhl898691
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8986
+ 91'
+LOCATION:Universal Sports Palace Molot
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Khimik vs Gornyak-UGMK
-DTSTART:20261121T000000
-DTEND:20261121T000000
-UID:vhl-Khimik-Gornyak-UGMK-2026-11-21 00:00:00
+SUMMARY:🏒 | Khimik Voskresensk vs Gornyak-UGMK Verkhnyaya Pyshma
+DTSTART:20251121T000000
+DTEND:20251121T000000
+UID:vhl898659
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8986
+ 59'
+LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Khimik vs Chelmet
-DTSTART:20261119T000000
-DTEND:20261119T000000
-UID:vhl-Khimik-Chelmet-2026-11-19 00:00:00
+SUMMARY:🏒 | Khimik Voskresensk vs Chelmet Chelyabinsk
+DTSTART:20251119T000000
+DTEND:20251119T000000
+UID:vhl898649
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8986
+ 49'
+LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Khimik vs Magnitka
-DTSTART:20261116T000000
-DTEND:20261116T000000
-UID:vhl-Khimik-Magnitka-2026-11-16 00:00:00
+SUMMARY:🏒 | Khimik Voskresensk vs Magnitka Magnitogorsk
+DTSTART:20251116T000000
+DTEND:20251116T000000
+UID:vhl898633
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8986
+ 33'
+LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Khimik vs Yuzhny Ural
-DTSTART:20261114T000000
-DTEND:20261114T000000
-UID:vhl-Khimik-Yuzhny Ural-2026-11-14 00:00:00
+SUMMARY:🏒 | Khimik Voskresensk vs Yuzhny Ural Orsk
+DTSTART:20251114T000000
+DTEND:20251114T000000
+UID:vhl898623
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8986
+ 23'
+LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Khimik vs Torpedo-Gorky
-DTSTART:20261106T000000
-DTEND:20261106T000000
-UID:vhl-Khimik-Torpedo-Gorky-2026-11-06 00:00:00
+SUMMARY:🏒 | Khimik Voskresensk vs Topedo-Gorky Nizhny-Novgorod
+DTSTART:20251106T000000
+DTEND:20251106T000000
+UID:vhl898582
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8985
+ 82'
+LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Khimik vs Zvezda
-DTSTART:20261104T000000
-DTEND:20261104T000000
-UID:vhl-Khimik-Zvezda-2026-11-04 00:00:00
+SUMMARY:🏒 | Khimik Voskresensk vs Zvezda Moscow
+DTSTART:20251104T000000
+DTEND:20251104T000000
+UID:vhl898573
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8985
+ 73'
+LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Omskie Krylya vs Khimik
-DTSTART:20261031T000000
-DTEND:20261031T000000
-UID:vhl-Omskie Krylya-Khimik-2026-10-31 00:00:00
+SUMMARY:🏒 | Omskie Krylya Omsk vs Khimik Voskresensk
+DTSTART:20251031T000000
+DTEND:20251031T000000
+UID:vhl898551
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8985
+ 51'
+LOCATION:Avangard Hockey Academy
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Zauralye vs Khimik
-DTSTART:20261029T000000
-DTEND:20261029T000000
-UID:vhl-Zauralye-Khimik-2026-10-29 00:00:00
+SUMMARY:🏒 | Zauralye Kurgan vs Khimik Voskresensk
+DTSTART:20251029T000000
+DTEND:20251029T000000
+UID:vhl898540
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8985
+ 40'
+LOCATION:Ice Sports Palace Mostovik
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Rubin vs Khimik
-DTSTART:20261027T000000
-DTEND:20261027T000000
-UID:vhl-Rubin-Khimik-2026-10-27 00:00:00
+SUMMARY:🏒 | Rubin Tyumen vs Khimik Voskresensk
+DTSTART:20251027T000000
+DTEND:20251027T000000
+UID:vhl898529
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8985
+ 29'
+LOCATION:Sports Palace Tyumen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Ugra vs Khimik
-DTSTART:20261025T000000
-DTEND:20261025T000000
-UID:vhl-Ugra-Khimik-2026-10-25 00:00:00
+SUMMARY:🏒 | Ugra Khanty-Mansiysk vs Khimik Voskresensk
+DTSTART:20251025T000000
+DTEND:20251025T000000
+UID:vhl898522
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8985
+ 22'
+LOCATION:Arena Ugra
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Khimik vs Buran
-DTSTART:20261021T000000
-DTEND:20261021T000000
-UID:vhl-Khimik-Buran-2026-10-21 00:00:00
+SUMMARY:🏒 | Khimik Voskresensk vs Buran Voronezh
+DTSTART:20251021T000000
+DTEND:20251021T000000
+UID:vhl898501
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8985
+ 01'
+LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Khimik vs Rostov
-DTSTART:20261018T000000
-DTEND:20261018T000000
-UID:vhl-Khimik-Rostov-2026-10-18 00:00:00
+SUMMARY:🏒 | Khimik Voskresensk vs HC Rostov
+DTSTART:20251018T000000
+DTEND:20251018T000000
+UID:vhl898484
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8984
+ 84'
+LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Khimik vs HC Tambov
-DTSTART:20261016T000000
-DTEND:20261016T000000
-UID:vhl-Khimik-HC Tambov-2026-10-16 00:00:00
+SUMMARY:🏒 | Khimik Voskresensk vs HC Tambov
+DTSTART:20251016T000000
+DTEND:20251016T000000
+UID:vhl898473
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8984
+ 73'
+LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Dynamo-Altai vs Khimik
-DTSTART:20261011T000000
-DTEND:20261011T000000
-UID:vhl-Dynamo-Altai-Khimik-2026-10-11 00:00:00
+SUMMARY:🏒 | Dynamo Altai Barnaul vs Khimik Voskresensk
+DTSTART:20251011T000000
+DTEND:20251011T000000
+UID:vhl898450
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8984
+ 50'
+LOCATION:Titov Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Metallurg Nk vs Khimik
-DTSTART:20261009T000000
-DTEND:20261009T000000
-UID:vhl-Metallurg Nk-Khimik-2026-10-09 00:00:00
+SUMMARY:🏒 | Metallurg Novokuznetsk vs Khimik Voskresensk
+DTSTART:20251009T000000
+DTEND:20251009T000000
+UID:vhl898437
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8984
+ 37'
+LOCATION:Kuznetsk Metallurgists Sports Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Sokol vs Khimik
-DTSTART:20261007T000000
-DTEND:20261007T000000
-UID:vhl-Sokol-Khimik-2026-10-07 00:00:00
+SUMMARY:🏒 | Sokol Krasnoyarsk vs Khimik Voskresensk
+DTSTART:20251007T000000
+DTEND:20251007T000000
+UID:vhl898423
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8984
+ 23'
+LOCATION:Arena Sever
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | HC Norilsk vs Khimik
-DTSTART:20261004T000000
-DTEND:20261004T000000
-UID:vhl-HC Norilsk-Khimik-2026-10-04 00:00:00
+SUMMARY:🏒 | HC Norilsk vs Khimik Voskresensk
+DTSTART:20251004T000000
+DTEND:20251004T000000
+UID:vhl898411
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8984
+ 11'
+LOCATION:Artika Sport Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Khimik vs SKA-VMF
-DTSTART:20260929T000000
-DTEND:20260929T000000
-UID:vhl-Khimik-SKA-VMF-2026-09-29 00:00:00
+SUMMARY:🏒 | Khimik Voskresensk vs SKA-VMF Saint Petersburg
+DTSTART:20250929T000000
+DTEND:20250929T000000
+UID:vhl898392
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8983
+ 92'
+LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Khimik vs Dynamo SPb
-DTSTART:20260927T000000
-DTEND:20260927T000000
-UID:vhl-Khimik-Dynamo SPb-2026-09-27 00:00:00
+SUMMARY:🏒 | Khimik Voskresensk vs Dynamo Saint-Petersburg
+DTSTART:20250927T000000
+DTEND:20250927T000000
+UID:vhl898379
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8983
+ 79'
+LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Neftyanik vs Khimik
-DTSTART:20260921T000000
-DTEND:20260921T000000
-UID:vhl-Neftyanik-Khimik-2026-09-21 00:00:00
+SUMMARY:🏒 | Neftyanik Almetyevsk vs Khimik Voskresensk
+DTSTART:20250921T000000
+DTEND:20250921T000000
+UID:vhl898348
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8983
+ 48'
+LOCATION:Yubileyny Sports Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Chelny vs Khimik
-DTSTART:20260919T000000
-DTEND:20260919T000000
-UID:vhl-Chelny-Khimik-2026-09-19 00:00:00
+SUMMARY:🏒 | Chelny Naberezhnye vs Khimik Voskresensk
+DTSTART:20250919T000000
+DTEND:20250919T000000
+UID:vhl898337
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8983
+ 37'
+LOCATION:Ice Sports Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Bars vs Khimik
-DTSTART:20260917T000000
-DTEND:20260917T000000
-UID:vhl-Bars-Khimik-2026-09-17 00:00:00
+SUMMARY:🏒 | Bars Kazan vs Khimik Voskresensk
+DTSTART:20250917T000000
+DTEND:20250917T000000
+UID:vhl898322
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8983
+ 22'
+LOCATION:Sports Palace Kazan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | CSK VVS vs Khimik
-DTSTART:20260915T000000
-DTEND:20260915T000000
-UID:vhl-CSK VVS-Khimik-2026-09-15 00:00:00
+SUMMARY:🏒 | CSK VVS Samara vs Khimik Voskresensk
+DTSTART:20250915T000000
+DTEND:20250915T000000
+UID:vhl898311
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8983
+ 11'
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Khimik vs Kristall S
-DTSTART:20260911T000000
-DTEND:20260911T000000
-UID:vhl-Khimik-Kristall S-2026-09-11 00:00:00
+SUMMARY:🏒 | Khimik Voskresensk vs Kristall Saratov
+DTSTART:20250911T000000
+DTEND:20250911T000000
+UID:vhl898292
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8982
+ 92'
+LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Khimik vs Dizel
-DTSTART:20260909T000000
-DTEND:20260909T000000
-UID:vhl-Khimik-Dizel-2026-09-09 00:00:00
+SUMMARY:🏒 | Khimik Voskresensk vs Dizel Penza
+DTSTART:20250909T000000
+DTEND:20250909T000000
+UID:vhl898281
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8982
+ 81'
+LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Khimik vs Ryazan-VDV
-DTSTART:20260907T000000
-DTEND:20260907T000000
-UID:vhl-Khimik-Ryazan-VDV-2026-09-07 00:00:00
+SUMMARY:🏒 | Khimik Voskresensk vs Ryazan-VDV
+DTSTART:20250907T000000
+DTEND:20250907T000000
+UID:vhl898272
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8982
+ 72'
+LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 VHL | Khimik vs AKM
-DTSTART:20260905T000000
-DTEND:20260905T000000
-UID:vhl-Khimik-AKM-2026-09-05 00:00:00
+SUMMARY:🏒 | Khimik Voskresensk vs AKM Tula
+DTSTART:20250905T000000
+DTEND:20250905T000000
+UID:vhl898257
+DESCRIPTION:Game Center: 'https://www.vhlru.ru/en/report/1374/?idgame=8982
+ 57'
+LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 END:VCALENDAR
