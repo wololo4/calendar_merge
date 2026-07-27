@@ -180,8 +180,10 @@ DTSTART:20261030T000000Z
 DTEND:20261030T023000Z
 UID:nhl2026020209
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
- er/mtl-vs-dal/2026/10/29/2026020209\nTickets: https://www.nhl.com/stars/ti
- ckets/
+ er/mtl-vs-dal/2026/10/29/2026020209\nTickets: https://www.ticketmaster.com
+ /event/0C0064EDDB92A48B?brand=dallas_stars&wt.mc_id=NHL_TEAM_DAL_SCHEDULE_
+ GM8&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_DAL&utm_con
+ tent=SCHEDULE_GM8
 LOCATION:American Airlines Center
 END:VEVENT
 BEGIN:VEVENT
