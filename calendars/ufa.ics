@@ -45,16 +45,6 @@ DESCRIPTION:Official UFA Ultimate Frisbee Match\nStatus: Final\nWatch Live
 LOCATION:Complexe sportif Claude-Robillard
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Empire @ Royal
-DTSTART;TZID="UTC-04:00":20260606T190000
-DTEND;TZID="UTC-04:00":20260606T210000
-UID:ufa-game-2026-06-06-NY-MTL@ufastats.com
-DESCRIPTION:Official UFA Ultimate Frisbee Match\nStatus: Final\nWatch Live
- : https://watchufa.tv/videos/new-york-at-montreal-6-6-2026-06-07-2026-01-0
- 0-05\nTickets: https://boutique.royalultimate.com/
-LOCATION:Complexe sportif Claude-Robillard
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rush @ Royal
 DTSTART;TZID="UTC-04:00":20260705T130000
 DTEND;TZID="UTC-04:00":20260705T150000
@@ -86,14 +76,24 @@ DESCRIPTION:Official UFA Ultimate Frisbee Match\nStatus: Final\nWatch Live
 LOCATION:Neumann University turf field
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Royal @ Thunderbirds
-DTSTART;TZID="UTC-04:00":20260510T140000
-DTEND;TZID="UTC-04:00":20260510T160000
-UID:ufa-game-2026-05-10-MTL-PIT@ufastats.com
+SUMMARY:Breeze @ Royal
+DTSTART;TZID="UTC-04:00":20260530T180000
+DTEND;TZID="UTC-04:00":20260530T200000
+UID:ufa-game-2026-05-30-DC-MTL@ufastats.com
 DESCRIPTION:Official UFA Ultimate Frisbee Match\nStatus: Final\nWatch Live
- : https://watchufa.tv/videos/montreal-at-pittsburgh-5-10-2026-05-10-2026-2
- 0-26-31\nTickets: https://www.gofevo.com/event/thunderbirds0510
-LOCATION:F.N.B. Stadium
+ : https://watchufa.tv/videos/dc-at-montreal-5-30-2026-05-31-2026-00-09-18\
+ nTickets: https://boutique.royalultimate.com/
+LOCATION:Complexe sportif Claude-Robillard
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Empire @ Royal
+DTSTART;TZID="UTC-04:00":20260606T190000
+DTEND;TZID="UTC-04:00":20260606T210000
+UID:ufa-game-2026-06-06-NY-MTL@ufastats.com
+DESCRIPTION:Official UFA Ultimate Frisbee Match\nStatus: Final\nWatch Live
+ : https://watchufa.tv/videos/new-york-at-montreal-6-6-2026-06-07-2026-01-0
+ 0-05\nTickets: https://boutique.royalultimate.com/
+LOCATION:Complexe sportif Claude-Robillard
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Royal @ Breeze
@@ -106,14 +106,14 @@ DESCRIPTION:Official UFA Ultimate Frisbee Match\nStatus: Final\nWatch Live
 LOCATION:Carlini Field\, Catholic U
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Breeze @ Royal
-DTSTART;TZID="UTC-04:00":20260530T180000
-DTEND;TZID="UTC-04:00":20260530T200000
-UID:ufa-game-2026-05-30-DC-MTL@ufastats.com
+SUMMARY:Royal @ Thunderbirds
+DTSTART;TZID="UTC-04:00":20260510T140000
+DTEND;TZID="UTC-04:00":20260510T160000
+UID:ufa-game-2026-05-10-MTL-PIT@ufastats.com
 DESCRIPTION:Official UFA Ultimate Frisbee Match\nStatus: Final\nWatch Live
- : https://watchufa.tv/videos/dc-at-montreal-5-30-2026-05-31-2026-00-09-18\
- nTickets: https://boutique.royalultimate.com/
-LOCATION:Complexe sportif Claude-Robillard
+ : https://watchufa.tv/videos/montreal-at-pittsburgh-5-10-2026-05-10-2026-2
+ 0-26-31\nTickets: https://www.gofevo.com/event/thunderbirds0510
+LOCATION:F.N.B. Stadium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Royal @ Glory
