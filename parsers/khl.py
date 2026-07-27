@@ -13,9 +13,9 @@ TEAM_SYNONYMS = {
     "dynamo msk": "Dynamo Msk Moscow",
     "lada": "Lada Togliatti",
     "lokomotiv": "Lokomotiv Yaroslavl",
-    "metallurg": "Metallurg Magnitogorsk",
+    "metallurg mg": "Metallurg Magnitogorsk",
     "neftekhimik": "Neftekhimik Nizhnekamsk",
-    "salavat yulaev": "Salavat Yulaev Ufa",
+    "salavat yulaev ufa": "Salavat Yulaev Ufa",
     "severstal": "Severstal Cherepovets",
     "sibir": "Sibir Novosibrisk Region",
     "ska": "SKA Saint Petersburg",
@@ -24,7 +24,7 @@ TEAM_SYNONYMS = {
     "traktor": "Traktor Chelyabinsk",
     "hc sochi": "HC Sochi",
     "cska": "CSKA Moscow",
-    "shanghai dragons": "Shanghai Dragons"
+    "dragons": "Shanghai Dragons"
 }
 
 def normalize(name):
