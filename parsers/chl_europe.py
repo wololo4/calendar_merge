@@ -21,7 +21,7 @@ def parse_chl_europe_json_to_calendar(json_data, team_filter):
         event = Event()
 
         game_id = game.get("externalId", "unknown")
-        event.add("uid", f"chleu-game-{game_id}@championshockeyleague.com")
+        event.add("uid", f"chleu{game_id}")
 
         start_str = game.get("startDate")
         if not start_str:
@@ -35,7 +35,7 @@ def parse_chl_europe_json_to_calendar(json_data, team_filter):
 
         home_name = home.get("name", "Home")
         away_name = away.get("name", "Away")
-        event.add("summary", f"{away_name} @ {home_name}")
+        event.add("summary", f"🏒 | {away_name} @ {home_name}")
 
         venue = game.get("venue", {}).get("name", "Arena")
         event.add("location", venue)
@@ -45,15 +45,13 @@ def parse_chl_europe_json_to_calendar(json_data, team_filter):
         round_name = stage.get("round", {}).get("name", "")
 
         description = [
-            "Champions Hockey League Match",
             f"Stage: {group_name}",
-            f"Round: {round_name}",
-            f"Status: {game.get('status', 'Scheduled')}",
+            f"Round: {round_name}"
         ]
 
         link = game.get("link", {}).get("url")
         if link:
-            description.append(f"Match Page: https://www.chl.hockey{link}")
+            description.append(f"Game Center: https://www.chl.hockey/en{link}")
 
         event.add("description", "\n".join(description))
         cal.add_component(event)

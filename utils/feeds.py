@@ -37,7 +37,7 @@ def load_feeds():
         parser = data.get("parser")
 
         # ============================
-        # NHL (ICS + JSON)
+        # NHL (JSON)
         # ============================
         if parser == "nhl":
             for team in data.get("teams", []):
@@ -46,7 +46,7 @@ def load_feeds():
                 feeds.append((league, team_name, url, [], "nhl"))
             continue
 
-                # ============================
+        # ============================
         # HockeyTech leagues (AHL, ECHL, LHJMQ, OHL, WHL, BCHL, PWHL)
         # ============================
         if parser == "hockeytech":
@@ -157,6 +157,29 @@ def load_feeds():
 
             continue
 
+        # ============================
+        # SHL
+        # ============================
+        if parser == "shl":
+            season = data["seasonUuid"]
+            series = data["seriesUuid"]
+            game_type = data["gameTypeUuid"]
+            base_url = data["base_url"]
+
+            for team in data.get("teams", []):
+                team_name = team["name"]
+                team_uuid = team["uuid"]
+
+                url = (
+                    f"{base_url}"
+                    f"?seasonUuid={season}"
+                    f"&seriesUuid={series}"
+                    f"&gameTypeUuid={game_type}"
+                    f"&teams[]={team_uuid}"
+                )
+
+                feeds.append((league, team_name, url, None, parser))
+            continue
 
         # ============================
         # CHL Europe (JSON + filters)
@@ -197,9 +220,11 @@ def load_feeds():
         # DEL parser (HTML)
         # ============================
         if parser == "del":
+            base_url = data["base_url"]
             for team in data.get("teams", []):
                 team_name = team["name"]
-                url = team["url"]
+                team_id = team["team_id"]
+                url = (f"{base_url}/{team_id}")
                 feeds.append((league, team_name, url, None, parser))
             continue
 
@@ -207,8 +232,10 @@ def load_feeds():
         # UFA JSON feed
         # ============================
         if parser == "ufa":
+            base_url = data["base_url"]
             for team in data["teams"]:
-                url = team["url"]
+                team_id = team["team_id"]
+                url = (f"{base_url}&teamID={team_id}")
                 feeds.append((league, team["name"], url, [], parser))
             continue
 
@@ -224,13 +251,13 @@ def load_feeds():
                 team_id = team["team_id"]
                 url = f"{base_url}/{season_id}/0/{team_id}/"
                 
-                feeds.append((league, team_name, url, None, parser))
+                feeds.append((league, team_name, url, season_id, parser))
             continue
 
         # ============================
         # KHL ICS parser (auto URL)
         # ============================
-        if parser == "ics" and league == "KHL":
+        if parser == "khl":
             base_url = data["base_url"]
             
             for team in data.get("teams", []):
@@ -238,16 +265,7 @@ def load_feeds():
                 team_id = team["team_id"]
                 
                 url = f"{base_url}/{team_id};/"
-                feeds.append((league, team_name, url, [], parser))
-            continue
-        
-        # ============================
-        # ICS-only leagues (ECHL, NCAA, SHL)
-        # ============================
-        if parser == "ics":
-            for team in data["teams"]:
-                url = team["url"]
-                feeds.append((league, team["name"], url, [], parser))
+                feeds.append((league, team_name, url, data.get("season_id"), parser))
             continue
 
         print(f"Warning: Unknown parser for league '{league}'")

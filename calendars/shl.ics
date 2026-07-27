@@ -4,731 +4,903 @@ PRODID:-//Hockey Calendar//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Luleå Hockey - Rögle BK
+SUMMARY:🏒 | Luleå Hockey vs Rögle BK
 DTSTART:20260919T160000Z
-DTEND:20260919T180000Z
-UID:6a02dfe454aa884dc54f3543
+DTEND:20260919T160000Z
+UID:shlrd7jw7eg65
+DESCRIPTION:Game Center: https://www.shl.se/game-center/rd7jw7eg65/qa98unl
+ bd6/?state=pre-game
 LOCATION:Coop Norrbotten Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Luleå Hockey - Frölunda HC
+SUMMARY:🏒 | Luleå Hockey vs Frölunda HC
 DTSTART:20260924T170000Z
-DTEND:20260924T190000Z
-UID:6a02dfe454aa884dc54f3544
+DTEND:20260924T170000Z
+UID:shls8v6jpqbr7
+DESCRIPTION:Game Center: https://www.shl.se/game-center/s8v6jpqbr7/qa98unl
+ bd6/?state=pre-game
 LOCATION:Coop Norrbotten Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Brynäs IF - Luleå Hockey
+SUMMARY:🏒 | Brynäs IF vs Luleå Hockey
 DTSTART:20260926T131500Z
-DTEND:20260926T151500Z
-UID:6a02dfe454aa884dc54f3545
+DTEND:20260926T131500Z
+UID:shljvejhqk9zo
+DESCRIPTION:Game Center: https://www.shl.se/game-center/jvejhqk9zo/qa98unl
+ bd6/?state=pre-game
 LOCATION:Monitor ERP Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Skellefteå AIK - Luleå Hockey
+SUMMARY:🏒 | Skellefteå AIK vs Luleå Hockey
 DTSTART:20260929T170000Z
-DTEND:20260929T190000Z
-UID:6a02dfe454aa884dc54f3546
+DTEND:20260929T170000Z
+UID:shlxheynl9ev5
+DESCRIPTION:Game Center: https://www.shl.se/game-center/xheynl9ev5/qa98unl
+ bd6/?state=pre-game
 LOCATION:Skellefteå Kraft Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Linköping HC - Luleå Hockey
+SUMMARY:🏒 | Linköping HC vs Luleå Hockey
 DTSTART:20261001T170000Z
-DTEND:20261001T190000Z
-UID:6a02dfe454aa884dc54f3547
+DTEND:20261001T170000Z
+UID:shldyy1rfomia
+DESCRIPTION:Game Center: https://www.shl.se/game-center/dyy1rfomia/qa98unl
+ bd6/?state=pre-game
 LOCATION:Saab Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Örebro Hockey - Luleå Hockey
+SUMMARY:🏒 | Örebro Hockey vs Luleå Hockey
 DTSTART:20261003T160000Z
-DTEND:20261003T180000Z
-UID:6a02dfe454aa884dc54f3548
+DTEND:20261003T160000Z
+UID:shlbq4o55s9hh
+DESCRIPTION:Game Center: https://www.shl.se/game-center/bq4o55s9hh/qa98unl
+ bd6/?state=pre-game
 LOCATION:Behrn Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Luleå Hockey - Malmö Redhawks
+SUMMARY:🏒 | Luleå Hockey vs Malmö Redhawks
 DTSTART:20261008T170000Z
-DTEND:20261008T190000Z
-UID:6a02dfe454aa884dc54f3549
+DTEND:20261008T170000Z
+UID:shldu44ay2r9v
+DESCRIPTION:Game Center: https://www.shl.se/game-center/du44ay2r9v/qa98unl
+ bd6/?state=pre-game
 LOCATION:Coop Norrbotten Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Luleå Hockey - Timrå IK
+SUMMARY:🏒 | Luleå Hockey vs Timrå IK
 DTSTART:20261010T131500Z
-DTEND:20261010T151500Z
-UID:6a02dfe454aa884dc54f354a
+DTEND:20261010T131500Z
+UID:shlx4aluhmxwe
+DESCRIPTION:Game Center: https://www.shl.se/game-center/x4aluhmxwe/qa98unl
+ bd6/?state=pre-game
 LOCATION:Coop Norrbotten Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Färjestad BK - Luleå Hockey
+SUMMARY:🏒 | Färjestad BK vs Luleå Hockey
 DTSTART:20261015T170000Z
-DTEND:20261015T190000Z
-UID:6a02dfe454aa884ccf087961
+DTEND:20261015T170000Z
+UID:shlpkjfr73iqb
+DESCRIPTION:Game Center: https://www.shl.se/game-center/pkjfr73iqb/qa98unl
+ bd6/?state=pre-game
 LOCATION:Löfbergs Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Luleå Hockey - HV71
+SUMMARY:🏒 | Luleå Hockey vs HV71
 DTSTART:20261017T131500Z
-DTEND:20261017T151500Z
-UID:6a02dfe454aa884ccf087962
+DTEND:20261017T131500Z
+UID:shlux4bplsxbh
+DESCRIPTION:Game Center: https://www.shl.se/game-center/ux4bplsxbh/qa98unl
+ bd6/?state=pre-game
 LOCATION:Coop Norrbotten Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Växjö Lakers - Luleå Hockey
+SUMMARY:🏒 | Växjö Lakers vs Luleå Hockey
 DTSTART:20261022T170000Z
-DTEND:20261022T190000Z
-UID:6a02dfe454aa884ccf087963
+DTEND:20261022T170000Z
+UID:shlxfqs8keoej
+DESCRIPTION:Game Center: https://www.shl.se/game-center/xfqs8keoej/qa98unl
+ bd6/?state=pre-game
 LOCATION:Vida Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Luleå Hockey - Djurgårdens IF
+SUMMARY:🏒 | Luleå Hockey vs Djurgårdens IF
 DTSTART:20261024T160000Z
-DTEND:20261024T180000Z
-UID:6a02dfe454aa884ccf087964
+DTEND:20261024T160000Z
+UID:shlff03esqk6r
+DESCRIPTION:Game Center: https://www.shl.se/game-center/ff03esqk6r/qa98unl
+ bd6/?state=pre-game
 LOCATION:Coop Norrbotten Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Luleå Hockey - Björklöven
+SUMMARY:🏒 | Luleå Hockey vs Björklöven
 DTSTART:20261029T180000Z
-DTEND:20261029T200000Z
-UID:6a02dfe454aa884ccf087965
+DTEND:20261029T180000Z
+UID:shluwrnznybvw
+DESCRIPTION:Game Center: https://www.shl.se/game-center/uwrnznybvw/qa98unl
+ bd6/?state=pre-game
 LOCATION:Coop Norrbotten Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Timrå IK - Luleå Hockey
+SUMMARY:🏒 | Timrå IK vs Luleå Hockey
 DTSTART:20261031T170000Z
-DTEND:20261031T190000Z
-UID:6a02dfe454aa884ccf087966
+DTEND:20261031T170000Z
+UID:shlptbs69o5d8
+DESCRIPTION:Game Center: https://www.shl.se/game-center/ptbs69o5d8/qa98unl
+ bd6/?state=pre-game
 LOCATION:SCA Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | HV71 - Luleå Hockey
+SUMMARY:🏒 | HV71 vs Luleå Hockey
 DTSTART:20261112T180000Z
-DTEND:20261112T200000Z
-UID:6a02dfe454aa884ccf087967
+DTEND:20261112T180000Z
+UID:shllossvjltt3
+DESCRIPTION:Game Center: https://www.shl.se/game-center/lossvjltt3/qa98unl
+ bd6/?state=pre-game
 LOCATION:Husqvarna Garden
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Luleå Hockey - Färjestad BK
+SUMMARY:🏒 | Luleå Hockey vs Färjestad BK
 DTSTART:20261114T170000Z
-DTEND:20261114T190000Z
-UID:6a02dfe454aa884ccf087968
+DTEND:20261114T170000Z
+UID:shlsbbcogyfns
+DESCRIPTION:Game Center: https://www.shl.se/game-center/sbbcogyfns/qa98unl
+ bd6/?state=pre-game
 LOCATION:Coop Norrbotten Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Brynäs IF - Luleå Hockey
+SUMMARY:🏒 | Brynäs IF vs Luleå Hockey
 DTSTART:20261119T180000Z
-DTEND:20261119T200000Z
-UID:6a02dfe454aa884ccf087969
+DTEND:20261119T180000Z
+UID:shlreb7yn6bn7
+DESCRIPTION:Game Center: https://www.shl.se/game-center/reb7yn6bn7/qa98unl
+ bd6/?state=pre-game
 LOCATION:Monitor ERP Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Djurgårdens IF - Luleå Hockey
+SUMMARY:🏒 | Djurgårdens IF vs Luleå Hockey
 DTSTART:20261121T141500Z
-DTEND:20261121T161500Z
-UID:6a02dfe454aa884ccf08796a
+DTEND:20261121T141500Z
+UID:shlvvv334lwlo
+DESCRIPTION:Game Center: https://www.shl.se/game-center/vvv334lwlo/qa98unl
+ bd6/?state=pre-game
 LOCATION:Hovet
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Luleå Hockey - Malmö Redhawks
+SUMMARY:🏒 | Luleå Hockey vs Malmö Redhawks
 DTSTART:20261124T180000Z
-DTEND:20261124T200000Z
-UID:6a02dfe454aa884ccf08796b
+DTEND:20261124T180000Z
+UID:shlmqhq8jocap
+DESCRIPTION:Game Center: https://www.shl.se/game-center/mqhq8jocap/qa98unl
+ bd6/?state=pre-game
 LOCATION:Coop Norrbotten Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Luleå Hockey - Rögle BK
+SUMMARY:🏒 | Luleå Hockey vs Rögle BK
 DTSTART:20261128T170000Z
-DTEND:20261128T190000Z
-UID:6a02dfe454aa884ccf08796c
+DTEND:20261128T170000Z
+UID:shlzwx8yvhv4j
+DESCRIPTION:Game Center: https://www.shl.se/game-center/zwx8yvhv4j/qa98unl
+ bd6/?state=pre-game
 LOCATION:Coop Norrbotten Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Örebro Hockey - Luleå Hockey
+SUMMARY:🏒 | Örebro Hockey vs Luleå Hockey
 DTSTART:20261203T180000Z
-DTEND:20261203T200000Z
-UID:6a02dfe454aa884ccf08796d
+DTEND:20261203T180000Z
+UID:shludfvrbco71
+DESCRIPTION:Game Center: https://www.shl.se/game-center/udfvrbco71/qa98unl
+ bd6/?state=pre-game
 LOCATION:Behrn Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Björklöven - Luleå Hockey
+SUMMARY:🏒 | Björklöven vs Luleå Hockey
 DTSTART:20261205T141500Z
-DTEND:20261205T161500Z
-UID:6a02dfe454aa884ccf08796e
+DTEND:20261205T141500Z
+UID:shlne5t8dh7um
+DESCRIPTION:Game Center: https://www.shl.se/game-center/ne5t8dh7um/qa98unl
+ bd6/?state=pre-game
 LOCATION:Visionite Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Luleå Hockey - Frölunda HC
+SUMMARY:🏒 | Luleå Hockey vs Frölunda HC
 DTSTART:20261217T180000Z
-DTEND:20261217T200000Z
-UID:6a02dfe454aa884ccf08796f
+DTEND:20261217T180000Z
+UID:shlkslldorx2r
+DESCRIPTION:Game Center: https://www.shl.se/game-center/kslldorx2r/qa98unl
+ bd6/?state=pre-game
 LOCATION:Coop Norrbotten Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Luleå Hockey - Växjö Lakers
+SUMMARY:🏒 | Luleå Hockey vs Växjö Lakers
 DTSTART:20261219T141500Z
-DTEND:20261219T161500Z
-UID:6a02dfe454aa884ccf087970
+DTEND:20261219T141500Z
+UID:shlloly0ipoqh
+DESCRIPTION:Game Center: https://www.shl.se/game-center/loly0ipoqh/qa98unl
+ bd6/?state=pre-game
 LOCATION:Coop Norrbotten Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Skellefteå AIK - Luleå Hockey
+SUMMARY:🏒 | Skellefteå AIK vs Luleå Hockey
 DTSTART:20261226T141500Z
-DTEND:20261226T161500Z
-UID:6a02dfe454aa884ccf087971
+DTEND:20261226T141500Z
+UID:shltmi21olfzx
+DESCRIPTION:Game Center: https://www.shl.se/game-center/tmi21olfzx/qa98unl
+ bd6/?state=pre-game
 LOCATION:Skellefteå Kraft Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Linköping HC - Luleå Hockey
+SUMMARY:🏒 | Linköping HC vs Luleå Hockey
 DTSTART:20261228T180000Z
-DTEND:20261228T200000Z
-UID:6a02dfe454aa884ccf087972
+DTEND:20261228T180000Z
+UID:shlcmhztdfp6a
+DESCRIPTION:Game Center: https://www.shl.se/game-center/cmhztdfp6a/qa98unl
+ bd6/?state=pre-game
 LOCATION:Saab Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Luleå Hockey - Timrå IK
+SUMMARY:🏒 | Luleå Hockey vs Timrå IK
 DTSTART:20261230T180000Z
-DTEND:20261230T200000Z
-UID:6a02dfe454aa884ccf087973
+DTEND:20261230T180000Z
+UID:shlzc316v7i9u
+DESCRIPTION:Game Center: https://www.shl.se/game-center/zc316v7i9u/qa98unl
+ bd6/?state=pre-game
 LOCATION:Coop Norrbotten Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Luleå Hockey - Björklöven
+SUMMARY:🏒 | Luleå Hockey vs Björklöven
 DTSTART:20270102T141500Z
-DTEND:20270102T161500Z
-UID:6a02dfe454aa884ccf087974
+DTEND:20270102T141500Z
+UID:shlaaf1l7xudr
+DESCRIPTION:Game Center: https://www.shl.se/game-center/aaf1l7xudr/qa98unl
+ bd6/?state=pre-game
 LOCATION:Coop Norrbotten Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Rögle BK - Luleå Hockey
+SUMMARY:🏒 | Rögle BK vs Luleå Hockey
 DTSTART:20270105T180000Z
-DTEND:20270105T200000Z
-UID:6a02dfe454aa884ccf087975
+DTEND:20270105T180000Z
+UID:shlwbqw66xphu
+DESCRIPTION:Game Center: https://www.shl.se/game-center/wbqw66xphu/qa98unl
+ bd6/?state=pre-game
 LOCATION:Catena Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Malmö Redhawks - Luleå Hockey
+SUMMARY:🏒 | Malmö Redhawks vs Luleå Hockey
 DTSTART:20270107T180000Z
-DTEND:20270107T200000Z
-UID:6a02dfe454aa884ccf087976
+DTEND:20270107T180000Z
+UID:shlv2d4hp4ka2
+DESCRIPTION:Game Center: https://www.shl.se/game-center/v2d4hp4ka2/qa98unl
+ bd6/?state=pre-game
 LOCATION:Malmö Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Luleå Hockey - Djurgårdens IF
+SUMMARY:🏒 | Luleå Hockey vs Djurgårdens IF
 DTSTART:20270109T170000Z
-DTEND:20270109T190000Z
-UID:6a02dfe454aa884dc54f354b
+DTEND:20270109T170000Z
+UID:shljdz3d95jso
+DESCRIPTION:Game Center: https://www.shl.se/game-center/jdz3d95jso/qa98unl
+ bd6/?state=pre-game
 LOCATION:Coop Norrbotten Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Luleå Hockey - Skellefteå AIK
+SUMMARY:🏒 | Luleå Hockey vs Skellefteå AIK
 DTSTART:20270114T180000Z
-DTEND:20270114T200000Z
-UID:6a02dfe454aa884dc54f354c
+DTEND:20270114T180000Z
+UID:shlble8clmzij
+DESCRIPTION:Game Center: https://www.shl.se/game-center/ble8clmzij/qa98unl
+ bd6/?state=pre-game
 LOCATION:Coop Norrbotten Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | HV71 - Luleå Hockey
+SUMMARY:🏒 | HV71 vs Luleå Hockey
 DTSTART:20270116T141500Z
-DTEND:20270116T161500Z
-UID:6a02dfe454aa884ccf087977
+DTEND:20270116T141500Z
+UID:shlvmvtegr691
+DESCRIPTION:Game Center: https://www.shl.se/game-center/vmvtegr691/qa98unl
+ bd6/?state=pre-game
 LOCATION:Husqvarna Garden
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Luleå Hockey - Linköping HC
+SUMMARY:🏒 | Luleå Hockey vs Linköping HC
 DTSTART:20270121T180000Z
-DTEND:20270121T200000Z
-UID:6a02dfe454aa884ccf087978
+DTEND:20270121T180000Z
+UID:shlcz4g55d7zy
+DESCRIPTION:Game Center: https://www.shl.se/game-center/cz4g55d7zy/qa98unl
+ bd6/?state=pre-game
 LOCATION:Coop Norrbotten Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Luleå Hockey - Brynäs IF
+SUMMARY:🏒 | Luleå Hockey vs Brynäs IF
 DTSTART:20270123T141500Z
-DTEND:20270123T161500Z
-UID:6a02dfe454aa884ccf087979
+DTEND:20270123T141500Z
+UID:shlwcjjbs853p
+DESCRIPTION:Game Center: https://www.shl.se/game-center/wcjjbs853p/qa98unl
+ bd6/?state=pre-game
 LOCATION:Coop Norrbotten Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Växjö Lakers - Luleå Hockey
+SUMMARY:🏒 | Växjö Lakers vs Luleå Hockey
 DTSTART:20270128T180000Z
-DTEND:20270128T200000Z
-UID:6a02dfe454aa884ccf08797a
+DTEND:20270128T180000Z
+UID:shlx87br5kzvw
+DESCRIPTION:Game Center: https://www.shl.se/game-center/x87br5kzvw/qa98unl
+ bd6/?state=pre-game
 LOCATION:Vida Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Frölunda HC - Luleå Hockey
+SUMMARY:🏒 | Frölunda HC vs Luleå Hockey
 DTSTART:20270130T141500Z
-DTEND:20270130T161500Z
-UID:6a02dfe454aa884dc54f354d
+DTEND:20270130T141500Z
+UID:shlmp2b8ffpaj
+DESCRIPTION:Game Center: https://www.shl.se/game-center/mp2b8ffpaj/qa98unl
+ bd6/?state=pre-game
 LOCATION:Scandinavium
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Luleå Hockey - Färjestad BK
+SUMMARY:🏒 | Luleå Hockey vs Färjestad BK
 DTSTART:20270202T180000Z
-DTEND:20270202T200000Z
-UID:6a02dfe454aa884dc54f354e
+DTEND:20270202T180000Z
+UID:shls1shwo0d06
+DESCRIPTION:Game Center: https://www.shl.se/game-center/s1shwo0d06/qa98unl
+ bd6/?state=pre-game
 LOCATION:Coop Norrbotten Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Luleå Hockey - Örebro Hockey
+SUMMARY:🏒 | Luleå Hockey vs Örebro Hockey
 DTSTART:20270204T180000Z
-DTEND:20270204T200000Z
-UID:6a02dfe454aa884dc54f354f
+DTEND:20270204T180000Z
+UID:shlxlxecz0j1c
+DESCRIPTION:Game Center: https://www.shl.se/game-center/xlxecz0j1c/qa98unl
+ bd6/?state=pre-game
 LOCATION:Coop Norrbotten Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Timrå IK - Luleå Hockey
+SUMMARY:🏒 | Timrå IK vs Luleå Hockey
 DTSTART:20270206T141500Z
-DTEND:20270206T161500Z
-UID:6a02dfe454aa884dc54f3550
+DTEND:20270206T141500Z
+UID:shlyn41a40lq7
+DESCRIPTION:Game Center: https://www.shl.se/game-center/yn41a40lq7/qa98unl
+ bd6/?state=pre-game
 LOCATION:SCA Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Luleå Hockey - Brynäs IF
+SUMMARY:🏒 | Luleå Hockey vs Brynäs IF
 DTSTART:20270216T180000Z
-DTEND:20270216T200000Z
-UID:6a02dfe454aa884dc54f3551
+DTEND:20270216T180000Z
+UID:shlpg4rg306ub
+DESCRIPTION:Game Center: https://www.shl.se/game-center/pg4rg306ub/qa98unl
+ bd6/?state=pre-game
 LOCATION:Coop Norrbotten Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Luleå Hockey - Skellefteå AIK
+SUMMARY:🏒 | Luleå Hockey vs Skellefteå AIK
 DTSTART:20270218T180000Z
-DTEND:20270218T200000Z
-UID:6a02dfe454aa884dc54f3552
+DTEND:20270218T180000Z
+UID:shli0qc2ixcu9
+DESCRIPTION:Game Center: https://www.shl.se/game-center/i0qc2ixcu9/qa98unl
+ bd6/?state=pre-game
 LOCATION:Coop Norrbotten Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Färjestad BK - Luleå Hockey
+SUMMARY:🏒 | Färjestad BK vs Luleå Hockey
 DTSTART:20270220T141500Z
-DTEND:20270220T161500Z
-UID:6a02dfe454aa884dc54f3553
+DTEND:20270220T141500Z
+UID:shlcb1w6c39vl
+DESCRIPTION:Game Center: https://www.shl.se/game-center/cb1w6c39vl/qa98unl
+ bd6/?state=pre-game
 LOCATION:Löfbergs Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Luleå Hockey - Linköping HC
+SUMMARY:🏒 | Luleå Hockey vs Linköping HC
 DTSTART:20270225T180000Z
-DTEND:20270225T200000Z
-UID:6a02dfe454aa884dc54f3554
+DTEND:20270225T180000Z
+UID:shlibxi9mu43l
+DESCRIPTION:Game Center: https://www.shl.se/game-center/ibxi9mu43l/qa98unl
+ bd6/?state=pre-game
 LOCATION:Coop Norrbotten Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Luleå Hockey - HV71
+SUMMARY:🏒 | Luleå Hockey vs HV71
 DTSTART:20270227T170000Z
-DTEND:20270227T190000Z
-UID:6a02dfe454aa884dc54f3555
+DTEND:20270227T170000Z
+UID:shlak6n525q8i
+DESCRIPTION:Game Center: https://www.shl.se/game-center/ak6n525q8i/qa98unl
+ bd6/?state=pre-game
 LOCATION:Coop Norrbotten Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Malmö Redhawks - Luleå Hockey
+SUMMARY:🏒 | Malmö Redhawks vs Luleå Hockey
 DTSTART:20270302T180000Z
-DTEND:20270302T200000Z
-UID:6a02dfe454aa8848ab03ce1a
+DTEND:20270302T180000Z
+UID:shln4rlbuew6m
+DESCRIPTION:Game Center: https://www.shl.se/game-center/n4rlbuew6m/qa98unl
+ bd6/?state=pre-game
 LOCATION:Malmö Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Frölunda HC - Luleå Hockey
+SUMMARY:🏒 | Frölunda HC vs Luleå Hockey
 DTSTART:20270304T180000Z
-DTEND:20270304T200000Z
-UID:6a02dfe454aa8848ab03ce1b
+DTEND:20270304T180000Z
+UID:shli3i0ds40x1
+DESCRIPTION:Game Center: https://www.shl.se/game-center/i3i0ds40x1/qa98unl
+ bd6/?state=pre-game
 LOCATION:Scandinavium
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Rögle BK - Luleå Hockey
+SUMMARY:🏒 | Rögle BK vs Luleå Hockey
 DTSTART:20270306T170000Z
-DTEND:20270306T190000Z
-UID:6a02dfe454aa8848ab03ce1c
+DTEND:20270306T170000Z
+UID:shlwjd69z6rqe
+DESCRIPTION:Game Center: https://www.shl.se/game-center/wjd69z6rqe/qa98unl
+ bd6/?state=pre-game
 LOCATION:Catena Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Luleå Hockey - Växjö Lakers
+SUMMARY:🏒 | Luleå Hockey vs Växjö Lakers
 DTSTART:20270309T180000Z
-DTEND:20270309T200000Z
-UID:6a02dfe454aa8848ab03ce1d
+DTEND:20270309T180000Z
+UID:shlgwv9n5cg6a
+DESCRIPTION:Game Center: https://www.shl.se/game-center/gwv9n5cg6a/qa98unl
+ bd6/?state=pre-game
 LOCATION:Coop Norrbotten Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Björklöven - Luleå Hockey
+SUMMARY:🏒 | Björklöven vs Luleå Hockey
 DTSTART:20270311T180000Z
-DTEND:20270311T200000Z
-UID:6a02dfe454aa8848ab03ce1e
+DTEND:20270311T180000Z
+UID:shld3yp1fbals
+DESCRIPTION:Game Center: https://www.shl.se/game-center/d3yp1fbals/qa98unl
+ bd6/?state=pre-game
 LOCATION:Visionite Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Djurgårdens IF - Luleå Hockey
+SUMMARY:🏒 | Djurgårdens IF vs Luleå Hockey
 DTSTART:20270313T141500Z
-DTEND:20270313T161500Z
-UID:6a02dfe454aa8848ab03ce1f
+DTEND:20270313T141500Z
+UID:shlejq99d08q7
+DESCRIPTION:Game Center: https://www.shl.se/game-center/ejq99d08q7/qa98unl
+ bd6/?state=pre-game
 LOCATION:Hovet
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Luleå Hockey - Örebro Hockey
+SUMMARY:🏒 | Luleå Hockey vs Örebro Hockey
 DTSTART:20270316T180000Z
-DTEND:20270316T200000Z
-UID:6a02dfe454aa8848ab03ce20
+DTEND:20270316T180000Z
+UID:shlf569ipbegr
+DESCRIPTION:Game Center: https://www.shl.se/game-center/f569ipbegr/qa98unl
+ bd6/?state=pre-game
 LOCATION:Coop Norrbotten Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Skellefteå AIK - Brynäs IF
+SUMMARY:🏒 | Skellefteå AIK vs Brynäs IF
 DTSTART:20260919T131500Z
-DTEND:20260919T151500Z
-UID:6a02dfe754aa884ccf0879b1
+DTEND:20260919T131500Z
+UID:shlp2qoh7wot5
+DESCRIPTION:Game Center: https://www.shl.se/game-center/p2qoh7wot5/qa98unl
+ bd6/?state=pre-game
 LOCATION:Skellefteå Kraft Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | HV71 - Skellefteå AIK
+SUMMARY:🏒 | HV71 vs Skellefteå AIK
 DTSTART:20260924T170000Z
-DTEND:20260924T190000Z
-UID:6a02dfe754aa8848ab03cea5
+DTEND:20260924T170000Z
+UID:shlm01wkdm2u1
+DESCRIPTION:Game Center: https://www.shl.se/game-center/m01wkdm2u1/qa98unl
+ bd6/?state=pre-game
 LOCATION:Husqvarna Garden
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Örebro Hockey - Skellefteå AIK
+SUMMARY:🏒 | Örebro Hockey vs Skellefteå AIK
 DTSTART:20260926T160000Z
-DTEND:20260926T180000Z
-UID:6a02dfe754aa884ccf0879b2
+DTEND:20260926T160000Z
+UID:shlu0ribje54r
+DESCRIPTION:Game Center: https://www.shl.se/game-center/u0ribje54r/qa98unl
+ bd6/?state=pre-game
 LOCATION:Behrn Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Skellefteå AIK - Luleå Hockey
-DTSTART:20260929T170000Z
-DTEND:20260929T190000Z
-UID:6a02dfe754aa8848ab03cea6
-LOCATION:Skellefteå Kraft Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 SHL | Skellefteå AIK - Malmö Redhawks
+SUMMARY:🏒 | Skellefteå AIK vs Malmö Redhawks
 DTSTART:20261001T170000Z
-DTEND:20261001T190000Z
-UID:6a02dfe754aa884ccf0879b3
+DTEND:20261001T170000Z
+UID:shltuegrv6pk3
+DESCRIPTION:Game Center: https://www.shl.se/game-center/tuegrv6pk3/qa98unl
+ bd6/?state=pre-game
 LOCATION:Skellefteå Kraft Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Timrå IK - Skellefteå AIK
+SUMMARY:🏒 | Timrå IK vs Skellefteå AIK
 DTSTART:20261003T131500Z
-DTEND:20261003T151500Z
-UID:6a02dfe754aa884ccf0879b4
+DTEND:20261003T131500Z
+UID:shlazzzh3iecf
+DESCRIPTION:Game Center: https://www.shl.se/game-center/azzzh3iecf/qa98unl
+ bd6/?state=pre-game
 LOCATION:SCA Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Skellefteå AIK - Färjestad BK
+SUMMARY:🏒 | Skellefteå AIK vs Färjestad BK
 DTSTART:20261008T170000Z
-DTEND:20261008T190000Z
-UID:6a02dfe754aa8848ab03cea7
+DTEND:20261008T170000Z
+UID:shlemdl6a38ir
+DESCRIPTION:Game Center: https://www.shl.se/game-center/emdl6a38ir/qa98unl
+ bd6/?state=pre-game
 LOCATION:Skellefteå Kraft Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Skellefteå AIK - Rögle BK
+SUMMARY:🏒 | Skellefteå AIK vs Rögle BK
 DTSTART:20261010T160000Z
-DTEND:20261010T180000Z
-UID:6a02dfe754aa884ccf0879b5
+DTEND:20261010T160000Z
+UID:shlxh68muyldy
+DESCRIPTION:Game Center: https://www.shl.se/game-center/xh68muyldy/qa98unl
+ bd6/?state=pre-game
 LOCATION:Skellefteå Kraft Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Växjö Lakers - Skellefteå AIK
+SUMMARY:🏒 | Växjö Lakers vs Skellefteå AIK
 DTSTART:20261015T170000Z
-DTEND:20261015T190000Z
-UID:6a02dfe754aa884dc54f35d4
+DTEND:20261015T170000Z
+UID:shlpqcc7xg1m4
+DESCRIPTION:Game Center: https://www.shl.se/game-center/pqcc7xg1m4/qa98unl
+ bd6/?state=pre-game
 LOCATION:Vida Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Frölunda HC - Skellefteå AIK
+SUMMARY:🏒 | Frölunda HC vs Skellefteå AIK
 DTSTART:20261017T160000Z
-DTEND:20261017T180000Z
-UID:6a02dfe754aa8848ab03cea8
+DTEND:20261017T160000Z
+UID:shlet9erhx0si
+DESCRIPTION:Game Center: https://www.shl.se/game-center/et9erhx0si/qa98unl
+ bd6/?state=pre-game
 LOCATION:Scandinavium
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Skellefteå AIK - Djurgårdens IF
+SUMMARY:🏒 | Skellefteå AIK vs Djurgårdens IF
 DTSTART:20261022T170000Z
-DTEND:20261022T190000Z
-UID:6a02dfe754aa8848ab03cea9
+DTEND:20261022T170000Z
+UID:shlnuf5t434fs
+DESCRIPTION:Game Center: https://www.shl.se/game-center/nuf5t434fs/qa98unl
+ bd6/?state=pre-game
 LOCATION:Skellefteå Kraft Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Björklöven - Skellefteå AIK
+SUMMARY:🏒 | Björklöven vs Skellefteå AIK
 DTSTART:20261024T131500Z
-DTEND:20261024T151500Z
-UID:6a02dfe754aa8848ab03ceaa
+DTEND:20261024T131500Z
+UID:shlee8nz8n7s1
+DESCRIPTION:Game Center: https://www.shl.se/game-center/ee8nz8n7s1/qa98unl
+ bd6/?state=pre-game
 LOCATION:Visionite Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Skellefteå AIK - Linköping HC
+SUMMARY:🏒 | Skellefteå AIK vs Linköping HC
 DTSTART:20261029T180000Z
-DTEND:20261029T200000Z
-UID:6a02dfe754aa8848ab03ceab
+DTEND:20261029T180000Z
+UID:shlfqfzcjooa4
+DESCRIPTION:Game Center: https://www.shl.se/game-center/fqfzcjooa4/qa98unl
+ bd6/?state=pre-game
 LOCATION:Skellefteå Kraft Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Skellefteå AIK - Björklöven
+SUMMARY:🏒 | Skellefteå AIK vs Björklöven
 DTSTART:20261031T141500Z
-DTEND:20261031T161500Z
-UID:6a02dfe754aa8848ab03ceac
+DTEND:20261031T141500Z
+UID:shlv35qq3250h
+DESCRIPTION:Game Center: https://www.shl.se/game-center/v35qq3250h/qa98unl
+ bd6/?state=pre-game
 LOCATION:Skellefteå Kraft Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Brynäs IF - Skellefteå AIK
+SUMMARY:🏒 | Brynäs IF vs Skellefteå AIK
 DTSTART:20261112T180000Z
-DTEND:20261112T200000Z
-UID:6a02dfe754aa8848ab03cead
+DTEND:20261112T180000Z
+UID:shlimds3e8pm2
+DESCRIPTION:Game Center: https://www.shl.se/game-center/imds3e8pm2/qa98unl
+ bd6/?state=pre-game
 LOCATION:Monitor ERP Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Skellefteå AIK - Linköping HC
+SUMMARY:🏒 | Skellefteå AIK vs Linköping HC
 DTSTART:20261114T170000Z
-DTEND:20261114T190000Z
-UID:6a02dfe754aa8848ab03ceae
+DTEND:20261114T170000Z
+UID:shlcdvhm13p37
+DESCRIPTION:Game Center: https://www.shl.se/game-center/cdvhm13p37/qa98unl
+ bd6/?state=pre-game
 LOCATION:Skellefteå Kraft Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Djurgårdens IF - Skellefteå AIK
+SUMMARY:🏒 | Djurgårdens IF vs Skellefteå AIK
 DTSTART:20261119T180000Z
-DTEND:20261119T200000Z
-UID:6a02dfe754aa8848ab03ceaf
+DTEND:20261119T180000Z
+UID:shlls7erm61l1
+DESCRIPTION:Game Center: https://www.shl.se/game-center/ls7erm61l1/qa98unl
+ bd6/?state=pre-game
 LOCATION:Hovet
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Örebro Hockey - Skellefteå AIK
+SUMMARY:🏒 | Örebro Hockey vs Skellefteå AIK
 DTSTART:20261121T170000Z
-DTEND:20261121T190000Z
-UID:6a02dfe754aa8848ab03ceb0
+DTEND:20261121T170000Z
+UID:shlkbza79tlxu
+DESCRIPTION:Game Center: https://www.shl.se/game-center/kbza79tlxu/qa98unl
+ bd6/?state=pre-game
 LOCATION:Behrn Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Skellefteå AIK - Rögle BK
+SUMMARY:🏒 | Skellefteå AIK vs Rögle BK
 DTSTART:20261126T180000Z
-DTEND:20261126T200000Z
-UID:6a02dfe754aa8848ab03ceb1
+DTEND:20261126T180000Z
+UID:shlw3fha6cmmv
+DESCRIPTION:Game Center: https://www.shl.se/game-center/w3fha6cmmv/qa98unl
+ bd6/?state=pre-game
 LOCATION:Skellefteå Kraft Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Skellefteå AIK - Färjestad BK
+SUMMARY:🏒 | Skellefteå AIK vs Färjestad BK
 DTSTART:20261128T141500Z
-DTEND:20261128T161500Z
-UID:6a02dfe754aa8848ab03ceb2
+DTEND:20261128T141500Z
+UID:shluauki1g3ey
+DESCRIPTION:Game Center: https://www.shl.se/game-center/uauki1g3ey/qa98unl
+ bd6/?state=pre-game
 LOCATION:Skellefteå Kraft Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | HV71 - Skellefteå AIK
+SUMMARY:🏒 | HV71 vs Skellefteå AIK
 DTSTART:20261203T180000Z
-DTEND:20261203T200000Z
-UID:6a02dfe754aa8848ab03ceb3
+DTEND:20261203T180000Z
+UID:shlaio3ph6j0x
+DESCRIPTION:Game Center: https://www.shl.se/game-center/aio3ph6j0x/qa98unl
+ bd6/?state=pre-game
 LOCATION:Husqvarna Garden
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Skellefteå AIK - Frölunda HC
+SUMMARY:🏒 | Skellefteå AIK vs Frölunda HC
 DTSTART:20261205T141500Z
-DTEND:20261205T161500Z
-UID:6a02dfe754aa8848ab03ceb4
+DTEND:20261205T141500Z
+UID:shljwgqvr0349
+DESCRIPTION:Game Center: https://www.shl.se/game-center/jwgqvr0349/qa98unl
+ bd6/?state=pre-game
 LOCATION:Skellefteå Kraft Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Skellefteå AIK - Växjö Lakers
+SUMMARY:🏒 | Skellefteå AIK vs Växjö Lakers
 DTSTART:20261217T180000Z
-DTEND:20261217T200000Z
-UID:6a02dfe754aa8848ab03ceb5
+DTEND:20261217T180000Z
+UID:shlb6wbeq7dcb
+DESCRIPTION:Game Center: https://www.shl.se/game-center/b6wbeq7dcb/qa98unl
+ bd6/?state=pre-game
 LOCATION:Skellefteå Kraft Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Malmö Redhawks - Skellefteå AIK
+SUMMARY:🏒 | Malmö Redhawks vs Skellefteå AIK
 DTSTART:20261219T170000Z
-DTEND:20261219T190000Z
-UID:6a02dfe754aa8848ab03ceb6
+DTEND:20261219T170000Z
+UID:shlc0xnea9zqj
+DESCRIPTION:Game Center: https://www.shl.se/game-center/c0xnea9zqj/qa98unl
+ bd6/?state=pre-game
 LOCATION:Malmö Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Skellefteå AIK - Luleå Hockey
-DTSTART:20261226T141500Z
-DTEND:20261226T161500Z
-UID:6a02dfe754aa8848ab03ceb7
-LOCATION:Skellefteå Kraft Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 SHL | Timrå IK - Skellefteå AIK
+SUMMARY:🏒 | Timrå IK vs Skellefteå AIK
 DTSTART:20261228T180000Z
-DTEND:20261228T200000Z
-UID:6a02dfe754aa884ccf0879b6
+DTEND:20261228T180000Z
+UID:shlq8r10nmm9v
+DESCRIPTION:Game Center: https://www.shl.se/game-center/q8r10nmm9v/qa98unl
+ bd6/?state=pre-game
 LOCATION:SCA Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Björklöven - Skellefteå AIK
+SUMMARY:🏒 | Björklöven vs Skellefteå AIK
 DTSTART:20261230T180000Z
-DTEND:20261230T200000Z
-UID:6a02dfe754aa884ccf0879b7
+DTEND:20261230T180000Z
+UID:shlsskozrqaid
+DESCRIPTION:Game Center: https://www.shl.se/game-center/sskozrqaid/qa98unl
+ bd6/?state=pre-game
 LOCATION:Visionite Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Skellefteå AIK - Örebro Hockey
+SUMMARY:🏒 | Skellefteå AIK vs Örebro Hockey
 DTSTART:20270102T170000Z
-DTEND:20270102T190000Z
-UID:6a02dfe754aa8848ab03ceb8
+DTEND:20270102T170000Z
+UID:shljz2dxkn44r
+DESCRIPTION:Game Center: https://www.shl.se/game-center/jz2dxkn44r/qa98unl
+ bd6/?state=pre-game
 LOCATION:Skellefteå Kraft Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Färjestad BK - Skellefteå AIK
+SUMMARY:🏒 | Färjestad BK vs Skellefteå AIK
 DTSTART:20270105T180000Z
-DTEND:20270105T200000Z
-UID:6a02dfe754aa884ccf0879b8
+DTEND:20270105T180000Z
+UID:shlz9wur5krmo
+DESCRIPTION:Game Center: https://www.shl.se/game-center/z9wur5krmo/qa98unl
+ bd6/?state=pre-game
 LOCATION:Löfbergs Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Skellefteå AIK - Djurgårdens IF
+SUMMARY:🏒 | Skellefteå AIK vs Djurgårdens IF
 DTSTART:20270107T180000Z
-DTEND:20270107T200000Z
-UID:6a02dfe754aa8848ab03ceb9
+DTEND:20270107T180000Z
+UID:shlkroftmyns9
+DESCRIPTION:Game Center: https://www.shl.se/game-center/kroftmyns9/qa98unl
+ bd6/?state=pre-game
 LOCATION:Skellefteå Kraft Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Rögle BK - Skellefteå AIK
+SUMMARY:🏒 | Rögle BK vs Skellefteå AIK
 DTSTART:20270109T141500Z
-DTEND:20270109T161500Z
-UID:6a02dfe754aa8848ab03ceba
+DTEND:20270109T141500Z
+UID:shltm2121kh93
+DESCRIPTION:Game Center: https://www.shl.se/game-center/tm2121kh93/qa98unl
+ bd6/?state=pre-game
 LOCATION:Catena Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Luleå Hockey - Skellefteå AIK
-DTSTART:20270114T180000Z
-DTEND:20270114T200000Z
-UID:6a02dfe754aa8848ab03cebb
-LOCATION:Coop Norrbotten Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 SHL | Brynäs IF - Skellefteå AIK
+SUMMARY:🏒 | Brynäs IF vs Skellefteå AIK
 DTSTART:20270116T170000Z
-DTEND:20270116T190000Z
-UID:6a02dfe754aa8848ab03cebc
+DTEND:20270116T170000Z
+UID:shlqvlhzbbsf2
+DESCRIPTION:Game Center: https://www.shl.se/game-center/qvlhzbbsf2/qa98unl
+ bd6/?state=pre-game
 LOCATION:Monitor ERP Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Skellefteå AIK - HV71
+SUMMARY:🏒 | Skellefteå AIK vs HV71
 DTSTART:20270121T180000Z
-DTEND:20270121T200000Z
-UID:6a02dfe754aa8848ab03cebd
+DTEND:20270121T180000Z
+UID:shli2vqj4jirt
+DESCRIPTION:Game Center: https://www.shl.se/game-center/i2vqj4jirt/qa98unl
+ bd6/?state=pre-game
 LOCATION:Skellefteå Kraft Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Skellefteå AIK - Frölunda HC
+SUMMARY:🏒 | Skellefteå AIK vs Frölunda HC
 DTSTART:20270123T141500Z
-DTEND:20270123T161500Z
-UID:6a02dfe754aa8848ab03cebe
+DTEND:20270123T141500Z
+UID:shlqv3hocj9k9
+DESCRIPTION:Game Center: https://www.shl.se/game-center/qv3hocj9k9/qa98unl
+ bd6/?state=pre-game
 LOCATION:Skellefteå Kraft Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Linköping HC - Skellefteå AIK
+SUMMARY:🏒 | Linköping HC vs Skellefteå AIK
 DTSTART:20270128T180000Z
-DTEND:20270128T200000Z
-UID:6a02dfe754aa8848ab03cebf
+DTEND:20270128T180000Z
+UID:shlel0buy5jok
+DESCRIPTION:Game Center: https://www.shl.se/game-center/el0buy5jok/qa98unl
+ bd6/?state=pre-game
 LOCATION:Saab Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Skellefteå AIK - Timrå IK
+SUMMARY:🏒 | Skellefteå AIK vs Timrå IK
 DTSTART:20270130T170000Z
-DTEND:20270130T190000Z
-UID:6a02dfe754aa8848ab03cec0
+DTEND:20270130T170000Z
+UID:shlyjq4ijk2i8
+DESCRIPTION:Game Center: https://www.shl.se/game-center/yjq4ijk2i8/qa98unl
+ bd6/?state=pre-game
 LOCATION:Skellefteå Kraft Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Malmö Redhawks - Skellefteå AIK
+SUMMARY:🏒 | Malmö Redhawks vs Skellefteå AIK
 DTSTART:20270202T180000Z
-DTEND:20270202T200000Z
-UID:6a02dfe754aa8848ab03cec1
+DTEND:20270202T180000Z
+UID:shluw5556fs55
+DESCRIPTION:Game Center: https://www.shl.se/game-center/uw5556fs55/qa98unl
+ bd6/?state=pre-game
 LOCATION:Malmö Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Växjö Lakers - Skellefteå AIK
+SUMMARY:🏒 | Växjö Lakers vs Skellefteå AIK
 DTSTART:20270204T180000Z
-DTEND:20270204T200000Z
-UID:6a02dfe754aa8848ab03cec2
+DTEND:20270204T180000Z
+UID:shlryhtw4n2hm
+DESCRIPTION:Game Center: https://www.shl.se/game-center/ryhtw4n2hm/qa98unl
+ bd6/?state=pre-game
 LOCATION:Vida Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Skellefteå AIK - Örebro Hockey
+SUMMARY:🏒 | Skellefteå AIK vs Örebro Hockey
 DTSTART:20270206T170000Z
-DTEND:20270206T190000Z
-UID:6a02dfe754aa8848ab03cec3
+DTEND:20270206T170000Z
+UID:shlgbt87bg5ku
+DESCRIPTION:Game Center: https://www.shl.se/game-center/gbt87bg5ku/qa98unl
+ bd6/?state=pre-game
 LOCATION:Skellefteå Kraft Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Skellefteå AIK - Malmö Redhawks
+SUMMARY:🏒 | Skellefteå AIK vs Malmö Redhawks
 DTSTART:20270216T180000Z
-DTEND:20270216T200000Z
-UID:6a02dfe754aa8848ab03cec4
+DTEND:20270216T180000Z
+UID:shlqzmqov43m2
+DESCRIPTION:Game Center: https://www.shl.se/game-center/qzmqov43m2/qa98unl
+ bd6/?state=pre-game
 LOCATION:Skellefteå Kraft Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Luleå Hockey - Skellefteå AIK
-DTSTART:20270218T180000Z
-DTEND:20270218T200000Z
-UID:6a02dfe754aa8848ab03cec5
-LOCATION:Coop Norrbotten Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 SHL | Skellefteå AIK - Växjö Lakers
+SUMMARY:🏒 | Skellefteå AIK vs Växjö Lakers
 DTSTART:20270220T141500Z
-DTEND:20270220T161500Z
-UID:6a02dfe754aa8848ab03cec6
+DTEND:20270220T141500Z
+UID:shle4eyfco5gq
+DESCRIPTION:Game Center: https://www.shl.se/game-center/e4eyfco5gq/qa98unl
+ bd6/?state=pre-game
 LOCATION:Skellefteå Kraft Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Skellefteå AIK - HV71
+SUMMARY:🏒 | Skellefteå AIK vs HV71
 DTSTART:20270225T180000Z
-DTEND:20270225T200000Z
-UID:6a02dfe754aa8848ab03cec7
+DTEND:20270225T180000Z
+UID:shlxiuq0b6abw
+DESCRIPTION:Game Center: https://www.shl.se/game-center/xiuq0b6abw/qa98unl
+ bd6/?state=pre-game
 LOCATION:Skellefteå Kraft Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Skellefteå AIK - Brynäs IF
+SUMMARY:🏒 | Skellefteå AIK vs Brynäs IF
 DTSTART:20270227T141500Z
-DTEND:20270227T161500Z
-UID:6a02dfe754aa8848ab03cec8
+DTEND:20270227T141500Z
+UID:shlwot92w6s1x
+DESCRIPTION:Game Center: https://www.shl.se/game-center/wot92w6s1x/qa98unl
+ bd6/?state=pre-game
 LOCATION:Skellefteå Kraft Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Färjestad BK - Skellefteå AIK
+SUMMARY:🏒 | Färjestad BK vs Skellefteå AIK
 DTSTART:20270302T180000Z
-DTEND:20270302T200000Z
-UID:6a02dfe754aa8848ab03cec9
+DTEND:20270302T180000Z
+UID:shlqp7smzuw29
+DESCRIPTION:Game Center: https://www.shl.se/game-center/qp7smzuw29/qa98unl
+ bd6/?state=pre-game
 LOCATION:Löfbergs Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Djurgårdens IF - Skellefteå AIK
+SUMMARY:🏒 | Djurgårdens IF vs Skellefteå AIK
 DTSTART:20270304T180000Z
-DTEND:20270304T200000Z
-UID:6a02dfe754aa884ccf0879b9
+DTEND:20270304T180000Z
+UID:shlc5g0ipenao
+DESCRIPTION:Game Center: https://www.shl.se/game-center/c5g0ipenao/qa98unl
+ bd6/?state=pre-game
 LOCATION:Hovet
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Linköping HC - Skellefteå AIK
+SUMMARY:🏒 | Linköping HC vs Skellefteå AIK
 DTSTART:20270306T170000Z
-DTEND:20270306T190000Z
-UID:6a02dfe754aa884ccf0879ba
+DTEND:20270306T170000Z
+UID:shlwzal2d8fea
+DESCRIPTION:Game Center: https://www.shl.se/game-center/wzal2d8fea/qa98unl
+ bd6/?state=pre-game
 LOCATION:Saab Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Skellefteå AIK - Björklöven
+SUMMARY:🏒 | Skellefteå AIK vs Björklöven
 DTSTART:20270309T180000Z
-DTEND:20270309T200000Z
-UID:6a02dfe754aa884ccf0879bb
+DTEND:20270309T180000Z
+UID:shlayvydwtoap
+DESCRIPTION:Game Center: https://www.shl.se/game-center/ayvydwtoap/qa98unl
+ bd6/?state=pre-game
 LOCATION:Skellefteå Kraft Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Frölunda HC - Skellefteå AIK
+SUMMARY:🏒 | Frölunda HC vs Skellefteå AIK
 DTSTART:20270311T180000Z
-DTEND:20270311T200000Z
-UID:6a02dfe754aa8848ab03ceca
+DTEND:20270311T180000Z
+UID:shlvttu2z23ew
+DESCRIPTION:Game Center: https://www.shl.se/game-center/vttu2z23ew/qa98unl
+ bd6/?state=pre-game
 LOCATION:Scandinavium
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Rögle BK - Skellefteå AIK
+SUMMARY:🏒 | Rögle BK vs Skellefteå AIK
 DTSTART:20270313T141500Z
-DTEND:20270313T161500Z
-UID:6a02dfe754aa884ccf0879bc
+DTEND:20270313T141500Z
+UID:shll28zr0em71
+DESCRIPTION:Game Center: https://www.shl.se/game-center/l28zr0em71/qa98unl
+ bd6/?state=pre-game
 LOCATION:Catena Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 SHL | Skellefteå AIK - Timrå IK
+SUMMARY:🏒 | Skellefteå AIK vs Timrå IK
 DTSTART:20270316T180000Z
-DTEND:20270316T200000Z
-UID:6a02dfe754aa8848ab03cecb
+DTEND:20270316T180000Z
+UID:shlwjk58ulxxj
+DESCRIPTION:Game Center: https://www.shl.se/game-center/wjk58ulxxj/qa98unl
+ bd6/?state=pre-game
 LOCATION:Skellefteå Kraft Arena
 END:VEVENT
 END:VCALENDAR
