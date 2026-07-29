@@ -5,6 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 SUMMARY:🥏 | Montreal Royal @ Boston Glory
+DTSTART;TZID="UTC-04:00":20260718T190000
+DTEND;TZID="UTC-04:00":20260718T210000
+UID:ufa2026-07-18-MTL-BOS
+DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-07-18-M
+ TL-BOS\nWatch Live: https://watchufa.tv/events/montreal-at-boston-7-18-202
+ 6\nTickets: https://shop.bostonglory.com/collections/tickets
+LOCATION:Hormel Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥏 | Montreal Royal @ Boston Glory
 DTSTART;TZID="UTC-04:00":20260502T140000
 DTEND;TZID="UTC-04:00":20260502T160000
 UID:ufa2026-05-02-MTL-BOS
@@ -116,15 +126,5 @@ DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-05-10-M
  -2026-05-10-2026-20-26-31\nTickets: https://www.gofevo.com/event/thunderbi
  rds0510
 LOCATION:F.N.B. Stadium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🥏 | Montreal Royal @ Boston Glory
-DTSTART;TZID="UTC-04:00":20260718T190000
-DTEND;TZID="UTC-04:00":20260718T210000
-UID:ufa2026-07-18-MTL-BOS
-DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-07-18-M
- TL-BOS\nWatch Live: https://watchufa.tv/events/montreal-at-boston-7-18-202
- 6\nTickets: https://shop.bostonglory.com/collections/tickets
-LOCATION:Hormel Stadium
 END:VEVENT
 END:VCALENDAR

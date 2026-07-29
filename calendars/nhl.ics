@@ -274,8 +274,9 @@ DTSTART:20261119T003000Z
 DTEND:20261119T030000Z
 UID:nhl2026020345
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
- er/mtl-vs-njd/2026/11/18/2026020345\nTickets: https://www.nhl.com/devils/t
- ickets/
+ er/mtl-vs-njd/2026/11/18/2026020345\nTickets: https://www.ticketmaster.com
+ /event/020064F091C59CCF?brand=devils&artistid=805982&wt.mc_id=NHL_TEAM_NJD
+ _SCHEDULE_GM12&camefrom=CFC_DEVILS_NHL_TEAM_NJD_SCHEDULE_GM12
 LOCATION:Prudential Center
 END:VEVENT
 BEGIN:VEVENT
@@ -544,8 +545,10 @@ DTSTART:20270117T000000Z
 DTEND:20270117T023000Z
 UID:nhl2026020764
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
- er/mtl-vs-phi/2027/01/16/2026020764\nTickets: https://www.nhl.com/flyers/t
- ickets/
+ er/mtl-vs-phi/2027/01/16/2026020764\nTickets: https://www.ticketmaster.com
+ /event/300064EEEE1EE050?brand=flyers&artistid=806000&wt.mc_id=NHL_TEAM_PHI
+ _SCHEDULE_GM23&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_
+ PHI&utm_content=SCHEDULE_GM23
 LOCATION:Xfinity Mobile Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -686,8 +689,10 @@ DTSTART:20270222T180000Z
 DTEND:20270222T203000Z
 UID:nhl2026020986
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
- er/mtl-vs-phi/2027/02/22/2026020986\nTickets: https://www.nhl.com/flyers/t
- ickets/
+ er/mtl-vs-phi/2027/02/22/2026020986\nTickets: https://www.ticketmaster.com
+ /event/300064EEEE49E0A9?brand=flyers&artistid=806000&wt.mc_id=NHL_TEAM_PHI
+ _SCHEDULE_GM32&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_
+ PHI&utm_content=SCHEDULE_GM32
 LOCATION:Xfinity Mobile Arena
 END:VEVENT
 BEGIN:VEVENT
