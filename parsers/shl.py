@@ -1,5 +1,5 @@
 from icalendar import Calendar, Event
-from datetime import datetime
+from datetime import datetime, timedelta
 
 def parse_shl_json_to_calendar(league, team_name, json_data):
     cal = Calendar()
@@ -11,6 +11,7 @@ def parse_shl_json_to_calendar(league, team_name, json_data):
     for game in games:
         # Date
         dt = datetime.fromisoformat(game["rawStartDateTime"].replace("Z", "+00:00"))
+        end_dt = dt + timedelta(hours=2,minutes=30)
 
         # Teams
         home = game["homeTeamInfo"]["names"]["long"]
@@ -31,7 +32,7 @@ def parse_shl_json_to_calendar(league, team_name, json_data):
         event = Event()
         event.add("SUMMARY", f"🏒 | {home} vs {away}")
         event.add("DTSTART", dt)
-        event.add("DTEND", dt)
+        event.add("DTEND", end_dt)
         event.add("UID", uid)
 
         if arena:

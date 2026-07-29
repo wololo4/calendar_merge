@@ -6,7 +6,7 @@ from icalendar import Calendar
 
 from parsers.nhl import parse_nhl_json_to_calendar
 from parsers.hockeytech import parse_hockeytech
-from parsers.ncaa import parse_ncaa, events_to_ics
+from parsers.ncaa import parse_ncaa, parse_ncaa_conf
 from parsers.khl import parse_khl_ics
 from parsers.chl_europe import parse_chl_europe_json_to_calendar
 from parsers.ufa import parse_ufa_json_to_calendar
@@ -82,13 +82,16 @@ def download_single_feed(feed_info):
         # ============================
         # NCAA / SIDEARM JSON
         # ============================
-        if parser == "ncaa":
-            if "responsive-calendar.ashx" in response.url:
+        if parser == "ncaa_conf":
+            try:
                 raw_json = response.json()
-                events = parse_responsive_calendar(raw_json, team_name)
-                calendar = events_to_ics(events)
-                return league, team_name, calendar
 
+                calendar = parse_ncaa_conf(raw_json, team_name)
+                return league, team_name, calendar
+            except Exception as e:
+                print("Error parsing NCAA conference JSON:", e)
+                return league, team_name, None
+        if parser == "ncaa":
             try:
                 raw_json = response.json()
                 calendar = parse_ncaa(raw_json, team_name)

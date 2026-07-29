@@ -8,6 +8,7 @@ TEAM_SYNONYMS = {
     "admiral": "Admiral Vladivostok",
     "ak bars": "Ak Bars Kazan",
     "amur": "Amur Khabarovsk",
+    "amur khabarovsk": "Amur Khabarovsk",
     "barys": "Barys Astana",
     "dinamo mn": "Dinamo Minsk",
     "dinamo msk": "Dynamo Moscow",
@@ -22,6 +23,7 @@ TEAM_SYNONYMS = {
     "sibir": "Sibir Novosibrisk Region",
     "ska": "SKA Saint Petersburg",
     "spartak": "Spartak Moscow",
+    "spartak moscow": "Spartak Moscow",
     "torpedo": "Torpedo Nizhny Novgorod",
     "torpedo nizhny novgorod": "Torpedo Nizhny Novgorod",
     "traktor": "Traktor Chelyabinsk",
@@ -29,6 +31,66 @@ TEAM_SYNONYMS = {
     "cska": "CSKA Moscow",
     "dragons": "Shanghai Dragons"
 }
+
+CITY_TO_ARENA = {
+    "Arena-2000-Lokomotiv": "Arena 2000",
+    "Bolshoy": "Bolshoy Ice Dome",
+    "Lada-Arena": "Lada Arena",
+    "Ledovyy Dvorets": "Ice Palace",
+    "Megasport": "Megasport Arena",
+    "Minsk-Arena": "Minsk Arena",
+    "Nagornyy": "CEC Nagorny",
+    "Neftekhim Arena": "Neftekhim Ice Palace",
+    "Sibir-Arena": "Sibir Arena",
+    "Traktor": "Traktor Ice Arena",
+    "TsSKA Arena": "CSKA Arena",
+    "Ufa-Arena": "Ufa Arena",
+    "UGMK Arena": "UMMC Arena",
+}
+
+KNOWN_ARENAS = {
+    "Arena 2000",
+    "Arena Metallurg",
+    "Barys Arena",
+    "Bolshoy Ice Dome",
+    "CEC Nagorny",
+    "CSKA Arena",
+    "Fetisov Arena",
+    "G-Drive Arena",
+    "Ice Palace",
+    "Lada Arena",
+    "Megasport Arena",
+    "Minsk Arena",
+    "Neftekhim Ice Palace",
+    "Platinum Arena",
+    "Sibir Arena",
+    "SKA Arena",
+    "Tatneft Arena",
+    "Traktor Ice Arena",
+    "Ufa Arena",
+    "UMMC Arena",
+    "VTB Arena",
+}
+
+def validate_arena(arena_name): 
+    if arena_name not in KNOWN_ARENAS: 
+        print(f"[ERROR] Arena not in KNOWN_ARENAS: '{arena_name}'")
+
+    return arena_name
+
+def city_to_arena(raw_location): 
+    if not raw_location: 
+        return raw_location 
+        
+    if raw_location in CITY_TO_ARENA: 
+        return CITY_TO_ARENA[raw_location] 
+        
+    raw_no_comma = raw_location.replace(",", "")
+    for key in CITY_TO_ARENA: 
+        if raw_no_comma.lower() == key.replace(",", "").lower(): 
+            return CITY_TO_ARENA[key] 
+            
+    return raw_location
 
 def normalize(name):
     key = name.lower().strip()
@@ -132,7 +194,7 @@ def parse_khl_ics(raw_ics, team_name, season_id):
         arena_en = translit_ru_to_lat(arena_ru)
 
         if arena_en:
-            event.add("LOCATION", arena_en)
+            event.add("LOCATION", validate_arena(city_to_arena(arena_en)))
 
         cal_out.add_component(event)
 
