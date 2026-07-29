@@ -721,8 +721,10 @@ DTSTART:20270302T030000Z
 DTEND:20270302T053000Z
 UID:nhl2026021042
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
- er/mtl-vs-sjs/2027/03/01/2026021042\nTickets: https://www.nhl.com/sharks/t
- ickets/
+ er/mtl-vs-sjs/2027/03/01/2026021042\nTickets: https://www.ticketmaster.com
+ /event/1C0064E79B699D49?brand=sharks&artistid=806018&wt.mc_id=NHL_TEAM_SJS
+ _SCHEDULE_GM33&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_
+ SJS&utm_content=SCHEDULE_GM33
 LOCATION:SAP Center de San Jose
 END:VEVENT
 BEGIN:VEVENT
