@@ -126,8 +126,10 @@ def main():
             dtstart_value = dtstart.dt.isoformat() if hasattr(dtstart, "dt") else str(dtstart)
             dtend_value = dtend.dt.isoformat() if hasattr(dtend, "dt") else str(dtend)
 
+            db_league = "NCAA" if league.startswith("NCAA") else league
+
             store_event(
-                league=league,
+                league=db_league,
                 team_name=team_name,
                 source_url="",
                 parser="",
@@ -140,6 +142,17 @@ def main():
             )
 
     os.makedirs("calendars", exist_ok=True)
+
+    ncaas = []
+    for league, events in leagues.items():
+        if league.startswith("NCAA"):
+            ncaas.extend(events)
+
+    if ncaas:
+        leagues["NCAA"] = ncaas
+        for league in list(leagues.keys()):
+            if league.startswith("NCAA_"):
+                del leagues[league]
 
     for league, events in leagues.items():
         output = export_calendar_from_db(league=league)

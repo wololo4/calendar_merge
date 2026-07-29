@@ -158,6 +158,24 @@ def load_feeds():
             continue
 
         # ============================
+        # NCAA_ashx (NCHC)
+        # ============================
+        if parser == "ncaa_conf":
+            url = data["base_url"]
+            
+            for team in data.get("teams", []):
+                feeds.append(
+                    (
+                        league,
+                        team["name"],
+                        url,
+                        [],          # no team filter
+                        "ncaa_conf"
+                    )
+                )
+            continue
+
+        # ============================
         # SHL
         # ============================
         if parser == "shl":

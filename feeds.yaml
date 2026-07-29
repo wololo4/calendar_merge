@@ -57,10 +57,10 @@ KHL:
       team_id: 38
     - name: Torpedo Nizhny Novgorod
       team_id: 26
-  #  - name: Amur Khabarovsk
-  #    team_id: 54
-  #  - name: Spartak Moscow
-  #    team_id: 7
+    # - name: Amur Khabarovsk
+    #   team_id: 54
+    # - name: Spartak Moscow
+    #   team_id: 7
 
 LHJMQ:
   parser: hockeytech
@@ -81,12 +81,15 @@ Liiga:
     - name: TPS turku
       team_id: "651304385:tps"
 
-NCAA:
+# NCAA_AHA:
+#   parser: ncaa_conf
+#   base_url: https://atlantichockeyamerica.com/services/responsive-calendar.ashx?start=10%2F03%2F2025&end=2026-03-27+23%3A59%3A59&sport_id=2&school_id=0
+#   teams:
+#     - name: 
+
+NCAA_BIG10:
   parser: ncaa
   teams:
-    - name: Dartmouth Big Green
-      base_url: https://dartmouthsports.com/api/v2/Calendar
-      sport_id: 9
     - name: Wisconsin Badgers
       base_url: https://uwbadgers.com/api/v2/Calendar
       sport_id: 6
@@ -96,30 +99,38 @@ NCAA:
     - name: Minnesota Golden Gophers
       base_url: https://gophersports.com/api/v2/Calendar
       sport_id: 8
-    - name: Denver Pioneers
-      base_url: https://denverpioneers.com/api/v2/Calendar
-      sport_id: 4
-    - name: Western Michigan Broncos
-      base_url: https://wmubroncos.com/services/responsive-calendar.ashx
-      sport_id: 5
-    - name: St. Cloud State Huskies
-      base_url: https://scsuhuskies.com/api/v2/Calendar
-      sport_id: 7
-    - name: Miami RedHawks
-      base_url: https://miamiredhawks.com/api/v2/Calendar
-      sport_id: 9
+
+NCAA_CCHA:
+  parser: ncaa_conf
+  base_url: https://ccha.com/services/responsive-calendar.ashx?start=09-01-2026&end=2027-04-30&sport_id=0&school_id=0
+  teams:
+    - name: Bemidji State Beavers
+    - name: Minnesota State Mavericks
+
+NCAA_ECAC:
+  parser: ncaa_conf
+  base_url: https://ecachockey.com/services/responsive-calendar.ashx?start=09-01-2026&end=2027-04-30&sport_id=2&school_id=0
+  teams:
+    - name: Dartmouth College Big Green
+
+NCAA_EAST:
+  parser: ncaa
+  teams:
     - name: Boston University Terriers
       base_url: https://goterriers.com/api/v2/Calendar
       sport_id: 5
     - name: Providence Friars
       base_url: https://friars.com/api/v2/Calendar
       sport_id: 5
-    - name: Minnesota State Mavericks
-      base_url: https://msumavericks.com/services/responsive-calendar.ashx
-      sport_id: 7
-    - name: Bemidji State Beavers
-      base_url: https://bsubeavers.com/services/responsive-calendar.ashx
-      sport_id: 6
+
+NCAA_NCHC:
+  parser: ncaa_conf
+  base_url: https://nchchockey.com/services/responsive-calendar.ashx?start=09-01-2026&end=2027-04-30&sport_id=0&school_id=0
+  teams:
+    - name: Denver Pioneers
+    - name: Miami Redhawks
+    - name: St. Cloud State Huskies
+    - name: Western Michigan Broncos
 
 NHL:
   parser: nhl

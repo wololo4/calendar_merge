@@ -4,277 +4,11 @@ PRODID:-//Hockey Calendar//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:🏒 | Dartmouth Big Green @ Norwich Cadets
-DTSTART:20261017T230000Z
-DTEND:20261018T013000Z
-UID:ncaa31582
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Kreitzberg Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Alaska Fairbanks Nanooks @ Dartmouth Big Green
-DTSTART:20261031T230000Z
-DTEND:20261101T013000Z
-UID:ncaa31552
-DESCRIPTION:Status: SCHEDULED\nLive Stats: https://dartmouthsports.com/sid
- earmstats/mhockey/summary
-LOCATION:Thompson Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Alaska Fairbanks Nanooks @ Dartmouth Big Green
-DTSTART:20261101T040000Z
-DTEND:20261101T063000Z
-UID:ncaa31553
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- ps://dartmouthsports.com/sidearmstats/mhockey/summary
-LOCATION:Thompson Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Yale Bulldogs @ Dartmouth Big Green
-DTSTART:20261107T000000Z
-DTEND:20261107T023000Z
-UID:ncaa31554
-DESCRIPTION:Status: SCHEDULED\nLive Stats: https://dartmouthsports.com/sid
- earmstats/mhockey/summary
-LOCATION:Thompson Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brown Bears @ Dartmouth Big Green
-DTSTART:20261108T000000Z
-DTEND:20261108T023000Z
-UID:ncaa31555
-DESCRIPTION:Status: SCHEDULED\nLive Stats: https://dartmouthsports.com/sid
- earmstats/mhockey/summary
-LOCATION:Thompson Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Dartmouth Big Green @ Quinnipiac Bobcats
-DTSTART:20261114T000000Z
-DTEND:20261114T023000Z
-UID:ncaa31556
-DESCRIPTION:Status: SCHEDULED
-LOCATION:M & T Bank Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Dartmouth Big Green @ Princeton Tigers
-DTSTART:20261115T000000Z
-DTEND:20261115T023000Z
-UID:ncaa31557
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Hobey Baker Rink
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Dartmouth Big Green @ Harvard Crimson
-DTSTART:20261128T000000Z
-DTEND:20261128T023000Z
-UID:ncaa31558
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Bright-Landry Hockey Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Northeastern Huskies @ Dartmouth Big Green
-DTSTART:20261129T050000Z
-DTEND:20261129T073000Z
-UID:ncaa31559
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- ps://dartmouthsports.com/sidearmstats/mhockey/summary
-LOCATION:Thompson Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Dartmouth Big Green @ Union Dutchmen/Dutchwomen
-DTSTART:20261205T000000Z
-DTEND:20261205T023000Z
-UID:ncaa31560
-DESCRIPTION:Status: SCHEDULED
-LOCATION:M&T Bank Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Dartmouth Big Green @ RPI Red Hawks
-DTSTART:20261206T000000Z
-DTEND:20261206T023000Z
-UID:ncaa31561
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Houston Field House
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Stonehill Skyhawks @ Dartmouth Big Green
-DTSTART:20261211T000000Z
-DTEND:20261211T023000Z
-UID:ncaa31562
-DESCRIPTION:Status: SCHEDULED\nLive Stats: https://dartmouthsports.com/sid
- earmstats/mhockey/summary
-LOCATION:Thompson Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | New Hampshire Wildcats @ Dartmouth Big Green
-DTSTART:20261213T050000Z
-DTEND:20261213T073000Z
-UID:ncaa31563
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- ps://dartmouthsports.com/sidearmstats/mhockey/summary
-LOCATION:Thompson Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Holy Cross Crusaders @ Dartmouth Big Green
-DTSTART:20261216T000000Z
-DTEND:20261216T023000Z
-UID:ncaa31564
-DESCRIPTION:Status: SCHEDULED\nLive Stats: https://dartmouthsports.com/sid
- earmstats/mhockey/summary
-LOCATION:Thompson Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Dartmouth Big Green @ Vermont Catamounts
-DTSTART:20261220T000000Z
-DTEND:20261220T023000Z
-UID:ncaa31565
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Gutterson Fieldhouse
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Dartmouth Big Green @ Brown Bears
-DTSTART:20270102T000000Z
-DTEND:20270102T023000Z
-UID:ncaa31566
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Meehan Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Dartmouth Big Green @ Yale Bulldogs
-DTSTART:20270103T000000Z
-DTEND:20270103T023000Z
-UID:ncaa31567
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Ingalls Rink
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Princeton Tigers @ Dartmouth Big Green
-DTSTART:20270109T000000Z
-DTEND:20270109T023000Z
-UID:ncaa31568
-DESCRIPTION:Status: SCHEDULED\nLive Stats: https://dartmouthsports.com/sid
- earmstats/mhockey/summary
-LOCATION:Thompson Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Quinnipiac Bobcats @ Dartmouth Big Green
-DTSTART:20270110T000000Z
-DTEND:20270110T023000Z
-UID:ncaa31569
-DESCRIPTION:Status: SCHEDULED\nLive Stats: https://dartmouthsports.com/sid
- earmstats/mhockey/summary
-LOCATION:Thompson Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | St. Lawrence Saints @ Dartmouth Big Green
-DTSTART:20270116T000000Z
-DTEND:20270116T023000Z
-UID:ncaa31570
-DESCRIPTION:Status: SCHEDULED\nLive Stats: https://dartmouthsports.com/sid
- earmstats/mhockey/summary
-LOCATION:Thompson Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Clarkson Golden Knights @ Dartmouth Big Green
-DTSTART:20270117T000000Z
-DTEND:20270117T023000Z
-UID:ncaa31571
-DESCRIPTION:Status: SCHEDULED\nLive Stats: https://dartmouthsports.com/sid
- earmstats/mhockey/summary
-LOCATION:Thompson Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Dartmouth Big Green @ Colgate Raiders
-DTSTART:20270123T000000Z
-DTEND:20270123T023000Z
-UID:ncaa31572
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Class of 1965 Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Dartmouth Big Green @ Cornell Big Red
-DTSTART:20270124T000000Z
-DTEND:20270124T023000Z
-UID:ncaa31573
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Lynah Rink
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Dartmouth Big Green @ Merrimack Warriors
-DTSTART:20270131T050000Z
-DTEND:20270131T073000Z
-UID:ncaa31574
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Lawler Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Harvard Crimson @ Dartmouth Big Green
-DTSTART:20270206T000000Z
-DTEND:20270206T023000Z
-UID:ncaa31575
-DESCRIPTION:Status: SCHEDULED\nLive Stats: https://dartmouthsports.com/sid
- earmstats/mhockey/summary
-LOCATION:Thompson Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | RPI Red Hawks @ Dartmouth Big Green
-DTSTART:20270213T000000Z
-DTEND:20270213T023000Z
-UID:ncaa31576
-DESCRIPTION:Status: SCHEDULED\nLive Stats: https://dartmouthsports.com/sid
- earmstats/mhockey/summary
-LOCATION:Thompson Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Union Dutchmen/Dutchwomen @ Dartmouth Big Green
-DTSTART:20270214T000000Z
-DTEND:20270214T023000Z
-UID:ncaa31577
-DESCRIPTION:Status: SCHEDULED\nLive Stats: https://dartmouthsports.com/sid
- earmstats/mhockey/summary
-LOCATION:Thompson Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Cornell Big Red @ Dartmouth Big Green
-DTSTART:20270220T000000Z
-DTEND:20270220T023000Z
-UID:ncaa31578
-DESCRIPTION:Status: SCHEDULED\nLive Stats: https://dartmouthsports.com/sid
- earmstats/mhockey/summary
-LOCATION:Thompson Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Colgate Raiders @ Dartmouth Big Green
-DTSTART:20270221T000000Z
-DTEND:20270221T023000Z
-UID:ncaa31579
-DESCRIPTION:Status: SCHEDULED\nLive Stats: https://dartmouthsports.com/sid
- earmstats/mhockey/summary
-LOCATION:Thompson Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Dartmouth Big Green @ Clarkson Golden Knights
-DTSTART:20270227T000000Z
-DTEND:20270227T023000Z
-UID:ncaa31580
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Cheel Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Dartmouth Big Green @ St. Lawrence Saints
-DTSTART:20270227T220000Z
-DTEND:20270228T003000Z
-UID:ncaa31581
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Appleton Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Notre Dame Fighting Irish @ Wisconsin Badgers
 DTSTART:20261029T050000Z
 DTEND:20261029T073000Z
 UID:ncaa17295
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2026-10-29
-  to 2026-11-01
+DESCRIPTION:Game date to be determined\nFrom 2026-10-29 to 2026-11-01
 LOCATION:Kohl Center
 END:VEVENT
 BEGIN:VEVENT
@@ -282,17 +16,15 @@ SUMMARY:🏒 | Wisconsin Badgers @ Minnesota Golden Gophers
 DTSTART:20261105T060000Z
 DTEND:20261105T083000Z
 UID:ncaa17296
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2026-11-05
-  to 2026-11-08
-LOCATION:Minneapolis
+DESCRIPTION:Game date to be determined\nFrom 2026-11-05 to 2026-11-08
+LOCATION:3M Arena at Mariucci
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Ohio State Buckeyes @ Wisconsin Badgers
 DTSTART:20261112T060000Z
 DTEND:20261112T083000Z
 UID:ncaa17297
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2026-11-12
-  to 2026-11-15
+DESCRIPTION:Game date to be determined\nFrom 2026-11-12 to 2026-11-15
 LOCATION:Kohl Center
 END:VEVENT
 BEGIN:VEVENT
@@ -300,8 +32,7 @@ SUMMARY:🏒 | Penn State Nittany Lions @ Wisconsin Badgers
 DTSTART:20261119T060000Z
 DTEND:20261119T083000Z
 UID:ncaa17298
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2026-11-19
-  to 2026-11-22
+DESCRIPTION:Game date to be determined\nFrom 2026-11-19 to 2026-11-22
 LOCATION:Kohl Center
 END:VEVENT
 BEGIN:VEVENT
@@ -309,17 +40,15 @@ SUMMARY:🏒 | Wisconsin Badgers @ Michigan Wolverines
 DTSTART:20261203T060000Z
 DTEND:20261203T083000Z
 UID:ncaa17299
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2026-12-03
-  to 2026-12-06
-LOCATION:Ann Arbor\, Mich.
+DESCRIPTION:Game date to be determined\nFrom 2026-12-03 to 2026-12-06
+LOCATION:Yost Ice Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Michigan State Spartans @ Wisconsin Badgers
 DTSTART:20270107T060000Z
 DTEND:20270107T083000Z
 UID:ncaa17300
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-01-07
-  to 2027-01-10
+DESCRIPTION:Game date to be determined\nFrom 2027-01-07 to 2027-01-10
 LOCATION:Kohl Center
 END:VEVENT
 BEGIN:VEVENT
@@ -327,26 +56,23 @@ SUMMARY:🏒 | Wisconsin Badgers @ Penn State Nittany Lions
 DTSTART:20270121T060000Z
 DTEND:20270121T083000Z
 UID:ncaa17301
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-01-21
-  to 2027-01-24
-LOCATION:University Park\, PA
+DESCRIPTION:Game date to be determined\nFrom 2027-01-21 to 2027-01-24
+LOCATION:Pegula Ice Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Wisconsin Badgers @ Ohio State Buckeyes
 DTSTART:20270128T060000Z
 DTEND:20270128T083000Z
 UID:ncaa17302
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-01-28
-  to 2027-01-31
-LOCATION:Columbus\, Ohio
+DESCRIPTION:Game date to be determined\nFrom 2027-01-28 to 2027-01-31
+LOCATION:Value City Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Minnesota Golden Gophers @ Wisconsin Badgers
 DTSTART:20270204T060000Z
 DTEND:20270204T083000Z
 UID:ncaa17303
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-02-04
-  to 2027-02-07
+DESCRIPTION:Game date to be determined\nFrom 2027-02-04 to 2027-02-07
 LOCATION:Kohl Center
 END:VEVENT
 BEGIN:VEVENT
@@ -354,17 +80,15 @@ SUMMARY:🏒 | Wisconsin Badgers @ Michigan State Spartans
 DTSTART:20270211T060000Z
 DTEND:20270211T083000Z
 UID:ncaa17304
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-02-11
-  to 2027-02-14
-LOCATION:East Lansing\, Mich.
+DESCRIPTION:Game date to be determined\nFrom 2027-02-11 to 2027-02-14
+LOCATION:Munn Ice Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Michigan Wolverines @ Wisconsin Badgers
 DTSTART:20270218T060000Z
 DTEND:20270218T083000Z
 UID:ncaa17305
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-02-18
-  to 2027-02-21
+DESCRIPTION:Game date to be determined\nFrom 2027-02-18 to 2027-02-21
 LOCATION:Kohl Center
 END:VEVENT
 BEGIN:VEVENT
@@ -372,350 +96,323 @@ SUMMARY:🏒 | Wisconsin Badgers @ Notre Dame Fighting Irish
 DTSTART:20270304T060000Z
 DTEND:20270304T083000Z
 UID:ncaa17306
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-03-04
-  to 2027-03-05
-LOCATION:South Bend\, Ind.
+DESCRIPTION:Game date to be determined\nFrom 2027-03-04 to 2027-03-05
+LOCATION:Compton Family Ice Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Bowling Green Falcons @ Michigan Wolverines
 DTSTART:20261002T040000Z
 DTEND:20261002T063000Z
 UID:ncaa30472
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Ann Arbor\, Mich.
+DESCRIPTION:Game date to be determined
+LOCATION:Yost Ice Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Michigan Wolverines @ Bowling Green Falcons
 DTSTART:20261003T040000Z
 DTEND:20261003T063000Z
 UID:ncaa30473
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Bowling Green\, Ohio
+DESCRIPTION:Game date to be determined
+LOCATION:Slater Family Ice Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Alaska Anchorage Seawolves @ Michigan Wolverines
 DTSTART:20261009T040000Z
 DTEND:20261009T063000Z
 UID:ncaa30474
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Ann Arbor\, Mich.
+DESCRIPTION:Game date to be determined
+LOCATION:Yost Ice Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Alaska Anchorage Seawolves @ Michigan Wolverines
 DTSTART:20261010T040000Z
 DTEND:20261010T063000Z
 UID:ncaa30475
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Ann Arbor\, Mich.
+DESCRIPTION:Game date to be determined
+LOCATION:Yost Ice Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Michigan Wolverines @ Denver Pioneers
 DTSTART:20261016T040000Z
 DTEND:20261016T063000Z
 UID:ncaa30476
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Denver\, Colo.
+DESCRIPTION:Game date to be determined
+LOCATION:Magness Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Michigan Wolverines @ Denver Pioneers
 DTSTART:20261017T040000Z
 DTEND:20261017T063000Z
 UID:ncaa30477
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Denver\, Colo.
+DESCRIPTION:Game date to be determined
+LOCATION:Magness Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Western Michigan  Broncos @ Michigan Wolverines
+SUMMARY:🏒 | Western Michigan Broncos @ Michigan Wolverines
 DTSTART:20261023T040000Z
 DTEND:20261023T063000Z
 UID:ncaa30478
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Ann Arbor\, Mich.
+DESCRIPTION:Game date to be determined
+LOCATION:Yost Ice Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Michigan Wolverines @ Ohio State  Buckeyes
+SUMMARY:🏒 | Michigan Wolverines @ Ohio State Buckeyes
 DTSTART:20261029T040000Z
 DTEND:20261029T063000Z
 UID:ncaa30607
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2026-10-29
-  to 2026-11-01
-LOCATION:Columbus\, Ohio
+DESCRIPTION:Game date to be determined\nFrom 2026-10-29 to 2026-11-01
+LOCATION:Value City Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Michigan Wolverines @ Ohio State  Buckeyes
+SUMMARY:🏒 | Michigan Wolverines @ Ohio State Buckeyes
 DTSTART:20261029T040000Z
 DTEND:20261029T063000Z
 UID:ncaa30608
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2026-10-29
-  to 2026-11-01
-LOCATION:Columbus\, Ohio
+DESCRIPTION:Game date to be determined\nFrom 2026-10-29 to 2026-11-01
+LOCATION:Value City Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Penn State  Nittany Lions @ Michigan Wolverines
+SUMMARY:🏒 | Penn State Nittany Lions @ Michigan Wolverines
 DTSTART:20261112T050000Z
 DTEND:20261112T073000Z
 UID:ncaa30609
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2026-11-12
-  to 2026-11-15
-LOCATION:Ann Arbor\, Mich.
+DESCRIPTION:Game date to be determined\nFrom 2026-11-12 to 2026-11-15
+LOCATION:Yost Ice Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Penn State  Nittany Lions @ Michigan Wolverines
+SUMMARY:🏒 | Penn State Nittany Lions @ Michigan Wolverines
 DTSTART:20261112T050000Z
 DTEND:20261112T073000Z
 UID:ncaa30610
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2026-11-12
-  to 2026-11-15
-LOCATION:Ann Arbor\, Mich.
+DESCRIPTION:Game date to be determined\nFrom 2026-11-12 to 2026-11-15
+LOCATION:Yost Ice Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Michigan Wolverines @ Michigan State Spartans
 DTSTART:20261119T050000Z
 DTEND:20261119T073000Z
 UID:ncaa30611
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2026-11-19
-  to 2026-11-22
-LOCATION:East Lansing\, Mich.
+DESCRIPTION:Game date to be determined\nFrom 2026-11-19 to 2026-11-22
+LOCATION:Munn Ice Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Michigan State Spartans @ Michigan Wolverines
 DTSTART:20261119T050000Z
 DTEND:20261119T073000Z
 UID:ncaa30612
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2026-11-19
-  to 2026-11-22
-LOCATION:Ann Arbor\, Mich.
+DESCRIPTION:Game date to be determined\nFrom 2026-11-19 to 2026-11-22
+LOCATION:Yost Ice Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Ferris State  Bulldogs @ Michigan Wolverines
+SUMMARY:🏒 | Ferris State Bulldogs @ Michigan Wolverines
 DTSTART:20261127T050000Z
 DTEND:20261127T073000Z
 UID:ncaa30479
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Ann Arbor\, Mich.
+DESCRIPTION:Game date to be determined
+LOCATION:Yost Ice Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Ferris State  Bulldogs @ Michigan Wolverines
+SUMMARY:🏒 | Ferris State Bulldogs @ Michigan Wolverines
 DTSTART:20261128T050000Z
 DTEND:20261128T073000Z
 UID:ncaa30480
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Ann Arbor\, Mich.
+DESCRIPTION:Game date to be determined
+LOCATION:Yost Ice Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Wisconsin Badgers @ Michigan Wolverines
 DTSTART:20261203T050000Z
 DTEND:20261203T073000Z
 UID:ncaa30613
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2026-12-03
-  to 2026-12-06
-LOCATION:Ann Arbor\, Mich.
+DESCRIPTION:Game date to be determined\nFrom 2026-12-03 to 2026-12-06
+LOCATION:Yost Ice Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Wisconsin Badgers @ Michigan Wolverines
 DTSTART:20261203T050000Z
 DTEND:20261203T073000Z
 UID:ncaa30614
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2026-12-03
-  to 2026-12-06
-LOCATION:Ann Arbor\, Mich.
+DESCRIPTION:Game date to be determined\nFrom 2026-12-03 to 2026-12-06
+LOCATION:Yost Ice Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Michigan Wolverines @ USNTDP (ex)
+SUMMARY:🏒 | Michigan Wolverines @ USNTDP
 DTSTART:20270102T050000Z
 DTEND:20270102T073000Z
 UID:ncaa30481
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Plymouth\, Mich.
+DESCRIPTION:Game date to be determined\nExhibition Game
+LOCATION:USA Hockey Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Michigan Wolverines @ Minnesota Golden Gophers
 DTSTART:20270107T050000Z
 DTEND:20270107T073000Z
 UID:ncaa30615
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-01-07
-  to 2027-01-10
-LOCATION:Minneapolis\, Minn.
+DESCRIPTION:Game date to be determined\nFrom 2027-01-07 to 2027-01-10
+LOCATION:3M Arena at Mariucci
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Michigan Wolverines @ Minnesota Golden Gophers
 DTSTART:20270107T050000Z
 DTEND:20270107T073000Z
 UID:ncaa30616
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-01-07
-  to 2027-01-10
-LOCATION:Minneapolis\, Minn.
+DESCRIPTION:Game date to be determined\nFrom 2027-01-07 to 2027-01-10
+LOCATION:3M Arena at Mariucci
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Michigan Wolverines @ Notre Dame Fighting Irish
 DTSTART:20270114T050000Z
 DTEND:20270114T073000Z
 UID:ncaa30617
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-01-14
-  to 2027-01-17
-LOCATION:South Bend\, Ind.
+DESCRIPTION:Game date to be determined\nFrom 2027-01-14 to 2027-01-17
+LOCATION:Compton Family Ice Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Michigan Wolverines @ Notre Dame Fighting Irish
 DTSTART:20270114T050000Z
 DTEND:20270114T073000Z
 UID:ncaa30618
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-01-14
-  to 2027-01-17
-LOCATION:South Bend\, Ind.
+DESCRIPTION:Game date to be determined\nFrom 2027-01-14 to 2027-01-17
+LOCATION:Compton Family Ice Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Ohio State Buckeyes @ Michigan Wolverines
 DTSTART:20270121T050000Z
 DTEND:20270121T073000Z
 UID:ncaa30619
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-01-21
-  to 2027-01-24
-LOCATION:Ann Arbor\, Mich.
+DESCRIPTION:Game date to be determined\nFrom 2027-01-21 to 2027-01-24
+LOCATION:Yost Ice Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Ohio State Buckeyes @ Michigan Wolverines
 DTSTART:20270121T050000Z
 DTEND:20270121T073000Z
 UID:ncaa30620
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-01-21
-  to 2027-01-24
-LOCATION:Ann Arbor\, Mich.
+DESCRIPTION:Game date to be determined\nFrom 2027-01-21 to 2027-01-24
+LOCATION:Yost Ice Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Michigan Wolverines @ Western Michigan  Broncos
+SUMMARY:🏒 | Michigan Wolverines @ Western Michigan Broncos
 DTSTART:20270130T050000Z
 DTEND:20270130T073000Z
 UID:ncaa30482
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Kalamazoo\, Mich.
+DESCRIPTION:Game date to be determined
+LOCATION:Lawson Ice Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Michigan Wolverines @ Michigan State Spartans
 DTSTART:20270204T050000Z
 DTEND:20270204T073000Z
 UID:ncaa30621
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-02-04
-  to 2027-02-07
-LOCATION:East Lansing\, Mich.
+DESCRIPTION:Game date to be determined\nFrom 2027-02-04 to 2027-02-07
+LOCATION:Munn Ice Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Michigan State Spartans @ Michigan Wolverines
 DTSTART:20270204T050000Z
 DTEND:20270204T073000Z
 UID:ncaa30622
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-02-04
-  to 2027-02-07
-LOCATION:TBD
+DESCRIPTION:Game date to be determined\nFrom 2027-02-04 to 2027-02-07
+LOCATION:To be determined
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Notre Dame Fighting Irish @ Michigan Wolverines
 DTSTART:20270211T050000Z
 DTEND:20270211T073000Z
 UID:ncaa30623
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-02-11
-  to 2027-02-14
-LOCATION:Ann Arbor\, Mich.
+DESCRIPTION:Game date to be determined\nFrom 2027-02-11 to 2027-02-14
+LOCATION:Yost Ice Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Notre Dame Fighting Irish @ Michigan Wolverines
 DTSTART:20270211T050000Z
 DTEND:20270211T073000Z
 UID:ncaa30624
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-02-11
-  to 2027-02-14
-LOCATION:Ann Arbor\, Mich.
+DESCRIPTION:Game date to be determined\nFrom 2027-02-11 to 2027-02-14
+LOCATION:Yost Ice Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Michigan Wolverines @ Wisconsin Badgers
 DTSTART:20270218T050000Z
 DTEND:20270218T073000Z
 UID:ncaa30625
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-02-18
-  to 2027-02-21
-LOCATION:Madison\, Wis.
+DESCRIPTION:Game date to be determined\nFrom 2027-02-18 to 2027-02-21
+LOCATION:Kohl Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Michigan Wolverines @ Wisconsin Badgers
 DTSTART:20270218T050000Z
 DTEND:20270218T073000Z
 UID:ncaa30626
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-02-18
-  to 2027-02-21
-LOCATION:Madison\, Wis.
+DESCRIPTION:Game date to be determined\nFrom 2027-02-18 to 2027-02-21
+LOCATION:Kohl Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Minnesota Golden Gophers @ Michigan Wolverines
 DTSTART:20270225T050000Z
 DTEND:20270225T073000Z
 UID:ncaa30627
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-02-25
-  to 2027-02-28
-LOCATION:Ann Arbor\, Mich.
+DESCRIPTION:Game date to be determined\nFrom 2027-02-25 to 2027-02-28
+LOCATION:Yost Ice Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Minnesota Golden Gophers @ Michigan Wolverines
 DTSTART:20270225T050000Z
 DTEND:20270225T073000Z
 UID:ncaa30628
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-02-25
-  to 2027-02-28
-LOCATION:Ann Arbor\, Mich.
+DESCRIPTION:Game date to be determined\nFrom 2027-02-25 to 2027-02-28
+LOCATION:Yost Ice Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Michigan Wolverines @ Penn State  Nittany Lions
+SUMMARY:🏒 | Michigan Wolverines @ Penn State Nittany Lions
 DTSTART:20270304T050000Z
 DTEND:20270304T073000Z
 UID:ncaa30634
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:University Park\, Pa.
+DESCRIPTION:Game date to be determined
+LOCATION:Pegula Ice Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Michigan Wolverines @ Penn State  Nittany Lions
+SUMMARY:🏒 | Michigan Wolverines @ Penn State Nittany Lions
 DTSTART:20270305T050000Z
 DTEND:20270305T073000Z
 UID:ncaa30635
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:University Park\, Pa.
+DESCRIPTION:Game date to be determined
+LOCATION:Pegula Ice Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Minnesota Golden Gophers @ Michigan Tech Huskies
 DTSTART:20261002T230000Z
 DTEND:20261003T013000Z
 UID:ncaa23024
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Houghton\, MI
+LOCATION:John MacInnes Student Ice Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Minnesota Golden Gophers @ Michigan Tech Huskies
 DTSTART:20261003T220000Z
 DTEND:20261004T003000Z
 UID:ncaa23025
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Houghton\, MI
+LOCATION:John MacInnes Student Ice Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Minnesota Golden Gophers @ Minnesota Duluth Bulldogs
 DTSTART:20261017T000000Z
 DTEND:20261017T023000Z
 UID:ncaa23026
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Duluth\, MN
+LOCATION:AMSOIL Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Minnesota Golden Gophers @ Minnesota Duluth Bulldogs
 DTSTART:20261017T230000Z
 DTEND:20261018T013000Z
 UID:ncaa23027
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Duluth\, MN
+LOCATION:AMSOIL Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | North Dakota Fighting Hawks @ Minnesota Golden Gophers
 DTSTART:20261022T050000Z
 DTEND:20261022T073000Z
 UID:ncaa23028
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
+DESCRIPTION:Game date to be determined
 LOCATION:3M Arena at Mariucci
 END:VEVENT
 BEGIN:VEVENT
@@ -723,7 +420,7 @@ SUMMARY:🏒 | North Dakota Fighting Hawks @ Minnesota Golden Gophers
 DTSTART:20261023T050000Z
 DTEND:20261023T073000Z
 UID:ncaa23029
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
+DESCRIPTION:Game date to be determined
 LOCATION:3M Arena at Mariucci
 END:VEVENT
 BEGIN:VEVENT
@@ -731,8 +428,7 @@ SUMMARY:🏒 | Penn State Nittany Lions @ Minnesota Golden Gophers
 DTSTART:20261029T050000Z
 DTEND:20261029T073000Z
 UID:ncaa23046
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2026-10-29
-  to 2026-11-01
+DESCRIPTION:Game date to be determined\nFrom 2026-10-29 to 2026-11-01
 LOCATION:3M Arena at Mariucci
 END:VEVENT
 BEGIN:VEVENT
@@ -740,8 +436,7 @@ SUMMARY:🏒 | Penn State Nittany Lions @ Minnesota Golden Gophers
 DTSTART:20261029T050000Z
 DTEND:20261029T073000Z
 UID:ncaa23036
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2026-10-29
-  to 2026-11-01
+DESCRIPTION:Game date to be determined\nFrom 2026-10-29 to 2026-11-01
 LOCATION:3M Arena at Mariucci
 END:VEVENT
 BEGIN:VEVENT
@@ -749,8 +444,7 @@ SUMMARY:🏒 | Wisconsin Badgers @ Minnesota Golden Gophers
 DTSTART:20261105T060000Z
 DTEND:20261105T083000Z
 UID:ncaa23041
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2026-11-05
-  to 2026-11-08
+DESCRIPTION:Game date to be determined\nFrom 2026-11-05 to 2026-11-08
 LOCATION:3M Arena at Mariucci
 END:VEVENT
 BEGIN:VEVENT
@@ -758,8 +452,7 @@ SUMMARY:🏒 | Wisconsin Badgers @ Minnesota Golden Gophers
 DTSTART:20261105T060000Z
 DTEND:20261105T083000Z
 UID:ncaa23047
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2026-11-05
-  to 2026-11-08
+DESCRIPTION:Game date to be determined\nFrom 2026-11-05 to 2026-11-08
 LOCATION:3M Arena at Mariucci
 END:VEVENT
 BEGIN:VEVENT
@@ -767,7 +460,7 @@ SUMMARY:🏒 | Alaska Anchorage Seawolves @ Minnesota Golden Gophers
 DTSTART:20261113T060000Z
 DTEND:20261113T083000Z
 UID:ncaa23030
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
+DESCRIPTION:Game date to be determined
 LOCATION:3M Arena at Mariucci
 END:VEVENT
 BEGIN:VEVENT
@@ -775,7 +468,7 @@ SUMMARY:🏒 | Alaska Anchorage Seawolves @ Minnesota Golden Gophers
 DTSTART:20261114T060000Z
 DTEND:20261114T083000Z
 UID:ncaa23031
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
+DESCRIPTION:Game date to be determined
 LOCATION:3M Arena at Mariucci
 END:VEVENT
 BEGIN:VEVENT
@@ -783,7 +476,7 @@ SUMMARY:🏒 | Minnesota State Mavericks @ Minnesota Golden Gophers
 DTSTART:20261127T060000Z
 DTEND:20261127T083000Z
 UID:ncaa23032
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
+DESCRIPTION:Game date to be determined
 LOCATION:3M Arena at Mariucci
 END:VEVENT
 BEGIN:VEVENT
@@ -791,51 +484,47 @@ SUMMARY:🏒 | Minnesota Golden Gophers @ Minnesota State Mavericks
 DTSTART:20261128T060000Z
 DTEND:20261128T083000Z
 UID:ncaa23033
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Mankato\, MN
+DESCRIPTION:Game date to be determined
+LOCATION:Mayo Clinic HSEC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Minnesota Golden Gophers @ Notre Dame Fighting Irish
 DTSTART:20261203T060000Z
 DTEND:20261203T083000Z
 UID:ncaa23048
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2026-12-03
-  to 2026-12-06
-LOCATION:South Bend\, IN
+DESCRIPTION:Game date to be determined\nFrom 2026-12-03 to 2026-12-06
+LOCATION:Compton Family Ice Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Minnesota Golden Gophers @ Notre Dame Fighting Irish
 DTSTART:20261203T060000Z
 DTEND:20261203T083000Z
 UID:ncaa23043
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2026-12-03
-  to 2026-12-06
-LOCATION:South Bend\, IN
+DESCRIPTION:Game date to be determined\nFrom 2026-12-03 to 2026-12-06
+LOCATION:Compton Family Ice Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Minnesota Golden Gophers @ Michigan State Spartans
 DTSTART:20261210T060000Z
 DTEND:20261210T083000Z
 UID:ncaa23049
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2026-12-10
-  to 2026-12-13
-LOCATION:East Lansing\, MI
+DESCRIPTION:Game date to be determined\nFrom 2026-12-10 to 2026-12-13
+LOCATION:Munn Ice Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Minnesota Golden Gophers @ Michigan State Spartans
 DTSTART:20261210T060000Z
 DTEND:20261210T083000Z
 UID:ncaa23040
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2026-12-10
-  to 2026-12-13
-LOCATION:East Lansing\, MI
+DESCRIPTION:Game date to be determined\nFrom 2026-12-10 to 2026-12-13
+LOCATION:Munn Ice Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Bemidji State Beavers @ Minnesota Golden Gophers
 DTSTART:20270102T060000Z
 DTEND:20270102T083000Z
 UID:ncaa23050
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
+DESCRIPTION:Game date to be determined
 LOCATION:3M Arena at Mariucci
 END:VEVENT
 BEGIN:VEVENT
@@ -843,8 +532,7 @@ SUMMARY:🏒 | Michigan Wolverines @ Minnesota Golden Gophers
 DTSTART:20270107T060000Z
 DTEND:20270107T083000Z
 UID:ncaa23051
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-01-07
-  to 2027-01-10
+DESCRIPTION:Game date to be determined\nFrom 2027-01-07 to 2027-01-10
 LOCATION:3M Arena at Mariucci
 END:VEVENT
 BEGIN:VEVENT
@@ -852,8 +540,7 @@ SUMMARY:🏒 | Michigan Wolverines @ Minnesota Golden Gophers
 DTSTART:20270107T060000Z
 DTEND:20270107T083000Z
 UID:ncaa23039
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-01-07
-  to 2027-01-10
+DESCRIPTION:Game date to be determined\nFrom 2027-01-07 to 2027-01-10
 LOCATION:3M Arena at Mariucci
 END:VEVENT
 BEGIN:VEVENT
@@ -861,26 +548,23 @@ SUMMARY:🏒 | Minnesota Golden Gophers @ Ohio State Buckeyes
 DTSTART:20270114T060000Z
 DTEND:20270114T083000Z
 UID:ncaa23052
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-01-14
-  to 2027-01-17
-LOCATION:Columbus\, OH
+DESCRIPTION:Game date to be determined\nFrom 2027-01-14 to 2027-01-17
+LOCATION:Value City Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Minnesota Golden Gophers @ Ohio State Buckeyes
 DTSTART:20270114T060000Z
 DTEND:20270114T083000Z
 UID:ncaa23037
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-01-14
-  to 2027-01-17
-LOCATION:Columbus\, OH
+DESCRIPTION:Game date to be determined\nFrom 2027-01-14 to 2027-01-17
+LOCATION:Value City Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Notre Dame Fighting Irish @ Minnesota Golden Gophers
 DTSTART:20270121T060000Z
 DTEND:20270121T083000Z
 UID:ncaa23053
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-01-21
-  to 2027-01-24
+DESCRIPTION:Game date to be determined\nFrom 2027-01-21 to 2027-01-24
 LOCATION:3M Arena at Mariucci
 END:VEVENT
 BEGIN:VEVENT
@@ -888,8 +572,7 @@ SUMMARY:🏒 | Notre Dame Fighting Irish @ Minnesota Golden Gophers
 DTSTART:20270121T060000Z
 DTEND:20270121T083000Z
 UID:ncaa23035
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-01-21
-  to 2027-01-24
+DESCRIPTION:Game date to be determined\nFrom 2027-01-21 to 2027-01-24
 LOCATION:3M Arena at Mariucci
 END:VEVENT
 BEGIN:VEVENT
@@ -897,8 +580,7 @@ SUMMARY:🏒 | Michigan State Spartans @ Minnesota Golden Gophers
 DTSTART:20270128T060000Z
 DTEND:20270128T083000Z
 UID:ncaa23054
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-01-28
-  to 2027-01-31
+DESCRIPTION:Game date to be determined\nFrom 2027-01-28 to 2027-01-31
 LOCATION:3M Arena at Mariucci
 END:VEVENT
 BEGIN:VEVENT
@@ -906,8 +588,7 @@ SUMMARY:🏒 | Michigan State Spartans @ Minnesota Golden Gophers
 DTSTART:20270128T060000Z
 DTEND:20270128T083000Z
 UID:ncaa23045
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-01-28
-  to 2027-01-31
+DESCRIPTION:Game date to be determined\nFrom 2027-01-28 to 2027-01-31
 LOCATION:3M Arena at Mariucci
 END:VEVENT
 BEGIN:VEVENT
@@ -915,44 +596,39 @@ SUMMARY:🏒 | Minnesota Golden Gophers @ Wisconsin Badgers
 DTSTART:20270204T060000Z
 DTEND:20270204T083000Z
 UID:ncaa23034
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-02-04
-  to 2027-02-07
-LOCATION:Madison\, WI
+DESCRIPTION:Game date to be determined\nFrom 2027-02-04 to 2027-02-07
+LOCATION:Kohl Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Minnesota Golden Gophers @ Wisconsin Badgers
 DTSTART:20270204T060000Z
 DTEND:20270204T083000Z
 UID:ncaa23055
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-02-04
-  to 2027-02-07
-LOCATION:Madison\, WI
+DESCRIPTION:Game date to be determined\nFrom 2027-02-04 to 2027-02-07
+LOCATION:Kohl Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Minnesota Golden Gophers @ Penn State Nittany Lions
 DTSTART:20270211T060000Z
 DTEND:20270211T083000Z
 UID:ncaa23056
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-02-11
-  to 2027-02-14
-LOCATION:University Park\, PA
+DESCRIPTION:Game date to be determined\nFrom 2027-02-11 to 2027-02-14
+LOCATION:Pegula Ice Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Minnesota Golden Gophers @ Penn State Nittany Lions
 DTSTART:20270211T060000Z
 DTEND:20270211T083000Z
 UID:ncaa23038
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-02-11
-  to 2027-02-14
-LOCATION:University Park\, PA
+DESCRIPTION:Game date to be determined\nFrom 2027-02-11 to 2027-02-14
+LOCATION:Pegula Ice Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Ohio State Buckeyes @ Minnesota Golden Gophers
 DTSTART:20270218T060000Z
 DTEND:20270218T083000Z
 UID:ncaa23042
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-02-18
-  to 2027-02-21
+DESCRIPTION:Game date to be determined\nFrom 2027-02-18 to 2027-02-21
 LOCATION:3M Arena at Mariucci
 END:VEVENT
 BEGIN:VEVENT
@@ -960,8 +636,7 @@ SUMMARY:🏒 | Ohio State Buckeyes @ Minnesota Golden Gophers
 DTSTART:20270218T060000Z
 DTEND:20270218T083000Z
 UID:ncaa23057
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-02-18
-  to 2027-02-21
+DESCRIPTION:Game date to be determined\nFrom 2027-02-18 to 2027-02-21
 LOCATION:3M Arena at Mariucci
 END:VEVENT
 BEGIN:VEVENT
@@ -969,186 +644,165 @@ SUMMARY:🏒 | Minnesota Golden Gophers @ Michigan Wolverines
 DTSTART:20270225T060000Z
 DTEND:20270225T083000Z
 UID:ncaa23044
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-02-25
-  to 2027-02-28
-LOCATION:Ann Arbor\, MI
+DESCRIPTION:Game date to be determined\nFrom 2027-02-25 to 2027-02-28
+LOCATION:Yost Ice Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Minnesota Golden Gophers @ Michigan Wolverines
 DTSTART:20270225T060000Z
 DTEND:20270225T083000Z
 UID:ncaa23061
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-02-25
-  to 2027-02-28
-LOCATION:Ann Arbor\, MI
+DESCRIPTION:Game date to be determined\nFrom 2027-02-25 to 2027-02-28
+LOCATION:Yost Ice Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Denver Pioneers @ Alaska Anchorage Seawolves
-DTSTART:20261002T060000Z
-DTEND:20261002T083000Z
-UID:ncaa15973
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Anchorage\, Alaska
+SUMMARY:🏒 | St. Cloud State Huskies @ Bemidji State Beavers
+DTSTART:20261003T230700
+DTEND:20261004T013700
+UID:ncaa4886
+LOCATION:Sanford Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Denver Pioneers @ Alaska Anchorage Seawolves
-DTSTART:20261003T060000Z
-DTEND:20261003T083000Z
-UID:ncaa15974
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Anchorage\, Alaska
+SUMMARY:🏒 | North Dakota Fighting Hawks @ Bemidji State Beavers
+DTSTART:20261010T000700
+DTEND:20261010T023700
+UID:ncaa4887
+LOCATION:Sanford Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | USA Hockey Under-18 Team @ Denver Pioneers
-DTSTART:20261011T000000Z
-DTEND:20261011T023000Z
-UID:ncaa16045
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Magness Arena
+SUMMARY:🏒 | Bemidji State Beavers @ North Dakota Fighting Hawks
+DTSTART:20261010T230700
+DTEND:20261011T013700
+UID:ncaa4888
+LOCATION:Ralph Engelstad Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Michigan Wolverines @ Denver Pioneers
-DTSTART:20261017T010000Z
-DTEND:20261017T033000Z
-UID:ncaa15975
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Magness Arena
+SUMMARY:🏒 | Bemidji State Beavers @ Minnesota Duluth Bulldogs
+DTSTART:20261024T000700
+DTEND:20261024T023700
+UID:ncaa4889
+LOCATION:AMSOIL Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Michigan Wolverines @ Denver Pioneers
-DTSTART:20261018T000000Z
-DTEND:20261018T023000Z
-UID:ncaa15976
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Magness Arena
+SUMMARY:🏒 | Minnesota Duluth Bulldogs @ Bemidji State Beavers
+DTSTART:20261024T230700
+DTEND:20261025T013700
+UID:ncaa4890
+LOCATION:Sanford Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Boston College Eagles @ Denver Pioneers
-DTSTART:20261024T010000Z
-DTEND:20261024T033000Z
-UID:ncaa15977
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Magness Arena
+SUMMARY:🏒 | Ferris State Bulldogs @ Bemidji State Beavers
+DTSTART:20261031T000700
+DTEND:20261031T023700
+UID:ncaa4633
+LOCATION:Sanford Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Boston College Eagles @ Denver Pioneers
-DTSTART:20261025T000000Z
-DTEND:20261025T023000Z
-UID:ncaa15978
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Magness Arena
+SUMMARY:🏒 | Ferris State Bulldogs @ Bemidji State Beavers
+DTSTART:20261031T230700
+DTEND:20261101T013700
+UID:ncaa4639
+LOCATION:Sanford Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Omaha Mavericks @ Denver Pioneers
-DTSTART:20261031T010000Z
-DTEND:20261031T033000Z
-UID:ncaa15979
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Magness Arena
+SUMMARY:🏒 | Bemidji State Beavers @ Bowling Green Falcons
+DTSTART:20261107T000700
+DTEND:20261107T023700
+UID:ncaa4645
+LOCATION:Slater Family Ice Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Omaha Mavericks @ Denver Pioneers
-DTSTART:20261101T000000Z
-DTEND:20261101T023000Z
-UID:ncaa15980
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Magness Arena
+SUMMARY:🏒 | Bemidji State Beavers @ Bowling Green Falcons
+DTSTART:20261107T230700
+DTEND:20261108T013700
+UID:ncaa4651
+LOCATION:Slater Family Ice Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Denver Pioneers @ Arizona State Sun Devils
-DTSTART:20261106T070000Z
-DTEND:20261106T093000Z
-UID:ncaa15981
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Tempe\, Ariz.
+SUMMARY:🏒 | Minnesota State Mavericks @ Bemidji State Beavers
+DTSTART:20261114T010700
+DTEND:20261114T033700
+UID:ncaa4661
+LOCATION:Sanford Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Denver Pioneers @ Arizona State Sun Devils
-DTSTART:20261108T190000Z
-DTEND:20261108T213000Z
-UID:ncaa15982
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Tempe\, Ariz.
+SUMMARY:🏒 | Minnesota State Mavericks @ Bemidji State Beavers
+DTSTART:20261115T000700
+DTEND:20261115T023700
+UID:ncaa4669
+LOCATION:Sanford Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Lindenwood Lion @ Denver Pioneers
-DTSTART:20261114T020000Z
-DTEND:20261114T043000Z
-UID:ncaa15983
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Magness Arena
+SUMMARY:🏒 | Bemidji State Beavers @ Lake Superior State Lakers
+DTSTART:20261121T000700
+DTEND:20261121T023700
+UID:ncaa4673
+LOCATION:Taffy Abel Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Lindenwood Lion @ Denver Pioneers
-DTSTART:20261115T010000Z
-DTEND:20261115T033000Z
-UID:ncaa15984
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Magness Arena
+SUMMARY:🏒 | Bemidji State Beavers @ Lake Superior State Lakers
+DTSTART:20261121T230700
+DTEND:20261122T013700
+UID:ncaa4681
+LOCATION:Taffy Abel Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | St. Thomas Tommies @ Denver Pioneers
-DTSTART:20261121T020000Z
-DTEND:20261121T043000Z
-UID:ncaa15985
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Magness Arena
+SUMMARY:🏒 | St. Thomas Tommies @ Bemidji State Beavers
+DTSTART:20261126T000700
+DTEND:20261126T023700
+UID:ncaa4891
+LOCATION:Sanford Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | St. Thomas Tommies @ Denver Pioneers
-DTSTART:20261122T010000Z
-DTEND:20261122T033000Z
-UID:ncaa15986
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Magness Arena
+SUMMARY:🏒 | Bemidji State Beavers @ St. Thomas Tommies
+DTSTART:20261129T000700
+DTEND:20261129T023700
+UID:ncaa4892
+LOCATION:Lee & Penny Anderson Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Denver Pioneers @ Boston University Terriers
-DTSTART:20261127T070000Z
-DTEND:20261127T093000Z
-UID:ncaa15987
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Boston\, Mass.
+SUMMARY:🏒 | Bemidji State Beavers @ Augustana Vikings
+DTSTART:20261205T010700
+DTEND:20261205T033700
+UID:ncaa4693
+LOCATION:Midco Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Denver Pioneers @ Boston University Terriers
-DTSTART:20261128T070000Z
-DTEND:20261128T093000Z
-UID:ncaa15988
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Boston\, Mass.
+SUMMARY:🏒 | Bemidji State Beavers @ Augustana Vikings
+DTSTART:20261206T000700
+DTEND:20261206T023700
+UID:ncaa4701
+LOCATION:Midco Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | North Dakota Fighting Hawks @ Denver Pioneers
-DTSTART:20261205T020000Z
-DTEND:20261205T043000Z
-UID:ncaa15989
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Magness Arena
+SUMMARY:🏒 | Michigan Tech Huskies @ Bemidji State Beavers
+DTSTART:20261212T010700
+DTEND:20261212T033700
+UID:ncaa4709
+LOCATION:Sanford Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | North Dakota Fighting Hawks @ Denver Pioneers
-DTSTART:20261206T010000Z
-DTEND:20261206T033000Z
-UID:ncaa15990
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Magness Arena
+SUMMARY:🏒 | Michigan Tech Huskies @ Bemidji State Beavers
+DTSTART:20261213T000700
+DTEND:20261213T023700
+UID:ncaa4717
+LOCATION:Sanford Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Denver Pioneers @ St. Cloud State Huskies
-DTSTART:20261211T070000Z
-DTEND:20261211T093000Z
-UID:ncaa15991
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:St. Cloud\, Minn.
+SUMMARY:🏒 | Bemidji State Beavers @ St. Cloud State Huskies
+DTSTART:20261216T190700
+DTEND:20261216T213700
+UID:ncaa4893
+DESCRIPTION:Game time to be determined
+LOCATION:Herb Brooks National Hockey Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Denver Pioneers @ St. Cloud State Huskies
-DTSTART:20261212T070000Z
-DTEND:20261212T093000Z
-UID:ncaa15992
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:St. Cloud\, Minn.
+SUMMARY:🏒 | Bemidji State Beavers @ Minnesota Golden Gophers
+DTSTART:20270102T190700
+DTEND:20270102T213700
+UID:ncaa4894
+DESCRIPTION:Game time to be determined\nScrimmage Game
+LOCATION:3M Arena at Mariucci
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Denver Pioneers @ Bowling Green Falcons
@@ -1157,995 +811,584 @@ DTEND:20270102T023000Z
 UID:ncaa15993
 DESCRIPTION:Status: SCHEDULED
 LOCATION:Bowling Green\, Ohio
+SUMMARY:🏒 | Bemidji State Beavers @ Northern Michigan Wildcats
+DTSTART:20270109T000700
+DTEND:20270109T023700
+UID:ncaa4723
+LOCATION:Berry Events Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Denver Pioneers @ Bowling Green Falcons
-DTSTART:20270102T230000Z
-DTEND:20270103T013000Z
-UID:ncaa15994
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Bowling Green\, Ohio
+SUMMARY:🏒 | Bemidji State Beavers @ Northern Michigan Wildcats
+DTSTART:20270109T230700
+DTEND:20270110T013700
+UID:ncaa4731
+LOCATION:Berry Events Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Denver Pioneers @ Western Michigan Broncos
-DTSTART:20270109T000000Z
-DTEND:20270109T023000Z
-UID:ncaa15995
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Kalamazoo\, Mich.
+SUMMARY:🏒 | Bowling Green Falcons @ Bemidji State Beavers
+DTSTART:20270116T010700
+DTEND:20270116T033700
+UID:ncaa4741
+LOCATION:Sanford Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Denver Pioneers @ Western Michigan Broncos
-DTSTART:20270109T230000Z
-DTEND:20270110T013000Z
-UID:ncaa15996
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Kalamazoo\, Mich.
+SUMMARY:🏒 | Bowling Green Falcons @ Bemidji State Beavers
+DTSTART:20270117T000700
+DTEND:20270117T023700
+UID:ncaa4749
+LOCATION:Sanford Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Colorado College Tigers @ Denver Pioneers
-DTSTART:20270117T010000Z
-DTEND:20270117T033000Z
-UID:ncaa15998
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Magness Arena
+SUMMARY:🏒 | Bemidji State Beavers @ Minnesota State Mavericks
+DTSTART:20270130T010700
+DTEND:20270130T033700
+UID:ncaa4767
+LOCATION:Mayo Clinic HSEC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Denver Pioneers @ Minnesota Duluth Bulldogs
-DTSTART:20270123T010000Z
-DTEND:20270123T033000Z
-UID:ncaa16000
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Duluth\, Minn.
+SUMMARY:🏒 | Bemidji State Beavers @ Minnesota State Mavericks
+DTSTART:20270131T000700
+DTEND:20270131T023700
+UID:ncaa4773
+LOCATION:Mayo Clinic HSEC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Denver Pioneers @ Minnesota Duluth Bulldogs
-DTSTART:20270124T000000Z
-DTEND:20270124T023000Z
-UID:ncaa16001
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Duluth\, Minn.
+SUMMARY:🏒 | Lake Superior State Lakers @ Bemidji State Beavers
+DTSTART:20270206T010700
+DTEND:20270206T033700
+UID:ncaa4781
+LOCATION:Sanford Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Denver Pioneers @ Colorado College Tigers
-DTSTART:20270130T070000Z
-DTEND:20270130T093000Z
-UID:ncaa16002
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Colorado Springs\, Colo.
+SUMMARY:🏒 | Lake Superior State Lakers @ Bemidji State Beavers
+DTSTART:20270207T000700
+DTEND:20270207T023700
+UID:ncaa4789
+LOCATION:Sanford Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Arizona State Sun Devils @ Denver Pioneers
-DTSTART:20270206T020000Z
-DTEND:20270206T043000Z
-UID:ncaa16003
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Magness Arena
+SUMMARY:🏒 | Bemidji State Beavers @ Ferris State Bulldogs
+DTSTART:20270213T000700
+DTEND:20270213T023700
+UID:ncaa4791
+LOCATION:Ewigleben Ice Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Arizona State Sun Devils @ Denver Pioneers
-DTSTART:20270207T010000Z
-DTEND:20270207T033000Z
-UID:ncaa16004
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Magness Arena
+SUMMARY:🏒 | Bemidji State Beavers @ Ferris State Bulldogs
+DTSTART:20270213T230700
+DTEND:20270214T013700
+UID:ncaa4795
+LOCATION:Ewigleben Ice Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Denver Pioneers @ Miami Redhawks
-DTSTART:20270212T070000Z
-DTEND:20270212T093000Z
-UID:ncaa16005
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Oxford\, Ohio.
+SUMMARY:🏒 | Augustana Vikings @ Bemidji State Beavers
+DTSTART:20270220T010700
+DTEND:20270220T033700
+UID:ncaa4803
+LOCATION:Sanford Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Denver Pioneers @ Miami Redhawks
-DTSTART:20270213T070000Z
-DTEND:20270213T093000Z
-UID:ncaa16006
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Oxford\, Ohio
+SUMMARY:🏒 | Augustana Vikings @ Bemidji State Beavers
+DTSTART:20270221T000700
+DTEND:20270221T023700
+UID:ncaa4811
+LOCATION:Sanford Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | St. Cloud State Huskies @ Denver Pioneers
-DTSTART:20270220T020000Z
-DTEND:20270220T043000Z
-UID:ncaa16007
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Magness Arena
+SUMMARY:🏒 | Bemidji State Beavers @ Michigan Tech Huskies
+DTSTART:20270227T000700
+DTEND:20270227T023700
+UID:ncaa4815
+LOCATION:John MacInnes Student Ice Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | St. Cloud State Huskies @ Denver Pioneers
-DTSTART:20270221T010000Z
-DTEND:20270221T033000Z
-UID:ncaa16008
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Magness Arena
+SUMMARY:🏒 | Bemidji State Beavers @ Michigan Tech Huskies
+DTSTART:20270227T230700
+DTEND:20270228T013700
+UID:ncaa4823
+LOCATION:John MacInnes Student Ice Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Colorado College Tigers @ Denver Pioneers
-DTSTART:20270227T020000Z
-DTEND:20270227T043000Z
-UID:ncaa16009
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Magness Arena
+SUMMARY:🏒 | Wisconsin Badgers @ Minnesota State Mavericks
+DTSTART:20261010T000700
+DTEND:20261010T023700
+UID:ncaa4852
+LOCATION:Mayo Clinic HSEC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Denver Pioneers @ Colorado College Tigers
-DTSTART:20270227T070000Z
-DTEND:20270227T093000Z
-UID:ncaa16010
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Colorado Springs\, Colo.
+SUMMARY:🏒 | Wisconsin Badgers @ Minnesota State Mavericks
+DTSTART:20261010T230700
+DTEND:20261011T013700
+UID:ncaa4853
+LOCATION:Mayo Clinic HSEC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | NCHC First Round @ Denver Pioneers
-DTSTART:20270305T070000Z
-DTEND:20270305T093000Z
-UID:ncaa16011
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-03-05
-  to 2027-03-07
-LOCATION:Campus Sites
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | NCHC Quarterfinal @ Denver Pioneers
-DTSTART:20270312T070000Z
-DTEND:20270312T093000Z
-UID:ncaa16012
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Campus Site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | NCHC Semifinals @ Denver Pioneers
-DTSTART:20270313T070000Z
-DTEND:20270313T093000Z
-UID:ncaa16013
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Campus Sites
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | NCHC Championship @ Denver Pioneers
-DTSTART:20270319T060000Z
-DTEND:20270319T083000Z
-UID:ncaa16014
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Campus Site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Denver Pioneers @ NCAA Regionals
-DTSTART:20270325T060000Z
-DTEND:20270325T083000Z
-UID:ncaa16015
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-03-25
-  to 2027-03-28
-LOCATION:Blue Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Denver Pioneers @ NCAA Frozen Four
-DTSTART:20270408T060000Z
-DTEND:20270408T083000Z
-UID:ncaa16016
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nFrom 2027-04-08
-  to 2027-04-10
-LOCATION:Capital One Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Western Ontario (Exhibition)
-DTSTART:20261003T180000
-UID:16893@calendar_merge
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ferris State University
-DTSTART:20261008T190000
-UID:16894@calendar_merge
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ferris State University
-DTSTART:20261009T190000
-UID:16895@calendar_merge
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:University of Notre Dame
+SUMMARY:🏒 | Minnesota State Mavericks @ Merrimack Warriors
 DTSTART:20261016T190000
-UID:16896@calendar_merge
+DTEND:20261016T213000
+UID:ncaa4854
+DESCRIPTION:Game time to be determined
+LOCATION:Lawler Rink
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:University of Notre Dame
+SUMMARY:🏒 | Minnesota State Mavericks @ Merrimack Warriors
+DTSTART:20261017T190000
+DTEND:20261017T213000
+UID:ncaa4855
+DESCRIPTION:Game time to be determined
+LOCATION:Lawler Rink
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Minnesota State Mavericks @ St. Thomas Tommies
+DTSTART:20261024T000700
+DTEND:20261024T023700
+UID:ncaa4856
+LOCATION:Lee & Penny Anderson Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | St. Thomas Tommies @ Minnesota State Mavericks
+DTSTART:20261024T230700
+DTEND:20261025T013700
+UID:ncaa4857
+LOCATION:Mayo Clinic HSEC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Lake Superior State Lakers @ Minnesota State Mavericks
+DTSTART:20261031T000700
+DTEND:20261031T023700
+UID:ncaa4635
+LOCATION:Mayo Clinic HSEC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Lake Superior State Lakers @ Minnesota State Mavericks
+DTSTART:20261031T230700
+DTEND:20261101T013700
+UID:ncaa4641
+LOCATION:Mayo Clinic HSEC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Minnesota State Mavericks @ Northern Michigan Wildcats
+DTSTART:20261107T000700
+DTEND:20261107T023700
+UID:ncaa4647
+LOCATION:Berry Events Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Minnesota State Mavericks @ Northern Michigan Wildcats
+DTSTART:20261107T230700
+DTEND:20261108T013700
+UID:ncaa4653
+LOCATION:Berry Events Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Michigan Tech Huskies @ Minnesota State Mavericks
+DTSTART:20261121T010700
+DTEND:20261121T033700
+UID:ncaa4677
+LOCATION:Mayo Clinic HSEC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Michigan Tech Huskies @ Minnesota State Mavericks
+DTSTART:20261122T000700
+DTEND:20261122T023700
+UID:ncaa4685
+LOCATION:Mayo Clinic HSEC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Minnesota State Mavericks @ Minnesota Golden Gophers
+DTSTART:20261127T200000
+DTEND:20261127T223000
+UID:ncaa4858
+DESCRIPTION:Game time to be determined
+LOCATION:3M Arena at Mariucci
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Minnesota Golden Gophers @ Minnesota State Mavericks
+DTSTART:20261129T000700
+DTEND:20261129T023700
+UID:ncaa4859
+LOCATION:Mayo Clinic HSEC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Bowling Green Falcons @ Minnesota State Mavericks
+DTSTART:20261205T010700
+DTEND:20261205T033700
+UID:ncaa4691
+LOCATION:Mayo Clinic HSEC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Bowling Green Falcons @ Minnesota State Mavericks
+DTSTART:20261206T000700
+DTEND:20261206T023700
+UID:ncaa4699
+LOCATION:Mayo Clinic HSEC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Minnesota State Mavericks @ Lake Superior State Lakers
+DTSTART:20261212T000700
+DTEND:20261212T023700
+UID:ncaa4705
+LOCATION:Taffy Abel Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Minnesota State Mavericks @ Lake Superior State Lakers
+DTSTART:20261212T230700
+DTEND:20261213T013700
+UID:ncaa4713
+LOCATION:Taffy Abel Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Minnesota State Mavericks @ Ferris State Bulldogs
+DTSTART:20270109T000700
+DTEND:20270109T023700
+UID:ncaa4721
+LOCATION:Ewigleben Ice Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Minnesota State Mavericks @ Ferris State Bulldogs
+DTSTART:20270109T230700
+DTEND:20270110T013700
+UID:ncaa4729
+LOCATION:Ewigleben Ice Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Augustana Vikings @ Minnesota State Mavericks
+DTSTART:20270116T010700
+DTEND:20270116T033700
+UID:ncaa4739
+LOCATION:Mayo Clinic HSEC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Augustana Vikings @ Minnesota State Mavericks
+DTSTART:20270117T000700
+DTEND:20270117T023700
+UID:ncaa4747
+LOCATION:Mayo Clinic HSEC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Minnesota State Mavericks @ Bowling Green Falcons
+DTSTART:20270123T000700
+DTEND:20270123T023700
+UID:ncaa4751
+LOCATION:Slater Family Ice Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Minnesota State Mavericks @ Bowling Green Falcons
+DTSTART:20270123T230700
+DTEND:20270124T013700
+UID:ncaa4757
+LOCATION:Slater Family Ice Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Minnesota State Mavericks @ Michigan Tech Huskies
+DTSTART:20270206T000700
+DTEND:20270206T023700
+UID:ncaa4779
+LOCATION:John MacInnes Student Ice Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Minnesota State Mavericks @ Michigan Tech Huskies
+DTSTART:20270206T220700
+DTEND:20270207T003700
+UID:ncaa4787
+LOCATION:John MacInnes Student Ice Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Northern Michigan Wildcats @ Minnesota State Mavericks
+DTSTART:20270220T010700
+DTEND:20270220T033700
+UID:ncaa4805
+LOCATION:Mayo Clinic HSEC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Northern Michigan Wildcats @ Minnesota State Mavericks
+DTSTART:20270221T000700
+DTEND:20270221T023700
+UID:ncaa4813
+LOCATION:Mayo Clinic HSEC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Minnesota State Mavericks @ Augustana Vikings
+DTSTART:20270227T010700
+DTEND:20270227T033700
+UID:ncaa4821
+LOCATION:Midco Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Minnesota State Mavericks @ Augustana Vikings
+DTSTART:20270228T000700
+DTEND:20270228T023700
+UID:ncaa4829
+LOCATION:Midco Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Dartmouth College Big Green @ Norwich Cadets
 DTSTART:20261017T000000
-UID:16897@calendar_merge
+DTEND:20261017T023000
+UID:ncaa17747
+DESCRIPTION:Game time to be determined
+LOCATION:Kreitzberg Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:University of Michigan
-DTSTART:20261023T000000
-UID:16898@calendar_merge
+SUMMARY:🏒 | Alaska Nanooks @ Dartmouth College Big Green
+DTSTART:20261031T000000
+DTEND:20261031T023000
+UID:ncaa17748
+DESCRIPTION:Game time to be determined
+LOCATION:Thompson Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Long Island University
-DTSTART:20261029T190000
-UID:16899@calendar_merge
+SUMMARY:🏒 | Alaska Nanooks @ Dartmouth College Big Green
+DTSTART:20261101T000000
+DTEND:20261101T023000
+UID:ncaa17749
+DESCRIPTION:Game time to be determined
+LOCATION:Thompson Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Long Island University
-DTSTART:20261030T190000
-UID:16900@calendar_merge
+SUMMARY:🏒 | Yale Bulldogs @ Dartmouth College Big Green
+DTSTART:20261106T000000
+DTEND:20261106T023000
+UID:ncaa17365
+DESCRIPTION:Game time to be determined
+LOCATION:Thompson Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:University of North Dakota
-DTSTART:20261106T200000
-UID:16901@calendar_merge
+SUMMARY:🏒 | Brown Bears @ Dartmouth College Big Green
+DTSTART:20261107T000000
+DTEND:20261107T023000
+UID:ncaa17217
+DESCRIPTION:Game time to be determined
+LOCATION:Thompson Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:University of North Dakota
-DTSTART:20261107T190000
-UID:16902@calendar_merge
+SUMMARY:🏒 | Dartmouth College Big Green @ Quinnipiac Bobcats
+DTSTART:20261113T000000
+DTEND:20261113T023000
+UID:ncaa17367
+DESCRIPTION:Game time to be determined
+LOCATION:M&T Bank Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado College
-DTSTART:20261113T190000
-UID:16903@calendar_merge
+SUMMARY:🏒 | Dartmouth College Big Green @ Princeton Tigers
+DTSTART:20261114T000000
+DTEND:20261114T023000
+UID:ncaa17369
+DESCRIPTION:Game time to be determined
+LOCATION:Hobey Baker Rink
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado College
-DTSTART:20261114T180000
-UID:16904@calendar_merge
+SUMMARY:🏒 | Dartmouth College Big Green @ Harvard Crimson
+DTSTART:20261127T000000
+DTEND:20261127T023000
+UID:ncaa17371
+DESCRIPTION:Game time to be determined
+LOCATION:Bright-Landry Hockey Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:University of Nebraska at Omaha
-DTSTART:20261120T000000
-UID:16905@calendar_merge
+SUMMARY:🏒 | Northeastern Huskies @ Dartmouth College Big Green
+DTSTART:20261129T000000
+DTEND:20261129T023000
+UID:ncaa17750
+DESCRIPTION:Game time to be determined
+LOCATION:Thompson Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:University of Nebraska at Omaha
-DTSTART:20261121T000000
-UID:16906@calendar_merge
+SUMMARY:🏒 | Dartmouth College Big Green @ Union Garnet Chargers
+DTSTART:20261205T000000
+DTEND:20261205T023000
+UID:ncaa17373
+LOCATION:M&T Bank Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Miami University (OH)
-DTSTART:20261204T190000
-UID:16907@calendar_merge
+SUMMARY:🏒 | Dartmouth College Big Green @ RPI Engineers
+DTSTART:20261205T000000
+DTEND:20261205T023000
+UID:ncaa17375
+DESCRIPTION:Game time to be determined
+LOCATION:Houston Field House
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Miami University (OH)
-DTSTART:20261205T180000
-UID:16908@calendar_merge
+SUMMARY:🏒 | Stonehill Skyhawks @ Dartmouth College Big Green
+DTSTART:20261210T000000
+DTEND:20261210T023000
+UID:ncaa17751
+DESCRIPTION:Game time to be determined
+LOCATION:Thompson Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arizona State University
-DTSTART:20261211T000000
-UID:16909@calendar_merge
+SUMMARY:🏒 | New Hampshire Wildcats @ Dartmouth College Big Green
+DTSTART:20261213T000000
+DTEND:20261213T023000
+UID:ncaa17752
+DESCRIPTION:Game time to be determined
+LOCATION:Thompson Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arizona State University
-DTSTART:20261212T000000
-UID:16910@calendar_merge
+SUMMARY:🏒 | Holy Cross Crusaders @ Dartmouth College Big Green
+DTSTART:20261215T000000
+DTEND:20261215T023000
+UID:ncaa17753
+DESCRIPTION:Game time to be determined
+LOCATION:Thompson Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Great Lakes Invitational
-DTSTART:20261229T000000
-UID:16911@calendar_merge
+SUMMARY:🏒 | Dartmouth College Big Green @ Vermont Catamounts
+DTSTART:20261219T000000
+DTEND:20261219T023000
+UID:ncaa17754
+DESCRIPTION:Game time to be determined
+LOCATION:Gutterson Fieldhouse
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Great Lakes Invitational
-DTSTART:20261230T000000
-UID:16912@calendar_merge
+SUMMARY:🏒 | Dartmouth College Big Green @ Brown Bears
+DTSTART:20270101T000000
+DTEND:20270101T023000
+UID:ncaa17227
+DESCRIPTION:Game time to be determined
+LOCATION:Schneider Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:University of Denver
-DTSTART:20270108T190000
-UID:16913@calendar_merge
+SUMMARY:🏒 | Dartmouth College Big Green @ Yale Bulldogs
+DTSTART:20270102T000000
+DTEND:20270102T023000
+UID:ncaa17377
+DESCRIPTION:Game time to be determined
+LOCATION:Ingalls Rink
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:University of Denver
-DTSTART:20270109T180000
-UID:16914@calendar_merge
+SUMMARY:🏒 | Princeton Tigers @ Dartmouth College Big Green
+DTSTART:20270108T000000
+DTEND:20270108T023000
+UID:ncaa17379
+DESCRIPTION:Game time to be determined
+LOCATION:Thompson Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:University of Nebraska at Omaha
-DTSTART:20270115T190000
-UID:16915@calendar_merge
+SUMMARY:🏒 | Quinnipiac Bobcats @ Dartmouth College Big Green
+DTSTART:20270109T000000
+DTEND:20270109T023000
+UID:ncaa17381
+DESCRIPTION:Game time to be determined
+LOCATION:Thompson Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:University of Nebraska at Omaha
-DTSTART:20270116T180000
-UID:16916@calendar_merge
+SUMMARY:🏒 | St. Lawrence Saints @ Dartmouth College Big Green
+DTSTART:20270115T000000
+DTEND:20270115T023000
+UID:ncaa17383
+DESCRIPTION:Game time to be determined
+LOCATION:Thompson Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:University of St. Thomas
+SUMMARY:🏒 | Clarkson Golden Knights @ Dartmouth College Big Green
+DTSTART:20270116T000000
+DTEND:20270116T023000
+UID:ncaa17273
+DESCRIPTION:Game time to be determined
+LOCATION:Thompson Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Dartmouth College Big Green @ Colgate Raiders
 DTSTART:20270122T000000
-UID:16917@calendar_merge
+DTEND:20270122T023000
+UID:ncaa17313
+DESCRIPTION:Game time to be determined
+LOCATION:Class of 1965 Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:University of St. Thomas
+SUMMARY:🏒 | Dartmouth College Big Green @ Cornell Big Red
 DTSTART:20270123T000000
-UID:16918@calendar_merge
+DTEND:20270123T023000
+UID:ncaa17351
+DESCRIPTION:Game time to be determined
+LOCATION:Lynah Rink
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:University of Michigan
-DTSTART:20270130T000000
-UID:16919@calendar_merge
+SUMMARY:🏒 | Dartmouth College Big Green @ Merrimack Warriors
+DTSTART:20270131T000000
+DTEND:20270131T023000
+UID:ncaa17755
+DESCRIPTION:Game time to be determined
+LOCATION:Lawler Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Cloud State University
-DTSTART:20270205T190000
-UID:16920@calendar_merge
+SUMMARY:🏒 | Harvard Crimson @ Dartmouth College Big Green
+DTSTART:20270205T000000
+DTEND:20270205T023000
+UID:ncaa17385
+DESCRIPTION:Game time to be determined
+LOCATION:Thompson Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Cloud State University
-DTSTART:20270206T180000
-UID:16921@calendar_merge
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Colorado College
+SUMMARY:🏒 | RPI Engineers @ Dartmouth College Big Green
 DTSTART:20270212T000000
-UID:16922@calendar_merge
+DTEND:20270212T023000
+UID:ncaa17387
+DESCRIPTION:Game time to be determined
+LOCATION:Thompson Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado College
+SUMMARY:🏒 | Union Garnet Chargers @ Dartmouth College Big Green
 DTSTART:20270213T000000
-UID:16923@calendar_merge
+DTEND:20270213T023000
+UID:ncaa17389
+DESCRIPTION:Game time to be determined
+LOCATION:Thompson Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:University of Minnesota Duluth
-DTSTART:20270219T190000
-UID:16924@calendar_merge
+SUMMARY:🏒 | Cornell Big Red @ Dartmouth College Big Green
+DTSTART:20270219T000000
+DTEND:20270219T023000
+UID:ncaa17357
+DESCRIPTION:Game time to be determined
+LOCATION:Thompson Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:University of Minnesota Duluth
-DTSTART:20270220T180000
-UID:16925@calendar_merge
+SUMMARY:🏒 | Colgate Raiders @ Dartmouth College Big Green
+DTSTART:20270220T000000
+DTEND:20270220T023000
+UID:ncaa17327
+DESCRIPTION:Game time to be determined
+LOCATION:Thompson Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Miami University (OH)
-DTSTART:20270226T000000
-UID:16926@calendar_merge
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miami University (OH)
+SUMMARY:🏒 | Dartmouth College Big Green @ Clarkson Golden Knights
 DTSTART:20270227T000000
-UID:16927@calendar_merge
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NCHC First Round
-DTSTART:20270305T000000
-UID:16928@calendar_merge
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NCHC Semifinals
-DTSTART:20270313T000000
-UID:16929@calendar_merge
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NCHC Championship
-DTSTART:20270319T000000
-UID:16930@calendar_merge
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NCAA Regionals
-DTSTART:20270325T000000
-UID:16931@calendar_merge
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NCAA Frozen Four
-DTSTART:20270408T000000
-UID:16932@calendar_merge
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | St. Cloud State Huskies @ Bemidji State Beavers
-DTSTART:20261003T050000Z
-DTEND:20261003T073000Z
-UID:ncaa16735
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Bemidji\, Minn.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Michigan Tech Huskies @ St. Cloud State Huskies
-DTSTART:20261009T050000Z
-DTEND:20261009T073000Z
-UID:ncaa16736
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Herb Brooks National Hockey Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Michigan Tech Huskies @ St. Cloud State Huskies
-DTSTART:20261010T050000Z
-DTEND:20261010T073000Z
-UID:ncaa16737
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Herb Brooks National Hockey Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | St. Cloud State Huskies @ Boston College Eagles
-DTSTART:20261015T050000Z
-DTEND:20261015T073000Z
-UID:ncaa16738
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Chestnut Hill\, Mass.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | St. Cloud State Huskies @ Boston College Eagles
-DTSTART:20261017T050000Z
-DTEND:20261017T073000Z
-UID:ncaa16739
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Chestnut Hill\, Mass.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Arizona State Sun Devils @ St. Cloud State Huskies
-DTSTART:20261030T050000Z
-DTEND:20261030T073000Z
-UID:ncaa16645
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Herb Brooks National Hockey Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Arizona State Sun Devils @ St. Cloud State Huskies
-DTSTART:20261031T050000Z
-DTEND:20261031T073000Z
-UID:ncaa16646
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Herb Brooks National Hockey Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | St. Cloud State Huskies @ Omaha Mavericks
-DTSTART:20261106T060000Z
-DTEND:20261106T083000Z
-UID:ncaa16647
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Baxter Arena | Omaha\, Neb.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | St. Cloud State Huskies @ Omaha Mavericks
-DTSTART:20261107T060000Z
-DTEND:20261107T083000Z
-UID:ncaa16648
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Baxter Arena | Omaha\, Neb.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Minnesota Duluth Bulldogs @ St. Cloud State Huskies
-DTSTART:20261113T060000Z
-DTEND:20261113T083000Z
-UID:ncaa16649
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Herb Brooks National Hockey Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Minnesota Duluth Bulldogs @ St. Cloud State Huskies
-DTSTART:20261114T060000Z
-DTEND:20261114T083000Z
-UID:ncaa16650
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Herb Brooks National Hockey Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | St. Cloud State Huskies @ North Dakota Fighting Sioux
-DTSTART:20261120T060000Z
-DTEND:20261120T083000Z
-UID:ncaa16651
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Ralph Engelstad Arena | Grand Forks\, N.D.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | St. Cloud State Huskies @ North Dakota Fighting Sioux
-DTSTART:20261121T060000Z
-DTEND:20261121T083000Z
-UID:ncaa16668
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Ralph Engelstad Arena | Grand Forks\, N.D.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | St. Cloud State Huskies @ Vermont Catamounts
-DTSTART:20261128T000000Z
-DTEND:20261128T023000Z
-UID:ncaa16740
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Burlington\, Vt.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | St. Cloud State Huskies @ Vermont Catamounts
-DTSTART:20261129T000000Z
-DTEND:20261129T023000Z
-UID:ncaa16741
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Burlington\, Vt.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Denver Pioneers @ St. Cloud State Huskies
-DTSTART:20261211T060000Z
-DTEND:20261211T083000Z
-UID:ncaa16652
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Herb Brooks National Hockey Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Denver Pioneers @ St. Cloud State Huskies
-DTSTART:20261212T060000Z
-DTEND:20261212T083000Z
-UID:ncaa16653
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Herb Brooks National Hockey Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Bemidji State Beavers @ St. Cloud State Huskies
-DTSTART:20261216T060000Z
-DTEND:20261216T083000Z
-UID:ncaa16742
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Herb Brooks National Hockey Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Alaska Nanooks @ St. Cloud State Huskies
-DTSTART:20270101T060000Z
-DTEND:20270101T083000Z
-UID:ncaa16743
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Herb Brooks National Hockey Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Alaska Nanooks @ St. Cloud State Huskies
-DTSTART:20270102T060000Z
-DTEND:20270102T083000Z
-UID:ncaa16744
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Herb Brooks National Hockey Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | St. Cloud State Huskies @ St. Thomas Tommies
-DTSTART:20270108T060000Z
-DTEND:20270108T083000Z
-UID:ncaa16654
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Lee & Penny Anderson Arena | St. Paul\, Minn.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | St. Cloud State Huskies @ St. Thomas Tommies
-DTSTART:20270109T060000Z
-DTEND:20270109T083000Z
-UID:ncaa16655
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Lee & Penny Anderson Arena | St. Paul\, Minn.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Miami Redhawks @ St. Cloud State Huskies
-DTSTART:20270115T060000Z
-DTEND:20270115T083000Z
-UID:ncaa16656
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Herb Brooks National Hockey Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Miami Redhawks @ St. Cloud State Huskies
-DTSTART:20270116T060000Z
-DTEND:20270116T083000Z
-UID:ncaa16657
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Herb Brooks National Hockey Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | St. Cloud State Huskies @ Colorado College Tigers
-DTSTART:20270122T060000Z
-DTEND:20270122T083000Z
-UID:ncaa16658
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Ed Robson Arena | Colorado Springs\, Colo.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | St. Cloud State Huskies @ Colorado College Tigers
-DTSTART:20270123T060000Z
-DTEND:20270123T083000Z
-UID:ncaa16659
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Ed Robson Arena | Colorado Springs\, Colo.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | St. Cloud State Huskies @ St. Thomas Tommies
-DTSTART:20270130T223000Z
-DTEND:20270131T010000Z
-UID:ncaa16795
-DESCRIPTION:Status: SCHEDULED
-LOCATION:Brainerd International Raceway | Brainerd\, Minn.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | St. Cloud State Huskies @ Western Michigan Broncos
-DTSTART:20270205T060000Z
-DTEND:20270205T083000Z
-UID:ncaa16660
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Lawson Arena | Kalamazoo\, Mich.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | St. Cloud State Huskies @ Western Michigan Broncos
-DTSTART:20270206T060000Z
-DTEND:20270206T083000Z
-UID:ncaa16661
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Lawson Arena | Kalamazoo\, Mich.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Omaha Mavericks @ St. Cloud State Huskies
-DTSTART:20270212T060000Z
-DTEND:20270212T083000Z
-UID:ncaa16662
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Herb Brooks National Hockey Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Omaha Mavericks @ St. Cloud State Huskies
-DTSTART:20270213T060000Z
-DTEND:20270213T083000Z
-UID:ncaa16663
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Herb Brooks National Hockey Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | St. Cloud State Huskies @ Denver Pioneers
-DTSTART:20270219T060000Z
-DTEND:20270219T083000Z
-UID:ncaa16664
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Magness Arena | Denver\, Colo.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | St. Cloud State Huskies @ Denver Pioneers
-DTSTART:20270220T060000Z
-DTEND:20270220T083000Z
-UID:ncaa16665
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Magness Arena | Denver\, Colo.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | St. Thomas Tommies @ St. Cloud State Huskies
-DTSTART:20270226T060000Z
-DTEND:20270226T083000Z
-UID:ncaa16666
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Herb Brooks National Hockey Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | St. Thomas Tommies @ St. Cloud State Huskies
-DTSTART:20270227T060000Z
-DTEND:20270227T083000Z
-UID:ncaa16667
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Herb Brooks National Hockey Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Miami RedHawks @ Northern Michigan Wildcats
-DTSTART:20261002T040000Z
-DTEND:20261002T063000Z
-UID:ncaa20850
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Marquette\, Mich.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Miami RedHawks @ Northern Michigan Wildcats
-DTSTART:20261003T040000Z
-DTEND:20261003T063000Z
-UID:ncaa20851
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Marquette\, Mich.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Robert Morris Colonials @ Miami RedHawks
-DTSTART:20261015T040000Z
-DTEND:20261015T063000Z
-UID:ncaa20855
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Goggin Ice Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Miami RedHawks @ Robert Morris Colonials
-DTSTART:20261017T040000Z
-DTEND:20261017T063000Z
-UID:ncaa20854
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Moon Township\, Pa.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Alaska Anchorage Seawolves @ Miami RedHawks
-DTSTART:20261023T040000Z
-DTEND:20261023T063000Z
-UID:ncaa20856
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Goggin Ice Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Alaska Anchorage Seawolves @ Miami RedHawks
-DTSTART:20261024T040000Z
-DTEND:20261024T063000Z
-UID:ncaa20857
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Goggin Ice Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | St. Thomas Tommies @ Miami RedHawks
-DTSTART:20261030T040000Z
-DTEND:20261030T063000Z
-UID:ncaa20858
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Goggin Ice Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | St. Thomas Tommies @ Miami RedHawks
-DTSTART:20261031T040000Z
-DTEND:20261031T063000Z
-UID:ncaa20859
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Goggin Ice Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Miami RedHawks @ Minnesota Duluth Bulldogs
-DTSTART:20261106T050000Z
-DTEND:20261106T073000Z
-UID:ncaa20860
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Duluth\, Minn.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Miami RedHawks @ Minnesota Duluth Bulldogs
-DTSTART:20261107T050000Z
-DTEND:20261107T073000Z
-UID:ncaa20861
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Duluth\, Minn.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Omaha Mavericks @ Miami RedHawks
-DTSTART:20261113T050000Z
-DTEND:20261113T073000Z
-UID:ncaa20862
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Goggin Ice Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Omaha Mavericks @ Miami RedHawks
-DTSTART:20261114T050000Z
-DTEND:20261114T073000Z
-UID:ncaa20863
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Goggin Ice Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Miami RedHawks @ Colorado College Tigers
-DTSTART:20261120T050000Z
-DTEND:20261120T073000Z
-UID:ncaa20864
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Colorado Springs\, Colo.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Miami RedHawks @ Colorado College Tigers
-DTSTART:20261121T050000Z
-DTEND:20261121T073000Z
-UID:ncaa20865
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Colorado Springs\, Colo.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Miami RedHawks @ Stonehill Skyhawks
-DTSTART:20261127T050000Z
-DTEND:20261127T073000Z
-UID:ncaa20866
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Boston\, Mass.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Miami RedHawks @ Stonehill Skyhawks
-DTSTART:20261128T050000Z
-DTEND:20261128T073000Z
-UID:ncaa20891
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Boston\, Mass.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Miami RedHawks @ Western Michigan Broncos
-DTSTART:20261204T050000Z
-DTEND:20261204T073000Z
-UID:ncaa20868
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Kalamazoo\, Mich.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Miami RedHawks @ Western Michigan Broncos
-DTSTART:20261205T050000Z
-DTEND:20261205T073000Z
-UID:ncaa20869
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Kalamazoo\, Mich.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Miami RedHawks @ Maine Black Bears
-DTSTART:20270101T050000Z
-DTEND:20270101T073000Z
-UID:ncaa20867
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Orono\, Maine
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Miami RedHawks @ Maine Black Bears
-DTSTART:20270102T050000Z
-DTEND:20270102T073000Z
-UID:ncaa20870
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Orono\, Maine
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | North Dakota Fighting Sioux @ Miami RedHawks
-DTSTART:20270108T050000Z
-DTEND:20270108T073000Z
-UID:ncaa20871
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Goggin Ice Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | North Dakota Fighting Sioux @ Miami RedHawks
-DTSTART:20270109T050000Z
-DTEND:20270109T073000Z
-UID:ncaa20872
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Goggin Ice Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Miami RedHawks @ St. Cloud State Huskies
-DTSTART:20270115T050000Z
-DTEND:20270115T073000Z
-UID:ncaa20873
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:St. Cloud\, Minn.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Miami RedHawks @ St. Cloud State Huskies
-DTSTART:20270116T050000Z
-DTEND:20270116T073000Z
-UID:ncaa20874
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:St. Cloud\, Minn.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Arizona State Sun Devils @ Miami RedHawks
-DTSTART:20270122T050000Z
-DTEND:20270122T073000Z
-UID:ncaa20875
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Goggin Ice Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Arizona State Sun Devils @ Miami RedHawks
-DTSTART:20270123T050000Z
-DTEND:20270123T073000Z
-UID:ncaa20876
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Goggin Ice Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Miami RedHawks @ St. Thomas Tommies
-DTSTART:20270205T050000Z
-DTEND:20270205T073000Z
-UID:ncaa20877
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:St. Paul\, Minn.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Miami RedHawks @ St. Thomas Tommies
-DTSTART:20270206T050000Z
-DTEND:20270206T073000Z
-UID:ncaa20878
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:St. Paul\, Minn.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Denver Pioneers @ Miami RedHawks
-DTSTART:20270212T050000Z
-DTEND:20270212T073000Z
-UID:ncaa20879
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Goggin Ice Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Denver Pioneers @ Miami RedHawks
-DTSTART:20270213T050000Z
-DTEND:20270213T073000Z
-UID:ncaa20880
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Goggin Ice Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Miami RedHawks @ North Dakota Fighting Sioux
-DTSTART:20270219T050000Z
-DTEND:20270219T073000Z
-UID:ncaa20881
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Grand Forks\, N.D.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Miami RedHawks @ North Dakota Fighting Sioux
-DTSTART:20270220T050000Z
-DTEND:20270220T073000Z
-UID:ncaa20882
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Grand Forks\, N.D.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Western Michigan Broncos @ Miami RedHawks
-DTSTART:20270226T050000Z
-DTEND:20270226T073000Z
-UID:ncaa20883
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Goggin Ice Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Western Michigan Broncos @ Miami RedHawks
-DTSTART:20270227T050000Z
-DTEND:20270227T073000Z
-UID:ncaa20884
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Goggin Ice Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Miami RedHawks @ NCHC First Round (Best-of-3)
-DTSTART:20270305T050000Z
-DTEND:20270305T073000Z
-UID:ncaa20885
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Miami RedHawks @ NCHC First Round (Best-of-3)
-DTSTART:20270306T050000Z
-DTEND:20270306T073000Z
-UID:ncaa20886
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Miami RedHawks @ NCHC First Round (Best-of-3)
-DTSTART:20270307T050000Z
-DTEND:20270307T073000Z
-UID:ncaa20887
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Miami RedHawks @ NCHC Quarterfinal (If necessary)
-DTSTART:20270312T050000Z
-DTEND:20270312T073000Z
-UID:ncaa20888
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Miami RedHawks @ NCHC Semifinal
-DTSTART:20270313T050000Z
-DTEND:20270313T073000Z
-UID:ncaa20889
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Miami RedHawks @ NCHC Championship
-DTSTART:20270319T040000Z
-DTEND:20270319T063000Z
-UID:ncaa20890
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
+DTEND:20270227T023000
+UID:ncaa17293
+LOCATION:Cheel Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Dartmouth College Big Green @ St. Lawrence Saints
+DTSTART:20270228T000000
+DTEND:20270228T023000
+UID:ncaa17391
+LOCATION:Appleton Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Boston University Terriers @ Alaska Nanooks
 DTSTART:20261002T040000Z
 DTEND:20261002T063000Z
 UID:ncaa33102
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Fairbanks\, AK
+DESCRIPTION:Game date to be determined
+LOCATION:Carlson Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Boston University Terriers @ Alaska Nanooks
 DTSTART:20261003T040000Z
 DTEND:20261003T063000Z
 UID:ncaa33103
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Fairbanks\, AK
+DESCRIPTION:Game date to be determined
+LOCATION:Carlson Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Brown Bears @ Boston University Terriers
 DTSTART:20261010T040000Z
 DTEND:20261010T063000Z
 UID:ncaa33104
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- p://www.sidearmstats.com/bu/mhockey
+DESCRIPTION:Game date to be determined\nLive Stats: http://www.sidearmstat
+ s.com/bu/mhockey
 LOCATION:Agganis Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2153,32 +1396,32 @@ SUMMARY:🏒 | Boston University Terriers @ Vermont Catamounts
 DTSTART:20261016T040000Z
 DTEND:20261016T063000Z
 UID:ncaa33105
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Burlington\, VT
+DESCRIPTION:Game date to be determined
+LOCATION:Gutterson Fieldhouse
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Boston University Terriers @ Vermont Catamounts
 DTSTART:20261017T040000Z
 DTEND:20261017T063000Z
 UID:ncaa33106
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Burlington\, VT
+DESCRIPTION:Game date to be determined
+LOCATION:Gutterson Fieldhouse
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Boston University Terriers @ UConn Huskies
 DTSTART:20261023T040000Z
 DTEND:20261023T063000Z
 UID:ncaa33107
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Storrs\, CT
+DESCRIPTION:Game date to be determined
+LOCATION:Toscano Ice Forum
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | UConn Huskies @ Boston University Terriers
 DTSTART:20261024T040000Z
 DTEND:20261024T063000Z
 UID:ncaa33108
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- p://www.sidearmstats.com/bu/mhockey
+DESCRIPTION:Game date to be determined\nLive Stats: http://www.sidearmstat
+ s.com/bu/mhockey
 LOCATION:Agganis Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2186,8 +1429,8 @@ SUMMARY:🏒 | Maine Black Bears @ Boston University Terriers
 DTSTART:20261030T040000Z
 DTEND:20261030T063000Z
 UID:ncaa33109
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- p://www.sidearmstats.com/bu/mhockey
+DESCRIPTION:Game date to be determined\nLive Stats: http://www.sidearmstat
+ s.com/bu/mhockey
 LOCATION:Agganis Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2195,8 +1438,8 @@ SUMMARY:🏒 | Maine Black Bears @ Boston University Terriers
 DTSTART:20261031T040000Z
 DTEND:20261031T063000Z
 UID:ncaa33110
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- p://www.sidearmstats.com/bu/mhockey
+DESCRIPTION:Game date to be determined\nLive Stats: http://www.sidearmstat
+ s.com/bu/mhockey
 LOCATION:Agganis Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2204,24 +1447,24 @@ SUMMARY:🏒 | Boston University Terriers @ Michigan State Spartans
 DTSTART:20261106T050000Z
 DTEND:20261106T073000Z
 UID:ncaa33111
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:East Lansing\, MI
+DESCRIPTION:Game date to be determined
+LOCATION:Munn Ice Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Boston University Terriers @ Michigan State Spartans
 DTSTART:20261107T050000Z
 DTEND:20261107T073000Z
 UID:ncaa33112
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:East Lansing\, MI
+DESCRIPTION:Game date to be determined
+LOCATION:Munn Ice Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Harvard Crimson @ Boston University Terriers
 DTSTART:20261110T050000Z
 DTEND:20261110T073000Z
 UID:ncaa33113
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- p://www.sidearmstats.com/bu/mhockey
+DESCRIPTION:Game date to be determined\nLive Stats: http://www.sidearmstat
+ s.com/bu/mhockey
 LOCATION:Agganis Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2229,8 +1472,8 @@ SUMMARY:🏒 | Quinnipiac Bobcats @ Boston University Terriers
 DTSTART:20261118T050000Z
 DTEND:20261118T073000Z
 UID:ncaa33114
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- p://www.sidearmstats.com/bu/mhockey
+DESCRIPTION:Game date to be determined\nLive Stats: http://www.sidearmstat
+ s.com/bu/mhockey
 LOCATION:Agganis Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2238,16 +1481,16 @@ SUMMARY:🏒 | Boston University Terriers @ Merrimack Warriors
 DTSTART:20261120T050000Z
 DTEND:20261120T073000Z
 UID:ncaa33115
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:North Andover\, MA
+DESCRIPTION:Game date to be determined
+LOCATION:Lawler Rink
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Merrimack Warriors @ Boston University Terriers
 DTSTART:20261121T050000Z
 DTEND:20261121T073000Z
 UID:ncaa33116
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- p://www.sidearmstats.com/bu/mhockey
+DESCRIPTION:Game date to be determined\nLive Stats: http://www.sidearmstat
+ s.com/bu/mhockey
 LOCATION:Agganis Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2255,8 +1498,8 @@ SUMMARY:🏒 | Denver Pioneers @ Boston University Terriers
 DTSTART:20261127T050000Z
 DTEND:20261127T073000Z
 UID:ncaa33117
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- p://www.sidearmstats.com/bu/mhockey
+DESCRIPTION:Game date to be determined\nLive Stats: http://www.sidearmstat
+ s.com/bu/mhockey
 LOCATION:Agganis Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2264,8 +1507,8 @@ SUMMARY:🏒 | Denver Pioneers @ Boston University Terriers
 DTSTART:20261128T050000Z
 DTEND:20261128T073000Z
 UID:ncaa33118
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- p://www.sidearmstats.com/bu/mhockey
+DESCRIPTION:Game date to be determined\nLive Stats: http://www.sidearmstat
+ s.com/bu/mhockey
 LOCATION:Agganis Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2273,24 +1516,24 @@ SUMMARY:🏒 | Boston University Terriers @ Cornell Big Red
 DTSTART:20261204T050000Z
 DTEND:20261204T073000Z
 UID:ncaa33119
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Ithaca\, NY
+DESCRIPTION:Game date to be determined
+LOCATION:Lynah Rink
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Boston University Terriers @ Colgate Raiders
 DTSTART:20261205T050000Z
 DTEND:20261205T073000Z
 UID:ncaa33120
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Hamilton\, NY
+DESCRIPTION:Game date to be determined
+LOCATION:Class of 1965 Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Northeastern Huskies @ Boston University Terriers
 DTSTART:20261211T050000Z
 DTEND:20261211T073000Z
 UID:ncaa33121
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- p://www.sidearmstats.com/bu/mhockey
+DESCRIPTION:Game date to be determined\nLive Stats: http://www.sidearmstat
+ s.com/bu/mhockey
 LOCATION:Agganis Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2298,8 +1541,8 @@ SUMMARY:🏒 | Northeastern Huskies @ Boston University Terriers
 DTSTART:20261212T050000Z
 DTEND:20261212T073000Z
 UID:ncaa33122
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- p://www.sidearmstats.com/bu/mhockey
+DESCRIPTION:Game date to be determined\nLive Stats: http://www.sidearmstat
+ s.com/bu/mhockey
 LOCATION:Agganis Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2307,8 +1550,8 @@ SUMMARY:🏒 | UMass Minutemen @ Boston University Terriers
 DTSTART:20270108T050000Z
 DTEND:20270108T073000Z
 UID:ncaa33124
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- p://www.sidearmstats.com/bu/mhockey
+DESCRIPTION:Game date to be determined\nLive Stats: http://www.sidearmstat
+ s.com/bu/mhockey
 LOCATION:Agganis Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2316,24 +1559,24 @@ SUMMARY:🏒 | Boston University Terriers @ UMass Minutemen
 DTSTART:20270109T050000Z
 DTEND:20270109T073000Z
 UID:ncaa33125
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Amherst\, MA
+DESCRIPTION:Game date to be determined
+LOCATION:Mullins Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Boston University Terriers @ UMass Lowell Riverhawks
 DTSTART:20270115T050000Z
 DTEND:20270115T073000Z
 UID:ncaa33126
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Lowell\, MA
+DESCRIPTION:Game date to be determined
+LOCATION:Tsongas Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | UMass Lowell Riverhawks @ Boston University Terriers
 DTSTART:20270116T050000Z
 DTEND:20270116T073000Z
 UID:ncaa33127
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- p://www.sidearmstats.com/bu/mhockey
+DESCRIPTION:Game date to be determined\nLive Stats: http://www.sidearmstat
+ s.com/bu/mhockey
 LOCATION:Agganis Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2341,8 +1584,8 @@ SUMMARY:🏒 | Providence Friars @ Boston University Terriers
 DTSTART:20270122T050000Z
 DTEND:20270122T073000Z
 UID:ncaa33128
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- p://www.sidearmstats.com/bu/mhockey
+DESCRIPTION:Game date to be determined\nLive Stats: http://www.sidearmstat
+ s.com/bu/mhockey
 LOCATION:Agganis Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2350,50 +1593,50 @@ SUMMARY:🏒 | Boston University Terriers @ Providence Friars
 DTSTART:20270123T050000Z
 DTEND:20270123T073000Z
 UID:ncaa33129
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Providence\, RI
+DESCRIPTION:Game date to be determined
+LOCATION:Schneider Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Boston University Terriers @ Boston College Eagles
 DTSTART:20270129T050000Z
 DTEND:20270129T073000Z
 UID:ncaa33130
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Chestnut Hill\, MA
+DESCRIPTION:Game date to be determined
+LOCATION:Conte Forum
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Boston University Terriers @ Boston College Eagles
 DTSTART:20270201T050000Z
 DTEND:20270201T073000Z
 UID:ncaa33132
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- p://www.sidearmstats.com/bu/mhockey
-LOCATION:Boston\, MA (TD Garden)
+DESCRIPTION:Game date to be determined\nLive Stats: http://www.sidearmstat
+ s.com/bu/mhockey
+LOCATION:TD Garden
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Boston University Terriers @ Maine Black Bears
 DTSTART:20270205T050000Z
 DTEND:20270205T073000Z
 UID:ncaa33133
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Orono\, ME
+DESCRIPTION:Game date to be determined
+LOCATION:Alfond Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Boston University Terriers @ Harvard/Northeastern
 DTSTART:20270208T050000Z
 DTEND:20270208T073000Z
 UID:ncaa33134
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- p://www.sidearmstats.com/bu/mhockey
-LOCATION:Boston\, MA (TD Garden)
+DESCRIPTION:Game date to be determined\nLive Stats: http://www.sidearmstat
+ s.com/bu/mhockey
+LOCATION:TD Garden
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | New Hampshire Wildcats @ Boston University Terriers
 DTSTART:20270219T050000Z
 DTEND:20270219T073000Z
 UID:ncaa33135
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- p://www.sidearmstats.com/bu/mhockey
+DESCRIPTION:Game date to be determined\nLive Stats: http://www.sidearmstat
+ s.com/bu/mhockey
 LOCATION:Agganis Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2401,24 +1644,24 @@ SUMMARY:🏒 | Boston University Terriers @ New Hampshire Wildcats
 DTSTART:20270220T050000Z
 DTEND:20270220T073000Z
 UID:ncaa33136
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Durham\, NH
+DESCRIPTION:Game date to be determined
+LOCATION:Whittemore Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Boston University Terriers @ Boston College Eagles
 DTSTART:20270226T050000Z
 DTEND:20270226T073000Z
 UID:ncaa33131
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Chestnut Hill\, MA
+DESCRIPTION:Game date to be determined
+LOCATION:Conte Forum
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Boston College Eagles @ Boston University Terriers
 DTSTART:20270227T050000Z
 DTEND:20270227T073000Z
 UID:ncaa33137
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- p://www.sidearmstats.com/bu/mhockey
+DESCRIPTION:Game date to be determined\nLive Stats: http://www.sidearmstat
+ s.com/bu/mhockey
 LOCATION:Agganis Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2426,8 +1669,8 @@ SUMMARY:🏒 | Northeastern Huskies @ Boston University Terriers
 DTSTART:20270305T050000Z
 DTEND:20270305T073000Z
 UID:ncaa33138
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- p://www.sidearmstats.com/bu/mhockey
+DESCRIPTION:Game date to be determined\nLive Stats: http://www.sidearmstat
+ s.com/bu/mhockey
 LOCATION:Agganis Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2435,17 +1678,17 @@ SUMMARY:🏒 | UMass Lowell Riverhawks @ Boston University Terriers
 DTSTART:20270306T050000Z
 DTEND:20270306T073000Z
 UID:ncaa33139
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- p://www.sidearmstats.com/bu/mhockey
+DESCRIPTION:Game date to be determined\nLive Stats: http://www.sidearmstat
+ s.com/bu/mhockey
 LOCATION:Agganis Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Stonehill (Exhibition) Skyhawks @ Providence Friars
+SUMMARY:🏒 | Stonehill Skyhawks @ Providence Friars
 DTSTART:20261002T040000Z
 DTEND:20261002T063000Z
 UID:ncaa12598
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- ps://friars.com/sidearmstats/mhockey/summary
+DESCRIPTION:Game date to be determined\nLive Stats: https://friars.com/sid
+ earmstats/mhockey/summary\nExhibition Game
 LOCATION:Schneider Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2453,8 +1696,8 @@ SUMMARY:🏒 | St. Lawrence Saints @ Providence Friars
 DTSTART:20261009T040000Z
 DTEND:20261009T063000Z
 UID:ncaa12599
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- ps://friars.com/sidearmstats/mhockey/summary
+DESCRIPTION:Game date to be determined\nLive Stats: https://friars.com/sid
+ earmstats/mhockey/summary
 LOCATION:Schneider Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2462,8 +1705,8 @@ SUMMARY:🏒 | Clarkson Golden Knights @ Providence Friars
 DTSTART:20261010T040000Z
 DTEND:20261010T063000Z
 UID:ncaa12600
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- ps://friars.com/sidearmstats/mhockey/summary
+DESCRIPTION:Game date to be determined\nLive Stats: https://friars.com/sid
+ earmstats/mhockey/summary
 LOCATION:Schneider Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2471,8 +1714,8 @@ SUMMARY:🏒 | Providence Friars @ Union Dutchmen/Dutchwomen
 DTSTART:20261016T230000Z
 DTEND:20261017T013000Z
 UID:ncaa12601
-DESCRIPTION:Status: SCHEDULED\nLive Stats: https://unionathletics.com/side
- armstats/mhockey/summary
+DESCRIPTION:Live Stats: https://unionathletics.com/sidearmstats/mhockey/su
+ mmary
 LOCATION:M&T Bank Center
 END:VEVENT
 BEGIN:VEVENT
@@ -2480,7 +1723,6 @@ SUMMARY:🏒 | Providence Friars @ UMass Lowell Riverhawks
 DTSTART:20261023T231500Z
 DTEND:20261024T014500Z
 UID:ncaa12602
-DESCRIPTION:Status: SCHEDULED
 LOCATION:Tsongas Center
 END:VEVENT
 BEGIN:VEVENT
@@ -2488,8 +1730,8 @@ SUMMARY:🏒 | UMass Lowell Riverhawks @ Providence Friars
 DTSTART:20261024T040000Z
 DTEND:20261024T063000Z
 UID:ncaa12603
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- ps://friars.com/sidearmstats/mhockey/summary
+DESCRIPTION:Game date to be determined\nLive Stats: https://friars.com/sid
+ earmstats/mhockey/summary
 LOCATION:Schneider Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2497,8 +1739,8 @@ SUMMARY:🏒 | Providence Friars @ Quinnipiac Bobcats
 DTSTART:20261031T040000Z
 DTEND:20261031T063000Z
 UID:ncaa12604
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- p://www.sidearmstats.com/quinnipiac/mhockey/
+DESCRIPTION:Game date to be determined\nLive Stats: http://www.sidearmstat
+ s.com/quinnipiac/mhockey/
 LOCATION:M&T Bank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2506,8 +1748,8 @@ SUMMARY:🏒 | UConn Huskies @ Providence Friars
 DTSTART:20261105T050000Z
 DTEND:20261105T073000Z
 UID:ncaa12605
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- ps://friars.com/sidearmstats/mhockey/summary
+DESCRIPTION:Game date to be determined\nLive Stats: https://friars.com/sid
+ earmstats/mhockey/summary
 LOCATION:Schneider Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2515,7 +1757,7 @@ SUMMARY:🏒 | Providence Friars @ UConn Huskies
 DTSTART:20261107T050000Z
 DTEND:20261107T073000Z
 UID:ncaa12606
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
+DESCRIPTION:Game date to be determined
 LOCATION:Toscano Ice Forum
 END:VEVENT
 BEGIN:VEVENT
@@ -2523,8 +1765,8 @@ SUMMARY:🏒 | Merrimack Warriors @ Providence Friars
 DTSTART:20261113T050000Z
 DTEND:20261113T073000Z
 UID:ncaa12607
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- ps://friars.com/sidearmstats/mhockey/summary
+DESCRIPTION:Game date to be determined\nLive Stats: https://friars.com/sid
+ earmstats/mhockey/summary
 LOCATION:Schneider Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2532,15 +1774,15 @@ SUMMARY:🏒 | Providence Friars @ Merrimack Warriors
 DTSTART:20261114T050000Z
 DTEND:20261114T073000Z
 UID:ncaa12608
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
-LOCATION:Lawler Rink
+DESCRIPTION:Game date to be determined
+LOCATION:Lawler Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Providence Friars @ UMass Minutemen
 DTSTART:20261119T050000Z
 DTEND:20261119T073000Z
 UID:ncaa12609
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
+DESCRIPTION:Game date to be determined
 LOCATION:Mullins Center
 END:VEVENT
 BEGIN:VEVENT
@@ -2548,8 +1790,8 @@ SUMMARY:🏒 | UMass Minutemen @ Providence Friars
 DTSTART:20261121T050000Z
 DTEND:20261121T073000Z
 UID:ncaa12610
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- ps://friars.com/sidearmstats/mhockey/summary
+DESCRIPTION:Game date to be determined\nLive Stats: https://friars.com/sid
+ earmstats/mhockey/summary
 LOCATION:Schneider Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2557,7 +1799,7 @@ SUMMARY:🏒 | Providence Friars @ Minnesota Duluth Bulldogs
 DTSTART:20261127T050000Z
 DTEND:20261127T073000Z
 UID:ncaa12611
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
+DESCRIPTION:Game date to be determined
 LOCATION:The O2 Belfast
 END:VEVENT
 BEGIN:VEVENT
@@ -2565,7 +1807,7 @@ SUMMARY:🏒 | Providence Friars @ UConn/Colgate
 DTSTART:20261128T050000Z
 DTEND:20261128T073000Z
 UID:ncaa12612
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
+DESCRIPTION:Game date to be determined
 LOCATION:The O2 Belfast
 END:VEVENT
 BEGIN:VEVENT
@@ -2573,7 +1815,7 @@ SUMMARY:🏒 | Providence Friars @ Vermont Catamounts
 DTSTART:20261205T050000Z
 DTEND:20261205T073000Z
 UID:ncaa12613
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
+DESCRIPTION:Game date to be determined
 LOCATION:Gutterson Fieldhouse
 END:VEVENT
 BEGIN:VEVENT
@@ -2581,8 +1823,8 @@ SUMMARY:🏒 | New Hampshire Wildcats @ Providence Friars
 DTSTART:20261211T050000Z
 DTEND:20261211T073000Z
 UID:ncaa12614
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- ps://friars.com/sidearmstats/mhockey/summary
+DESCRIPTION:Game date to be determined\nLive Stats: https://friars.com/sid
+ earmstats/mhockey/summary
 LOCATION:Schneider Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2590,8 +1832,8 @@ SUMMARY:🏒 | St. Thomas Tommies @ Providence Friars
 DTSTART:20270101T050000Z
 DTEND:20270101T073000Z
 UID:ncaa12615
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- ps://friars.com/sidearmstats/mhockey/summary
+DESCRIPTION:Game date to be determined\nLive Stats: https://friars.com/sid
+ earmstats/mhockey/summary
 LOCATION:Schneider Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2599,8 +1841,8 @@ SUMMARY:🏒 | St. Thomas Tommies @ Providence Friars
 DTSTART:20270102T050000Z
 DTEND:20270102T073000Z
 UID:ncaa12616
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- ps://friars.com/sidearmstats/mhockey/summary
+DESCRIPTION:Game date to be determined\nLive Stats: https://friars.com/sid
+ earmstats/mhockey/summary
 LOCATION:Schneider Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2608,8 +1850,8 @@ SUMMARY:🏒 | Providence Friars @ Maine Black Bears
 DTSTART:20270108T050000Z
 DTEND:20270108T073000Z
 UID:ncaa12617
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- ps://goblackbears.com/sidearmstats/mhockey
+DESCRIPTION:Game date to be determined\nLive Stats: https://goblackbears.c
+ om/sidearmstats/mhockey
 LOCATION:Alfond Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2617,8 +1859,8 @@ SUMMARY:🏒 | Providence Friars @ Maine Black Bears
 DTSTART:20270109T050000Z
 DTEND:20270109T073000Z
 UID:ncaa12618
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- ps://goblackbears.com/sidearmstats/mhockey
+DESCRIPTION:Game date to be determined\nLive Stats: https://goblackbears.c
+ om/sidearmstats/mhockey
 LOCATION:Alfond Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2626,8 +1868,8 @@ SUMMARY:🏒 | Boston College Eagles @ Providence Friars
 DTSTART:20270115T050000Z
 DTEND:20270115T073000Z
 UID:ncaa12619
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- ps://friars.com/sidearmstats/mhockey/summary
+DESCRIPTION:Game date to be determined\nLive Stats: https://friars.com/sid
+ earmstats/mhockey/summary
 LOCATION:Schneider Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2635,25 +1877,25 @@ SUMMARY:🏒 | Providence Friars @ Boston College Eagles
 DTSTART:20270116T050000Z
 DTEND:20270116T073000Z
 UID:ncaa12620
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
+DESCRIPTION:Game date to be determined
 LOCATION:Conte Forum
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Providence Friars @ Boston University Terriers
+SUMMARY:🏒 | Providence Friars @ Boston Terriers
 DTSTART:20270122T050000Z
 DTEND:20270122T073000Z
 UID:ncaa12621
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- p://www.sidearmstats.com/bu/mhockey
+DESCRIPTION:Game date to be determined\nLive Stats: http://www.sidearmstat
+ s.com/bu/mhockey
 LOCATION:Agganis Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Boston University Terriers @ Providence Friars
+SUMMARY:🏒 | Boston Terriers @ Providence Friars
 DTSTART:20270123T050000Z
 DTEND:20270123T073000Z
 UID:ncaa12622
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- ps://friars.com/sidearmstats/mhockey/summary
+DESCRIPTION:Game date to be determined\nLive Stats: https://friars.com/sid
+ earmstats/mhockey/summary
 LOCATION:Schneider Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2661,8 +1903,8 @@ SUMMARY:🏒 | Maine Black Bears @ Providence Friars
 DTSTART:20270130T050000Z
 DTEND:20270130T073000Z
 UID:ncaa12623
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- ps://friars.com/sidearmstats/mhockey/summary
+DESCRIPTION:Game date to be determined\nLive Stats: https://friars.com/sid
+ earmstats/mhockey/summary
 LOCATION:Schneider Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2670,8 +1912,8 @@ SUMMARY:🏒 | Brown Bears @ Providence Friars
 DTSTART:20270202T050000Z
 DTEND:20270202T073000Z
 UID:ncaa12624
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- ps://friars.com/sidearmstats/mhockey/summary
+DESCRIPTION:Game date to be determined\nLive Stats: https://friars.com/sid
+ earmstats/mhockey/summary
 LOCATION:Schneider Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2679,8 +1921,8 @@ SUMMARY:🏒 | LIU Sharks @ Providence Friars
 DTSTART:20270206T050000Z
 DTEND:20270206T073000Z
 UID:ncaa12625
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- ps://friars.com/sidearmstats/mhockey/summary
+DESCRIPTION:Game date to be determined\nLive Stats: https://friars.com/sid
+ earmstats/mhockey/summary
 LOCATION:Schneider Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2688,8 +1930,8 @@ SUMMARY:🏒 | Vermont Catamounts @ Providence Friars
 DTSTART:20270212T050000Z
 DTEND:20270212T073000Z
 UID:ncaa12626
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- ps://friars.com/sidearmstats/mhockey/summary
+DESCRIPTION:Game date to be determined\nLive Stats: https://friars.com/sid
+ earmstats/mhockey/summary
 LOCATION:Schneider Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2697,8 +1939,8 @@ SUMMARY:🏒 | Vermont Catamounts @ Providence Friars
 DTSTART:20270213T050000Z
 DTEND:20270213T073000Z
 UID:ncaa12627
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- ps://friars.com/sidearmstats/mhockey/summary
+DESCRIPTION:Game date to be determined\nLive Stats: https://friars.com/sid
+ earmstats/mhockey/summary
 LOCATION:Schneider Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2706,8 +1948,8 @@ SUMMARY:🏒 | Northeastern Huskies @ Providence Friars
 DTSTART:20270219T050000Z
 DTEND:20270219T073000Z
 UID:ncaa12628
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- ps://friars.com/sidearmstats/mhockey/summary
+DESCRIPTION:Game date to be determined\nLive Stats: https://friars.com/sid
+ earmstats/mhockey/summary
 LOCATION:Schneider Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2715,8 +1957,8 @@ SUMMARY:🏒 | Northeastern Huskies @ Providence Friars
 DTSTART:20270220T050000Z
 DTEND:20270220T073000Z
 UID:ncaa12629
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- ps://friars.com/sidearmstats/mhockey/summary
+DESCRIPTION:Game date to be determined\nLive Stats: https://friars.com/sid
+ earmstats/mhockey/summary
 LOCATION:Schneider Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2724,8 +1966,8 @@ SUMMARY:🏒 | Providence Friars @ New Hampshire Wildcats
 DTSTART:20270227T000000Z
 DTEND:20270227T023000Z
 UID:ncaa12630
-DESCRIPTION:Status: SCHEDULED\nLive Stats: https://unhwildcats.com/sidearm
- stats/mhockey/summary
+DESCRIPTION:Live Stats: https://unhwildcats.com/sidearmstats/mhockey/summa
+ ry
 LOCATION:Whittemore Center
 END:VEVENT
 BEGIN:VEVENT
@@ -2733,8 +1975,8 @@ SUMMARY:🏒 | New Hampshire Wildcats @ Providence Friars
 DTSTART:20270227T050000Z
 DTEND:20270227T073000Z
 UID:ncaa12631
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined\nLive Stats: htt
- ps://friars.com/sidearmstats/mhockey/summary
+DESCRIPTION:Game date to be determined\nLive Stats: https://friars.com/sid
+ earmstats/mhockey/summary
 LOCATION:Schneider Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2742,202 +1984,688 @@ SUMMARY:🏒 | Providence Friars @ UConn Huskies
 DTSTART:20270304T050000Z
 DTEND:20270304T073000Z
 UID:ncaa12632
-DESCRIPTION:Status: SCHEDULED\nGame date to be determined
+DESCRIPTION:Game date to be determined
 LOCATION:Toscano Ice Forum
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wisconsin
-DTSTART:20261009T190700
-UID:19964@calendar_merge
+SUMMARY:🏒 | Denver Pioneers @ Alaska Anchorage Seawolves
+DTSTART:20261002T000000
+DTEND:20261002T023000
+UID:ncaa20773
+DESCRIPTION:Game time to be determined
+LOCATION:Seawolf Sports Complex
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wisconsin
-DTSTART:20261010T180700
-UID:19965@calendar_merge
+SUMMARY:🏒 | Denver Pioneers @ Alaska Anchorage Seawolves
+DTSTART:20261003T000000
+DTEND:20261003T023000
+UID:ncaa20774
+DESCRIPTION:Game time to be determined
+LOCATION:Seawolf Sports Complex
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Merrimack
-DTSTART:20261016T000000
-UID:19966@calendar_merge
+SUMMARY:🏒 | US National Team Development Program @ Denver Pioneers
+DTSTART:20261011T000000
+DTEND:20261011T023000
+UID:ncaa20777
+DESCRIPTION:Scrimmage Game
+LOCATION:Magness Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Merrimack
-DTSTART:20261017T000000
-UID:19967@calendar_merge
+SUMMARY:🏒 | Michigan Wolverines @ Denver Pioneers
+DTSTART:20261017T010000
+DTEND:20261017T033000
+UID:ncaa20757
+LOCATION:Magness Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Thomas
-DTSTART:20261023T190700
-UID:19968@calendar_merge
+SUMMARY:🏒 | Michigan Wolverines @ Denver Pioneers
+DTSTART:20261018T000000
+DTEND:20261018T023000
+UID:ncaa20758
+LOCATION:Magness Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Thomas
-DTSTART:20261024T180700
-UID:19969@calendar_merge
+SUMMARY:🏒 | Boston College Eagles @ Denver Pioneers
+DTSTART:20261024T010000
+DTEND:20261024T033000
+UID:ncaa20747
+LOCATION:Magness Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lake Superior State
-DTSTART:20261030T190700
-UID:19970@calendar_merge
+SUMMARY:🏒 | Boston College Eagles @ Denver Pioneers
+DTSTART:20261025T000000
+DTEND:20261025T023000
+UID:ncaa20748
+LOCATION:Magness Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lake Superior State
-DTSTART:20261031T180700
-UID:19971@calendar_merge
+SUMMARY:🏒 | Omaha Mavericks @ Denver Pioneers
+DTSTART:20261031T010000
+DTEND:20261031T033000
+UID:ncaa20745
+LOCATION:Magness Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Northern Michigan
-DTSTART:20261106T180700
-UID:19976@calendar_merge
+SUMMARY:🏒 | Omaha Mavericks @ Denver Pioneers
+DTSTART:20261101T000000
+DTEND:20261101T023000
+UID:ncaa20746
+LOCATION:Magness Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Northern Michigan
-DTSTART:20261107T170700
-UID:19977@calendar_merge
+SUMMARY:🏒 | Denver Pioneers @ Arizona State Sun Devils
+DTSTART:20261106T000000
+DTEND:20261106T023000
+UID:ncaa20786
+LOCATION:Mullett Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bemidji State
-DTSTART:20261113T190700
-UID:19972@calendar_merge
+SUMMARY:🏒 | Denver Pioneers @ Arizona State Sun Devils
+DTSTART:20261108T190000
+DTEND:20261108T213000
+UID:ncaa20787
+LOCATION:Mullett Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bemidji State
-DTSTART:20261114T180700
-UID:19973@calendar_merge
+SUMMARY:🏒 | Lindenwood Lions @ Denver Pioneers
+DTSTART:20261114T020000
+DTEND:20261114T043000
+UID:ncaa20767
+LOCATION:Magness Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Michigan Tech
-DTSTART:20261120T190700
-UID:19974@calendar_merge
+SUMMARY:🏒 | Lindenwood Lions @ Denver Pioneers
+DTSTART:20261115T010000
+DTEND:20261115T033000
+UID:ncaa20768
+LOCATION:Magness Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Michigan Tech
-DTSTART:20261121T180700
-UID:19975@calendar_merge
+SUMMARY:🏒 | St. Thomas Tommies @ Denver Pioneers
+DTSTART:20261120T000000
+DTEND:20261120T023000
+UID:ncaa20563
+DESCRIPTION:Game time to be determined
+LOCATION:Magness Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota
+SUMMARY:🏒 | St. Thomas Tommies @ Denver Pioneers
+DTSTART:20261121T020000
+DTEND:20261121T043000
+UID:ncaa20775
+LOCATION:Magness Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | St. Thomas Tommies @ Denver Pioneers
+DTSTART:20261122T010000
+DTEND:20261122T033000
+UID:ncaa20776
+LOCATION:Magness Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Denver Pioneers @ Boston Terriers
 DTSTART:20261127T000000
-UID:20071@calendar_merge
+DTEND:20261127T023000
+UID:ncaa20749
+DESCRIPTION:Game time to be determined
+LOCATION:Matthews Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota
+SUMMARY:🏒 | Denver Pioneers @ Boston Terriers
 DTSTART:20261128T000000
-UID:20072@calendar_merge
+DTEND:20261128T023000
+UID:ncaa20750
+DESCRIPTION:Game time to be determined
+LOCATION:Matthews Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bowling Green
-DTSTART:20261204T190700
-UID:19978@calendar_merge
+SUMMARY:🏒 | North Dakota Fighting Hawks @ Denver Pioneers
+DTSTART:20261205T020000
+DTEND:20261205T043000
+UID:ncaa20634
+LOCATION:Magness Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bowling Green
-DTSTART:20261205T180700
-UID:19979@calendar_merge
+SUMMARY:🏒 | North Dakota Fighting Hawks @ Denver Pioneers
+DTSTART:20261206T010000
+DTEND:20261206T033000
+UID:ncaa20635
+LOCATION:Magness Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lake Superior State
-DTSTART:20261211T180700
-UID:19980@calendar_merge
+SUMMARY:🏒 | Denver Pioneers @ St. Cloud State Huskies
+DTSTART:20261211T000000
+DTEND:20261211T023000
+UID:ncaa20782
+LOCATION:Herb Brooks National Hockey Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lake Superior State
-DTSTART:20261212T170700
-UID:19981@calendar_merge
+SUMMARY:🏒 | Denver Pioneers @ St. Cloud State Huskies
+DTSTART:20261212T000000
+DTEND:20261212T023000
+UID:ncaa20783
+LOCATION:Herb Brooks National Hockey Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ferris State
-DTSTART:20270108T180700
-UID:19982@calendar_merge
+SUMMARY:🏒 | Denver Pioneers @ Bowling Green Falcons
+DTSTART:20270102T000000
+DTEND:20270102T023000
+UID:ncaa20751
+LOCATION:Slater Family Ice Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ferris State
-DTSTART:20270109T170700
-UID:19983@calendar_merge
+SUMMARY:🏒 | Denver Pioneers @ Bowling Green Falcons
+DTSTART:20270102T230000
+DTEND:20270103T013000
+UID:ncaa20752
+LOCATION:Slater Family Ice Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Augustana
-DTSTART:20270115T190700
-UID:19984@calendar_merge
+SUMMARY:🏒 | Denver Pioneers @ Western Michigan Broncos
+DTSTART:20270109T000000
+DTEND:20270109T023000
+UID:ncaa20715
+LOCATION:To be determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Augustana
-DTSTART:20270116T180700
-UID:19985@calendar_merge
+SUMMARY:🏒 | Denver Pioneers @ Western Michigan Broncos
+DTSTART:20270109T230000
+DTEND:20270110T013000
+UID:ncaa20716
+LOCATION:To be determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bowling Green
-DTSTART:20270122T180700
-UID:19986@calendar_merge
+SUMMARY:🏒 | Colorado College Tigers @ Denver Pioneers
+DTSTART:20270116T000000
+DTEND:20270116T023000
+UID:ncaa20535
+LOCATION:Magness Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bowling Green
-DTSTART:20270123T170700
-UID:19987@calendar_merge
+SUMMARY:🏒 | Denver Pioneers @ Minnesota Duluth Bulldogs
+DTSTART:20270123T010000
+DTEND:20270123T033000
+UID:ncaa20668
+LOCATION:AMSOIL Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bemidji State
-DTSTART:20270129T190700
-UID:19988@calendar_merge
+SUMMARY:🏒 | Denver Pioneers @ Minnesota Duluth Bulldogs
+DTSTART:20270124T000000
+DTEND:20270124T023000
+UID:ncaa20669
+LOCATION:AMSOIL Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bemidji State
-DTSTART:20270130T180700
-UID:19989@calendar_merge
+SUMMARY:🏒 | Denver Pioneers @ Colorado College Tigers
+DTSTART:20270130T000000
+DTEND:20270130T023000
+UID:ncaa20452
+LOCATION:Ed Robson Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Michigan Tech
-DTSTART:20270205T180700
-UID:19990@calendar_merge
+SUMMARY:🏒 | Arizona State Sun Devils @ Denver Pioneers
+DTSTART:20270206T020000
+DTEND:20270206T043000
+UID:ncaa20765
+LOCATION:Magness Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Michigan Tech
-DTSTART:20270206T160700
-UID:19991@calendar_merge
+SUMMARY:🏒 | Arizona State Sun Devils @ Denver Pioneers
+DTSTART:20270207T010000
+DTEND:20270207T033000
+UID:ncaa20766
+LOCATION:Magness Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Northern Michigan
-DTSTART:20270219T190700
-UID:19992@calendar_merge
+SUMMARY:🏒 | Denver Pioneers @ Miami RedHawks
+DTSTART:20270212T000000
+DTEND:20270212T023000
+UID:ncaa20780
+LOCATION:Goggin Ice Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Northern Michigan
-DTSTART:20270220T180700
-UID:19993@calendar_merge
+SUMMARY:🏒 | Denver Pioneers @ Miami RedHawks
+DTSTART:20270213T000000
+DTEND:20270213T023000
+UID:ncaa20781
+LOCATION:Goggin Ice Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Augustana
-DTSTART:20270226T190700
-UID:19994@calendar_merge
+SUMMARY:🏒 | St. Cloud State Huskies @ Denver Pioneers
+DTSTART:20270220T020000
+DTEND:20270220T043000
+UID:ncaa20761
+LOCATION:Magness Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Augustana
-DTSTART:20270227T180700
-UID:19995@calendar_merge
+SUMMARY:🏒 | St. Cloud State Huskies @ Denver Pioneers
+DTSTART:20270221T010000
+DTEND:20270221T033000
+UID:ncaa20762
+LOCATION:Magness Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCHA Mason Cup Playoffs - First Round Series
-DTSTART:20270305T000000
-UID:19996@calendar_merge
+SUMMARY:🏒 | Colorado College Tigers @ Denver Pioneers
+DTSTART:20270226T000000
+DTEND:20270226T023000
+UID:ncaa20537
+LOCATION:Magness Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCHA Mason Cup Playoffs - Semifinals
-DTSTART:20270313T000000
-UID:19997@calendar_merge
+SUMMARY:🏒 | Denver Pioneers @ Colorado College Tigers
+DTSTART:20270227T000000
+DTEND:20270227T023000
+UID:ncaa20450
+LOCATION:Ed Robson Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCHA Mason Cup Championship
-DTSTART:20270319T000000
-UID:19998@calendar_merge
+SUMMARY:🏒 | St. Thomas Tommies @ Miami RedHawks
+DTSTART:20261030T000000
+DTEND:20261030T023000
+UID:ncaa20559
+DESCRIPTION:Game time to be determined
+LOCATION:Goggin Ice Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NCAA Regional
-DTSTART:20270325T000000
-UID:19999@calendar_merge
+SUMMARY:🏒 | St. Thomas Tommies @ Miami RedHawks
+DTSTART:20261031T000000
+DTEND:20261031T023000
+UID:ncaa20560
+DESCRIPTION:Game time to be determined
+LOCATION:Goggin Ice Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NCAA Frozen Four
-DTSTART:20270408T000000
-UID:20000@calendar_merge
+SUMMARY:🏒 | Miami RedHawks @ Minnesota Duluth Bulldogs
+DTSTART:20261107T010000
+DTEND:20261107T033000
+UID:ncaa20670
+LOCATION:AMSOIL Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Miami RedHawks @ Minnesota Duluth Bulldogs
+DTSTART:20261108T000000
+DTEND:20261108T023000
+UID:ncaa20671
+LOCATION:AMSOIL Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Miami RedHawks @ Colorado College Tigers
+DTSTART:20261120T000000
+DTEND:20261120T023000
+UID:ncaa20475
+DESCRIPTION:Game time to be determined
+LOCATION:Ed Robson Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Miami RedHawks @ Colorado College Tigers
+DTSTART:20261121T000000
+DTEND:20261121T023000
+UID:ncaa20476
+DESCRIPTION:Game time to be determined
+LOCATION:Ed Robson Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Miami RedHawks @ Western Michigan Broncos
+DTSTART:20261205T000000
+DTEND:20261205T023000
+UID:ncaa20711
+LOCATION:To be determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Miami RedHawks @ Western Michigan Broncos
+DTSTART:20261205T230000
+DTEND:20261206T013000
+UID:ncaa20712
+LOCATION:To be determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Dakota Fighting Hawks @ Miami RedHawks
+DTSTART:20270108T000000
+DTEND:20270108T023000
+UID:ncaa20650
+LOCATION:Goggin Ice Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Dakota Fighting Hawks @ Miami RedHawks
+DTSTART:20270109T000000
+DTEND:20270109T023000
+UID:ncaa20651
+LOCATION:Goggin Ice Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Miami RedHawks @ St. Thomas Tommies
+DTSTART:20270205T000000
+DTEND:20270205T023000
+UID:ncaa20573
+DESCRIPTION:Game time to be determined
+LOCATION:Lee & Penny Anderson Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Miami RedHawks @ St. Thomas Tommies
+DTSTART:20270206T000000
+DTEND:20270206T023000
+UID:ncaa20574
+DESCRIPTION:Game time to be determined
+LOCATION:Lee & Penny Anderson Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Miami RedHawks @ North Dakota Fighting Hawks
+DTSTART:20270220T010700
+DTEND:20270220T033700
+UID:ncaa20619
+LOCATION:Ralph Engelstad Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Miami RedHawks @ North Dakota Fighting Hawks
+DTSTART:20270221T000700
+DTEND:20270221T023700
+UID:ncaa20620
+LOCATION:Ralph Engelstad Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Western Michigan Broncos @ Miami RedHawks
+DTSTART:20270226T000000
+DTEND:20270226T023000
+UID:ncaa20739
+LOCATION:Goggin Ice Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Western Michigan Broncos @ Miami RedHawks
+DTSTART:20270227T000000
+DTEND:20270227T023000
+UID:ncaa20740
+LOCATION:Goggin Ice Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Minnesota Duluth Bulldogs @ St. Cloud State Huskies
+DTSTART:20261113T000000
+DTEND:20261113T023000
+UID:ncaa20684
+DESCRIPTION:Game time to be determined
+LOCATION:Herb Brooks National Hockey Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Minnesota Duluth Bulldogs @ St. Cloud State Huskies
+DTSTART:20261114T000000
+DTEND:20261114T023000
+UID:ncaa20685
+DESCRIPTION:Game time to be determined
+LOCATION:Herb Brooks National Hockey Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | St. Cloud State Huskies @ North Dakota Fighting Hawks
+DTSTART:20261121T010700
+DTEND:20261121T033700
+UID:ncaa20598
+LOCATION:Ralph Engelstad Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | St. Cloud State Huskies @ North Dakota Fighting Hawks
+DTSTART:20261122T000700
+DTEND:20261122T023700
+UID:ncaa20599
+LOCATION:Ralph Engelstad Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | St. Cloud State Huskies @ St. Thomas Tommies
+DTSTART:20270108T000000
+DTEND:20270108T023000
+UID:ncaa20567
+DESCRIPTION:Game time to be determined
+LOCATION:Lee & Penny Anderson Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | St. Cloud State Huskies @ St. Thomas Tommies
+DTSTART:20270109T000000
+DTEND:20270109T023000
+UID:ncaa20580
+DESCRIPTION:Game time to be determined
+LOCATION:Lee & Penny Anderson Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | St. Cloud State Huskies @ Colorado College Tigers
+DTSTART:20270122T000000
+DTEND:20270122T023000
+UID:ncaa20463
+DESCRIPTION:Game time to be determined
+LOCATION:Ed Robson Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | St. Cloud State Huskies @ Colorado College Tigers
+DTSTART:20270123T000000
+DTEND:20270123T023000
+UID:ncaa20464
+DESCRIPTION:Game time to be determined
+LOCATION:Ed Robson Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | St. Cloud State Huskies @ Western Michigan Broncos
+DTSTART:20270206T000000
+DTEND:20270206T023000
+UID:ncaa20719
+LOCATION:To be determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | St. Cloud State Huskies @ Western Michigan Broncos
+DTSTART:20270206T230000
+DTEND:20270207T013000
+UID:ncaa20720
+LOCATION:To be determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | St. Thomas Tommies @ St. Cloud State Huskies
+DTSTART:20270226T000000
+DTEND:20270226T023000
+UID:ncaa20579
+DESCRIPTION:Game time to be determined
+LOCATION:Herb Brooks National Hockey Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | St. Thomas Tommies @ St. Cloud State Huskies
+DTSTART:20270227T000000
+DTEND:20270227T023000
+UID:ncaa20568
+DESCRIPTION:Game time to be determined
+LOCATION:Herb Brooks National Hockey Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Western Ontario Mustangs @ Western Michigan Broncos
+DTSTART:20261003T220000
+DTEND:20261004T003000
+UID:ncaa20728
+DESCRIPTION:Scrimmage Game
+LOCATION:To be determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Ferris State Bulldogs @ Western Michigan Broncos
+DTSTART:20261008T230000
+DTEND:20261009T013000
+UID:ncaa20699
+LOCATION:To be determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Western Michigan Broncos @ Ferris State Bulldogs
+DTSTART:20261009T230000
+DTEND:20261010T013000
+UID:ncaa20700
+LOCATION:Ewigleben Ice Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Notre Dame Fighting Irish @ Western Michigan Broncos
+DTSTART:20261016T230000
+DTEND:20261017T013000
+UID:ncaa20707
+LOCATION:To be determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Western Michigan Broncos @ Notre Dame Fighting Irish
+DTSTART:20261017T000000
+DTEND:20261017T023000
+UID:ncaa20708
+DESCRIPTION:Game time to be determined
+LOCATION:Compton Family Ice Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Western Michigan Broncos @ Michigan Wolverines
+DTSTART:20261023T000000
+DTEND:20261023T023000
+UID:ncaa20701
+DESCRIPTION:Game time to be determined
+LOCATION:Yost Ice Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Long Island Sharks @ Western Michigan Broncos
+DTSTART:20261029T230000
+DTEND:20261030T013000
+UID:ncaa20723
+LOCATION:To be determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Long Island Sharks @ Western Michigan Broncos
+DTSTART:20261030T230000
+DTEND:20261031T013000
+UID:ncaa20724
+LOCATION:To be determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Western Michigan Broncos @ North Dakota Fighting Hawks
+DTSTART:20261107T010700
+DTEND:20261107T033700
+UID:ncaa20606
+LOCATION:Ralph Engelstad Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Western Michigan Broncos @ North Dakota Fighting Hawks
+DTSTART:20261108T000700
+DTEND:20261108T023700
+UID:ncaa20607
+LOCATION:Ralph Engelstad Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Colorado College Tigers @ Western Michigan Broncos
+DTSTART:20261113T000000
+DTEND:20261113T023000
+UID:ncaa20551
+LOCATION:Lawson Ice Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Colorado College Tigers @ Western Michigan Broncos
+DTSTART:20261114T000000
+DTEND:20261114T023000
+UID:ncaa20552
+LOCATION:Lawson Ice Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Western Michigan Broncos @ Omaha Mavericks
+DTSTART:20261120T000000
+DTEND:20261120T023000
+UID:ncaa20733
+LOCATION:Baxter Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Western Michigan Broncos @ Omaha Mavericks
+DTSTART:20261121T000000
+DTEND:20261121T023000
+UID:ncaa20734
+LOCATION:Baxter Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Western Michigan Broncos @ Arizona State Sun Devils
+DTSTART:20261211T000000
+DTEND:20261211T023000
+UID:ncaa20735
+LOCATION:Mullett Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Western Michigan Broncos @ Arizona State Sun Devils
+DTSTART:20261212T000000
+DTEND:20261212T023000
+UID:ncaa20736
+LOCATION:Mullett Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Western Michigan Broncos @ Great Lakes Invitational
+DTSTART:20261229T000000
+DTEND:20261229T023000
+UID:ncaa20729
+DESCRIPTION:Game time to be determined
+LOCATION:Van Andel Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Western Michigan Broncos @ Great Lakes Invitational
+DTSTART:20261230T000000
+DTEND:20261230T023000
+UID:ncaa20730
+DESCRIPTION:Game time to be determined
+LOCATION:Van Andel Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Omaha Mavericks @ Western Michigan Broncos
+DTSTART:20270116T000000
+DTEND:20270116T023000
+UID:ncaa20703
+LOCATION:To be determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Omaha Mavericks @ Western Michigan Broncos
+DTSTART:20270116T230000
+DTEND:20270117T013000
+UID:ncaa20704
+LOCATION:To be determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Western Michigan Broncos @ St. Thomas Tommies
+DTSTART:20270122T000000
+DTEND:20270122T023000
+UID:ncaa20571
+DESCRIPTION:Game time to be determined
+LOCATION:Lee & Penny Anderson Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Western Michigan Broncos @ St. Thomas Tommies
+DTSTART:20270123T000000
+DTEND:20270123T023000
+UID:ncaa20572
+DESCRIPTION:Game time to be determined
+LOCATION:Lee & Penny Anderson Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Michigan Wolverines @ Western Michigan Broncos
+DTSTART:20270130T000000
+DTEND:20270130T023000
+UID:ncaa20702
+DESCRIPTION:Game time to be determined
+LOCATION:To be determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Western Michigan Broncos @ Colorado College Tigers
+DTSTART:20270212T000000
+DTEND:20270212T023000
+UID:ncaa20473
+DESCRIPTION:Game time to be determined
+LOCATION:Ed Robson Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Western Michigan Broncos @ Colorado College Tigers
+DTSTART:20270213T000000
+DTEND:20270213T023000
+UID:ncaa20474
+DESCRIPTION:Game time to be determined
+LOCATION:Ed Robson Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Minnesota Duluth Bulldogs @ Western Michigan Broncos
+DTSTART:20270220T010000
+DTEND:20270220T033000
+UID:ncaa20686
+LOCATION:Lawson Ice Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Minnesota Duluth Bulldogs @ Western Michigan Broncos
+DTSTART:20270221T000000
+DTEND:20270221T023000
+UID:ncaa20687
+LOCATION:Lawson Ice Arena
 END:VEVENT
 END:VCALENDAR

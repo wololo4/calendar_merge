@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 from icalendar import Calendar, Event
-from datetime import datetime
+from datetime import datetime, timedelta
 
 VHL_TEAMS = {
     "akm": {
@@ -193,6 +193,7 @@ def parse_vhl_html(html, team_name, season_id):
 
             # No time in VHL pages → default 00:00
             dtstart = dt_date.replace(hour=0, minute=0)
+            end_dt = dtstart + timedelta(hours=2, minutes=30)
 
             link = match.select_one(".calendar-page__match-detail-link")
             game_id = None
@@ -207,7 +208,7 @@ def parse_vhl_html(html, team_name, season_id):
             event = Event()
             event.add("SUMMARY", f"🏒 | {home} vs {away}")
             event.add("DTSTART", dtstart)
-            event.add("DTEND", dtstart)
+            event.add("DTEND", end_dt)
             event.add("UID", f"vhl{game_id}")
             event.add("DESCRIPTION", f"Game Center: {game_center}")
 
