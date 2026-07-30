@@ -176,8 +176,8 @@ VHL:
   teams:
     - name: Khimik Voskresensk
       team_id: 15029
-  #  - name: Gornyak-UGMK
-  #    team_id: 15008
+    - name: Gornyak-UGMK
+      team_id: 15008
   #  - name: AKM
   #    team_id: 15005
 
