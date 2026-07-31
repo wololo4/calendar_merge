@@ -1,7 +1,7 @@
 import requests
 import json
 from icalendar import Event
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from utils.calendar import create_calendar
 
 
@@ -44,8 +44,10 @@ def parse_hockeytech(json_data, team_filter):
             print(f"Missing ISO time for game {game_id}")
             continue
 
+        local_start = datetime.fromisoformat(iso_time)
+
         # Convert ISO8601 → datetime
-        start_dt = datetime.fromisoformat(iso_time)
+        start_dt = local_start.astomezone(timezone.utc)
         end_dt = start_dt + timedelta(hours=2, minutes=30)
 
         # Game Center link
