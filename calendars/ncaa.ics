@@ -2213,7 +2213,7 @@ DTSTART:20270212T000000
 DTEND:20270212T023000
 UID:ncaa20780
 DESCRIPTION:Game time to be determined
-LOCATION:Oxford\, Ohio.
+LOCATION:Goggin Ice Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Denver Pioneers @ Miami RedHawks
@@ -2268,7 +2268,7 @@ DESCRIPTION:Game time to be determined
 LOCATION:Berry Events Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Robert Morris @ Miami RedHawks
+SUMMARY:🏒 | Robert Morris Colonials @ Miami RedHawks
 DTSTART:20261015T000000
 DTEND:20261015T023000
 UID:ncaa20894
@@ -2276,7 +2276,7 @@ DESCRIPTION:Game time to be determined
 LOCATION:Goggin Ice Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Miami RedHawks @ Robert Morris
+SUMMARY:🏒 | Miami RedHawks @ Robert Morris Colonials
 DTSTART:20261017T000000
 DTEND:20261017T023000
 UID:ncaa20893
