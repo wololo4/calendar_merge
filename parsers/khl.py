@@ -1,5 +1,5 @@
 from icalendar import Calendar, Event
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 import re
 
 TEAM_SYNONYMS = {
@@ -139,8 +139,6 @@ def parse_khl_ics(raw_ics, team_name, season_id):
     cal_in = Calendar.from_ical(raw_ics)
     cal_out = Calendar()
 
-    MOSCOW_OFFSET = timedelta(hours=3)
-
     for component in cal_in.walk():
         if component.name != "VEVENT":
             continue
@@ -170,9 +168,9 @@ def parse_khl_ics(raw_ics, team_name, season_id):
         dtstart_raw = component.get("DTSTART").dt
         dtend_raw = component.get("DTEND").dt
 
-        # Convertir Europe/Moscow → UTC (soustraire 3h)
-        dtstart = dtstart_raw - MOSCOW_OFFSET
-        dtend = dtend_raw - MOSCOW_OFFSET
+        # Convertir Europe/Moscow → UTC
+        dtstart = dtstart_raw.astimezone(timezone.utc)
+        dtend = dtend_raw.astimezone(timezone.utc)
 
         match_id = str(component.get("UID", ""))
 
