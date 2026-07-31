@@ -5,8 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 SUMMARY:🏒 | Trenton Ironhawks @ Trois-Rivières Lions
-DTSTART;TZID="UTC-04:00":20261016T190000
-DTEND;TZID="UTC-04:00":20261016T213000
+DTSTART:20261016T230000Z
+DTEND:20261017T013000Z
 UID:echl25493
 DESCRIPTION:Game Center: https://echl.com/games/2026/10/16/trois-rivieres-
  lions-vs-trenton-ironhawks
@@ -14,8 +14,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Worcester Railers
-DTSTART;TZID="UTC-04:00":20261018T150500
-DTEND;TZID="UTC-04:00":20261018T173500
+DTSTART:20261018T190500Z
+DTEND:20261018T213500Z
 UID:echl25512
 DESCRIPTION:Game Center: https://echl.com/games/2026/10/18/worcester-raile
  rs-vs-trois-rivieres-lions
@@ -23,8 +23,8 @@ LOCATION:DCU Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Norfolk Admirals
-DTSTART;TZID="UTC-04:00":20261023T190500
-DTEND;TZID="UTC-04:00":20261023T213500
+DTSTART:20261023T230500Z
+DTEND:20261024T013500Z
 UID:echl25518
 DESCRIPTION:Game Center: https://echl.com/games/2026/10/23/norfolk-admiral
  s-vs-trois-rivieres-lions
@@ -32,8 +32,8 @@ LOCATION:Norfolk Scope
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Norfolk Admirals
-DTSTART;TZID="UTC-04:00":20261024T190500
-DTEND;TZID="UTC-04:00":20261024T213500
+DTSTART:20261024T230500Z
+DTEND:20261025T013500Z
 UID:echl25529
 DESCRIPTION:Game Center: https://echl.com/games/2026/10/24/norfolk-admiral
  s-vs-trois-rivieres-lions
@@ -41,8 +41,8 @@ LOCATION:Norfolk Scope
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Norfolk Admirals
-DTSTART;TZID="UTC-04:00":20261025T150500
-DTEND;TZID="UTC-04:00":20261025T173500
+DTSTART:20261025T190500Z
+DTEND:20261025T213500Z
 UID:echl25540
 DESCRIPTION:Game Center: https://echl.com/games/2026/10/25/norfolk-admiral
  s-vs-trois-rivieres-lions
@@ -50,8 +50,8 @@ LOCATION:Norfolk Scope
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Maine Mariners @ Trois-Rivières Lions
-DTSTART;TZID="UTC-04:00":20261030T190000
-DTEND;TZID="UTC-04:00":20261030T213000
+DTSTART:20261030T230000Z
+DTEND:20261031T013000Z
 UID:echl25563
 DESCRIPTION:Game Center: https://echl.com/games/2026/10/30/trois-rivieres-
  lions-vs-maine-mariners
@@ -59,8 +59,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Maine Mariners @ Trois-Rivières Lions
-DTSTART;TZID="UTC-04:00":20261031T130000
-DTEND;TZID="UTC-04:00":20261031T153000
+DTSTART:20261031T170000Z
+DTEND:20261031T193000Z
 UID:echl25573
 DESCRIPTION:Game Center: https://echl.com/games/2026/10/31/trois-rivieres-
  lions-vs-maine-mariners
@@ -68,8 +68,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Adirondack Thunder @ Trois-Rivières Lions
-DTSTART;TZID="UTC-05:00":20261106T190000
-DTEND;TZID="UTC-05:00":20261106T213000
+DTSTART:20261107T000000Z
+DTEND:20261107T023000Z
 UID:echl25602
 DESCRIPTION:Game Center: https://echl.com/games/2026/11/06/trois-rivieres-
  lions-vs-adirondack-thunder
@@ -77,8 +77,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Adirondack Thunder @ Trois-Rivières Lions
-DTSTART;TZID="UTC-05:00":20261107T150000
-DTEND;TZID="UTC-05:00":20261107T173000
+DTSTART:20261107T200000Z
+DTEND:20261107T223000Z
 UID:echl25614
 DESCRIPTION:Game Center: https://echl.com/games/2026/11/07/trois-rivieres-
  lions-vs-adirondack-thunder
@@ -86,8 +86,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Savannah Ghost Pirates
-DTSTART;TZID="UTC-05:00":20261112T190000
-DTEND;TZID="UTC-05:00":20261112T213000
+DTSTART:20261113T000000Z
+DTEND:20261113T023000Z
 UID:echl25632
 DESCRIPTION:Game Center: https://echl.com/games/2026/11/12/savannah-ghost-
  pirates-vs-trois-rivieres-lions
@@ -95,8 +95,8 @@ LOCATION:Enmarket Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Atlanta Gladiators
-DTSTART;TZID="UTC-05:00":20261113T191000
-DTEND;TZID="UTC-05:00":20261113T214000
+DTSTART:20261114T001000Z
+DTEND:20261114T024000Z
 UID:echl25634
 DESCRIPTION:Game Center: https://echl.com/games/2026/11/13/atlanta-gladiat
  ors-vs-trois-rivieres-lions
@@ -104,8 +104,8 @@ LOCATION:Gas South Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Atlanta Gladiators
-DTSTART;TZID="UTC-05:00":20261115T151000
-DTEND;TZID="UTC-05:00":20261115T174000
+DTSTART:20261115T201000Z
+DTEND:20261115T224000Z
 UID:echl25657
 DESCRIPTION:Game Center: https://echl.com/games/2026/11/15/atlanta-gladiat
  ors-vs-trois-rivieres-lions
@@ -113,8 +113,8 @@ LOCATION:Gas South Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Adirondack Thunder @ Trois-Rivières Lions
-DTSTART;TZID="UTC-05:00":20261120T190000
-DTEND;TZID="UTC-05:00":20261120T213000
+DTSTART:20261121T000000Z
+DTEND:20261121T023000Z
 UID:echl25685
 DESCRIPTION:Game Center: https://echl.com/games/2026/11/20/trois-rivieres-
  lions-vs-adirondack-thunder
@@ -122,8 +122,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Adirondack Thunder @ Trois-Rivières Lions
-DTSTART;TZID="UTC-05:00":20261121T150000
-DTEND;TZID="UTC-05:00":20261121T173000
+DTSTART:20261121T200000Z
+DTEND:20261121T223000Z
 UID:echl25696
 DESCRIPTION:Game Center: https://echl.com/games/2026/11/21/trois-rivieres-
  lions-vs-adirondack-thunder
@@ -131,8 +131,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Adirondack Thunder
-DTSTART;TZID="UTC-05:00":20261125T190000
-DTEND;TZID="UTC-05:00":20261125T213000
+DTSTART:20261126T000000Z
+DTEND:20261126T023000Z
 UID:echl25706
 DESCRIPTION:Game Center: https://echl.com/games/2026/11/25/adirondack-thun
  der-vs-trois-rivieres-lions
@@ -140,8 +140,8 @@ LOCATION:Harding Mazzotti Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Trenton Ironhawks
-DTSTART;TZID="UTC-05:00":20261127T190000
-DTEND;TZID="UTC-05:00":20261127T213000
+DTSTART:20261128T000000Z
+DTEND:20261128T023000Z
 UID:echl25731
 DESCRIPTION:Game Center: https://echl.com/games/2026/11/27/trenton-ironhaw
  ks-vs-trois-rivieres-lions
@@ -149,8 +149,8 @@ LOCATION:CURE Insurance Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Reading Royals
-DTSTART;TZID="UTC-05:00":20261128T190000
-DTEND;TZID="UTC-05:00":20261128T213000
+DTSTART:20261129T000000Z
+DTEND:20261129T023000Z
 UID:echl25742
 DESCRIPTION:Game Center: https://echl.com/games/2026/11/28/reading-royals-
  vs-trois-rivieres-lions
@@ -158,8 +158,8 @@ LOCATION:Santander Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Greensboro Gargoyles @ Trois-Rivières Lions
-DTSTART;TZID="UTC-05:00":20261204T190000
-DTEND;TZID="UTC-05:00":20261204T213000
+DTSTART:20261205T000000Z
+DTEND:20261205T023000Z
 UID:echl25772
 DESCRIPTION:Game Center: https://echl.com/games/2026/12/04/trois-rivieres-
  lions-vs-greensboro-gargoyles
@@ -167,8 +167,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Greensboro Gargoyles @ Trois-Rivières Lions
-DTSTART;TZID="UTC-05:00":20261205T150000
-DTEND;TZID="UTC-05:00":20261205T173000
+DTSTART:20261205T200000Z
+DTEND:20261205T223000Z
 UID:echl25786
 DESCRIPTION:Game Center: https://echl.com/games/2026/12/05/trois-rivieres-
  lions-vs-greensboro-gargoyles
@@ -176,8 +176,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Greensboro Gargoyles @ Trois-Rivières Lions
-DTSTART;TZID="UTC-05:00":20261206T130000
-DTEND;TZID="UTC-05:00":20261206T153000
+DTSTART:20261206T180000Z
+DTEND:20261206T203000Z
 UID:echl25794
 DESCRIPTION:Game Center: https://echl.com/games/2026/12/06/trois-rivieres-
  lions-vs-greensboro-gargoyles
@@ -185,8 +185,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Trenton Ironhawks
-DTSTART;TZID="UTC-05:00":20261210T190000
-DTEND;TZID="UTC-05:00":20261210T213000
+DTSTART:20261211T000000Z
+DTEND:20261211T023000Z
 UID:echl25805
 DESCRIPTION:Game Center: https://echl.com/games/2026/12/10/trenton-ironhaw
  ks-vs-trois-rivieres-lions
@@ -194,8 +194,8 @@ LOCATION:CURE Insurance Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Trenton Ironhawks
-DTSTART;TZID="UTC-05:00":20261211T190000
-DTEND;TZID="UTC-05:00":20261211T213000
+DTSTART:20261212T000000Z
+DTEND:20261212T023000Z
 UID:echl25818
 DESCRIPTION:Game Center: https://echl.com/games/2026/12/11/trenton-ironhaw
  ks-vs-trois-rivieres-lions
@@ -203,8 +203,8 @@ LOCATION:CURE Insurance Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Reading Royals
-DTSTART;TZID="UTC-05:00":20261212T190000
-DTEND;TZID="UTC-05:00":20261212T213000
+DTSTART:20261213T000000Z
+DTEND:20261213T023000Z
 UID:echl25830
 DESCRIPTION:Game Center: https://echl.com/games/2026/12/12/reading-royals-
  vs-trois-rivieres-lions
@@ -212,8 +212,8 @@ LOCATION:Santander Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Norfolk Admirals @ Trois-Rivières Lions
-DTSTART;TZID="UTC-05:00":20261216T190000
-DTEND;TZID="UTC-05:00":20261216T213000
+DTSTART:20261217T000000Z
+DTEND:20261217T023000Z
 UID:echl25846
 DESCRIPTION:Game Center: https://echl.com/games/2026/12/16/trois-rivieres-
  lions-vs-norfolk-admirals
@@ -221,8 +221,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Norfolk Admirals @ Trois-Rivières Lions
-DTSTART;TZID="UTC-05:00":20261218T190000
-DTEND;TZID="UTC-05:00":20261218T213000
+DTSTART:20261219T000000Z
+DTEND:20261219T023000Z
 UID:echl25859
 DESCRIPTION:Game Center: https://echl.com/games/2026/12/18/trois-rivieres-
  lions-vs-norfolk-admirals
@@ -230,8 +230,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Norfolk Admirals @ Trois-Rivières Lions
-DTSTART;TZID="UTC-05:00":20261219T150000
-DTEND;TZID="UTC-05:00":20261219T173000
+DTSTART:20261219T200000Z
+DTEND:20261219T223000Z
 UID:echl25870
 DESCRIPTION:Game Center: https://echl.com/games/2026/12/19/trois-rivieres-
  lions-vs-norfolk-admirals
@@ -239,8 +239,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Reading Royals @ Trois-Rivières Lions
-DTSTART;TZID="UTC-05:00":20261227T150000
-DTEND;TZID="UTC-05:00":20261227T173000
+DTSTART:20261227T200000Z
+DTEND:20261227T223000Z
 UID:echl25909
 DESCRIPTION:Game Center: https://echl.com/games/2026/12/27/trois-rivieres-
  lions-vs-reading-royals
@@ -248,8 +248,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Reading Royals @ Trois-Rivières Lions
-DTSTART;TZID="UTC-05:00":20261228T190000
-DTEND;TZID="UTC-05:00":20261228T213000
+DTSTART:20261229T000000Z
+DTEND:20261229T023000Z
 UID:echl25912
 DESCRIPTION:Game Center: https://echl.com/games/2026/12/28/trois-rivieres-
  lions-vs-reading-royals
@@ -257,8 +257,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Worcester Railers
-DTSTART;TZID="UTC-05:00":20270101T170500
-DTEND;TZID="UTC-05:00":20270101T193500
+DTSTART:20270101T220500Z
+DTEND:20270102T003500Z
 UID:echl25943
 DESCRIPTION:Game Center: https://echl.com/games/2027/01/01/worcester-raile
  rs-vs-trois-rivieres-lions
@@ -266,8 +266,8 @@ LOCATION:DCU Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Trenton Ironhawks
-DTSTART;TZID="UTC-05:00":20270102T180000
-DTEND;TZID="UTC-05:00":20270102T203000
+DTSTART:20270102T230000Z
+DTEND:20270103T013000Z
 UID:echl25955
 DESCRIPTION:Game Center: https://echl.com/games/2027/01/02/trenton-ironhaw
  ks-vs-trois-rivieres-lions
@@ -275,8 +275,8 @@ LOCATION:CURE Insurance Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Trenton Ironhawks
-DTSTART;TZID="UTC-05:00":20270103T150000
-DTEND;TZID="UTC-05:00":20270103T173000
+DTSTART:20270103T200000Z
+DTEND:20270103T223000Z
 UID:echl25964
 DESCRIPTION:Game Center: https://echl.com/games/2027/01/03/trenton-ironhaw
  ks-vs-trois-rivieres-lions
@@ -284,8 +284,8 @@ LOCATION:CURE Insurance Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Adirondack Thunder @ Trois-Rivières Lions
-DTSTART;TZID="UTC-05:00":20270108T190000
-DTEND;TZID="UTC-05:00":20270108T213000
+DTSTART:20270109T000000Z
+DTEND:20270109T023000Z
 UID:echl25982
 DESCRIPTION:Game Center: https://echl.com/games/2027/01/08/trois-rivieres-
  lions-vs-adirondack-thunder
@@ -293,8 +293,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Adirondack Thunder
-DTSTART;TZID="UTC-05:00":20270109T190000
-DTEND;TZID="UTC-05:00":20270109T213000
+DTSTART:20270110T000000Z
+DTEND:20270110T023000Z
 UID:echl25985
 DESCRIPTION:Game Center: https://echl.com/games/2027/01/09/adirondack-thun
  der-vs-trois-rivieres-lions
@@ -302,8 +302,8 @@ LOCATION:Harding Mazzotti Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Adirondack Thunder
-DTSTART;TZID="UTC-05:00":20270110T150000
-DTEND;TZID="UTC-05:00":20270110T173000
+DTSTART:20270110T200000Z
+DTEND:20270110T223000Z
 UID:echl25999
 DESCRIPTION:Game Center: https://echl.com/games/2027/01/10/adirondack-thun
  der-vs-trois-rivieres-lions
@@ -311,8 +311,8 @@ LOCATION:Harding Mazzotti Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Reading Royals
-DTSTART;TZID="UTC-05:00":20270115T190000
-DTEND;TZID="UTC-05:00":20270115T213000
+DTSTART:20270116T000000Z
+DTEND:20270116T023000Z
 UID:echl26019
 DESCRIPTION:Game Center: https://echl.com/games/2027/01/15/reading-royals-
  vs-trois-rivieres-lions
@@ -320,8 +320,8 @@ LOCATION:Santander Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Reading Royals
-DTSTART;TZID="UTC-05:00":20270116T190000
-DTEND;TZID="UTC-05:00":20270116T213000
+DTSTART:20270117T000000Z
+DTEND:20270117T023000Z
 UID:echl26034
 DESCRIPTION:Game Center: https://echl.com/games/2027/01/16/reading-royals-
  vs-trois-rivieres-lions
@@ -329,8 +329,8 @@ LOCATION:Santander Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Fort Wayne Komets @ Trois-Rivières Lions
-DTSTART;TZID="UTC-05:00":20270120T190000
-DTEND;TZID="UTC-05:00":20270120T213000
+DTSTART:20270121T000000Z
+DTEND:20270121T023000Z
 UID:echl26054
 DESCRIPTION:Game Center: https://echl.com/games/2027/01/20/trois-rivieres-
  lions-vs-fort-wayne-komets
@@ -338,8 +338,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Fort Wayne Komets @ Trois-Rivières Lions
-DTSTART;TZID="UTC-05:00":20270122T190000
-DTEND;TZID="UTC-05:00":20270122T213000
+DTSTART:20270123T000000Z
+DTEND:20270123T023000Z
 UID:echl26069
 DESCRIPTION:Game Center: https://echl.com/games/2027/01/22/trois-rivieres-
  lions-vs-fort-wayne-komets
@@ -347,8 +347,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Fort Wayne Komets @ Trois-Rivières Lions
-DTSTART;TZID="UTC-05:00":20270123T150000
-DTEND;TZID="UTC-05:00":20270123T173000
+DTSTART:20270123T200000Z
+DTEND:20270123T223000Z
 UID:echl26084
 DESCRIPTION:Game Center: https://echl.com/games/2027/01/23/trois-rivieres-
  lions-vs-fort-wayne-komets
@@ -356,8 +356,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Fort Wayne Komets
-DTSTART;TZID="UTC-05:00":20270129T193500
-DTEND;TZID="UTC-05:00":20270129T220500
+DTSTART:20270130T003500Z
+DTEND:20270130T030500Z
 UID:echl26096
 DESCRIPTION:Game Center: https://echl.com/games/2027/01/29/fort-wayne-kome
  ts-vs-trois-rivieres-lions
@@ -365,8 +365,8 @@ LOCATION:Memorial Coliseum
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Fort Wayne Komets
-DTSTART;TZID="UTC-05:00":20270130T193500
-DTEND;TZID="UTC-05:00":20270130T220500
+DTSTART:20270131T003500Z
+DTEND:20270131T030500Z
 UID:echl26110
 DESCRIPTION:Game Center: https://echl.com/games/2027/01/30/fort-wayne-kome
  ts-vs-trois-rivieres-lions
@@ -374,8 +374,8 @@ LOCATION:Memorial Coliseum
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Fort Wayne Komets
-DTSTART;TZID="UTC-05:00":20270131T170500
-DTEND;TZID="UTC-05:00":20270131T193500
+DTSTART:20270131T220500Z
+DTEND:20270201T003500Z
 UID:echl26124
 DESCRIPTION:Game Center: https://echl.com/games/2027/01/31/fort-wayne-kome
  ts-vs-trois-rivieres-lions
@@ -383,8 +383,8 @@ LOCATION:Memorial Coliseum
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Adirondack Thunder @ Trois-Rivières Lions
-DTSTART;TZID="UTC-05:00":20270203T190000
-DTEND;TZID="UTC-05:00":20270203T213000
+DTSTART:20270204T000000Z
+DTEND:20270204T023000Z
 UID:echl26138
 DESCRIPTION:Game Center: https://echl.com/games/2027/02/03/trois-rivieres-
  lions-vs-adirondack-thunder
@@ -392,8 +392,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Norfolk Admirals @ Trois-Rivières Lions
-DTSTART;TZID="UTC-05:00":20270205T190000
-DTEND;TZID="UTC-05:00":20270205T213000
+DTSTART:20270206T000000Z
+DTEND:20270206T023000Z
 UID:echl26151
 DESCRIPTION:Game Center: https://echl.com/games/2027/02/05/trois-rivieres-
  lions-vs-norfolk-admirals
@@ -401,8 +401,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Norfolk Admirals @ Trois-Rivières Lions
-DTSTART;TZID="UTC-05:00":20270206T150000
-DTEND;TZID="UTC-05:00":20270206T173000
+DTSTART:20270206T200000Z
+DTEND:20270206T223000Z
 UID:echl26166
 DESCRIPTION:Game Center: https://echl.com/games/2027/02/06/trois-rivieres-
  lions-vs-norfolk-admirals
@@ -410,8 +410,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Maine Mariners
-DTSTART;TZID="UTC-05:00":20270207T150000
-DTEND;TZID="UTC-05:00":20270207T173000
+DTSTART:20270207T200000Z
+DTEND:20270207T223000Z
 UID:echl26173
 DESCRIPTION:Game Center: https://echl.com/games/2027/02/07/maine-mariners-
  vs-trois-rivieres-lions
@@ -419,8 +419,8 @@ LOCATION:Cross Insurance Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Cincinnati Cyclones
-DTSTART;TZID="UTC-05:00":20270210T190500
-DTEND;TZID="UTC-05:00":20270210T213500
+DTSTART:20270211T000500Z
+DTEND:20270211T023500Z
 UID:echl26182
 DESCRIPTION:Game Center: https://echl.com/games/2027/02/10/cincinnati-cycl
  ones-vs-trois-rivieres-lions
@@ -428,8 +428,8 @@ LOCATION:Heritage Bank Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Bloomington Bison
-DTSTART;TZID="UTC-06:00":20270212T190000
-DTEND;TZID="UTC-06:00":20270212T213000
+DTSTART:20270213T010000Z
+DTEND:20270213T033000Z
 UID:echl26192
 DESCRIPTION:Game Center: https://echl.com/games/2027/02/12/bloomington-bis
  on-vs-trois-rivieres-lions
@@ -437,8 +437,8 @@ LOCATION:Grossinger Motors Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Bloomington Bison
-DTSTART;TZID="UTC-06:00":20270213T190000
-DTEND;TZID="UTC-06:00":20270213T213000
+DTSTART:20270214T010000Z
+DTEND:20270214T033000Z
 UID:echl26202
 DESCRIPTION:Game Center: https://echl.com/games/2027/02/13/bloomington-bis
  on-vs-trois-rivieres-lions
@@ -446,8 +446,8 @@ LOCATION:Grossinger Motors Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Maine Mariners @ Trois-Rivières Lions
-DTSTART;TZID="UTC-05:00":20270219T190000
-DTEND;TZID="UTC-05:00":20270219T213000
+DTSTART:20270220T000000Z
+DTEND:20270220T023000Z
 UID:echl26238
 DESCRIPTION:Game Center: https://echl.com/games/2027/02/19/trois-rivieres-
  lions-vs-maine-mariners
@@ -455,8 +455,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Maine Mariners @ Trois-Rivières Lions
-DTSTART;TZID="UTC-05:00":20270220T150000
-DTEND;TZID="UTC-05:00":20270220T173000
+DTSTART:20270220T200000Z
+DTEND:20270220T223000Z
 UID:echl26254
 DESCRIPTION:Game Center: https://echl.com/games/2027/02/20/trois-rivieres-
  lions-vs-maine-mariners
@@ -464,8 +464,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Maine Mariners
-DTSTART;TZID="UTC-05:00":20270221T150000
-DTEND;TZID="UTC-05:00":20270221T173000
+DTSTART:20270221T200000Z
+DTEND:20270221T223000Z
 UID:echl26259
 DESCRIPTION:Game Center: https://echl.com/games/2027/02/21/maine-mariners-
  vs-trois-rivieres-lions
@@ -473,8 +473,8 @@ LOCATION:Cross Insurance Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Worcester Railers @ Trois-Rivières Lions
-DTSTART;TZID="UTC-05:00":20270226T190000
-DTEND;TZID="UTC-05:00":20270226T213000
+DTSTART:20270227T000000Z
+DTEND:20270227T023000Z
 UID:echl26281
 DESCRIPTION:Game Center: https://echl.com/games/2027/02/26/trois-rivieres-
  lions-vs-worcester-railers
@@ -482,8 +482,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Worcester Railers @ Trois-Rivières Lions
-DTSTART;TZID="UTC-05:00":20270227T150000
-DTEND;TZID="UTC-05:00":20270227T173000
+DTSTART:20270227T200000Z
+DTEND:20270227T223000Z
 UID:echl26296
 DESCRIPTION:Game Center: https://echl.com/games/2027/02/27/trois-rivieres-
  lions-vs-worcester-railers
@@ -491,8 +491,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Worcester Railers @ Trois-Rivières Lions
-DTSTART;TZID="UTC-05:00":20270228T130000
-DTEND;TZID="UTC-05:00":20270228T153000
+DTSTART:20270228T180000Z
+DTEND:20270228T203000Z
 UID:echl26305
 DESCRIPTION:Game Center: https://echl.com/games/2027/02/28/trois-rivieres-
  lions-vs-worcester-railers
@@ -500,8 +500,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Greensboro Gargoyles @ Trois-Rivières Lions
-DTSTART;TZID="UTC-05:00":20270305T190000
-DTEND;TZID="UTC-05:00":20270305T213000
+DTSTART:20270306T000000Z
+DTEND:20270306T023000Z
 UID:echl26325
 DESCRIPTION:Game Center: https://echl.com/games/2027/03/05/trois-rivieres-
  lions-vs-greensboro-gargoyles
@@ -509,8 +509,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Greensboro Gargoyles @ Trois-Rivières Lions
-DTSTART;TZID="UTC-05:00":20270306T150000
-DTEND;TZID="UTC-05:00":20270306T173000
+DTSTART:20270306T200000Z
+DTEND:20270306T223000Z
 UID:echl26340
 DESCRIPTION:Game Center: https://echl.com/games/2027/03/06/trois-rivieres-
  lions-vs-greensboro-gargoyles
@@ -518,8 +518,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Greensboro Gargoyles @ Trois-Rivières Lions
-DTSTART;TZID="UTC-05:00":20270307T130000
-DTEND;TZID="UTC-05:00":20270307T153000
+DTSTART:20270307T180000Z
+DTEND:20270307T203000Z
 UID:echl26346
 DESCRIPTION:Game Center: https://echl.com/games/2027/03/07/trois-rivieres-
  lions-vs-greensboro-gargoyles
@@ -527,8 +527,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Adirondack Thunder @ Trois-Rivières Lions
-DTSTART;TZID="UTC-05:00":20270310T190000
-DTEND;TZID="UTC-05:00":20270310T213000
+DTSTART:20270311T000000Z
+DTEND:20270311T023000Z
 UID:echl26351
 DESCRIPTION:Game Center: https://echl.com/games/2027/03/10/trois-rivieres-
  lions-vs-adirondack-thunder
@@ -536,8 +536,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Adirondack Thunder
-DTSTART;TZID="UTC-05:00":20270312T190000
-DTEND;TZID="UTC-05:00":20270312T213000
+DTSTART:20270313T000000Z
+DTEND:20270313T023000Z
 UID:echl26353
 DESCRIPTION:Game Center: https://echl.com/games/2027/03/12/adirondack-thun
  der-vs-trois-rivieres-lions
@@ -545,8 +545,8 @@ LOCATION:Harding Mazzotti Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Adirondack Thunder
-DTSTART;TZID="UTC-05:00":20270313T190000
-DTEND;TZID="UTC-05:00":20270313T213000
+DTSTART:20270314T000000Z
+DTEND:20270314T023000Z
 UID:echl26368
 DESCRIPTION:Game Center: https://echl.com/games/2027/03/13/adirondack-thun
  der-vs-trois-rivieres-lions
@@ -554,8 +554,8 @@ LOCATION:Harding Mazzotti Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Maine Mariners
-DTSTART;TZID="UTC-04:00":20270319T183000
-DTEND;TZID="UTC-04:00":20270319T210000
+DTSTART:20270319T223000Z
+DTEND:20270320T010000Z
 UID:echl26410
 DESCRIPTION:Game Center: https://echl.com/games/2027/03/19/maine-mariners-
  vs-trois-rivieres-lions
@@ -563,8 +563,8 @@ LOCATION:Cross Insurance Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trenton Ironhawks @ Trois-Rivières Lions
-DTSTART;TZID="UTC-04:00":20270320T150000
-DTEND;TZID="UTC-04:00":20270320T173000
+DTSTART:20270320T190000Z
+DTEND:20270320T213000Z
 UID:echl26429
 DESCRIPTION:Game Center: https://echl.com/games/2027/03/20/trois-rivieres-
  lions-vs-trenton-ironhawks
@@ -572,8 +572,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trenton Ironhawks @ Trois-Rivières Lions
-DTSTART;TZID="UTC-04:00":20270321T130000
-DTEND;TZID="UTC-04:00":20270321T153000
+DTSTART:20270321T170000Z
+DTEND:20270321T193000Z
 UID:echl26438
 DESCRIPTION:Game Center: https://echl.com/games/2027/03/21/trois-rivieres-
  lions-vs-trenton-ironhawks
@@ -581,8 +581,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Greensboro Gargoyles
-DTSTART;TZID="UTC-04:00":20270326T190000
-DTEND;TZID="UTC-04:00":20270326T213000
+DTSTART:20270326T230000Z
+DTEND:20270327T013000Z
 UID:echl26448
 DESCRIPTION:Game Center: https://echl.com/games/2027/03/26/greensboro-garg
  oyles-vs-trois-rivieres-lions
@@ -590,8 +590,8 @@ LOCATION:First Horizon Coliseum
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Greensboro Gargoyles
-DTSTART;TZID="UTC-04:00":20270327T190000
-DTEND;TZID="UTC-04:00":20270327T213000
+DTSTART:20270327T230000Z
+DTEND:20270328T013000Z
 UID:echl26462
 DESCRIPTION:Game Center: https://echl.com/games/2027/03/27/greensboro-garg
  oyles-vs-trois-rivieres-lions
@@ -599,8 +599,8 @@ LOCATION:First Horizon Coliseum
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Reading Royals @ Trois-Rivières Lions
-DTSTART;TZID="UTC-04:00":20270402T190000
-DTEND;TZID="UTC-04:00":20270402T213000
+DTSTART:20270402T230000Z
+DTEND:20270403T013000Z
 UID:echl26493
 DESCRIPTION:Game Center: https://echl.com/games/2027/04/02/trois-rivieres-
  lions-vs-reading-royals
@@ -608,8 +608,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Reading Royals @ Trois-Rivières Lions
-DTSTART;TZID="UTC-04:00":20270403T150000
-DTEND;TZID="UTC-04:00":20270403T173000
+DTSTART:20270403T190000Z
+DTEND:20270403T213000Z
 UID:echl26511
 DESCRIPTION:Game Center: https://echl.com/games/2027/04/03/trois-rivieres-
  lions-vs-reading-royals
@@ -617,8 +617,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Reading Royals @ Trois-Rivières Lions
-DTSTART;TZID="UTC-04:00":20270404T130000
-DTEND;TZID="UTC-04:00":20270404T153000
+DTSTART:20270404T170000Z
+DTEND:20270404T193000Z
 UID:echl26520
 DESCRIPTION:Game Center: https://echl.com/games/2027/04/04/trois-rivieres-
  lions-vs-reading-royals
@@ -626,8 +626,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Maine Mariners
-DTSTART;TZID="UTC-04:00":20270409T183000
-DTEND;TZID="UTC-04:00":20270409T210000
+DTSTART:20270409T223000Z
+DTEND:20270410T010000Z
 UID:echl26535
 DESCRIPTION:Game Center: https://echl.com/games/2027/04/09/maine-mariners-
  vs-trois-rivieres-lions
@@ -635,8 +635,8 @@ LOCATION:Cross Insurance Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Worcester Railers
-DTSTART;TZID="UTC-04:00":20270410T180500
-DTEND;TZID="UTC-04:00":20270410T203500
+DTSTART:20270410T220500Z
+DTEND:20270411T003500Z
 UID:echl26555
 DESCRIPTION:Game Center: https://echl.com/games/2027/04/10/worcester-raile
  rs-vs-trois-rivieres-lions
@@ -644,8 +644,8 @@ LOCATION:DCU Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Worcester Railers
-DTSTART;TZID="UTC-04:00":20270411T150500
-DTEND;TZID="UTC-04:00":20270411T173500
+DTSTART:20270411T190500Z
+DTEND:20270411T213500Z
 UID:echl26566
 DESCRIPTION:Game Center: https://echl.com/games/2027/04/11/worcester-raile
  rs-vs-trois-rivieres-lions
