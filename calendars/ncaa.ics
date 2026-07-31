@@ -1677,7 +1677,7 @@ DESCRIPTION:Game date to be determined\nLive Stats: http://www.sidearmstat
 LOCATION:Agganis Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Stonehill Skyhawks @ Providence Friars
+SUMMARY:🏒 | Stonehill () Skyhawks @ Providence Friars
 DTSTART:20261002T040000Z
 DTEND:20261002T063000Z
 UID:ncaa12598
@@ -1998,7 +1998,7 @@ DESCRIPTION:Game time to be determined
 LOCATION:Seawolf Sports Complex
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | U.S. Under-18 Team (exh.) @ Denver Pioneers
+SUMMARY:🏒 | US National Team Development Program @ Denver Pioneers
 DTSTART:20261011T000000
 DTEND:20261011T023000
 UID:ncaa20777
@@ -2252,7 +2252,7 @@ UID:ncaa20450
 LOCATION:Ed Robson Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Miami RedHawks @ Northern Michigan
+SUMMARY:🏒 | Miami RedHawks @ Northern Michigan Wildcats
 DTSTART:20261002T000000
 DTEND:20261002T023000
 UID:ncaa20891
@@ -2260,7 +2260,7 @@ DESCRIPTION:Game time to be determined
 LOCATION:Berry Events Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Miami RedHawks @ Northern Michigan
+SUMMARY:🏒 | Miami RedHawks @ Northern Michigan Wildcats
 DTSTART:20261003T000000
 DTEND:20261003T023000
 UID:ncaa20892
@@ -2392,7 +2392,7 @@ UID:ncaa20712
 LOCATION:Lawson Ice Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Miami RedHawks @ Maine
+SUMMARY:🏒 | Miami RedHawks @ Maine Black Bears
 DTSTART:20270101T000000
 DTEND:20270101T023000
 UID:ncaa20896
@@ -2400,7 +2400,7 @@ DESCRIPTION:Game time to be determined
 LOCATION:Alfond Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Miami RedHawks @ Maine
+SUMMARY:🏒 | Miami RedHawks @ Maine Black Bears
 DTSTART:20270102T000000
 DTEND:20270102T023000
 UID:ncaa20895
@@ -2500,7 +2500,7 @@ DESCRIPTION:Game time to be determined
 LOCATION:Goggin Ice Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | St. Cloud State Huskies @ Bemidji State
+SUMMARY:🏒 | St. Cloud State Huskies @ Bemidji State Beavers
 DTSTART:20261003T000000
 DTEND:20261003T023000
 UID:ncaa20827
@@ -2508,7 +2508,7 @@ DESCRIPTION:Game time to be determined
 LOCATION:Sanford Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Michigan Tech @ St. Cloud State Huskies
+SUMMARY:🏒 | Michigan Tech Huskies @ St. Cloud State Huskies
 DTSTART:20261009T000000
 DTEND:20261009T023000
 UID:ncaa20841
@@ -2516,7 +2516,7 @@ DESCRIPTION:Game time to be determined
 LOCATION:Herb Brooks National Hockey Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Michigan Tech @ St. Cloud State Huskies
+SUMMARY:🏒 | Michigan Tech Huskies @ St. Cloud State Huskies
 DTSTART:20261010T000000
 DTEND:20261010T023000
 UID:ncaa20842
@@ -2612,7 +2612,7 @@ UID:ncaa20857
 LOCATION:Gutterson Fieldhouse
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Bemidji State @ St. Cloud State Huskies
+SUMMARY:🏒 | Bemidji State Beavers @ St. Cloud State Huskies
 DTSTART:20261216T000000
 DTEND:20261216T023000
 UID:ncaa20828
@@ -2641,7 +2641,7 @@ DTSTART:20270108T000000
 DTEND:20270108T023000
 UID:ncaa20567
 DESCRIPTION:Game time to be determined
-LOCATION:Lee & Penny Anderson Arena | St. Paul\, Minn.
+LOCATION:Lee & Penny Anderson Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | St. Cloud State Huskies @ St. Thomas Tommies
@@ -2649,7 +2649,7 @@ DTSTART:20270109T000000
 DTEND:20270109T023000
 UID:ncaa20580
 DESCRIPTION:Game time to be determined
-LOCATION:Lee & Penny Anderson Arena | St. Paul\, Minn.
+LOCATION:Lee & Penny Anderson Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | St. Cloud State Huskies @ Colorado College Tigers
@@ -2671,7 +2671,7 @@ DTSTART:20270130T223000
 DTEND:20270131T010000
 UID:ncaa20845
 DESCRIPTION:Scrimmage Game
-LOCATION:Brainerd International Raceway | Brainerd\, Minn. (exh.)
+LOCATION:Brainerd International Raceway
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | St. Cloud State Huskies @ Western Michigan Broncos
@@ -2718,7 +2718,7 @@ DESCRIPTION:Game time to be determined
 LOCATION:Herb Brooks National Hockey Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Western Ontario (exh.) @ Western Michigan Broncos
+SUMMARY:🏒 | Western Ontario Mustangs @ Western Michigan Broncos
 DTSTART:20261003T220000
 DTEND:20261004T003000
 UID:ncaa20728
@@ -2888,7 +2888,7 @@ DTSTART:20270130T000000
 DTEND:20270130T023000
 UID:ncaa20702
 DESCRIPTION:Game time to be determined
-LOCATION:Kalamazoo\, Mich. (Waldo Stadium)
+LOCATION:Waldo Stadium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Western Michigan Broncos @ Colorado College Tigers

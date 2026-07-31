@@ -395,8 +395,10 @@ DTSTART:20261212T180000Z
 DTEND:20261212T203000Z
 UID:nhl2026020515
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
- er/mtl-vs-cbj/2026/12/12/2026020515\nTickets: https://www.nhl.com/bluejack
- ets/tickets/
+ er/mtl-vs-cbj/2026/12/12/2026020515\nTickets: https://www.ticketmaster.com
+ /event/050064EDD472C976?brand=bluejackets&artistid=805927&wt.mc_id=NHL_TEA
+ M_CBJ_SCHEDULE_GM16&utm_source=web_schedule_club&utm_medium=NHL.com&utm_ca
+ mpaign=single_game_tickets&utm_content=SCHEDULE_GM16
 LOCATION:Nationwide Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -435,8 +437,10 @@ DTSTART:20261223T000000Z
 DTEND:20261223T023000Z
 UID:nhl2026020594
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
- er/mtl-vs-cbj/2026/12/22/2026020594\nTickets: https://www.nhl.com/bluejack
- ets/tickets/
+ er/mtl-vs-cbj/2026/12/22/2026020594\nTickets: https://www.ticketmaster.com
+ /event/050064EDD78DD046?brand=bluejackets&artistid=805927&wt.mc_id=NHL_TEA
+ M_CBJ_SCHEDULE_GM20&utm_source=web_schedule_club&utm_medium=NHL.com&utm_ca
+ mpaign=single_game_tickets&utm_content=SCHEDULE_GM20
 LOCATION:Nationwide Arena
 END:VEVENT
 BEGIN:VEVENT
