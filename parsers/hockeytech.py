@@ -47,7 +47,7 @@ def parse_hockeytech(json_data, team_filter):
         local_start = datetime.fromisoformat(iso_time)
 
         # Convert ISO8601 → datetime
-        start_dt = local_start.astomezone(timezone.utc)
+        start_dt = local_start.astimezone(timezone.utc)
         end_dt = start_dt + timedelta(hours=2, minutes=30)
 
         # Game Center link
