@@ -32,7 +32,7 @@ def parse_liiga_json_to_calendar(games):
         dt_end = dt + timedelta(hours=2, minutes=30)
         event.add("DTEND", dt_end)
         event.add("LOCATION", venue)
-        event.add("UID", f"liiga-{uid}")    
+        event.add("UID", f"liiga{uid}")    
         event.add("DESCRIPTION", f"Game Center: {game_center}")
 
         cal.add_component(event)
