@@ -69,6 +69,7 @@ CITY_TO_ARENA = {
     "Ithaca, NY": "Lynah Rink",
     "Kalamazoo, MI": "Lawson Ice Arena",
     "Kalamazoo, Mich.": "Lawson Ice Arena",
+    "Kalamazoo, Mich. (Waldo Stadium)": "Waldo Stadium",
     "Lawler Rink": "Lawler Arena",
     "Lawson Arena": "Lawson Ice Arena",
     "Lowell, MA": "Tsongas Center",
@@ -90,6 +91,7 @@ CITY_TO_ARENA = {
     "Orono, Maine": "Alfond Arena",
     "Oxford, Ohio": "Goggin Ice Center",
     "Oxford, OH": "Goggin Ice Center",
+    "Oxford\, Ohio.": "Goggin Ice Center",
     "Plymouth, Mich.": "USA Hockey Arena",
     "Potsdam, NY": "Cheel Arena",
     "Princeton, NJ": "Hobey Baker Rink",
@@ -122,6 +124,7 @@ KNOWN_ARENAS = {
     "Appleton Arena",
     "Baxter Arena",
     "Berry Events Center",
+    "Brainerd International Raceway",
     "Bright-Landry Hockey Center",
     "Carlson Center",
     "Cheel Arena",
@@ -173,6 +176,7 @@ KNOWN_ARENAS = {
     "USA Hockey Arena",
     "Value City Arena",
     "Van Andel Arena",
+    "Waldo Stadium",
     "Whittemore Center",
     "Yost Ice Arena",
 }
@@ -186,6 +190,7 @@ NCAA_TEAM_FIX = {
     "Merrimack College": "Merrimack",
     "Rensselaer Polytechnic Institute": "RPI",
     "Union College": "Union",
+    "U.S. Under-18 Team": "US National Team Development Program",
     "USA Hockey Under-18 Team": "US National Team Development Program",
 }
 
@@ -200,6 +205,7 @@ TEAM_NORMALIZATION = {
 TEAM_MASCOTS_FALLBACK = {
     "Alaska": "Nanooks",
     "Alaska Anchorage": "Seawolves",
+    "Bemidji State": "Beavers",
     "Bowling Green": "Falcons",
     "Boston": "Terriers",
     "Boston College": "Eagles",
@@ -209,15 +215,19 @@ TEAM_MASCOTS_FALLBACK = {
     "Holy Cross": "Crusaders",
     "Lindenwood" :"Lions",
     "Long Island": "Sharks",
+    "Maine": "Black Bears",
     "Merrimack": "Warriors",
     "Michigan": "Wolverines",
+    "Michigan Tech": "Huskies",
     "Minnesota": "Golden Gophers",
     "Minnesota Duluth": "Bulldogs",
     "New Hampshire": "Wildcats",
     "North Dakota": "Fighting Hawks",
     "Northeastern": "Huskies",
+    "Northern Michigan": "Wildcats",
     "Norwich": "Cadets",
     "Notre Dame": "Fighting Irish",
+    "Robert Norris": "Colonials",
     "Stonehill": "Skyhawks",
     "St. Cloud State": "Huskies",
     "St. Thomas": "Tommies",
@@ -284,15 +294,21 @@ def is_ncaa_tournament(name):
 def clean_ncaa_title_and_flags(title):
     #Remove '(Exhibtition)' from opponent title
     is_exhibition = False
+    clean = title.strip()
 
-    if ("Exhibition") in title:
-        is_exhibition = True
-        title = title.replace("(Exhibition)", "").strip()
-    if ("(ex)") in title:
-        is_exhibition = True
-        title = title.replace("(ex)", "").strip()
+    exhibition_markers = [
+        "Exhibition",
+        "(Exhibition)",
+        "(ex)",
+        "(exh.)",
+    ]
 
-    return title, is_exhibition
+    for marker in exhibition_markers:
+        if marker.lower() in clean.lower():
+            is_exhibition = True
+            clean = clean.replace(marker, "").strip()
+
+    return clean, is_exhibition
 
 def fix_ncaa_team_name(name):
     return NCAA_TEAM_FIX.get(name, name)
@@ -545,8 +561,8 @@ def parse_ncaa_conf(json_data, team_name):
         venue_raw = str(venue_raw)
         venue = venue_raw.strip()
 
-        if "/" in venue_raw:
-            venue = venue_raw.split("/")[-1].strip()
+        if "/" or "|" in venue_raw:
+            venue = venue_raw.split("/")[-1].split("|")[0].strip()
         elif venue_raw.lower() == "home":
             venue = stadium(home_team)
         elif venue_raw == "":
