@@ -1,5 +1,5 @@
 from icalendar import Event
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from utils.calendar import create_calendar
 
 def parse_ufa_json_to_calendar(json_data):
@@ -25,7 +25,7 @@ def parse_ufa_json_to_calendar(json_data):
 
         try:
             # Parse the ISO-8601 date string directly (handles offsets perfectly)
-            start_dt = datetime.fromisoformat(start_timestamp)
+            start_dt = datetime.fromisoformat(start_timestamp).astimezone(timezone.utc)
 
             # Estimate duration (Approx. 2 hours for Ultimate Frisbee match duration)
             end_dt = start_dt + timedelta(hours=2)
