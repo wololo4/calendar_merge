@@ -183,7 +183,7 @@ def parse_khl_ics(raw_ics, team_name, season_id):
 
         # Créer événement propre
         event = Event()
-        event.add("SUMMARY", f"🏒 | {home_norm} vs {away_norm}")
+        event.add("SUMMARY", f"🏒 | {away_norm} @ {home_norm}")
         event.add("DTSTART", dtstart)
         event.add("DTEND", dtend)
         event.add("UID", uid)
