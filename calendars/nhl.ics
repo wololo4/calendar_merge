@@ -740,8 +740,10 @@ DTSTART:20270219T000000Z
 DTEND:20270219T023000Z
 UID:nhl2026020952
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
- er/mtl-vs-det/2027/02/18/2026020952\nTickets: https://www.nhl.com/redwings
- /tickets/
+ er/mtl-vs-det/2027/02/18/2026020952\nTickets: https://www.ticketmaster.com
+ /event/080064EED842806C?brand=redwings&artistid=805938&wt.mc_id=NHL_TEAM_D
+ ET_SCHEDULE_GM32&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEA
+ M_DET&utm_content=SCHEDULE_GM32
 LOCATION:Little Caesars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -888,8 +890,10 @@ DTSTART:20270320T170000Z
 DTEND:20270320T193000Z
 UID:nhl2026021175
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
- er/mtl-vs-det/2027/03/20/2026021175\nTickets: https://www.nhl.com/redwings
- /tickets/
+ er/mtl-vs-det/2027/03/20/2026021175\nTickets: https://www.ticketmaster.com
+ /event/080064EED860808E?brand=redwings&artistid=805938&wt.mc_id=NHL_TEAM_D
+ ET_SCHEDULE_GM38&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEA
+ M_DET&utm_content=SCHEDULE_GM38
 LOCATION:Little Caesars Arena
 END:VEVENT
 BEGIN:VEVENT

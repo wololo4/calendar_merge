@@ -564,16 +564,6 @@ DESCRIPTION:Tournament: World Championship - Quarterfinal\nGame Center: ht
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Canada @ Sweden
-DTSTART:20260515T142000Z
-DTEND:20260515T165000Z
-UID:hockeycanada5383
-DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
- ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
- pionship/stats/game-summary/5383
-LOCATION:BCF Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Germany @ Finland
 DTSTART:20260515T142000Z
 DTEND:20260515T165000Z
@@ -582,6 +572,16 @@ DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
  ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
  pionship/stats/game-summary/5382
 LOCATION:Swiss Life Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Canada @ Sweden
+DTSTART:20260515T142000Z
+DTEND:20260515T165000Z
+UID:hockeycanada5383
+DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
+ ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
+ pionship/stats/game-summary/5383
+LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Czechia @ Denmark
@@ -604,16 +604,6 @@ DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Great Britain @ Austria
-DTSTART:20260516T102000Z
-DTEND:20260516T125000Z
-UID:hockeycanada5386
-DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
- ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
- pionship/stats/game-summary/5386
-LOCATION:Swiss Life Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Norway @ Slovakia
 DTSTART:20260516T102000Z
 DTEND:20260516T125000Z
@@ -622,6 +612,16 @@ DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
  ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
  pionship/stats/game-summary/5387
 LOCATION:BCF Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Great Britain @ Austria
+DTSTART:20260516T102000Z
+DTEND:20260516T125000Z
+UID:hockeycanada5386
+DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
+ ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
+ pionship/stats/game-summary/5386
+LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Italy @ Canada
@@ -664,16 +664,6 @@ DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Great Britain @ United States
-DTSTART:20260517T102000Z
-DTEND:20260517T125000Z
-UID:hockeycanada5392
-DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
- ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
- pionship/stats/game-summary/5392
-LOCATION:Swiss Life Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Slovakia @ Italy
 DTSTART:20260517T102000Z
 DTEND:20260517T125000Z
@@ -684,13 +674,13 @@ DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Hungary @ Austria
-DTSTART:20260517T142000Z
-DTEND:20260517T165000Z
-UID:hockeycanada5394
+SUMMARY:🏒 | Great Britain @ United States
+DTSTART:20260517T102000Z
+DTEND:20260517T125000Z
+UID:hockeycanada5392
 DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
  ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
- pionship/stats/game-summary/5394
+ pionship/stats/game-summary/5392
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -704,13 +694,13 @@ DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Latvia @ Germany
-DTSTART:20260517T182000Z
-DTEND:20260517T205000Z
-UID:hockeycanada5396
+SUMMARY:🏒 | Hungary @ Austria
+DTSTART:20260517T142000Z
+DTEND:20260517T165000Z
+UID:hockeycanada5394
 DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
  ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
- pionship/stats/game-summary/5396
+ pionship/stats/game-summary/5394
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -724,13 +714,13 @@ DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | United States @ Finland
-DTSTART:20260518T142000Z
-DTEND:20260518T165000Z
-UID:hockeycanada5398
+SUMMARY:🏒 | Latvia @ Germany
+DTSTART:20260517T182000Z
+DTEND:20260517T205000Z
+UID:hockeycanada5396
 DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
  ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
- pionship/stats/game-summary/5398
+ pionship/stats/game-summary/5396
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -742,6 +732,16 @@ DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
  ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
  pionship/stats/game-summary/5399
 LOCATION:BCF Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | United States @ Finland
+DTSTART:20260518T142000Z
+DTEND:20260518T165000Z
+UID:hockeycanada5398
+DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
+ ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
+ pionship/stats/game-summary/5398
+LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Germany @ Switzerland
@@ -764,16 +764,6 @@ DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Norway @ Italy
-DTSTART:20260519T142000Z
-DTEND:20260519T165000Z
-UID:hockeycanada5403
-DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
- ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
- pionship/stats/game-summary/5403
-LOCATION:BCF Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Austria @ Latvia
 DTSTART:20260519T142000Z
 DTEND:20260519T165000Z
@@ -784,13 +774,13 @@ DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Slovakia @ Slovenia
-DTSTART:20260519T182000Z
-DTEND:20260519T205000Z
-UID:hockeycanada5406
+SUMMARY:🏒 | Norway @ Italy
+DTSTART:20260519T142000Z
+DTEND:20260519T165000Z
+UID:hockeycanada5403
 DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
  ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
- pionship/stats/game-summary/5406
+ pionship/stats/game-summary/5403
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -804,14 +794,14 @@ DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Austria @ Switzerland
-DTSTART:20260520T142000Z
-DTEND:20260520T165000Z
-UID:hockeycanada5405
+SUMMARY:🏒 | Slovakia @ Slovenia
+DTSTART:20260519T182000Z
+DTEND:20260519T205000Z
+UID:hockeycanada5406
 DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
  ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
- pionship/stats/game-summary/5405
-LOCATION:Swiss Life Arena
+ pionship/stats/game-summary/5406
+LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Italy @ Czechia
@@ -824,13 +814,13 @@ DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Germany @ United States
-DTSTART:20260520T182000Z
-DTEND:20260520T205000Z
-UID:hockeycanada5408
+SUMMARY:🏒 | Austria @ Switzerland
+DTSTART:20260520T142000Z
+DTEND:20260520T165000Z
+UID:hockeycanada5405
 DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
  ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
- pionship/stats/game-summary/5408
+ pionship/stats/game-summary/5405
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -842,6 +832,16 @@ DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
  ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
  pionship/stats/game-summary/5409
 LOCATION:BCF Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Germany @ United States
+DTSTART:20260520T182000Z
+DTEND:20260520T205000Z
+UID:hockeycanada5408
+DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
+ ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
+ pionship/stats/game-summary/5408
+LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Latvia @ Finland
@@ -864,16 +864,6 @@ DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Great Britain @ Switzerland
-DTSTART:20260521T182000Z
-DTEND:20260521T205000Z
-UID:hockeycanada5412
-DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
- ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
- pionship/stats/game-summary/5412
-LOCATION:Swiss Life Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Slovakia @ Denmark
 DTSTART:20260521T182000Z
 DTEND:20260521T205000Z
@@ -882,6 +872,16 @@ DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
  ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
  pionship/stats/game-summary/5413
 LOCATION:BCF Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Great Britain @ Switzerland
+DTSTART:20260521T182000Z
+DTEND:20260521T205000Z
+UID:hockeycanada5412
+DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
+ ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
+ pionship/stats/game-summary/5412
+LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Germany @ Hungary
@@ -904,16 +904,6 @@ DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Sweden @ Italy
-DTSTART:20260522T182000Z
-DTEND:20260522T205000Z
-UID:hockeycanada5417
-DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
- ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
- pionship/stats/game-summary/5417
-LOCATION:BCF Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Great Britain @ Finland
 DTSTART:20260522T182000Z
 DTEND:20260522T205000Z
@@ -924,13 +914,13 @@ DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Slovenia @ Denmark
-DTSTART:20260523T102000Z
-DTEND:20260523T125000Z
-UID:hockeycanada5419
+SUMMARY:🏒 | Sweden @ Italy
+DTSTART:20260522T182000Z
+DTEND:20260522T205000Z
+UID:hockeycanada5417
 DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
  ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
- pionship/stats/game-summary/5419
+ pionship/stats/game-summary/5417
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -942,6 +932,16 @@ DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
  ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
  pionship/stats/game-summary/5418
 LOCATION:Swiss Life Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Slovenia @ Denmark
+DTSTART:20260523T102000Z
+DTEND:20260523T125000Z
+UID:hockeycanada5419
+DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
+ ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
+ pionship/stats/game-summary/5419
+LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Hungary @ Switzerland
@@ -964,16 +964,6 @@ DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Austria @ Germany
-DTSTART:20260523T182000Z
-DTEND:20260523T205000Z
-UID:hockeycanada5423
-DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
- ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
- pionship/stats/game-summary/5423
-LOCATION:Swiss Life Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Norway @ Sweden
 DTSTART:20260523T182000Z
 DTEND:20260523T205000Z
@@ -984,14 +974,14 @@ DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Italy @ Denmark
-DTSTART:20260524T142000Z
-DTEND:20260524T165000Z
-UID:hockeycanada5426
+SUMMARY:🏒 | Austria @ Germany
+DTSTART:20260523T182000Z
+DTEND:20260523T205000Z
+UID:hockeycanada5423
 DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
  ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
- pionship/stats/game-summary/5426
-LOCATION:BCF Arena
+ pionship/stats/game-summary/5423
+LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Great Britain @ Latvia
@@ -1002,6 +992,16 @@ DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
  ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
  pionship/stats/game-summary/5425
 LOCATION:Swiss Life Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Italy @ Denmark
+DTSTART:20260524T142000Z
+DTEND:20260524T165000Z
+UID:hockeycanada5426
+DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
+ ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
+ pionship/stats/game-summary/5426
+LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Slovakia @ Canada
@@ -1024,16 +1024,6 @@ DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Norway @ Czechia
-DTSTART:20260525T142000Z
-DTEND:20260525T165000Z
-UID:hockeycanada5430
-DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
- ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
- pionship/stats/game-summary/5430
-LOCATION:BCF Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Hungary @ United States
 DTSTART:20260525T142000Z
 DTEND:20260525T165000Z
@@ -1044,13 +1034,13 @@ DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Italy @ Slovenia
-DTSTART:20260525T182000Z
-DTEND:20260525T205000Z
-UID:hockeycanada5432
+SUMMARY:🏒 | Norway @ Czechia
+DTSTART:20260525T142000Z
+DTEND:20260525T165000Z
+UID:hockeycanada5430
 DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
  ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
- pionship/stats/game-summary/5432
+ pionship/stats/game-summary/5430
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1062,6 +1052,16 @@ DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
  ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
  pionship/stats/game-summary/5431
 LOCATION:Swiss Life Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Italy @ Slovenia
+DTSTART:20260525T182000Z
+DTEND:20260525T205000Z
+UID:hockeycanada5432
+DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
+ ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
+ pionship/stats/game-summary/5432
+LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Latvia @ Hungary
@@ -1104,16 +1104,6 @@ DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Finland @ Switzerland
-DTSTART:20260526T182000Z
-DTEND:20260526T205000Z
-UID:hockeycanada5437
-DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
- ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
- pionship/stats/game-summary/5437
-LOCATION:Swiss Life Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Canada @ Czechia
 DTSTART:20260526T182000Z
 DTEND:20260526T205000Z
@@ -1122,6 +1112,16 @@ DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
  ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
  pionship/stats/game-summary/5438
 LOCATION:BCF Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Finland @ Switzerland
+DTSTART:20260526T182000Z
+DTEND:20260526T205000Z
+UID:hockeycanada5437
+DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
+ ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
+ pionship/stats/game-summary/5437
+LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Summerside Western Capitals @ Niverville Nighthawks
@@ -1431,7 +1431,7 @@ DESCRIPTION:Tournament: Hlinka Gretzky Cup - Semifinal\nGame Center: https
 LOCATION:Rogers Place
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | United States @ Czechia 
+SUMMARY:🏒 | United States @ Czechia
 DTSTART:20260803T190000Z
 DTEND:20260803T213000Z
 UID:hockeycanada5709
@@ -1441,7 +1441,7 @@ DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
 LOCATION:Rogers Place
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Germany  @ Finland
+SUMMARY:🏒 | Germany @ Finland
 DTSTART:20260803T210000Z
 DTEND:20260803T233000Z
 UID:hockeycanada5710
@@ -1471,7 +1471,7 @@ DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
 LOCATION:Downtown Community Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Germany  @ Czechia 
+SUMMARY:🏒 | Germany @ Czechia
 DTSTART:20260804T190000Z
 DTEND:20260804T213000Z
 UID:hockeycanada5713
@@ -1521,7 +1521,7 @@ DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
 LOCATION:Rogers Place
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Czechia  @ Finland
+SUMMARY:🏒 | Czechia @ Finland
 DTSTART:20260805T210000Z
 DTEND:20260805T233000Z
 UID:hockeycanada5718
@@ -1541,7 +1541,7 @@ DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
 LOCATION:Rogers Place
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | United States @ Germany 
+SUMMARY:🏒 | United States @ Germany
 DTSTART:20260806T010000Z
 DTEND:20260806T033000Z
 UID:hockeycanada5720
