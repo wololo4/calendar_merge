@@ -5,7 +5,6 @@
 AHL:
   parser: hockeytech
   base_url: https://lscluster.hockeytech.com/feed/index.php?feed=modulekit&view=schedule&client_code=ahl&key=ccb91f29d6744675
-  season_id: [94,96]
   teams:
     - name: Laval Rocket
       team_id: 415
@@ -13,7 +12,6 @@ AHL:
 BCHL:
   parser: hockeytech
   base_url: https://cluster.leaguestat.com/feed/index.php?feed=modulekit&view=schedule&client_code=bchl&key=ca4e9e599d4dae55
-  season_id: [72]
   teams:
     - name: Victoria Grizzlies
       team_id: 18
@@ -30,7 +28,6 @@ CHL:
 CHL_Memorial_Cup:
   parser: hockeytech
   base_url: https://lscluster.hockeytech.com/feed/index.php?feed=modulekit&view=schedule&key=f1aa699db3d81487&client_code=chl
-  season_id: [82,84]
   teams: []
 
 DEL:
@@ -43,10 +40,14 @@ DEL:
 ECHL:
   parser: hockeytech
   base_url: https://lscluster.hockeytech.com/feed/index.php?feed=modulekit&view=schedule&client_code=echl&key=2c2b89ea7345cae8
-  season_id: 78
   teams:
     - name: Trois-Rivières Lions
       team_id: 99
+
+Hockey_Canada:
+  parser: hockeytech
+  base_url: https://lscluster.hockeytech.com/feed/index.php?feed=modulekit&client_code=hockeycanada&key=a575453e4321c122
+  league_id: [7,24,26,27,32,34,38]
 
 KHL:
   parser: khl
@@ -62,21 +63,34 @@ KHL:
     # - name: Spartak Moscow
     #   team_id: 7
 
+LHJAAAQ:
+  parser: publicationsports
+  base_url: "https://www.lhjaaaq.com/fr/stats/horaire.html?"
+  teams:
+    - name: L'Énergie de Laval
+      team_id: 139435
+
 LHJMQ:
   parser: hockeytech
   base_url: https://cluster.leaguestat.com/feed/index.php?feed=modulekit&view=schedule&client_code=lhjmq&key=f322673b6bcae299
-  season_id: [213,214,215]
   teams:
     - name: Saguenéens Chicoutimi
       team_id: 10
     - name: Foreurs Val-d'Or
       team_id: 15
 
+LHMAAAQ:
+  parser: publicationsports
+  base_url: "https://www.m18aaa.com/fr/stats/horaire.html?"
+  teams:
+    - name: Rousseau-Royal Montréal-Laval
+      team_id: 110276
+
 Liiga:
   parser: liiga
   base_url: https://liiga.fi/api/v2/schedule
   season: 2027
-  tournament: [valmistavat_ottelut,runkosarja,playoffs]
+  tournament: [runkosarja,playoffs]
   teams:
     - name: TPS turku
       team_id: "651304385:tps"
@@ -87,6 +101,8 @@ Liiga:
 #   teams:
 #     - name: 
 
+# this link works for the 2025-26 seasons. when the compound schedule is release, replace the current big ten parser and future proof
+# https://bigten.org/api/cms/b1g/api/game/?where[datetime.date_scheduled][greater_than_equal]=2026-09-01T00:00:00.000Z&where[datetime.date_scheduled][less_than]=2027-04-30T23:59:59.000Z&where%5Bsport.alias%5D%5Bequals%5D=mhky&limit=500&sort=datetime.date_scheduled
 NCAA_BIG10:
   parser: ncaa
   teams:
@@ -142,7 +158,6 @@ NHL:
 OHL:
   parser: hockeytech
   base_url: https://cluster.leaguestat.com/feed/index.php?feed=modulekit&view=schedule&client_code=ohl&key=2976319eb44abe94
-  season_id: [87,88,89]
   teams:
     - name: Brantford Bulldogs
       team_id: 1
@@ -184,7 +199,6 @@ VHL:
 WHL:
   parser: hockeytech
   base_url: https://cluster.leaguestat.com/feed/index.php?feed=modulekit&view=schedule&client_code=whl&key=41b145a848f4bd67
-  season_id: [294,295,296]
   teams:
     - name: Penticton Vees
       team_id: 277

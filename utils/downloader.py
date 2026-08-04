@@ -2,10 +2,13 @@ import os
 import requests
 import json
 import re
+import cloudscraper
+from bs4 import BeautifulSoup
 from icalendar import Calendar
 
 from parsers.nhl import parse_nhl_json_to_calendar
 from parsers.hockeytech import parse_hockeytech
+from parsers.publicationsports import parse_publicationsports
 from parsers.ncaa import parse_ncaa, parse_ncaa_conf
 from parsers.khl import parse_khl_ics
 from parsers.chl_europe import parse_chl_europe_json_to_calendar
@@ -77,6 +80,19 @@ def download_single_feed(feed_info):
                 return league, team_name, calendar
             except Exception as e:
                 print("Error parsing HockeyTech JSON:", e)
+                return league, team_name, None
+
+        # ============================
+        # Publication Sports
+        # ============================
+        if parser == "publicationsports":
+            try:
+                scraper = cloudscraper.create_scraper()
+                html = scraper.get(url).text
+                calendar = parse_publicationsports(html, team_filter, league)
+                return league, team_name, calendar
+            except Exception as e:
+                print("Error parsing Publication Sports JSON:", e)
                 return league, team_name, None
 
         # ============================

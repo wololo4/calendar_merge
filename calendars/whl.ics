@@ -4,38 +4,6 @@ PRODID:-//Hockey Calendar//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:🏒 | Penticton Vees @ Kamloops Blazers
-DTSTART:20260903T020000Z
-DTEND:20260903T043000Z
-UID:whl1023031
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023031
-LOCATION:Sandman Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kamloops Blazers @ Penticton Vees
-DTSTART:20260909T013500Z
-DTEND:20260909T040500Z
-UID:whl1023057
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023057
-LOCATION:South Okanagan Events Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kelowna Rockets @ Penticton Vees
-DTSTART:20260910T013500Z
-DTEND:20260910T040500Z
-UID:whl1023058
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023058
-LOCATION:South Okanagan Events Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Penticton Vees @ Kelowna Rockets
-DTSTART:20260913T010500Z
-DTEND:20260913T033500Z
-UID:whl1023069
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023069
-LOCATION:Prospera Place
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Penticton Vees @ Prince George Cougars
 DTSTART:20260919T020000Z
 DTEND:20260919T043000Z
@@ -580,46 +548,6 @@ DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023851
 LOCATION:Prospera Place
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Prince Albert Raiders @ Saskatoon Blades
-DTSTART:20260901T200000Z
-DTEND:20260901T223000Z
-UID:whl1023029
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023029
-LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Swift Current Broncos
-DTSTART:20260905T010000Z
-DTEND:20260905T033000Z
-UID:whl1023041
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023041
-LOCATION:InnovationPlex
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Prince Albert Raiders @ Saskatoon Blades
-DTSTART:20260906T010000Z
-DTEND:20260906T033000Z
-UID:whl1023049
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023049
-LOCATION:Warman Home Centre Communiplex
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Prince Albert Raiders
-DTSTART:20260911T010000Z
-DTEND:20260911T033000Z
-UID:whl1023060
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023060
-LOCATION:Art Hauser Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Regina Pats @ Saskatoon Blades
-DTSTART:20260913T010000Z
-DTEND:20260913T033000Z
-UID:whl1023073
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023073
-LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Saskatoon Blades @ Brandon Wheat Kings
 DTSTART:20260919T000000Z
 DTEND:20260919T023000Z
@@ -1154,54 +1082,6 @@ DTEND:20270328T033000Z
 UID:whl1023854
 DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023854
 LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Swift Current Broncos @ Regina Pats
-DTSTART:20260902T010000Z
-DTEND:20260902T033000Z
-UID:whl1023030
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023030
-LOCATION:Brandt Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Moose Jaw Warriors @ Regina Pats
-DTSTART:20260903T010000Z
-DTEND:20260903T033000Z
-UID:whl1023032
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023032
-LOCATION:Brandt Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Regina Pats @ Brandon Wheat Kings
-DTSTART:20260905T000000Z
-DTEND:20260905T023000Z
-UID:whl1023033
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023033
-LOCATION:Assiniboine Credit Union Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brandon Wheat Kings @ Regina Pats
-DTSTART:20260906T000000Z
-DTEND:20260906T023000Z
-UID:whl1023048
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023048
-LOCATION:Ochapowace\, SK
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Regina Pats @ Moose Jaw Warriors
-DTSTART:20260909T010000Z
-DTEND:20260909T033000Z
-UID:whl1023056
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023056
-LOCATION:Temple Gardens Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Prince Albert Raiders @ Regina Pats
-DTSTART:20260912T010000Z
-DTEND:20260912T033000Z
-UID:whl1023065
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023065
-LOCATION:Brandt Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Regina Pats @ Prince Albert Raiders
