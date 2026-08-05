@@ -48,6 +48,7 @@ Hockey_Canada:
   parser: hockeytech
   base_url: https://lscluster.hockeytech.com/feed/index.php?feed=modulekit&client_code=hockeycanada&key=a575453e4321c122
   league_id: [7,24,26,27,32,34,38]
+  teams: []
 
 KHL:
   parser: khl
