@@ -145,7 +145,12 @@ def parse_publicationsports(html, team_filter=None, league=None):
         except:
             continue
 
+        if not isinstance(items, list):
+            continue
+
         for item in items:
+            if not isinctance(item, dict):
+                continue
             event_name = item.get("eventName", "Match")
             begin_time = item.get("beginTime")
             game_id = item.get("gameId")
