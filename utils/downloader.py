@@ -94,7 +94,7 @@ def download_single_feed(feed_info):
                 html = scraper.get(url).text
                 calendar = parse_publicationsports(html, team_filter, league)
                 return league, team_name, calendar
-            except Exception:
+            except Exception as e:
                 print("Error parsing Publication Sports JSON:", e)
                 return league, team_name, None
 
