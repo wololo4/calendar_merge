@@ -189,8 +189,10 @@ DTSTART:20261028T000000Z
 DTEND:20261028T023000Z
 UID:nhl2026020191
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
- er/mtl-vs-stl/2026/10/27/2026020191\nTickets: https://www.nhl.com/blues/ti
- ckets/
+ er/mtl-vs-stl/2026/10/27/2026020191\nTickets: https://www.ticketmaster.com
+ /event/060064EECE021B24?brand=blues&artistid=806025&wt.mc_id=NHL_TEAM_STL_
+ SCHEDULE_GM6&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_ST
+ L&utm_content=SCHEDULE_GM6
 LOCATION:Enterprise Center
 END:VEVENT
 BEGIN:VEVENT
@@ -293,8 +295,11 @@ DTSTART:20261117T003000Z
 DTEND:20261117T030000Z
 UID:nhl2026020331
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
- er/mtl-vs-nyr/2026/11/16/2026020331\nTickets: https://www.nhl.com/rangers/
- tickets/
+ er/mtl-vs-nyr/2026/11/16/2026020331\nTickets: https://www.ticketmaster.com
+ /event/3B0064F1B1DB4455?brand=nyrangers&artistid=805991&landing=s&wt.mc_id
+ =NHL_TEAM_NYR_SCHEDULE_GM11&utm_source=NHL.com&utm_medium=client&utm_campa
+ ign=NHL_TEAM_NYR&utm_content=SCHEDULE_GM11&CAMEFROM=CFC_RANGERS_WEB_NYR_SC
+ HED_260803
 LOCATION:Madison Square Garden
 END:VEVENT
 BEGIN:VEVENT
