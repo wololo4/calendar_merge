@@ -202,15 +202,8 @@ def load_feeds():
 
             response = scraper.get(base_url)
 
-            print("DEBUG FEEDS URL:", base_url)
-            print("DEBUG FEEDS STATUS:", response.status_code)
-            print("DEBUG FEEDS HEADERS:", response.headers)
-
             current_season = extract_latest_season(html)
             current_sub = extract_regular_subseason(html)
-
-            print("DEBUG current_season:", current_season)
-            print("DEBUG current_sub:", current_sub)
 
             for sub_id, sub_name in current_sub:
                 if league == "LHMAAAQ":
