@@ -146,7 +146,6 @@ def parse_publicationsports(html, team_filter=None, league=None):
             continue
 
         for item in items:
-            print("DEBUG: item:", item)
             event_name = item.get("eventName", "Match")
             begin_time = item.get("beginTime")
             game_id = item.get("gameId")
