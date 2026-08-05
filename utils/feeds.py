@@ -198,11 +198,6 @@ def load_feeds():
             team_filter = [str(t["team_id"]) for t in data.get("teams", [])]
 
             scraper = cloudscraper.create_scraper()
-            response = scraper.get(base_url)
-
-            print(response.status_code)
-            print(response.headers)
-            print(response.text[:1000])
             html = scraper.get(base_url).text
 
             current_season = extract_latest_season(html)
