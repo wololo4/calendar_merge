@@ -28,12 +28,6 @@ def hockeytech_fetch_seasons(base_url):
     # Convert schedule URL → seasons URL
     seasons_url = base_url.replace("view=schedule", "view=seasons") + "&fmt=json"
     scraper = cloudscraper.create_scraper()
-    response = scraper.get(base_url)
-
-    print("STATUS:", response.status_code)
-    print("HEADERS:", response.headers)
-    print("HTML:", response.text[:5000])  # print first 5000 chars
-
     raw = scraper.get(seasons_url).text
     data = json.loads(raw)
     return data.get("SiteKit", {}).get("Seasons", [])
@@ -204,6 +198,12 @@ def load_feeds():
             team_filter = [str(t["team_id"]) for t in data.get("teams", [])]
 
             scraper = cloudscraper.create_scraper()
+            response = scraper.get(base_url)
+
+            print("STATUS:", response.status_code)
+            print("HEADERS:", response.headers)
+            print("HTML:", response.text[:5000])  # print first 5000 chars
+
             html = scraper.get(base_url).text
 
             current_season = extract_latest_season(html)
