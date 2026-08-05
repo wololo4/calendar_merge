@@ -51,8 +51,11 @@ def download_single_feed(feed_info):
     
     try:
         print(f"Downloading: {league} - {team_name} -> {url[:50]}...")
-        response = session.get(url, headers=headers, timeout=4)
-        response.raise_for_status()
+        if parser == "publicationsports":
+            pass
+        else:
+            response = session.get(url, headers=headers, timeout=4)
+            response.raise_for_status()
 
         # ============================
         # NHL (ICS or JSON)
