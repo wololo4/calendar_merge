@@ -3,6 +3,7 @@ import requests
 import json
 import re
 import cloudscraper
+import traceback
 from bs4 import BeautifulSoup
 from icalendar import Calendar
 
@@ -88,16 +89,12 @@ def download_single_feed(feed_info):
         if parser == "publicationsports":
             try:
                 scraper = cloudscraper.create_scraper()
-                response = scraper.get(url)
-
-                print(response.status_code)
-                print(response.headers)
-                print(response.text[:1000])
                 html = scraper.get(url).text
                 calendar = parse_publicationsports(html, team_filter, league)
                 return league, team_name, calendar
-            except Exception as e:
-                print("Error parsing Publication Sports JSON:", e)
+            except Exception:
+                traceback.print_exc()
+                #print("Error parsing Publication Sports JSON:", e)
                 return league, team_name, None
 
         # ============================
