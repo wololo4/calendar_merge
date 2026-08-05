@@ -120,6 +120,8 @@ def parse_publicationsports(html, team_filter=None, league=None):
         if script.string and "PS.component.statistic_schedule_sd" in script.string:
             target_script = script.string
             break
+    print("DEBUG: Found script block, first 1000 chars:")
+    print(target_script[:1000])
 
     if not target_script:
         print("eventsInfo introuvable dans le HTML")
@@ -131,14 +133,17 @@ def parse_publicationsports(html, team_filter=None, league=None):
         return cal
 
     events_info = data["eventsInfo"]
+    print("DEBUG: eventsInfo keys:", list(events_info.keys())[:20])
 
     locations_data = extract_json_object(target_script, "locationsInfo")
     if locations_data:
         locations_info = locations_data["locationsInfo"]
     else:
         locations_info = {}
+    print("DEBUG: locationsInfo keys:", list(locations_info.keys())[:20])
 
     for timestamp_str, items in events_info.items():
+        print("DEBUG: timestamp:", timestamp_str, "items:", len(items))
         try:
             ts = int(timestamp_str)
             dtstart = datetime.utcfromtimestamp(ts)
@@ -146,6 +151,7 @@ def parse_publicationsports(html, team_filter=None, league=None):
             continue
 
         for item in items:
+            print("DEBUG: item:", item)
             event_name = item.get("eventName", "Match")
             begin_time = item.get("beginTime")
             game_id = item.get("gameId")
