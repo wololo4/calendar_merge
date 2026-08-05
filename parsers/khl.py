@@ -3,53 +3,55 @@ from datetime import datetime, timedelta, timezone
 import re
 
 TEAM_SYNONYMS = {
-    "avangard": "Avangard Omsk",
-    "avtomobilist": "Avtomobilist Ekaterinburg",
-    "admiral": "Admiral Vladivostok",
-    "ak bars": "Ak Bars Kazan",
-    "amur": "Amur Khabarovsk",
-    "amur khabarovsk": "Amur Khabarovsk",
-    "barys": "Barys Astana",
-    "dinamo mn": "Dinamo Minsk",
-    "dinamo msk": "Dynamo Moscow",
-    "dynamo msk": "Dynamo Moscow",
-    "lada": "Lada Togliatti",
-    "lokomotiv": "Lokomotiv Yaroslavl",
-    "metallurg mg": "Metallurg Magnitogorsk",
-    "neftekhimik": "Neftekhimik Nizhnekamsk",
-    "salavat yulaev ufa": "Salavat Yulaev Ufa",
-    "salavat yulaev": "Salavat Yulaev Ufa",
-    "severstal": "Severstal Cherepovets",
-    "sibir": "Sibir Novosibrisk Region",
-    "ska": "SKA Saint Petersburg",
-    "spartak": "Spartak Moscow",
-    "spartak moscow": "Spartak Moscow",
-    "torpedo": "Torpedo Nizhny Novgorod",
-    "torpedo nizhny novgorod": "Torpedo Nizhny Novgorod",
-    "traktor": "Traktor Chelyabinsk",
-    "hc sochi": "HC Sochi",
-    "cska": "CSKA Moscow",
-    "dragons": "Shanghai Dragons"
+    "авангард": "Avangard Omsk",
+    "автомобилист": "Avtomobilist Ekaterinburg",
+    "адмирал": "Admiral Vladivostok",
+    "ак барс": "Ak Bars Kazan",
+    "амур": "Amur Khabarovsk",
+    "барыс": "Barys Astana",
+    "динамо мн": "Dinamo Minsk",
+    "динамо м": "Dynamo Moscow",
+    "лада": "Lada Togliatti",
+    "локомотив": "Lokomotiv Yaroslavl",
+    "металлург мг": "Metallurg Magnitogorsk",
+    "нефтехимик": "Neftekhimik Nizhnekamsk",
+    "салават юлаев": "Salavat Yulaev Ufa",
+    "северсталь": "Severstal Cherepovets",
+    "сибирь": "Sibir Novosibrisk Region",
+    "ска": "SKA Saint Petersburg",
+    "спартак": "Spartak Moscow",
+    "торпедо": "Torpedo Nizhny Novgorod",
+    "трактор": "Traktor Chelyabinsk",
+    "хк сочи": "HC Sochi",
+    "цска": "CSKA Moscow",
+    "драконы": "Shanghai Dragons",
 }
 
 CITY_TO_ARENA = {
-    "Arena-2000-Lokomotiv": "Arena 2000",
-    "Bolshoy": "Bolshoy Ice Dome",
-    "Lada-Arena": "Lada Arena",
-    "Ledovyy Dvorets": "Ice Palace",
-    "Megasport": "Megasport Arena",
-    "Minsk-Arena": "Minsk Arena",
-    "Nagornyy": "CEC Nagorny",
-    "Neftekhim Arena": "Neftekhim Ice Palace",
-    "Sibir-Arena": "Sibir Arena",
-    "Traktor": "Traktor Ice Arena",
-    "TsSKA Arena": "CSKA Arena",
-    "Ufa-Arena": "Ufa Arena",
-    "UGMK Arena": "UMMC Arena",
+    "Ярославль": "Arena-2000 Lokomotiv",
+    "Магнитогорск": "Arena Metallurg",
+    "Астана": "Barys Arena",
+    "ФТ Сириус": "Bolshoy Ice Dome",
+    "Москва": "CSKA Arena",
+    "Владивосток": "Fetisov Arena",
+    "Омск": "G-Drive Arena",
+    "Череповец": "Ice Palace",
+    "Тольятти": "Lada Arena",
+    # "Megasport": "Megasport Arena",
+    "Минск": "Minsk Arena",
+    "Нижний Новгород": "CEC Nagorny",
+    "Нижнекамск": "Neftekhim Ice Palace",
+    "Хабаровск": "Platinum Arena",
+    "Санкт-Петербург": "SKA Arena",
+    "Новосибирск": "Sibir Arena",
+    "Казань": "Tatneft Arena",
+    "Челябинск": "Traktor Ice Arena",
+    "Уфа": "Ufa Arena",
+    "Екатеринбург": "UMMC Arena",
 }
 
 KNOWN_ARENAS = {
-    "Arena 2000",
+    "Arena-2000 Lokomotiv",
     "Arena Metallurg",
     "Barys Arena",
     "Bolshoy Ice Dome",
@@ -195,5 +197,90 @@ def parse_khl_ics(raw_ics, team_name, season_id):
             event.add("LOCATION", validate_arena(city_to_arena(arena_en)))
 
         cal_out.add_component(event)
+
+    return cal_out
+
+
+def parse_khl_json(events, team_filter):
+    """
+    Convertit les événements JSON du KHL Mobile API → ICS Calendar()
+    """
+    cal_out = Calendar()
+
+    target_team_id = team_filter[0] if (team_filter and isinstance(team_filter, list)) else None
+    
+    for ev in events:
+        try:
+            if not isinstance(ev, dict) or "event" not in ev:
+                print(f"[Warn] Unexpected KHL JSON structure: {ev}")
+
+            ev_event = ev["event"]
+            # ============================
+            # Filtrage par équipe
+            # ============================
+            team_a = ev_event.get("team_a", {})
+            team_b = ev_event.get("team_b", {})
+
+            team_a_id = team_a.get("id")
+            team_b_id = team_b.get("id")
+
+            if target_team_id is not None:
+                if team_a_id != target_team_id and team_b_id != target_team_id:
+                    continue
+
+            # ============================
+            # Noms normalisés
+            # ============================
+            home = normalize(team_a.get("name", ""))
+            away = normalize(team_b.get("name", ""))
+
+            # ============================
+            # Horaires
+            # ============================
+            ts = ev_event.get("start_at")
+            if not ts:
+                continue
+
+            if ts > 10**12:
+                ts = ts//1000
+
+            dtstart = datetime.fromtimestamp(ts, tz=timezone.utc)
+            dtend = dtstart + timedelta(hours=2, minutes=30)
+
+            # ============================
+            # UID
+            # ============================
+            match_id = ev_event.get("khl_id")
+            season_id = ev_event.get("outer_stage_id")
+            uid = f"khl{match_id}"
+
+            # ============================
+            # Location
+            # ============================
+            raw_loc = ev_event.get("location", "")
+            arena_final = validate_arena(city_to_arena(raw_loc))
+
+            game_center = f"https://en.khl.ru/game/{season_id}/{match_id}/preview"
+
+            # ============================
+            # ICS Event
+            # ============================
+            event = Event()
+            event.add("SUMMARY", f"🏒 | {away} @ {home}")
+            event.add("DTSTART", dtstart)
+            event.add("DTEND", dtend)
+            event.add("UID", uid)
+
+            # Game Center (optionnel)
+            event.add("DESCRIPTION", f"Game Center: {game_center}")
+
+            if arena_final:
+                event.add("LOCATION", arena_final)
+
+            cal_out.add_component(event)
+
+        except Exception as e:
+            print(f"[ERROR] KHL JSON parse error: {e}")
+            continue
 
     return cal_out

@@ -10,7 +10,7 @@ from parsers.nhl import parse_nhl_json_to_calendar
 from parsers.hockeytech import parse_hockeytech
 from parsers.publicationsports import parse_publicationsports
 from parsers.ncaa import parse_ncaa, parse_ncaa_conf
-from parsers.khl import parse_khl_ics
+from parsers.khl import parse_khl_json
 from parsers.chl_europe import parse_chl_europe_json_to_calendar
 from parsers.ufa import parse_ufa_json_to_calendar
 from parsers.vhl import parse_vhl_html
@@ -122,10 +122,28 @@ def download_single_feed(feed_info):
         # ============================
         # KHL HTML
         # ============================
-        if league == "KHL":
-            html = response.text
-            calendar = parse_khl_ics(html, team_name, team_filter)
-            return league, team_name, calendar
+        if parser == "khl":
+            try:
+                all_events = []
+                page = 1
+                base_url_no_page = url
+                page_index = base_url_no_page.find("&page=")
+
+                while True:
+                    paged_url = f"{base_url_no_page}&page={page}"
+                    resp = session.get(paged_url, headers=headers, timeout=4)
+                    resp.raise_for_status
+                    raw_json = resp.json()
+                    if not raw_json:
+                        break
+                    all_events.extend(raw_json)
+                    page += 1
+
+                calendar = parse_khl_json(all_events, team_filter)
+                return league, team_name, calendar
+            except Exception as e:
+                print("Error parsing KHL JSON:", e)
+                return league, team_name, None
 
 
         # ============================

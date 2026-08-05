@@ -52,13 +52,12 @@ Hockey_Canada:
 
 KHL:
   parser: khl
-  base_url: https://en.khl.ru/calendar/ics
-  season_id: 1436
+  base_url: https://khl.api.webcaster.pro/api/khl_mobile/events_v2.json
   teams:
     - name: Salavat Yulaev Ufa
-      team_id: 38
+      team_id: 32
     - name: Torpedo Nizhny Novgorod
-      team_id: 26
+      team_id: 22
     # - name: Amur Khabarovsk
     #   team_id: 54
     # - name: Spartak Moscow

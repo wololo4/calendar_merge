@@ -165,7 +165,14 @@ def load_feeds():
                 seasons_json = requests.get(seasons_url).json()
                 seasons = seasons_json["SiteKit"]["Seasons"]
 
-                cutoff = datetime.now() - timedelta(days=180)
+                today = datetime.now()
+                july_first_this_year = datetime(today.year, 7, 1)
+
+                if today < july_first_this_year:
+                    cutoff = datetime(today.year - 1, 7, 1)
+                else:
+                    cutoff = july_first_this_year
+
                 filtered_seasons = []
                 for s in seasons:
                     start_date = datetime.strptime(s["start_date"], "%Y-%m-%d")
@@ -391,15 +398,43 @@ def load_feeds():
             continue
 
         # ============================
-        # KHL ICS parser (auto URL)
+        # KHL 
         # ============================
         if parser == "khl":
             base_url = data["base_url"]
+            today = datetime.now()
+            july_first_this_year = datetime(today.year,7,1)
+
+            if today < july_first_this_year:
+                season_start_year = today.year - 1
+            else:
+                season_start_year = today.year
+
+            season_start = int(datetime(season_start_year,7,1).timestamp())
+            season_end = int(datetime(season_start_year + 1,7,1).timestamp())
+
             for team in data.get("teams", []):
-                url = f"{base_url}/{team['team_id']};/"
-                feeds.append((league, team["name"], url, data.get("season_id"), parser))
+                team_id = team["team_id"]
+                url = (
+                    f"{base_url}"
+                    f"?q[team_a_or_team_b_in][]={team_id}"
+                    f"&q[start_at_gt_time_from_unixtime]={season_start}"
+                    f"&q[start_at_lt_time_from_unixtime]={season_end}"
+                    f"&order_direction=asc"
+                )
+
+                feeds.append(
+                    (
+                        league,
+                        team["name"],
+                        url,
+                        [team_id],
+                        "khl"
+                    )
+                )
             continue
 
-        print(f"Warning: Unknown parser for league '{league}'")
+        if parser not in ["hockeytech", "nhl", "publicationsports", "ncaa", "ncaa_conf", "shl", "chl_europe", "liiga", "del", "ufa", "vhl", "khl"]:
+            print(f"Warning: Unknown parser for league '{league}'")
 
     return feeds

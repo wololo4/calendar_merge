@@ -1375,182 +1375,6 @@ DESCRIPTION:Tournament: Centennial Cup - Preliminary\nGame Center: https:/
 LOCATION:Credit Union Place
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | A4 @ B4
-DTSTART:20260808T200000Z
-DTEND:20260808T223000Z
-UID:hockeycanada5725
-DESCRIPTION:Tournament: Hlinka Gretzky Cup - 7th\nGame Center: https://www
- .hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5725
-LOCATION:Downtown Community Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | L13 @ L14
-DTSTART:20260808T180000Z
-DTEND:20260808T203000Z
-UID:hockeycanada5724
-DESCRIPTION:Tournament: Hlinka Gretzky Cup - Bronze\nGame Center: https://
- www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5724
-LOCATION:Rogers Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | W13 @ W14
-DTSTART:20260808T230000Z
-DTEND:20260809T013000Z
-UID:hockeycanada5726
-DESCRIPTION:Tournament: Hlinka Gretzky Cup - Gold\nGame Center: https://ww
- w.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5726
-LOCATION:Rogers Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | A3 @ B3
-DTSTART:20260808T010000Z
-DTEND:20260808T033000Z
-UID:hockeycanada5723
-DESCRIPTION:Tournament: Hlinka Gretzky Cup - 5th\nGame Center: https://www
- .hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5723
-LOCATION:Downtown Community Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | TBD @ TBD
-DTSTART:20260807T180000Z
-DTEND:20260807T203000Z
-UID:hockeycanada5721
-DESCRIPTION:Tournament: Hlinka Gretzky Cup - Semifinal\nGame Center: https
- ://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=572
- 1
-LOCATION:Rogers Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | TBD @ TBD
-DTSTART:20260807T230000Z
-DTEND:20260808T013000Z
-UID:hockeycanada5722
-DESCRIPTION:Tournament: Hlinka Gretzky Cup - Semifinal\nGame Center: https
- ://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=572
- 2
-LOCATION:Rogers Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | United States @ Czechia
-DTSTART:20260803T190000Z
-DTEND:20260803T213000Z
-UID:hockeycanada5709
-DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
- ps://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5
- 709
-LOCATION:Rogers Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Germany @ Finland
-DTSTART:20260803T210000Z
-DTEND:20260803T233000Z
-UID:hockeycanada5710
-DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
- ps://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5
- 710
-LOCATION:Downtown Community Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Switzerland @ Canada
-DTSTART:20260803T230000Z
-DTEND:20260804T013000Z
-UID:hockeycanada5711
-DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
- ps://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5
- 711
-LOCATION:Rogers Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Slovakia @ Sweden
-DTSTART:20260804T010000Z
-DTEND:20260804T033000Z
-UID:hockeycanada5712
-DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
- ps://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5
- 712
-LOCATION:Downtown Community Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Germany @ Czechia
-DTSTART:20260804T190000Z
-DTEND:20260804T213000Z
-UID:hockeycanada5713
-DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
- ps://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5
- 713
-LOCATION:Rogers Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Sweden @ Switzerland
-DTSTART:20260804T210000Z
-DTEND:20260804T233000Z
-UID:hockeycanada5714
-DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
- ps://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5
- 714
-LOCATION:Downtown Community Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Canada @ Slovakia
-DTSTART:20260804T230000Z
-DTEND:20260805T013000Z
-UID:hockeycanada5715
-DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
- ps://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5
- 715
-LOCATION:Rogers Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Finland @ United States
-DTSTART:20260805T010000Z
-DTEND:20260805T033000Z
-UID:hockeycanada5716
-DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
- ps://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5
- 716
-LOCATION:Downtown Community Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Switzerland @ Slovakia
-DTSTART:20260805T190000Z
-DTEND:20260805T213000Z
-UID:hockeycanada5717
-DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
- ps://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5
- 717
-LOCATION:Rogers Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Czechia @ Finland
-DTSTART:20260805T210000Z
-DTEND:20260805T233000Z
-UID:hockeycanada5718
-DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
- ps://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5
- 718
-LOCATION:Downtown Community Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Sweden @ Canada
-DTSTART:20260805T230000Z
-DTEND:20260806T013000Z
-UID:hockeycanada5719
-DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
- ps://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5
- 719
-LOCATION:Rogers Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | United States @ Germany
-DTSTART:20260806T010000Z
-DTEND:20260806T033000Z
-UID:hockeycanada5720
-DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
- ps://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5
- 720
-LOCATION:Downtown Community Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | United States @ Canada
 DTSTART:20260222T131000Z
 DTEND:20260222T154000Z
@@ -1847,5 +1671,181 @@ DESCRIPTION:Tournament: Olympic Games - Preliminary\nGame Center: https://
  www.hockeycanada.ca/en-ca/team-canada/men/olympics/2026/stats/game-summary
  /5293
 LOCATION:Milano Santagiulia Ice Hockey Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | A4 @ B4
+DTSTART:20260808T200000Z
+DTEND:20260808T223000Z
+UID:hockeycanada5725
+DESCRIPTION:Tournament: Hlinka Gretzky Cup - 7th\nGame Center: https://www
+ .hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5725
+LOCATION:Downtown Community Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | L13 @ L14
+DTSTART:20260808T180000Z
+DTEND:20260808T203000Z
+UID:hockeycanada5724
+DESCRIPTION:Tournament: Hlinka Gretzky Cup - Bronze\nGame Center: https://
+ www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5724
+LOCATION:Rogers Place
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | W13 @ W14
+DTSTART:20260808T230000Z
+DTEND:20260809T013000Z
+UID:hockeycanada5726
+DESCRIPTION:Tournament: Hlinka Gretzky Cup - Gold\nGame Center: https://ww
+ w.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5726
+LOCATION:Rogers Place
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | A3 @ B3
+DTSTART:20260808T010000Z
+DTEND:20260808T033000Z
+UID:hockeycanada5723
+DESCRIPTION:Tournament: Hlinka Gretzky Cup - 5th\nGame Center: https://www
+ .hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5723
+LOCATION:Downtown Community Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | TBD @ TBD
+DTSTART:20260807T180000Z
+DTEND:20260807T203000Z
+UID:hockeycanada5721
+DESCRIPTION:Tournament: Hlinka Gretzky Cup - Semifinal\nGame Center: https
+ ://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=572
+ 1
+LOCATION:Rogers Place
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | TBD @ TBD
+DTSTART:20260807T230000Z
+DTEND:20260808T013000Z
+UID:hockeycanada5722
+DESCRIPTION:Tournament: Hlinka Gretzky Cup - Semifinal\nGame Center: https
+ ://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=572
+ 2
+LOCATION:Rogers Place
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | United States @ Czechia
+DTSTART:20260803T190000Z
+DTEND:20260803T213000Z
+UID:hockeycanada5709
+DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
+ ps://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5
+ 709
+LOCATION:Rogers Place
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Germany @ Finland
+DTSTART:20260803T210000Z
+DTEND:20260803T233000Z
+UID:hockeycanada5710
+DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
+ ps://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5
+ 710
+LOCATION:Downtown Community Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Switzerland @ Canada
+DTSTART:20260803T230000Z
+DTEND:20260804T013000Z
+UID:hockeycanada5711
+DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
+ ps://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5
+ 711
+LOCATION:Rogers Place
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Slovakia @ Sweden
+DTSTART:20260804T010000Z
+DTEND:20260804T033000Z
+UID:hockeycanada5712
+DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
+ ps://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5
+ 712
+LOCATION:Downtown Community Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Germany @ Czechia
+DTSTART:20260804T190000Z
+DTEND:20260804T213000Z
+UID:hockeycanada5713
+DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
+ ps://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5
+ 713
+LOCATION:Rogers Place
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Sweden @ Switzerland
+DTSTART:20260804T210000Z
+DTEND:20260804T233000Z
+UID:hockeycanada5714
+DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
+ ps://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5
+ 714
+LOCATION:Downtown Community Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Canada @ Slovakia
+DTSTART:20260804T230000Z
+DTEND:20260805T013000Z
+UID:hockeycanada5715
+DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
+ ps://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5
+ 715
+LOCATION:Rogers Place
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Finland @ United States
+DTSTART:20260805T010000Z
+DTEND:20260805T033000Z
+UID:hockeycanada5716
+DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
+ ps://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5
+ 716
+LOCATION:Downtown Community Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Switzerland @ Slovakia
+DTSTART:20260805T190000Z
+DTEND:20260805T213000Z
+UID:hockeycanada5717
+DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
+ ps://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5
+ 717
+LOCATION:Rogers Place
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Czechia @ Finland
+DTSTART:20260805T210000Z
+DTEND:20260805T233000Z
+UID:hockeycanada5718
+DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
+ ps://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5
+ 718
+LOCATION:Downtown Community Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Sweden @ Canada
+DTSTART:20260805T230000Z
+DTEND:20260806T013000Z
+UID:hockeycanada5719
+DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
+ ps://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5
+ 719
+LOCATION:Rogers Place
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | United States @ Germany
+DTSTART:20260806T010000Z
+DTEND:20260806T033000Z
+UID:hockeycanada5720
+DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
+ ps://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5
+ 720
+LOCATION:Downtown Community Arena
 END:VEVENT
 END:VCALENDAR
