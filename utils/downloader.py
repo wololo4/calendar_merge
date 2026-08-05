@@ -89,6 +89,12 @@ def download_single_feed(feed_info):
         if parser == "publicationsports":
             try:
                 scraper = cloudscraper.create_scraper()
+                response = scraper.get(base_url)
+
+                print("STATUS:", response.status_code)
+                print("HEADERS:", response.headers)
+                print("HTML:", response.text[:5000])  # print first 5000 chars
+
                 html = scraper.get(url).text
                 calendar = parse_publicationsports(html, team_filter, league)
                 return league, team_name, calendar
