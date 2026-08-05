@@ -89,20 +89,14 @@ def download_single_feed(feed_info):
         # Publication Sports
         # ============================
         if parser == "publicationsports":
-            #try:
-            scraper = cloudscraper.create_scraper()
-            response = scraper.get(url)
-
-            print("DEBUG URL:", url)
-            print("DEBUG STATUS:", response.status_code)
-            print("DEBUG HEADERS:", response.headers)
-            print("DEBUG HTML FIRST 2000:", response.text[:2000])
-            html = scraper.get(url).text
-            calendar = parse_publicationsports(html, team_filter, league)
-            return league, team_name, calendar
-            #except Exception:
-                #print("Error parsing Publication Sports JSON:", e)
-                #return league, team_name, None
+            try:
+                scraper = cloudscraper.create_scraper()
+                html = scraper.get(url).text
+                calendar = parse_publicationsports(html, team_filter, league)
+                return league, team_name, calendar
+            except Exception:
+                print("Error parsing Publication Sports JSON:", e)
+                return league, team_name, None
 
         # ============================
         # NCAA / SIDEARM JSON
