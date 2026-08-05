@@ -132,8 +132,10 @@ DTSTART:20261014T233000Z
 DTEND:20261015T020000Z
 UID:nhl2026020106
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
- er/mtl-vs-wsh/2026/10/14/2026020106\nTickets: https://www.nhl.com/capitals
- /tickets/
+ er/mtl-vs-wsh/2026/10/14/2026020106\nTickets: https://www.ticketmaster.com
+ /event/150064F03462E28A?brand=capitals&artistid=806039&wt.mc_id=NHL_TEAM_W
+ SH_SCHEDULE_GM4&utm_source=club_schedule&utm_medium=web_organic&utm_campai
+ gn=2627sgb_ca1014mc
 LOCATION:Capital One Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -628,8 +630,10 @@ DTSTART:20270120T000000Z
 DTEND:20270120T023000Z
 UID:nhl2026020789
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
- er/mtl-vs-wsh/2027/01/19/2026020789\nTickets: https://www.nhl.com/capitals
- /tickets/
+ er/mtl-vs-wsh/2027/01/19/2026020789\nTickets: https://www.ticketmaster.com
+ /event/150064F035FAE5D1?brand=capitals&artistid=806039&wt.mc_id=NHL_TEAM_W
+ SH_SCHEDULE_GM26&utm_source=club_schedule&utm_medium=web_organic&utm_campa
+ ign=2627sgb_cb0119mc
 LOCATION:Capital One Arena
 END:VEVENT
 BEGIN:VEVENT
