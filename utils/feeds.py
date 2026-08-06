@@ -3,7 +3,7 @@ import requests
 import cloudscraper
 import json
 from bs4 import BeautifulSoup
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, date
 from dateutil.relativedelta import relativedelta
 
 from parsers.ncaa import ncaa_date_range
@@ -97,6 +97,38 @@ def extract_regular_subseason(html):
     
     return subseasons
 
+# ==========================
+# OPTIMIZATION: Central parser registry
+# ==========================
+PARSER_HANDLERS = {}
+def register_parser(name):
+    def decorator(func):
+        PARSER_HANDLERS[name] = func
+        return func
+    return decorator
+
+# =========================
+# OPTIMIZATION: Shared season-ranger helper
+# =========================
+def current_hockey_season_range():
+    today = datetime.now()
+    july_first = datetime(today.year,7,1)
+    if today < july_first:
+        start_year = today.year - 1
+    else:
+        start_year = today.year
+    return (
+        date(start_year,7,1),
+        date(start_year + 1,7,1)
+    )
+
+# ============================================
+# OPTIMIZATION: Unified team iteration
+# ============================================
+def iter_teams(data):
+    for team in data.get("teams", []):
+        yield team["name"], team.get("team_id"), team
+
 def load_feeds():
     with open("feeds.yaml", "r", encoding="utf-8") as f:
         config = yaml.safe_load(f)
@@ -108,333 +140,265 @@ def load_feeds():
             continue
 
         parser = data.get("parser")
+        handler = PARSER_HANDLERS.get(parser)
 
-        # ============================
-        # NHL (JSON)
-        # ============================
-        if parser == "nhl":
-            for team in data.get("teams", []):
-                feeds.append((league, team["name"], team["url"], [], "nhl"))
-            continue
-
-        # ============================
-        # HockeyTech leagues (AHL, ECHL, LHJMQ, OHL, WHL, BCHL, PWHL)
-        # ============================
-        if parser == "hockeytech" and league != "Hockey_Canada":
-            base_url = data["base_url"]
-            teams = data.get("teams", [])
-
-            seasons = hockeytech_fetch_seasons(base_url)
-            regular = hockeytech_pick_current_season(seasons)
-            playoffs = hockeytech_find_playoffs(seasons, regular)
-            
-            for season_obj in [regular, playoffs]:
-                if not season_obj:
-                    continue
-                season_id = season_obj["season_id"]
-                season_name = season_obj["season_name"]
-
-                for team in teams:
-                    team_name = team["name"]
-                    team_id = team["team_id"]
-                    url = (
-                        f"{base_url}"
-                        f"&team_id={team_id}"
-                        f"&season_id={season_id}"
-                    )
-
-                    feeds.append(
-                        (
-                            league,
-                            f"{team_name} ({season_name})",
-                            url,
-                            [team_id],
-                            "hockeytech"
-                        )
-                    )
-            continue
-
-        # ============================
-        # HockeyTech leagues (hockey canada)
-        # ============================
-        if parser == "hockeytech" and league == "Hockey_Canada":
-            base_url = data["base_url"]
-
-            for l in data["league_id"]:
-                seasons_url = (f"{base_url}&view=seasons&league_id={l}")
-                seasons_json = requests.get(seasons_url).json()
-                seasons = seasons_json["SiteKit"]["Seasons"]
-
-                today = datetime.now()
-                july_first_this_year = datetime(today.year, 7, 1)
-
-                if today < july_first_this_year:
-                    cutoff = datetime(today.year - 1, 7, 1)
-                else:
-                    cutoff = july_first_this_year
-
-                filtered_seasons = []
-                for s in seasons:
-                    start_date = datetime.strptime(s["start_date"], "%Y-%m-%d")
-                    if start_date >= cutoff:
-                        filtered_seasons.append(s)
-
-                # season_id can be int or list (ECHL uses int)
-                season_ids = [s["season_id"] for s in filtered_seasons]
-                if isinstance(season_ids, int):
-                    season_ids = [season_ids]
-
-                for season_id in season_ids:
-                    url = f"{base_url}&view=schedule&season_id={season_id}"
-                    feeds.append(
-                        (
-                            league,
-                            f"{league} (S{season_id})",
-                            url,
-                            [],
-                            "hockeytech"
-                        )
-                    )
-                continue
-
-        # ============================
-        # Publication Sports league (LHMAAAQ et LHJAAAQ)
-        # ============================
-        if parser == "publicationsports":
-            base_url = data["base_url"]
-            team_filter = [str(t["team_id"]) for t in data.get("teams", [])]
-
-            scraper = cloudscraper.create_scraper()
-            html = scraper.get(base_url).text
-
-            response = scraper.get(base_url)
-
-            current_season = extract_latest_season(html)
-            current_sub = extract_regular_subseason(html)
-
-            for sub_id, sub_name in current_sub:
-                if league == "LHMAAAQ":
-                    category = "5366"
-                    full_url = (
-                        f"https://www.m18aaa.com/fr/stats/horaire.html?"
-                        f"season={current_season}&subSeason={sub_id}&category={category}"
-                    )
-                if league == "LHJAAAQ":
-                    category = "1093"
-                    full_url = (
-                        f"https://www.lhjaaaq.com/fr/stats/horaire.html?"
-                        f"season={current_season}&subSeason={sub_id}&category={category}"
-                    )
-
-                feeds.append(
-                    (
-                        league,
-                        f"{league}",
-                        full_url,
-                        team_filter,
-                        "publicationsports"
-                    )
-                )
-
-            continue
-
-        # ============================
-        # NCAA (SIDEARM JSON)
-        # ============================
-        if parser == "ncaa":
-            from_date, to_date = ncaa_date_range()
-            from_date = parse_any_date(from_date)
-            to_date   = parse_any_date(to_date)
-
-            for team in data.get("teams", []):
-                team_name = team["name"]
-                base_url = team["base_url"]
-
-                # NEW: detect responsive-calendar feeds
-                if "responsive-calendar.ashx" in base_url:
-                    # Generate one URL per month
-                    current = from_date.replace(day=1)
-
-                    while current <= to_date:
-                        # MM/DD/YYYY
-                        date_param = f"{current.month:02d}/01/{current.year}"
-
-                        url = (
-                            f"{base_url}"
-                            f"?type=month"
-                            f"&sport={team['sport_id']}"
-                            f"&date={date_param}"
-                        )
-
-                        feeds.append(
-                            (
-                                league,
-                                team_name,
-                                url,
-                                [],          # no team filter
-                                "ncaa"
-                            )
-                        )
-
-                        current = current + relativedelta(months=1)
-
-                else:
-                    # Standard SIDEARM NCAA JSON feed
-                    url = (
-                        f"{base_url}/from/{from_date}/to/{to_date}"
-                        f"?sportId={team['sport_id']}"
-                    )
-
-                    # NCAA does NOT use team filters
-                    feeds.append(
-                        (
-                            league,
-                            team_name,
-                            url,
-                            [],          # no team filter
-                            "ncaa"
-                        )
-                    )
-
-            continue
-
-        # ============================
-        # NCAA_ashx (NCHC)
-        # ============================
-        if parser == "ncaa_conf":
-            url = data["base_url"]
-            
-            for team in data.get("teams", []):
-                feeds.append(
-                    (
-                        league,
-                        team["name"],
-                        url,
-                        [],          # no team filter
-                        "ncaa_conf"
-                    )
-                )
-            continue
-
-        # ============================
-        # SHL
-        # ============================
-        if parser == "shl":
-            season = data["seasonUuid"]
-            series = data["seriesUuid"]
-            game_type = data["gameTypeUuid"]
-            base_url = data["base_url"]
-
-            for team in data.get("teams", []):
-                team_name = team["name"]
-                team_uuid = team["uuid"]
-
-                url = (
-                    f"{base_url}"
-                    f"?seasonUuid={season}"
-                    f"&seriesUuid={series}"
-                    f"&gameTypeUuid={game_type}"
-                    f"&teams[]={team_uuid}"
-                )
-
-                feeds.append((league, team_name, url, None, parser))
-            continue
-
-        # ============================
-        # CHL Europe (JSON + filters)
-        # ============================
-        if parser == "chl_europe":
-            url = data["url"]
-            for team in data.get("teams", []):
-                feeds.append((league, team["name"], url, [team["code"]], parser))
-            continue
-
-        # ============================
-        # LIIGA JSON parser
-        # ============================
-        if parser == "liiga":
-            base_url = data["base_url"]
-            season = data["season"]
-            tournaments = data.get("tournament", [])
-            if isinstance(tournaments, str):
-                tournaments = [tournaments]
-
-            for team in data.get("teams", []):
-                for t in tournaments:
-                    url = f"{base_url}?tournament={t}&season={season}"
-                    feeds.append((league, f"{team['name']} (T{t})", url, [team["team_id"]], parser))
-
-            continue
-
-        # ============================
-        # DEL parser (HTML)
-        # ============================
-        if parser == "del":
-            base_url = data["base_url"]
-            for team in data.get("teams", []):
-                url = (f"{base_url}/{team['team_id']}")
-                feeds.append((league, team["name"], url, None, parser))
-            continue
-
-        # ============================
-        # UFA JSON feed
-        # ============================
-        if parser == "ufa":
-            base_url = data["base_url"]
-            for team in data["teams"]:
-                url = (f"{base_url}&teamID={team['team_id']}")
-                feeds.append((league, team["name"], url, [], parser))
-            continue
-
-        # ============================
-        # VHL parser
-        # ============================
-        if parser == "vhl":
-            base_url = data["base_url"]
-            season_id = data["season_id"]
-            for team in data.get("teams", []):
-                url = f"{base_url}/{season_id}/0/{team['team_id']}/"
-                feeds.append((league, team["name"], url, season_id, parser))
-            continue
-
-        # ============================
-        # KHL 
-        # ============================
-        if parser == "khl":
-            base_url = data["base_url"]
-            today = datetime.now()
-            july_first_this_year = datetime(today.year,7,1)
-
-            if today < july_first_this_year:
-                season_start_year = today.year - 1
-            else:
-                season_start_year = today.year
-
-            season_start = int(datetime(season_start_year,7,1).timestamp())
-            season_end = int(datetime(season_start_year + 1,7,1).timestamp())
-
-            for team in data.get("teams", []):
-                team_id = team["team_id"]
-                url = (
-                    f"{base_url}"
-                    f"?q[team_a_or_team_b_in][]={team_id}"
-                    f"&q[start_at_gt_time_from_unixtime]={season_start}"
-                    f"&q[start_at_lt_time_from_unixtime]={season_end}"
-                    f"&order_direction=asc"
-                )
-
-                feeds.append(
-                    (
-                        league,
-                        team["name"],
-                        url,
-                        [team_id],
-                        "khl"
-                    )
-                )
-            continue
-
-        if parser not in ["hockeytech", "nhl", "publicationsports", "ncaa", "ncaa_conf", "shl", "chl_europe", "liiga", "del", "ufa", "vhl", "khl"]:
+        if handler:
+            handler(feeds, league, data)
+        else:
             print(f"Warning: Unknown parser for league '{league}'")
 
     return feeds
+
+# ============================
+# CHL Europe (JSON + filters)
+# ============================
+@register_parser("chl_europe")
+def handle_chl_europe(feeds, league, data):
+    url = data["url"]
+    for team_name, team_id, team in iter_teams(data):
+        feeds.append((league, team_name, url, [team["code"]], "chl_europe"))
+
+# ============================
+# DEL parser (HTML)
+# ============================
+@register_parser("del")
+def handle_del(feeds, league, data):
+    base_url = data["base_url"]
+    for team_name, team_id, team in iter_teams(data):
+        url = (f"{base_url}/{team_id}")
+        feeds.append((league, team_name, url, None, "del"))
+
+# ============================
+# HockeyTech leagues (AHL, ECHL, LHJMQ, OHL, WHL, BCHL, PWHL)
+# ============================
+@register_parser("hockeytech")
+def handle_hockeytech(feeds, league, data):
+    if league == "Hockey_Canada":
+        return handle_hockey_canada(feeds, league, data)
+    
+    base_url = data["base_url"]
+    seasons = hockeytech_fetch_seasons(base_url)
+    regular = hockeytech_pick_current_season(seasons)
+    playoffs = hockeytech_find_playoffs(seasons, regular)
+    
+    for season_obj in [regular, playoffs]:
+        if not season_obj:
+            continue
+        season_id = season_obj["season_id"]
+        season_name = season_obj["season_name"]
+
+        for team_name, team_id, team in iter_teams(data):
+            url = (
+                f"{base_url}"
+                f"&team_id={team_id}"
+                f"&season_id={season_id}"
+            )
+
+            feeds.append((league, f"{team_name} ({season_name})", url, [team_id], "hockeytech"))
+
+# ============================
+# HockeyTech leagues (hockey canada)
+# ============================
+def handle_hockey_canada(feeds, league, data):
+    base_url = data["base_url"]
+    season_start, season_end = current_hockey_season_range()
+
+    for l in data["league_id"]:
+        seasons_url = (f"{base_url}&view=seasons&league_id={l}")
+        seasons_json = requests.get(seasons_url).json()
+        seasons = seasons_json["SiteKit"]["Seasons"]
+
+        filtered_seasons = []
+        for s in seasons:
+            start_date = datetime.strptime(s["start_date"], "%Y-%m-%d")
+            if start_date.date() >= season_start:
+                filtered_seasons.append(s)
+
+        season_ids = [s["season_id"] for s in filtered_seasons]
+
+        for season_id in season_ids:
+            url = f"{base_url}&view=schedule&season_id={season_id}"
+            feeds.append((league, f"(S{season_id})", url, [], "hockeytech"))
+
+# ============================
+# KHL 
+# ============================
+@register_parser("khl")
+def handle_khl(feeds, league, data):
+    base_url = data["base_url"]
+
+    season_start, season_end = current_hockey_season_range()
+    season_start_ts = int(datetime.combine(season_start, datetime.min.time()).timestamp())
+    season_end_ts = int(datetime.combine(season_end, datetime.min.time()).timestamp())
+
+    for team_name, team_id, team in iter_teams(data):
+        team_id = team["team_id"]
+        url = (
+            f"{base_url}"
+            f"?q[team_a_or_team_b_in][]={team_id}"
+            f"&q[start_at_gt_time_from_unixtime]={season_start_ts}"
+            f"&q[start_at_lt_time_from_unixtime]={season_end_ts}"
+            f"&order_direction=asc"
+        )
+
+        feeds.append((league, team_name, url, [team_id], "khl"))
+
+# ============================
+# LIIGA JSON parser
+# ============================
+@register_parser("liiga")
+def handle_liiga(feeds, league, data):
+    base_url = data["base_url"]
+    season = data["season"]
+    tournaments = data.get("tournament", [])
+    if isinstance(tournaments, str):
+        tournaments = [tournaments]
+
+    for team_name, team_id, team in iter_teams(data):
+        for t in tournaments:
+            url = f"{base_url}?tournament={t}&season={season}"
+            feeds.append((league, f"{team_name} (T{t})", url, [team_id], "liiga"))
+
+# ============================
+# NCAA_EAST (Hockey East conference)
+# ============================
+@register_parser("ncaa_east")
+def handle_ncaa_east(feeds, league, data):
+    from_date, to_date = ncaa_date_range()
+    from_date = parse_any_date(from_date)
+    to_date   = parse_any_date(to_date)
+
+    for team_name, team_id, team in iter_teams(data):
+        base_url = team["base_url"]
+
+        url = (
+            f"{base_url}/from/{from_date}/to/{to_date}"
+            f"?sportId={team['sport_id']}"
+        )
+
+        feeds.append((league, team_name, url, [], "ncaa_east"))
+
+# ============================
+# NCAA_conf (AHA, CCHC, ECAC, NCHC)
+# ============================
+@register_parser("ncaa_conf")
+def handle_ncaa_conf(feeds, league, data):
+    base_url = data["base_url"]
+    season_start, season_end = current_hockey_season_range()
+
+    url = (
+        f"{base_url}"
+        f"&start={season_start}"
+        f"&end={season_end}"
+    )
+    
+    for team_name, team_id, team in iter_teams(data):
+        feeds.append((league, team_name, url, [], "ncaa_conf"))
+
+# ============================
+# NCAA_Big10 ( BIG10)
+# ============================
+@register_parser("ncaa_b10")
+def handle_ncaa_b10(feeds, league, data):
+    base_url = data["base_url"]
+    season_start, season_end = current_hockey_season_range()
+
+    url = (
+        f"{base_url}"
+        f"&where[datetime.date_scheduled][greater_than_equal]={season_start}"
+        f"&where[datetime.date_scheduled][less_than]={season_end}"
+    )
+    for team_name, team_id, team in iter_teams(data):
+        feeds.append((league, team_name, url,[team_id], "ncaa_b10"))
+
+# ============================
+# NL JSON parser
+# ============================
+@register_parser("nl")
+def handle_nl(feeds, league, data):
+    url = data["base_url"]
+    for team_name, team_id, team in iter_teams(data):
+        feeds.append((league,  team_name,  url,  [team_id], "nl"))
+
+# ============================
+# NHL (JSON)
+# ============================
+@register_parser("nhl")
+def handle_nhl(feeds, league, data):
+    for team_name, team_id, team in iter_teams(data):
+        feeds.append((league, team_name, team["url"], [], "nhl"))
+
+# ============================
+# Publication Sports league (LHMAAAQ et LHJAAAQ)
+# ============================
+@register_parser("publicationsports")
+def handle_publicationsports(feeds, league, data):
+    base_url = data["base_url"]
+    team_filter = [str(team_id) for _, team_id, _ in iter_teams(data)]
+
+    scraper = cloudscraper.create_scraper()
+    html = scraper.get(base_url).text
+
+    current_season = extract_latest_season(html)
+    current_sub = extract_regular_subseason(html)
+
+    for team_name, team_id, team in iter_teams(data):
+        for sub_id, sub_name in current_sub:
+            if league == "LHMAAAQ":
+                category = "5366"
+                full_url = (
+                    f"https://www.m18aaa.com/fr/stats/horaire.html?"
+                    f"season={current_season}&subSeason={sub_id}&category={category}"
+                )
+            if league == "LHJAAAQ":
+                category = "1093"
+                full_url = (
+                    f"https://www.lhjaaaq.com/fr/stats/horaire.html?"
+                    f"season={current_season}&subSeason={sub_id}&category={category}"
+                )
+
+            feeds.append((league, team_name, full_url, team_filter, "publicationsports"))
+
+# ============================
+# SHL
+# ============================
+@register_parser("shl")
+def handle_shl(feeds, league, data):
+    season = data["seasonUuid"]
+    series = data["seriesUuid"]
+    game_type = data["gameTypeUuid"]
+    base_url = data["base_url"]
+
+    for team_name, team_id, team in iter_teams(data):
+        team_uuid = team["uuid"]
+
+        url = (
+            f"{base_url}"
+            f"?seasonUuid={season}"
+            f"&seriesUuid={series}"
+            f"&gameTypeUuid={game_type}"
+            f"&teams[]={team_uuid}"
+        )
+
+        feeds.append((league, team_name, url, None, "shl"))
+
+# ============================
+# UFA JSON feed
+# ============================
+@register_parser("ufa")
+def handle_ufa(feeds, league, data):
+    base_url = data["base_url"]
+    for team_name, team_id, team in iter_teams(data):
+        url = (f"{base_url}&teamID={team_id}")
+        feeds.append((league, team_name, url, [], "ufa"))
+
+# ============================
+# VHL parser
+# ============================
+@register_parser("vhl")
+def handle_vhl(feeds, league, data):
+    base_url = data["base_url"]
+    season_id = data["season_id"]
+    for team_name, team_id, team in iter_teams(data):
+        url = f"{base_url}/{season_id}/0/{team_id}/"
+        feeds.append((league, team_name, url, season_id, "vhl"))

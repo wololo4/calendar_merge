@@ -4,14 +4,14 @@ import json
 import re
 import cloudscraper
 from bs4 import BeautifulSoup
-from icalendar import Calendar
 
 from parsers.nhl import parse_nhl_json_to_calendar
 from parsers.hockeytech import parse_hockeytech
 from parsers.publicationsports import parse_publicationsports
-from parsers.ncaa import parse_ncaa, parse_ncaa_conf
+from parsers.ncaa import parse_ncaa_east, parse_ncaa_conf, parse_ncaa_b10
 from parsers.khl import parse_khl_json
 from parsers.chl_europe import parse_chl_europe_json_to_calendar
+from parsers.nl import parse_nl_json
 from parsers.ufa import parse_ufa_json_to_calendar
 from parsers.vhl import parse_vhl_html
 from parsers.liiga import parse_liiga_json_to_calendar
@@ -31,197 +31,226 @@ def parse_responsive_calendar(raw_json, team_name):
 
     return events
 
+DOWNLOAD_HANDLERS = {}
+SCRAPER = cloudscraper.create_scraper()
+SESSION = requests.Session()
+
+def register_downloader(name):
+    def decorator(func):
+        DOWNLOAD_HANDLERS[name] = func
+        return func
+    return decorator
+
 def download_single_feed(feed_info):
     """Worker function to process one feed concurrently."""
     league, team_name, url, team_filter, parser = feed_info
-    session = requests.Session()
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-        "Accept": "*/*",
-    }
 
-    if "khl.ru" in url:
-        headers.update({
-            "Referer": "https://www.en.khl.ru/",
-            "Origin": "https://www.en.khl.ru",
-            "Accept": "text/calendar,text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-            "Connection": "keep-alive",
-            "Upgrade-Insecure-Requests": "1"
-        })
-    
-    try:
-        print(f"Downloading: {league} - {team_name} -> {url[:50]}...")
-        if parser == "publicationsports":
-            pass
-        else:
-            response = session.get(url, headers=headers, timeout=4)
-            response.raise_for_status()
+    print(f"Downloading: {league} - {team_name} -> {url[:50]}...")
 
-        # ============================
-        # NHL (ICS or JSON)
-        # ============================
-        if parser == "nhl":
-
-            try:
-                raw_json = response.json()
-            except Exception as e:
-                print("Error parsing NHL JSON:", e)
-                return league, team_name, None
-
-            games_list = raw_json.get("games", [])
-
-            calendar = parse_nhl_json_to_calendar({"games": games_list})
-            return league, team_name, calendar
-
-        # ============================
-        # HockeyTech JSON
-        # ============================
-        if parser == "hockeytech":
-            try:
-                raw_json = response.json()
-                calendar = parse_hockeytech(raw_json, team_filter)
-                return league, team_name, calendar
-            except Exception as e:
-                print("Error parsing HockeyTech JSON:", e)
-                return league, team_name, None
-
-        # ============================
-        # Publication Sports
-        # ============================
-        if parser == "publicationsports":
-            try:
-                scraper = cloudscraper.create_scraper()
-                html = scraper.get(url).text
-                calendar = parse_publicationsports(html, team_filter, league)
-                return league, team_name, calendar
-            except Exception as e:
-                print("Error parsing Publication Sports JSON:", e)
-                return league, team_name, None
-
-        # ============================
-        # NCAA / SIDEARM JSON
-        # ============================
-        if parser == "ncaa_conf":
-            try:
-                raw_json = response.json()
-
-                calendar = parse_ncaa_conf(raw_json, team_name)
-                return league, team_name, calendar
-            except Exception as e:
-                print("Error parsing NCAA conference JSON:", e)
-                return league, team_name, None
-        if parser == "ncaa":
-            try:
-                raw_json = response.json()
-                calendar = parse_ncaa(raw_json, team_name)
-                return league, team_name, calendar
-            except Exception as e:
-                print("Error parsing NCAA JSON:", e)
-                return league, team_name, None
-
-        # ============================
-        # KHL HTML
-        # ============================
-        if parser == "khl":
-            try:
-                all_events = []
-                page = 1
-                base_url_no_page = url
-                page_index = base_url_no_page.find("&page=")
-
-                while True:
-                    paged_url = f"{base_url_no_page}&page={page}"
-                    resp = session.get(paged_url, headers=headers, timeout=4)
-                    resp.raise_for_status
-                    raw_json = resp.json()
-                    if not raw_json:
-                        break
-                    all_events.extend(raw_json)
-                    page += 1
-
-                calendar = parse_khl_json(all_events, team_filter)
-                return league, team_name, calendar
-            except Exception as e:
-                print("Error parsing KHL JSON:", e)
-                return league, team_name, None
-
-
-        # ============================
-        # VHL HTML
-        # ============================
-        if league == "VHL":
-            html = response.text
-            calendar = parse_vhl_html(html, team_name, team_filter)
-            return league, team_name, calendar
-
-        # ============================
-        # SHL JSON
-        # ============================
-        if league == "SHL":
-            json_data = response.json()
-            calendar = parse_shl_json_to_calendar(league, team_name, json_data)
-            return league, team_name, calendar
-
-        # ============================
-        # LIIGA JSON
-        # ============================
-        if parser == "liiga":
-            raw_json = response.json()
-            team_id = team_filter[0]
-
-            filtered = []
-            for game in raw_json:
-                home = game.get("homeTeamId")
-                away = game.get("awayTeamId")
-                if home == team_id or away == team_id:
-                    filtered.append(game)
-
-            calendar = parse_liiga_json_to_calendar(filtered)
-            return league, team_name, calendar
-
-        # ============================
-        # DEL HTML
-        # ============================
-        if parser == "del":
-            html = response.text
-            calendar = parse_del_html(html, team_name)
-            return league, team_name, calendar
-
-        # ============================
-        # UFA JSON  (FIX)
-        # ============================
-        if parser == "ufa":
-            try:
-                raw_json = response.json()
-                calendar = parse_ufa_json_to_calendar(raw_json)
-                return league, team_name, calendar
-            except Exception:
-                return league, team_name, None
-
-        # ============================
-        # OTHER JSON (CHL)
-        # ============================
-        try:
-            raw_json = response.json()
-
-            # CHL Europe JSON
-            if raw_json.get("_type") == "Corebine.Core.Protocol.Response.Array":
-                calendar = parse_chl_europe_json_to_calendar(raw_json, team_filter)
-                return league, team_name, calendar
-
-            # CHL Canada JSON
-            calendar = parse_chl_json_to_calendar(raw_json)
-            return league, team_name, calendar
-
-        except (ValueError, TypeError, json.JSONDecodeError):
-            # ICS fallback
-            ics_data = response.content.strip()
-            if not ics_data:
-                print(f"Skipping empty ICS for {league} - {team_name} (season not available yet)")
-                return league, team_name, None
-            calendar = Calendar.from_ical(ics_data)
-            return league, team_name, calendar
-
-    except Exception as e:
-        print(f"Error downloading {league} - {team_name}: {e}")
+    handler = DOWNLOAD_HANDLERS.get(parser)
+    if not handler:
+        print(f"Unknown parser: {parser}")
         return league, team_name, None
+
+    try:
+        return handler(league, team_name, url, team_filter)
+    except Exception as e:
+        print(f"Error in parser '{parser}' for {team_name}: {e}")
+        return league, team_name, None
+
+def fetch_json(url, headers=None):
+    session = SESSION
+    resp = session.get(url, headers=headers, timeout=4)
+    resp.raise_for_status()
+    return resp.json()
+
+def fetch_html(url, headers=None):
+    session = SESSION
+    resp = session.get(url, headers=headers, timeout=4)
+    resp.raise_for_status()
+    return resp.text
+
+# ============================
+# CHL EUROPE JSON
+# ============================
+@register_downloader("chl_europe")
+def download_europe(league, team_name, url, team_filter):
+    try:
+        raw_json = fetch_json(url)
+    except:
+        return league, team_name, None
+    calendar = parse_chl_europe_json_to_calendar(raw_json, team_filter)
+    return league, team_name, calendar
+
+# ============================
+# DEL HTML
+# ============================
+@register_downloader("del")
+def download_del(league, team_name, url, team_filter):
+    try:
+        html = fetch_html(url)
+    except:
+        return league, team_name, None
+    calendar = parse_del_html(html, team_name)
+    return league, team_name, calendar
+
+# ============================
+# HockeyTech JSON
+# ============================
+@register_downloader("hockeytech")
+def download_hockeytech(league, team_name, url, team_filter):
+    try:
+        raw_json = fetch_json(url)
+    except:
+        return league, team_name, None
+    calendar = parse_hockeytech(raw_json, team_filter)
+    return league, team_name, calendar
+
+# ============================
+# KHL JSON
+# ============================
+@register_downloader("khl")
+def download_khl(league, team_name, url, team_filter):
+    all_events = []
+    page = 1
+
+    while True:
+        paged_url = f"{url}&page={page}"
+        try:
+            raw_json = fetch_json(paged_url)
+        except:
+            break
+        if not raw_json:
+            break
+        all_events.extend(raw_json)
+        page += 1
+
+    calendar = parse_khl_json(all_events, team_filter)
+    return league, team_name, calendar
+
+# ============================
+# LIIGA JSON
+# ============================
+@register_downloader("liiga")
+def download_liiga(league, team_name, url, team_filter):
+    try:
+        raw_json = fetch_json(url)
+    except:
+        return league, team_name, None
+    if not team_filter:
+        return league, team_name, None
+    team_id = team_filter[0]
+
+    filtered = []
+    for game in raw_json:
+        home = game.get("homeTeamId")
+        away = game.get("awayTeamId")
+        if home == team_id or away == team_id:
+            filtered.append(game)
+
+    calendar = parse_liiga_json_to_calendar(filtered)
+    return league, team_name, calendar
+
+# ============================
+# NCAA / JSON
+# ============================
+@register_downloader("ncaa_conf")
+def download_ncaa_conf(league, team_name, url, team_filter):
+    try:
+        raw_json = fetch_json(url)
+    except:
+        return league, team_name, None
+    calendar = parse_ncaa_conf(raw_json, team_name)
+    return league, team_name, calendar
+
+@register_downloader("ncaa_b10")
+def download_ncaa_b10(league, team_name, url, team_filter):
+    try:
+        raw_json = fetch_json(url)
+    except:
+        return league, team_name, None
+    calendar = parse_ncaa_b10(raw_json, team_filter)
+    return league, team_name, calendar
+
+@register_downloader("ncaa_east")
+def download_ncaa_east(league, team_name, url, team_filter):
+    try:
+        raw_json = fetch_json(url)
+    except:
+        return league, team_name, None
+    calendar = parse_ncaa_east(raw_json, team_name)
+    return league, team_name, calendar
+
+# ============================
+# NHL (JSON)
+# ============================
+@register_downloader("nhl")
+def download_nhl(league, team_name, url, team_filter):
+    try:
+        raw_json = fetch_json(url)
+    except:
+        return league, team_name, None
+    games_list = raw_json.get("games", [])
+    calendar = parse_nhl_json_to_calendar({"games": games_list})
+    return league, team_name, calendar
+
+# ============================
+# NL JSON
+# ============================
+@register_downloader("nl")
+def download_nl(league, team_name, url, team_filter):
+    try:
+        raw_json = fetch_json(url)
+    except:
+        return league, team_name, None
+    calendar = parse_nl_json(raw_json, team_filter)
+    return league, team_name, calendar
+
+# ============================
+# Publication Sports
+# ============================
+@register_downloader("publicationsports")
+def download_publicationsports(league, team_name, url, team_filter):
+    try:
+        html = SCRAPER.get(url, timeout=6, headers={"User-Agent": "Mozilla/5.0", "Accept": "*/*"}).text
+        calendar = parse_publicationsports(html, team_filter, league)
+        return league, team_name, calendar
+    except Exception as e:
+        print("Error parsing Publication Sports JSON:", e)
+        return league, team_name, None
+
+# ============================
+# SHL JSON
+# ============================
+@register_downloader("shl")
+def download_shl(league, team_name, url, team_filter):
+    try:
+        raw_json = fetch_json(url)
+    except:
+        return league, team_name, None
+    calendar = parse_shl_json_to_calendar(league, team_name, raw_json)
+    return league, team_name, calendar
+
+# ============================
+# UFA JSON  (FIX)
+# ============================
+@register_downloader("ufa")
+def download_ufa(league, team_name, url, team_filter):
+    try:
+        raw_json = fetch_json(url)
+    except:
+        return league, team_name, None
+    calendar = parse_ufa_json_to_calendar(raw_json)
+    return league, team_name, calendar
+
+# ============================
+# VHL HTML
+# ============================
+@register_downloader("vhl")
+def download_vhl(league, team_name, url, team_filter):
+    try:
+        html = fetch_html(url)
+    except:
+        return league, team_name, None
+    calendar = parse_vhl_html(html, team_name, team_filter)
+    return league, team_name, calendar

@@ -97,40 +97,36 @@ Liiga:
 
 # NCAA_AHA:
 #   parser: ncaa_conf
-#   base_url: https://atlantichockeyamerica.com/services/responsive-calendar.ashx?start=10%2F03%2F2025&end=2026-03-27+23%3A59%3A59&sport_id=2&school_id=0
+#   base_url: https://atlantichockeyamerica.com/services/responsive-calendar.ashx?sport_id=2&school_id=0
 #   teams:
 #     - name: 
 
-# this link works for the 2025-26 seasons. when the compound schedule is release, replace the current big ten parser and future proof
-# https://bigten.org/api/cms/b1g/api/game/?where[datetime.date_scheduled][greater_than_equal]=2026-09-01T00:00:00.000Z&where[datetime.date_scheduled][less_than]=2027-04-30T23:59:59.000Z&where%5Bsport.alias%5D%5Bequals%5D=mhky&limit=500&sort=datetime.date_scheduled
 NCAA_BIG10:
-  parser: ncaa
+  parser: ncaa_b10
+  base_url: https://bigten.org/api/cms/b1g/api/game/?&where[sport.alias][equals]=mhky&limit=500&sort=datetime.date_scheduled
   teams:
     - name: Wisconsin Badgers
-      base_url: https://uwbadgers.com/api/v2/Calendar
-      sport_id: 6
+      team_id: 3741
     - name: Michigan Wolverines
-      base_url: https://mgoblue.com/api/v2/Calendar
-      sport_id: 11
+      team_id: 3519
     - name: Minnesota Golden Gophers
-      base_url: https://gophersports.com/api/v2/Calendar
-      sport_id: 8
+      team_id: 3736
 
 NCAA_CCHA:
   parser: ncaa_conf
-  base_url: https://ccha.com/services/responsive-calendar.ashx?start=09-01-2026&end=2027-04-30&sport_id=0&school_id=0
+  base_url: https://ccha.com/services/responsive-calendar.ashx?sport_id=0&school_id=0
   teams:
     - name: Bemidji State Beavers
     - name: Minnesota State Mavericks
 
 NCAA_ECAC:
   parser: ncaa_conf
-  base_url: https://ecachockey.com/services/responsive-calendar.ashx?start=09-01-2026&end=2027-04-30&sport_id=2&school_id=0
+  base_url: https://ecachockey.com/services/responsive-calendar.ashx?sport_id=2&school_id=0
   teams:
     - name: Dartmouth College Big Green
 
 NCAA_EAST:
-  parser: ncaa
+  parser: ncaa_east
   teams:
     - name: Boston University Terriers
       base_url: https://goterriers.com/api/v2/Calendar
@@ -141,7 +137,7 @@ NCAA_EAST:
 
 NCAA_NCHC:
   parser: ncaa_conf
-  base_url: https://nchchockey.com/services/responsive-calendar.ashx?start=09-01-2026&end=2027-04-30&sport_id=0&school_id=0
+  base_url: https://nchchockey.com/services/responsive-calendar.ashx?sport_id=0&school_id=0
   teams:
     - name: Denver Pioneers
     - name: Miami Redhawks
@@ -153,7 +149,13 @@ NHL:
   teams:
     - name: Montréal Canadiens
       url: https://api-web.nhle.com/v1/club-schedule-season/MTL/now
-      type: json
+
+NL:
+  parser: nl
+  base_url: https://www.nationalleague.ch/api/games?
+  teams:
+    - name: EV Zug
+      team_id: 101144
 
 OHL:
   parser: hockeytech
@@ -192,9 +194,9 @@ VHL:
     - name: Khimik Voskresensk
       team_id: 15029
     - name: Gornyak-UGMK
-      team_id: 15008
-  #  - name: AKM
-  #    team_id: 15005
+      team_id: 15014
+    - name: AKM
+      team_id: 15005
 
 WHL:
   parser: hockeytech

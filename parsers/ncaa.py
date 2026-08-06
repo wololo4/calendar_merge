@@ -167,6 +167,7 @@ KNOWN_ARENAS = {
     "Seawolf Sports Complex",
     "Slater Family Ice Arena",
     "Stafford-Smith Field at Waldo Stadium",
+    "T-Mobile Arena",
     "Taffy Abel Arena",
     "TD Garden",
     "The O2 Belfast",
@@ -388,7 +389,7 @@ def ncaa_date_range():
 
     return date_from, date_to
 
-def parse_ncaa(json_data, team_name):
+def parse_ncaa_east(json_data, team_name):
     """
     SIDEARM NCAA parser.
     Input format:
@@ -594,6 +595,66 @@ def parse_ncaa_conf(json_data, team_name):
 
         if is_scrimmage:
             description.append("Scrimmage Game")
+
+        event.add("description", "\n".join(description))
+
+        cal.add_component(event)
+
+    return cal
+
+def parse_ncaa_b10(json_data, team_filter):
+    cal = create_calendar()
+    target_team_id = team_filter[0] if team_filter else None
+
+    for ev in json_data.get("docs",[]):
+
+        # Filter by team
+        teams = ev.get("teams",{})
+        home_team = teams.get("home_team", {}).get("name", "")
+        away_team = teams.get("away_team", {}).get("name", "")
+
+        home_id = teams.get("home_team", {}).get("id", "")
+        away_id = teams.get("away_team", {}).get("id", "")
+
+        if target_team_id is not None:
+            if away_id != target_team_id and home_id != target_team_id:
+                continue
+
+        # Date/time
+        iso_time = ev.get("datetime", {}).get("date_scheduled")
+        start_dt = datetime.fromisoformat(iso_time.replace("Z", "+00:00"))
+        end_dt = start_dt + timedelta(hours=2, minutes=30)
+
+        # Venue
+        venue_raw = ev.get("info", {}).get("venue", "")
+        venue_raw = str(venue_raw)
+        venue = venue_raw.strip()
+
+        if "/" or "|" in venue_raw:
+            venue = venue_raw.split("/")[-1].split("|")[0].strip()
+        elif venue_raw.lower() == "home":
+            venue = stadium(home_team)
+        elif venue_raw == "":
+            venue = f"To be determined"
+        else:
+            venue = venue_raw.strip()
+
+        venue_city_or_arena = venue.strip()
+        venue_from_city = city_to_arena(venue_city_or_arena)
+        venue = validate_arena(venue_from_city)
+
+        # Create event
+        event = Event()
+        event.add("uid", f"ncaa{ev['db']['boost_id']}")
+        event.add("dtstart", start_dt)
+        event.add("dtend", end_dt)
+        event.add("summary", f"🏒 | {away_team} @ {home_team}")
+        event.add("location", venue)
+
+        description = []
+
+        if ev.get("datetime_is_tba") == True:
+            description.append("Game time to be determined")
 
         event.add("description", "\n".join(description))
 
