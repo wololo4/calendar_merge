@@ -558,7 +558,8 @@ DTSTART:20270319T223000Z
 DTEND:20270320T010000Z
 UID:echl26410
 DESCRIPTION:Game Center: https://echl.com/games/2027/03/19/maine-mariners-
- vs-trois-rivieres-lions
+ vs-trois-rivieres-lions\nFloHockey: https://www.flohockey.tv/events/160235
+ 39-2027-trois-rivieres-lions-vs-maine-mariners
 LOCATION:Cross Insurance Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -630,7 +631,8 @@ DTSTART:20270409T223000Z
 DTEND:20270410T010000Z
 UID:echl26535
 DESCRIPTION:Game Center: https://echl.com/games/2027/04/09/maine-mariners-
- vs-trois-rivieres-lions
+ vs-trois-rivieres-lions\nFloHockey: https://www.flohockey.tv/events/160247
+ 45-2027-trois-rivieres-lions-vs-maine-mariners
 LOCATION:Cross Insurance Arena
 END:VEVENT
 BEGIN:VEVENT
