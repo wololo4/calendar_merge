@@ -58,16 +58,38 @@ def download_single_feed(feed_info):
         print(f"Error in parser '{parser}' for {team_name}: {e}")
         return league, team_name, None
 
+DEFAULT_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/138.0.0.0 Safari/537.36"
+    ),
+    "Accept": "*/*",
+}
+
 def fetch_json(url, headers=None):
     session = SESSION
-    resp = session.get(url, headers=headers, timeout=4)
+
+    req_headers = DEFAULT_HEADERS.copy()
+    if headers:
+        req_headers.update(headers)
+
+    resp = session.get(url, headers=req_headers, timeout=4)
     resp.raise_for_status()
+
     return resp.json()
+
 
 def fetch_html(url, headers=None):
     session = SESSION
-    resp = session.get(url, headers=headers, timeout=4)
+
+    req_headers = DEFAULT_HEADERS.copy()
+    if headers:
+        req_headers.update(headers)
+
+    resp = session.get(url, headers=req_headers, timeout=4)
     resp.raise_for_status()
+
     return resp.text
 
 # ============================
