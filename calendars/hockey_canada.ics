@@ -4,7 +4,7 @@ PRODID:-//Hockey Calendar//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:🏒 | A4 @ B4
+SUMMARY:🏒 | Germany @ Sweden
 DTSTART:20260808T200000Z
 DTEND:20260808T223000Z
 UID:hockeycanada5725
@@ -31,7 +31,7 @@ DESCRIPTION:Tournament: Hlinka Gretzky Cup - Gold\nGame Center: https://ww
 LOCATION:Rogers Place
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | A3 @ B3
+SUMMARY:🏒 | Switzerland @ Czechia
 DTSTART:20260808T010000Z
 DTEND:20260808T033000Z
 UID:hockeycanada5723
@@ -40,7 +40,7 @@ DESCRIPTION:Tournament: Hlinka Gretzky Cup - 5th\nGame Center: https://www
 LOCATION:Downtown Community Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | TBD @ TBD
+SUMMARY:🏒 | Slovakia @ United States
 DTSTART:20260807T180000Z
 DTEND:20260807T203000Z
 UID:hockeycanada5721
@@ -50,7 +50,7 @@ DESCRIPTION:Tournament: Hlinka Gretzky Cup - Semifinal\nGame Center: https
 LOCATION:Rogers Place
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | TBD @ TBD
+SUMMARY:🏒 | Finland @ Canada
 DTSTART:20260807T230000Z
 DTEND:20260808T013000Z
 UID:hockeycanada5722
