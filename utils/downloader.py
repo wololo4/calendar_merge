@@ -4,7 +4,7 @@ import json
 import re
 import cloudscraper
 from playwright.sync_api import sync_playwright
-from playwright.stealth import stealth_sync
+from playwright_stealth import stealth_sync
 from bs4 import BeautifulSoup
 
 from parsers.nhl import parse_nhl_json_to_calendar
