@@ -239,7 +239,7 @@ def download_publicationsports(league, team_name, url, team_filter):
         with sync_playwright() as p:
             browser = p.chromium.launch(headless=True)
             page = browser.new_page()
-            stealth_sync(page)
+            stealth(page)
             page.goto(url, timeout=90000)
             page.wait_for_load_state("networkidle")
             html = page.content()
