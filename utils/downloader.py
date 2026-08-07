@@ -3,6 +3,7 @@ import requests
 import json
 import re
 import cloudscraper
+from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 
 from parsers.nhl import parse_nhl_json_to_calendar
@@ -234,11 +235,17 @@ def download_nl(league, team_name, url, team_filter):
 @register_downloader("publicationsports")
 def download_publicationsports(league, team_name, url, team_filter):
     try:
-        html = SCRAPER.get(url, timeout=6, headers={"User-Agent": "Mozilla/5.0", "Accept": "*/*"}).text
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            page = browser.new_page()
+            page.goto(url, timeout=60000)
+            page.wait_for_load_state("networkidle")
+            html = page.content()
+            browser.close()
         calendar = parse_publicationsports(html, team_filter, league)
         return league, team_name, calendar
     except Exception as e:
-        print("Error parsing Publication Sports JSON:", e)
+        print("Error parsing Publication Sports HTML:", e)
         return league, team_name, None
 
 # ============================
