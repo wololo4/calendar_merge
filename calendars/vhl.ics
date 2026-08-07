@@ -561,12 +561,497 @@ DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89825
 LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk vs Yuzhny Ural Orsk
+DTSTART:20260318T000000
+DTEND:20260318T023000
+UID:vhl899224
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89922
+ 4
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk vs Magnitka Magnitogorsk
+DTSTART:20260316T000000
+DTEND:20260316T023000
+UID:vhl899212
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89921
+ 2
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk vs Chelmet Chelyabinsk
+DTSTART:20260314T000000
+DTEND:20260314T023000
+UID:vhl899200
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89920
+ 0
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Izhstal Izhevsk vs Gornyak-UGMK Verkhnyaya Pyshma
 DTSTART:20260312T000000
 DTEND:20260312T023000
 UID:vhl899183
 DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89918
  3
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk vs Toros Neftekamsk
+DTSTART:20260307T000000
+DTEND:20260307T023000
+UID:vhl899170
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89917
+ 0
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Olympiya Kirovo-Chepetsk vs Izhstal Izhevsk
+DTSTART:20260303T000000
+DTEND:20260303T023000
+UID:vhl899151
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89915
+ 1
+LOCATION:Olimp-Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Molot Perm vs Izhstal Izhevsk
+DTSTART:20260301T000000
+DTEND:20260301T023000
+UID:vhl899135
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89913
+ 5
+LOCATION:Universal Sports Palace Molot
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kristall Saratov vs Izhstal Izhevsk
+DTSTART:20260220T000000
+DTEND:20260220T023000
+UID:vhl899091
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89909
+ 1
+LOCATION:Sports Palace Kristall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Dizel Penza vs Izhstal Izhevsk
+DTSTART:20260218T000000
+DTEND:20260218T023000
+UID:vhl899079
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89907
+ 9
+LOCATION:Dizel Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Ryazan-VDV vs Izhstal Izhevsk
+DTSTART:20260216T000000
+DTEND:20260216T023000
+UID:vhl899070
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89907
+ 0
+LOCATION:Ryazan Olympic Sports Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | AKM Tula vs Izhstal Izhevsk
+DTSTART:20260214T000000
+DTEND:20260214T023000
+UID:vhl899061
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89906
+ 1
+LOCATION:Ice Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk vs Chelny Naberezhnye
+DTSTART:20260209T000000
+DTEND:20260209T023000
+UID:vhl899030
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89903
+ 0
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk vs Neftyanik Almetyevsk
+DTSTART:20260207T000000
+DTEND:20260207T023000
+UID:vhl899021
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89902
+ 1
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk vs CSK VVS Samara
+DTSTART:20260205T000000
+DTEND:20260205T023000
+UID:vhl899012
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89901
+ 2
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk vs Bars Kazan
+DTSTART:20260203T000000
+DTEND:20260203T023000
+UID:vhl899002
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89900
+ 2
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Dynamo Saint-Petersburg vs Izhstal Izhevsk
+DTSTART:20260128T000000
+DTEND:20260128T023000
+UID:vhl898968
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89896
+ 8
+LOCATION:Yubileyny Sports Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | SKA-VMF Saint Petersburg vs Izhstal Izhevsk
+DTSTART:20260126T000000
+DTEND:20260126T023000
+UID:vhl898959
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89895
+ 9
+LOCATION:Hockey City Sport Complex
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk vs HC Norilsk
+DTSTART:20260122T000000
+DTEND:20260122T023000
+UID:vhl898936
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89893
+ 6
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk vs Sokol Krasnoyarsk
+DTSTART:20260119T000000
+DTEND:20260119T023000
+UID:vhl898917
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89891
+ 7
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk vs Metallurg Novokuznetsk
+DTSTART:20260117T000000
+DTEND:20260117T023000
+UID:vhl898906
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89890
+ 6
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk vs Dynamo Altai Barnaul
+DTSTART:20260115T000000
+DTEND:20260115T023000
+UID:vhl898897
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89889
+ 7
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | HC Tambov vs Izhstal Izhevsk
+DTSTART:20260110T000000
+DTEND:20260110T023000
+UID:vhl898869
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89886
+ 9
+LOCATION:Crystall Ice Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | HC Rostov vs Izhstal Izhevsk
+DTSTART:20260108T000000
+DTEND:20260108T023000
+UID:vhl898862
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89886
+ 2
+LOCATION:Ice Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Buran Voronezh vs Izhstal Izhevsk
+DTSTART:20260106T000000
+DTEND:20260106T023000
+UID:vhl898853
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89885
+ 3
+LOCATION:LDS Jubileiny
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk vs Omskie Krylya Omsk
+DTSTART:20251228T000000
+DTEND:20251228T023000
+UID:vhl898842
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89884
+ 2
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk vs Zauralye Kurgan
+DTSTART:20251226T000000
+DTEND:20251226T023000
+UID:vhl898833
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89883
+ 3
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk vs Rubin Tyumen
+DTSTART:20251224T000000
+DTEND:20251224T023000
+UID:vhl898821
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89882
+ 1
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk vs Ugra Khanty-Mansiysk
+DTSTART:20251222T000000
+DTEND:20251222T023000
+UID:vhl898807
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89880
+ 7
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Zvezda Moscow vs Izhstal Izhevsk
+DTSTART:20251217T000000
+DTEND:20251217T023000
+UID:vhl898787
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89878
+ 7
+LOCATION:CSKA Ice Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Topedo-Gorky Nizhny-Novgorod vs Izhstal Izhevsk
+DTSTART:20251213T000000
+DTEND:20251213T023000
+UID:vhl898764
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89876
+ 4
+LOCATION:Konovalenko Sports Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk vs Zvezda Moscow
+DTSTART:20251205T000000
+DTEND:20251205T023000
+UID:vhl898728
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89872
+ 8
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk vs Topedo-Gorky Nizhny-Novgorod
+DTSTART:20251201T000000
+DTEND:20251201T023000
+UID:vhl898703
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89870
+ 3
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Omskie Krylya Omsk vs Izhstal Izhevsk
+DTSTART:20251125T000000
+DTEND:20251125T023000
+UID:vhl898675
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89867
+ 5
+LOCATION:Avangard Hockey Academy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Zauralye Kurgan vs Izhstal Izhevsk
+DTSTART:20251123T000000
+DTEND:20251123T023000
+UID:vhl898668
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89866
+ 8
+LOCATION:Ice Sports Palace Mostovik
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Rubin Tyumen vs Izhstal Izhevsk
+DTSTART:20251121T000000
+DTEND:20251121T023000
+UID:vhl898658
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89865
+ 8
+LOCATION:Sports Palace Tyumen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Ugra Khanty-Mansiysk vs Izhstal Izhevsk
+DTSTART:20251119T000000
+DTEND:20251119T023000
+UID:vhl898648
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89864
+ 8
+LOCATION:Arena Ugra
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk vs Buran Voronezh
+DTSTART:20251114T000000
+DTEND:20251114T023000
+UID:vhl898622
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89862
+ 2
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk vs HC Rostov
+DTSTART:20251112T000000
+DTEND:20251112T023000
+UID:vhl898613
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89861
+ 3
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk vs HC Tambov
+DTSTART:20251110T000000
+DTEND:20251110T023000
+UID:vhl898603
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89860
+ 3
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Dynamo Altai Barnaul vs Izhstal Izhevsk
+DTSTART:20251105T000000
+DTEND:20251105T023000
+UID:vhl898575
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89857
+ 5
+LOCATION:Titov Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Metallurg Novokuznetsk vs Izhstal Izhevsk
+DTSTART:20251103T000000
+DTEND:20251103T023000
+UID:vhl898567
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89856
+ 7
+LOCATION:Kuznetsk Metallurgists Sports Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Sokol Krasnoyarsk vs Izhstal Izhevsk
+DTSTART:20251101T000000
+DTEND:20251101T023000
+UID:vhl898558
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89855
+ 8
+LOCATION:Arena Sever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | HC Norilsk vs Izhstal Izhevsk
+DTSTART:20251030T000000
+DTEND:20251030T023000
+UID:vhl898538
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89853
+ 8
+LOCATION:Artika Sport Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk vs SKA-VMF Saint Petersburg
+DTSTART:20251025T000000
+DTEND:20251025T023000
+UID:vhl898523
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89852
+ 3
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk vs Dynamo Saint-Petersburg
+DTSTART:20251023T000000
+DTEND:20251023T023000
+UID:vhl898511
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89851
+ 1
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Neftyanik Almetyevsk vs Izhstal Izhevsk
+DTSTART:20251016T000000
+DTEND:20251016T023000
+UID:vhl898472
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89847
+ 2
+LOCATION:Yubileyny Sports Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chelny Naberezhnye vs Izhstal Izhevsk
+DTSTART:20251014T000000
+DTEND:20251014T023000
+UID:vhl898465
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89846
+ 5
+LOCATION:Ice Sports Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Bars Kazan vs Izhstal Izhevsk
+DTSTART:20251012T000000
+DTEND:20251012T023000
+UID:vhl898456
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89845
+ 6
+LOCATION:Sports Palace Kazan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | CSK VVS Samara vs Izhstal Izhevsk
+DTSTART:20251010T000000
+DTEND:20251010T023000
+UID:vhl898444
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89844
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk vs Kristall Saratov
+DTSTART:20251004T000000
+DTEND:20251004T023000
+UID:vhl898413
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89841
+ 3
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk vs Dizel Penza
+DTSTART:20251002T000000
+DTEND:20251002T023000
+UID:vhl898407
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89840
+ 7
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk vs Ryazan-VDV
+DTSTART:20250930T000000
+DTEND:20250930T023000
+UID:vhl898398
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89839
+ 8
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk vs AKM Tula
+DTSTART:20250928T000000
+DTEND:20250928T023000
+UID:vhl898385
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89838
+ 5
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk vs Molot Perm
+DTSTART:20250920T000000
+DTEND:20250920T023000
+UID:vhl898341
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89834
+ 1
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk vs Olympiya Kirovo-Chepetsk
+DTSTART:20250918T000000
+DTEND:20250918T023000
+UID:vhl898327
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89832
+ 7
 LOCATION:Sports Palace Izhstal
 END:VEVENT
 BEGIN:VEVENT
@@ -577,6 +1062,42 @@ UID:vhl898304
 DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89830
  4
 LOCATION:Alexei Kozitsyn Ice Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chelmet Chelyabinsk vs Izhstal Izhevsk
+DTSTART:20250912T000000
+DTEND:20250912T023000
+UID:vhl898298
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89829
+ 8
+LOCATION:Yunost Sport Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Magnitka Magnitogorsk vs Izhstal Izhevsk
+DTSTART:20250910T000000
+DTEND:20250910T023000
+UID:vhl898288
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89828
+ 8
+LOCATION:Ice Sport Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Yuzhny Ural Orsk vs Izhstal Izhevsk
+DTSTART:20250908T000000
+DTEND:20250908T023000
+UID:vhl898276
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89827
+ 6
+LOCATION:Ice Palace Yubileyny
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Toros Neftekamsk vs Izhstal Izhevsk
+DTSTART:20250902T000000
+DTEND:20250902T023000
+UID:vhl898243
+DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89824
+ 3
+LOCATION:Ice Palace Neftekamsk
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Ryazan-VDV vs AKM Tula
@@ -666,15 +1187,6 @@ DTEND:20260216T023000
 UID:vhl899069
 DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89906
  9
-LOCATION:Ice Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | AKM Tula vs Izhstal Izhevsk
-DTSTART:20260214T000000
-DTEND:20260214T023000
-UID:vhl899061
-DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89906
- 1
 LOCATION:Ice Palace
 END:VEVENT
 BEGIN:VEVENT
@@ -1026,15 +1538,6 @@ UID:vhl898430
 DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89843
  0
 LOCATION:Sports Palace Kristall
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Izhstal Izhevsk vs AKM Tula
-DTSTART:20250928T000000
-DTEND:20250928T023000
-UID:vhl898385
-DESCRIPTION:Game Center: https://www.vhlru.ru/en/report/1374/?idgame=89838
- 5
-LOCATION:Sports Palace Izhstal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Toros Neftekamsk vs AKM Tula
