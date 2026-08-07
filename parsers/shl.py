@@ -30,7 +30,7 @@ def parse_shl_json_to_calendar(league, team_name, json_data):
 
         # ICS event
         event = Event()
-        event.add("SUMMARY", f"🏒 | {home} vs {away}")
+        event.add("SUMMARY", f"🏒 | {away} @ {home}")
         event.add("DTSTART", dt)
         event.add("DTEND", end_dt)
         event.add("UID", uid)
