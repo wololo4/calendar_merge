@@ -5,6 +5,8 @@ from parsers.common import parse_iso_datetime_duration, build_description, uid, 
 from utils.ics import ICSEventBuilder
 from dict.del_dict import DEL_TEAMS
 
+DEL_TEAMS_NORMALIZED = {k.lower().strip(): v for k, v in DEL_TEAMS.items()}
+
 def parse_del_html(html, team_name):
     soup = BeautifulSoup(html, "html.parser")
     cal = Calendar()
@@ -55,7 +57,7 @@ def parse_del_html(html, team_name):
         away_logo_src = away_logo["src"] if away_logo and away_logo.has_attr("src") else ""
         away_id = away_logo_src.split("team_")[-1].split(".")[0] if "team_" in away_logo_src else "0"
 
-        arena = normalize_team(home, DEL_TEAMS)
+        arena = DEL_TEAMS_NORMALIZED.get(home.lower().strip(), home)
 
         date_uid = date_obj.strftime("%Y")
 
