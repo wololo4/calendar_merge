@@ -95,7 +95,7 @@ def parse_del_html(html, team_name):
         uid = f"del{date_uid}{home_id}{away_id}{spieltag}"
 
         event = Event()
-        event.add("SUMMARY", f"🏒 | {home} vs {away}")
+        event.add("SUMMARY", f"🏒 | {away} @ {home}")
         event.add("DTSTART", dt)
         event.add("DTEND", dt_end)
         event.add("UID", uid)
