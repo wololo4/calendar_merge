@@ -4,6 +4,7 @@ import json
 import re
 import cloudscraper
 from playwright.sync_api import sync_playwright
+from playwright.stealth import stealth_sync
 from bs4 import BeautifulSoup
 
 from parsers.nhl import parse_nhl_json_to_calendar
@@ -238,7 +239,8 @@ def download_publicationsports(league, team_name, url, team_filter):
         with sync_playwright() as p:
             browser = p.chromium.launch(headless=True)
             page = browser.new_page()
-            page.goto(url, timeout=60000)
+            stealth_sync(page)
+            page.goto(url, timeout=90000)
             page.wait_for_load_state("networkidle")
             html = page.content()
             browser.close()
