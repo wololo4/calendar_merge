@@ -78,6 +78,9 @@ def extract_json_object(script_text, key):
 def parse_publicationsports(html, team_filter=None, league=None):
     soup = BeautifulSoup(html, 'html.parser')
     cal = Calendar()
+    print("=== RAW HTML START ===")
+    print(html[:5000])
+    print("=== RAW HTML END ===")
 
     target_script = None
     for script in soup.find_all("script"):
