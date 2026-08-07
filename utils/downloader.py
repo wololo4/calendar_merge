@@ -101,7 +101,8 @@ def fetch_html(url, headers=None):
 def download_europe(league, team_name, url, team_filter):
     try:
         raw_json = fetch_json(url)
-    except:
+    except Exception as e:
+        print("Error parsing CHL JSON:", e)
         return league, team_name, None
     calendar = parse_chl_europe_json_to_calendar(raw_json, team_filter)
     return league, team_name, calendar
@@ -113,7 +114,8 @@ def download_europe(league, team_name, url, team_filter):
 def download_del(league, team_name, url, team_filter):
     try:
         html = fetch_html(url)
-    except:
+    except Exception as e:
+        print("Error parsing DEL HTML:", e)
         return league, team_name, None
     calendar = parse_del_html(html, team_name)
     return league, team_name, calendar
@@ -125,7 +127,8 @@ def download_del(league, team_name, url, team_filter):
 def download_hockeytech(league, team_name, url, team_filter):
     try:
         raw_json = fetch_json(url)
-    except:
+    except Exception as e:
+        print("Error parsing Hockeytech JSON for {league}:", e)
         return league, team_name, None
     calendar = parse_hockeytech(raw_json, team_filter)
     return league, team_name, calendar
@@ -159,7 +162,8 @@ def download_khl(league, team_name, url, team_filter):
 def download_liiga(league, team_name, url, team_filter):
     try:
         raw_json = fetch_json(url)
-    except:
+    except Exception as e:
+        print("Error parsing LIIGA JSON:", e)
         return league, team_name, None
     if not team_filter:
         return league, team_name, None
@@ -182,7 +186,8 @@ def download_liiga(league, team_name, url, team_filter):
 def download_ncaa_conf(league, team_name, url, team_filter):
     try:
         raw_json = fetch_json(url)
-    except:
+    except Exception as e:
+        print("Error parsing {league} JSON:", e)
         return league, team_name, None
     calendar = parse_ncaa_conf(raw_json, team_name)
     return league, team_name, calendar
@@ -191,7 +196,8 @@ def download_ncaa_conf(league, team_name, url, team_filter):
 def download_ncaa_b10(league, team_name, url, team_filter):
     try:
         raw_json = fetch_json(url)
-    except:
+    except Exception as e:
+        print("Error parsing {league} JSON:", e)
         return league, team_name, None
     calendar = parse_ncaa_b10(raw_json, team_filter)
     return league, team_name, calendar
@@ -200,7 +206,8 @@ def download_ncaa_b10(league, team_name, url, team_filter):
 def download_ncaa_east(league, team_name, url, team_filter):
     try:
         raw_json = fetch_json(url)
-    except:
+    except Exception as e:
+        print("Error parsing {league} JSON:", e)
         return league, team_name, None
     calendar = parse_ncaa_east(raw_json, team_name)
     return league, team_name, calendar
@@ -212,7 +219,8 @@ def download_ncaa_east(league, team_name, url, team_filter):
 def download_nhl(league, team_name, url, team_filter):
     try:
         raw_json = fetch_json(url)
-    except:
+    except Exception as e:
+        print("Error parsing NHL JSON:", e)
         return league, team_name, None
     games_list = raw_json.get("games", [])
     calendar = parse_nhl_json_to_calendar({"games": games_list})
@@ -225,7 +233,8 @@ def download_nhl(league, team_name, url, team_filter):
 def download_nl(league, team_name, url, team_filter):
     try:
         raw_json = fetch_json(url)
-    except:
+    except Exception as e:
+        print("Error parsing NL JSON:", e)
         return league, team_name, None
     calendar = parse_nl_json(raw_json, team_filter)
     return league, team_name, calendar
@@ -239,7 +248,7 @@ def download_publicationsports(league, team_name, url, team_filter):
         with sync_playwright() as p:
             browser = p.chromium.launch(headless=True)
             page = browser.new_page()
-            stealth(page)
+            stealth.stealth_sync(page)
             page.goto(url, timeout=90000)
             page.wait_for_load_state("networkidle")
             html = page.content()
@@ -247,7 +256,7 @@ def download_publicationsports(league, team_name, url, team_filter):
         calendar = parse_publicationsports(html, team_filter, league)
         return league, team_name, calendar
     except Exception as e:
-        print("Error parsing Publication Sports HTML:", e)
+        print("Error parsing Publication Sports HTML for {league}:", e)
         return league, team_name, None
 
 # ============================
@@ -257,19 +266,21 @@ def download_publicationsports(league, team_name, url, team_filter):
 def download_shl(league, team_name, url, team_filter):
     try:
         raw_json = fetch_json(url)
-    except:
+    except Exception as e:
+        print("Error parsing SHL JSON:", e)
         return league, team_name, None
     calendar = parse_shl_json_to_calendar(league, team_name, raw_json)
     return league, team_name, calendar
 
 # ============================
-# UFA JSON  (FIX)
+# UFA JSON
 # ============================
 @register_downloader("ufa")
 def download_ufa(league, team_name, url, team_filter):
     try:
         raw_json = fetch_json(url)
-    except:
+    except Exception as e:
+        print("Error parsing UFA JSON:", e)
         return league, team_name, None
     calendar = parse_ufa_json_to_calendar(raw_json)
     return league, team_name, calendar
@@ -281,7 +292,8 @@ def download_ufa(league, team_name, url, team_filter):
 def download_vhl(league, team_name, url, team_filter):
     try:
         html = fetch_html(url)
-    except:
+    except Exception as e:
+        print("Error parsing VHL HTML:", e)
         return league, team_name, None
     calendar = parse_vhl_html(html, team_name, team_filter)
     return league, team_name, calendar
