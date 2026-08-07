@@ -4,7 +4,7 @@ import json
 import re
 import cloudscraper
 from playwright.sync_api import sync_playwright
-from playwright_stealth import stealth
+from playwright_stealth import Stealth
 from bs4 import BeautifulSoup
 
 from parsers.nhl import parse_nhl_json_to_calendar
@@ -128,7 +128,7 @@ def download_hockeytech(league, team_name, url, team_filter):
     try:
         raw_json = fetch_json(url)
     except Exception as e:
-        print("Error parsing Hockeytech JSON for {league}:", e)
+        print(f"Error parsing Hockeytech JSON for {league}:", e)
         return league, team_name, None
     calendar = parse_hockeytech(raw_json, team_filter)
     return league, team_name, calendar
@@ -187,7 +187,7 @@ def download_ncaa_conf(league, team_name, url, team_filter):
     try:
         raw_json = fetch_json(url)
     except Exception as e:
-        print("Error parsing {league} JSON:", e)
+        print(f"Error parsing {league} JSON:", e)
         return league, team_name, None
     calendar = parse_ncaa_conf(raw_json, team_name)
     return league, team_name, calendar
@@ -197,7 +197,7 @@ def download_ncaa_b10(league, team_name, url, team_filter):
     try:
         raw_json = fetch_json(url)
     except Exception as e:
-        print("Error parsing {league} JSON:", e)
+        print(f"Error parsing {league} JSON:", e)
         return league, team_name, None
     calendar = parse_ncaa_b10(raw_json, team_filter)
     return league, team_name, calendar
@@ -207,7 +207,7 @@ def download_ncaa_east(league, team_name, url, team_filter):
     try:
         raw_json = fetch_json(url)
     except Exception as e:
-        print("Error parsing {league} JSON:", e)
+        print(f"Error parsing {league} JSON:", e)
         return league, team_name, None
     calendar = parse_ncaa_east(raw_json, team_name)
     return league, team_name, calendar
@@ -245,10 +245,9 @@ def download_nl(league, team_name, url, team_filter):
 @register_downloader("publicationsports")
 def download_publicationsports(league, team_name, url, team_filter):
     try:
-        with sync_playwright() as p:
+        with Stealth().use_sync(sync_playwright()) as p:
             browser = p.chromium.launch(headless=True)
             page = browser.new_page()
-            stealth.stealth_sync(page)
             page.goto(url, timeout=90000)
             page.wait_for_load_state("networkidle")
             html = page.content()
@@ -256,7 +255,7 @@ def download_publicationsports(league, team_name, url, team_filter):
         calendar = parse_publicationsports(html, team_filter, league)
         return league, team_name, calendar
     except Exception as e:
-        print("Error parsing Publication Sports HTML for {league}:", e)
+        print(f"Error parsing Publication Sports HTML for {league}:", e)
         return league, team_name, None
 
 # ============================
