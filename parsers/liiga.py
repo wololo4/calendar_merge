@@ -27,7 +27,7 @@ def parse_liiga_json_to_calendar(games):
         game_center = f"https://liiga.fi/en/game/{season}/{uid}"
 
         event = Event()
-        event.add("SUMMARY", f"🏒 | {home} vs {away}")
+        event.add("SUMMARY", f"🏒 | {away} @ {home}")
         event.add("DTSTART", dt)
         dt_end = dt + timedelta(hours=2, minutes=30)
         event.add("DTEND", dt_end)
