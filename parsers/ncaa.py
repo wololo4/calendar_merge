@@ -299,10 +299,10 @@ def clean_ncaa_title_and_flags(title):
     clean = title.strip()
 
     exhibition_markers = [
-        "Exhibition",
         "(Exhibition)",
         "(ex)",
         "(exh.)",
+        "Exhibition",
     ]
 
     for marker in exhibition_markers:
