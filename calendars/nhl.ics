@@ -469,8 +469,10 @@ DTSTART:20261219T000000
 DTEND:20261219T023000
 UID:nhl2026020559
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
- er/mtl-vs-buf/2026/12/18/2026020559\nTickets: https://www.nhl.com/sabres/t
- ickets/
+ er/mtl-vs-buf/2026/12/18/2026020559\nTickets: https://www.ticketmaster.com
+ /event/000064EFCB5480C8?brand=sabres&artistid=805906&wt.mc_id=NHL_TEAM_BUF
+ _SCHEDULE_GM16&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_
+ BUF&utm_content=SCHEDULE_GM16
 LOCATION:KeyBank Center
 END:VEVENT
 BEGIN:VEVENT
@@ -627,8 +629,10 @@ DTSTART:20270118T180000
 DTEND:20270118T203000
 UID:nhl2026020776
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
- er/mtl-vs-buf/2027/01/18/2026020776\nTickets: https://www.nhl.com/sabres/t
- ickets/
+ er/mtl-vs-buf/2027/01/18/2026020776\nTickets: https://www.ticketmaster.com
+ /event/000064EFCAA87D66?brand=sabres&artistid=805906&wt.mc_id=NHL_TEAM_BUF
+ _SCHEDULE_GM25&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_
+ BUF&utm_content=SCHEDULE_GM25
 LOCATION:KeyBank Center
 END:VEVENT
 BEGIN:VEVENT

@@ -5,8 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 SUMMARY:🏒 | Skellefteå AIK @ HK Nitra
-DTSTART:20260904T160000Z
-DTEND:20260904T183000Z
+DTSTART:20260904T160000
+DTEND:20260904T183000
 UID:chleu2995
 DESCRIPTION:Stage: Regular Season\nRound: Game Day 1\nGame Center: https:/
  /www.chl.hockey/en/matches/2955e4b9c682514ca88e1d64/hk-nitra-vs-skelleftea
@@ -15,8 +15,8 @@ LOCATION:Tiposbet Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Skellefteå AIK @ Adler Mannheim
-DTSTART:20260906T150000Z
-DTEND:20260906T173000Z
+DTSTART:20260906T150000
+DTEND:20260906T173000
 UID:chleu3011
 DESCRIPTION:Stage: Regular Season\nRound: Game Day 2\nGame Center: https:/
  /www.chl.hockey/en/matches/8ea8d511f11e851e50fd4110/adler-mannheim-vs-skel
@@ -25,8 +25,8 @@ LOCATION:SAP Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Genève-Servette @ Skellefteå AIK
-DTSTART:20260910T170000Z
-DTEND:20260910T193000Z
+DTSTART:20260910T170000
+DTEND:20260910T193000
 UID:chleu3015
 DESCRIPTION:Stage: Regular Season\nRound: Game Day 3\nGame Center: https:/
  /www.chl.hockey/en/matches/f53c78cf34039461d87b4a44/skelleftea-aik-vs-gene
@@ -35,8 +35,8 @@ LOCATION:Skellefteå Kraft Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | HC Davos @ Skellefteå AIK
-DTSTART:20260912T123000Z
-DTEND:20260912T150000Z
+DTSTART:20260912T123000
+DTEND:20260912T150000
 UID:chleu3024
 DESCRIPTION:Stage: Regular Season\nRound: Game Day 4\nGame Center: https:/
  /www.chl.hockey/en/matches/2c97b18b6dcb99eed865e111/skelleftea-aik-vs-hc-d
@@ -45,8 +45,8 @@ LOCATION:Skellefteå Kraft Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Skellefteå AIK @ HC Pilsen
-DTSTART:20261006T153000Z
-DTEND:20261006T180000Z
+DTSTART:20261006T153000
+DTEND:20261006T180000
 UID:chleu3036
 DESCRIPTION:Stage: Regular Season\nRound: Game Day 5\nGame Center: https:/
  /www.chl.hockey/en/matches/1a7ccbdac3737e2e2123f998/hc-pilsen-vs-skellefte
@@ -55,12 +55,72 @@ LOCATION:Logspeed CZ Aréna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Red Bull Salzburg @ Skellefteå AIK
-DTSTART:20261013T170000Z
-DTEND:20261013T193000Z
+DTSTART:20261013T170000
+DTEND:20261013T193000
 UID:chleu3053
 DESCRIPTION:Stage: Regular Season\nRound: Game Day 6\nGame Center: https:/
  /www.chl.hockey/en/matches/94a430b5b1a8f81c4883aaa3/skelleftea-aik-vs-red-
  bull-salzburg
 LOCATION:Skellefteå Kraft Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kölner Haie @ Red Bull Salzburg
+DTSTART:20260903T171500
+DTEND:20260903T194500
+UID:chleu2993
+DESCRIPTION:Stage: Regular Season\nRound: Game Day 1\nGame Center: https:/
+ /www.chl.hockey/en/matches/ec28c920c178cfafaf650188/red-bull-salzburg-vs-k
+ olner-haie
+LOCATION:Eisarena Salzburg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kölner Haie @ Tappara Tampere
+DTSTART:20260905T140000
+DTEND:20260905T163000
+UID:chleu3000
+DESCRIPTION:Stage: Regular Season\nRound: Game Day 2\nGame Center: https:/
+ /www.chl.hockey/en/matches/8ed94128f8806f40a2957687/tappara-tampere-vs-kol
+ ner-haie
+LOCATION:Hakametsä
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Frölunda Gothenburg @ Kölner Haie
+DTSTART:20260910T173000
+DTEND:20260910T200000
+UID:chleu3017
+DESCRIPTION:Stage: Regular Season\nRound: Game Day 3\nGame Center: https:/
+ /www.chl.hockey/en/matches/d90c226758cacdc373f4946e/kolner-haie-vs-frolund
+ a-gothenburg
+LOCATION:LANXESS Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | KAC Klagenfurt @ Kölner Haie
+DTSTART:20260912T150000
+DTEND:20260912T173000
+UID:chleu3029
+DESCRIPTION:Stage: Regular Season\nRound: Game Day 4\nGame Center: https:/
+ /www.chl.hockey/en/matches/a36c2ac20069ca066d69c16d/kolner-haie-vs-kac-kla
+ genfurt
+LOCATION:Yayla-Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Herning Blue Fox @ Kölner Haie
+DTSTART:20261007T173000
+DTEND:20261007T200000
+UID:chleu3044
+DESCRIPTION:Stage: Regular Season\nRound: Game Day 5\nGame Center: https:/
+ /www.chl.hockey/en/matches/1304690b8a655c2c91cec3d8/kolner-haie-vs-herning
+ -blue-fox
+LOCATION:LANXESS Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kölner Haie @ Genève-Servette
+DTSTART:20261014T174500
+DTEND:20261014T201500
+UID:chleu3059
+DESCRIPTION:Stage: Regular Season\nRound: Game Day 6\nGame Center: https:/
+ /www.chl.hockey/en/matches/5ed0449680b6681769378978/geneve-servette-vs-kol
+ ner-haie
+LOCATION:Patinoire des Vernets
 END:VEVENT
 END:VCALENDAR

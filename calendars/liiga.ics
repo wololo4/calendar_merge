@@ -8,8 +8,7 @@ SUMMARY:🏒 | KooKoo @ TPS
 DTSTART:20260901T153000
 DTEND:20260901T180000
 UID:liiga2701279
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701279
 LOCATION:Turun Monitoimihalli Oy
 END:VEVENT
 BEGIN:VEVENT
@@ -17,8 +16,7 @@ SUMMARY:🏒 | HIFK @ TPS
 DTSTART:20260905T140000
 DTEND:20260905T163000
 UID:liiga2701290
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701290
 LOCATION:Turun Monitoimihalli Oy
 END:VEVENT
 BEGIN:VEVENT
@@ -26,8 +24,7 @@ SUMMARY:🏒 | TPS @ Sport
 DTSTART:20260909T153000
 DTEND:20260909T180000
 UID:liiga2701296
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701296
 LOCATION:Vaasan jäähalli I
 END:VEVENT
 BEGIN:VEVENT
@@ -35,8 +32,7 @@ SUMMARY:🏒 | Jukurit @ TPS
 DTSTART:20260915T153000
 DTEND:20260915T180000
 UID:liiga2701301
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701301
 LOCATION:Turun Monitoimihalli Oy
 END:VEVENT
 BEGIN:VEVENT
@@ -44,8 +40,7 @@ SUMMARY:🏒 | Tappara @ TPS
 DTSTART:20260917T153000
 DTEND:20260917T180000
 UID:liiga2701307
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701307
 LOCATION:Turun Monitoimihalli Oy
 END:VEVENT
 BEGIN:VEVENT
@@ -53,8 +48,7 @@ SUMMARY:🏒 | TPS @ HPK
 DTSTART:20260919T140000
 DTEND:20260919T163000
 UID:liiga2701312
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701312
 LOCATION:Hämeenlinnan jäähalli I
 END:VEVENT
 BEGIN:VEVENT
@@ -62,8 +56,7 @@ SUMMARY:🏒 | TPS @ Jokerit
 DTSTART:20260925T163000
 DTEND:20260925T190000
 UID:liiga2701331
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701331
 LOCATION:Helsinki Areena
 END:VEVENT
 BEGIN:VEVENT
@@ -71,8 +64,7 @@ SUMMARY:🏒 | TPS @ Ilves
 DTSTART:20260927T120000
 DTEND:20260927T143000
 UID:liiga2701339
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701339
 LOCATION:Tampereen Kansi Areena
 END:VEVENT
 BEGIN:VEVENT
@@ -80,8 +72,7 @@ SUMMARY:🏒 | TPS @ K-Espoo
 DTSTART:20260930T153000
 DTEND:20260930T180000
 UID:liiga2701343
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701343
 LOCATION:Tapiolan monitoimiareena
 END:VEVENT
 BEGIN:VEVENT
@@ -89,8 +80,7 @@ SUMMARY:🏒 | JYP @ TPS
 DTSTART:20261003T140000
 DTEND:20261003T163000
 UID:liiga2701357
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701357
 LOCATION:Turun Monitoimihalli Oy
 END:VEVENT
 BEGIN:VEVENT
@@ -98,8 +88,7 @@ SUMMARY:🏒 | TPS @ HIFK
 DTSTART:20261006T153000
 DTEND:20261006T180000
 UID:liiga2701360
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701360
 LOCATION:Helsingin jäähalli I
 END:VEVENT
 BEGIN:VEVENT
@@ -107,8 +96,7 @@ SUMMARY:🏒 | Sport @ TPS
 DTSTART:20261009T153000
 DTEND:20261009T180000
 UID:liiga2701370
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701370
 LOCATION:Turun Monitoimihalli Oy
 END:VEVENT
 BEGIN:VEVENT
@@ -116,8 +104,7 @@ SUMMARY:🏒 | TPS @ Tappara
 DTSTART:20261010T140000
 DTEND:20261010T163000
 UID:liiga2701376
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701376
 LOCATION:Tampereen Kansi Areena
 END:VEVENT
 BEGIN:VEVENT
@@ -125,8 +112,7 @@ SUMMARY:🏒 | Ilves @ TPS
 DTSTART:20261013T153000
 DTEND:20261013T180000
 UID:liiga2701379
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701379
 LOCATION:Turun Monitoimihalli Oy
 END:VEVENT
 BEGIN:VEVENT
@@ -134,8 +120,7 @@ SUMMARY:🏒 | K-Espoo @ TPS
 DTSTART:20261016T153000
 DTEND:20261016T180000
 UID:liiga2701386
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701386
 LOCATION:Turun Monitoimihalli Oy
 END:VEVENT
 BEGIN:VEVENT
@@ -143,8 +128,7 @@ SUMMARY:🏒 | TPS @ Ässät
 DTSTART:20261017T140000
 DTEND:20261017T163000
 UID:liiga2701395
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701395
 LOCATION:Porin jäähalli I
 END:VEVENT
 BEGIN:VEVENT
@@ -152,8 +136,7 @@ SUMMARY:🏒 | TPS @ Lukko
 DTSTART:20261023T153000
 DTEND:20261023T180000
 UID:liiga2701406
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701406
 LOCATION:Rauman jäähalli / Äijänsuo Areena
 END:VEVENT
 BEGIN:VEVENT
@@ -161,8 +144,7 @@ SUMMARY:🏒 | Lukko @ TPS
 DTSTART:20261024T140000
 DTEND:20261024T163000
 UID:liiga2701414
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701414
 LOCATION:Turun Monitoimihalli Oy
 END:VEVENT
 BEGIN:VEVENT
@@ -170,8 +152,7 @@ SUMMARY:🏒 | TPS @ K-Espoo
 DTSTART:20261028T163000
 DTEND:20261028T190000
 UID:liiga2701419
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701419
 LOCATION:Tapiolan monitoimiareena
 END:VEVENT
 BEGIN:VEVENT
@@ -179,8 +160,7 @@ SUMMARY:🏒 | Pelicans @ TPS
 DTSTART:20261030T163000
 DTEND:20261030T190000
 UID:liiga2701428
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701428
 LOCATION:Turun Monitoimihalli Oy
 END:VEVENT
 BEGIN:VEVENT
@@ -188,8 +168,7 @@ SUMMARY:🏒 | KalPa @ TPS
 DTSTART:20261110T163000
 DTEND:20261110T190000
 UID:liiga2701477
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701477
 LOCATION:Turun Monitoimihalli Oy
 END:VEVENT
 BEGIN:VEVENT
@@ -197,8 +176,7 @@ SUMMARY:🏒 | Jokerit @ TPS
 DTSTART:20261113T163000
 DTEND:20261113T190000
 UID:liiga2701449
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701449
 LOCATION:Turun Monitoimihalli Oy
 END:VEVENT
 BEGIN:VEVENT
@@ -206,8 +184,7 @@ SUMMARY:🏒 | Kärpät @ TPS
 DTSTART:20261118T163000
 DTEND:20261118T190000
 UID:liiga2701461
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701461
 LOCATION:Turun Monitoimihalli Oy
 END:VEVENT
 BEGIN:VEVENT
@@ -215,8 +192,7 @@ SUMMARY:🏒 | TPS @ SaiPa
 DTSTART:20261120T163000
 DTEND:20261120T190000
 UID:liiga2701468
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701468
 LOCATION:Lappeenrannan jäähalli I
 END:VEVENT
 BEGIN:VEVENT
@@ -224,8 +200,7 @@ SUMMARY:🏒 | TPS @ Jukurit
 DTSTART:20261121T150000
 DTEND:20261121T173000
 UID:liiga2701470
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701470
 LOCATION:Mikkelin jäähalli
 END:VEVENT
 BEGIN:VEVENT
@@ -233,8 +208,7 @@ SUMMARY:🏒 | TPS @ HIFK
 DTSTART:20261125T163000
 DTEND:20261125T190000
 UID:liiga2701480
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701480
 LOCATION:Helsingin jäähalli I
 END:VEVENT
 BEGIN:VEVENT
@@ -242,8 +216,7 @@ SUMMARY:🏒 | K-Espoo @ TPS
 DTSTART:20261128T150000
 DTEND:20261128T173000
 UID:liiga2701493
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701493
 LOCATION:Turun Monitoimihalli Oy
 END:VEVENT
 BEGIN:VEVENT
@@ -251,8 +224,7 @@ SUMMARY:🏒 | TPS @ Pelicans
 DTSTART:20261202T163000
 DTEND:20261202T190000
 UID:liiga2701501
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701501
 LOCATION:Lahden jäähalli
 END:VEVENT
 BEGIN:VEVENT
@@ -260,8 +232,7 @@ SUMMARY:🏒 | Ässät @ TPS
 DTSTART:20261204T163000
 DTEND:20261204T190000
 UID:liiga2701506
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701506
 LOCATION:Turun Monitoimihalli Oy
 END:VEVENT
 BEGIN:VEVENT
@@ -269,8 +240,7 @@ SUMMARY:🏒 | TPS @ JYP
 DTSTART:20261208T163000
 DTEND:20261208T190000
 UID:liiga2701516
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701516
 LOCATION:Jyväskylän jäähalli
 END:VEVENT
 BEGIN:VEVENT
@@ -278,8 +248,7 @@ SUMMARY:🏒 | TPS @ KalPa
 DTSTART:20261209T163000
 DTEND:20261209T190000
 UID:liiga2701521
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701521
 LOCATION:Kuopion jäähalli
 END:VEVENT
 BEGIN:VEVENT
@@ -287,8 +256,7 @@ SUMMARY:🏒 | Tappara @ TPS
 DTSTART:20261211T163000
 DTEND:20261211T190000
 UID:liiga2701531
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701531
 LOCATION:Turun Monitoimihalli Oy
 END:VEVENT
 BEGIN:VEVENT
@@ -296,8 +264,7 @@ SUMMARY:🏒 | Kärpät @ TPS
 DTSTART:20261215T163000
 DTEND:20261215T190000
 UID:liiga2701542
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701542
 LOCATION:Turun Monitoimihalli Oy
 END:VEVENT
 BEGIN:VEVENT
@@ -305,8 +272,7 @@ SUMMARY:🏒 | TPS @ Pelicans
 DTSTART:20261218T163000
 DTEND:20261218T190000
 UID:liiga2701550
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701550
 LOCATION:Lahden jäähalli
 END:VEVENT
 BEGIN:VEVENT
@@ -314,8 +280,7 @@ SUMMARY:🏒 | Ässät @ TPS
 DTSTART:20261226T150000
 DTEND:20261226T173000
 UID:liiga2701566
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701566
 LOCATION:Turun Monitoimihalli Oy
 END:VEVENT
 BEGIN:VEVENT
@@ -323,8 +288,7 @@ SUMMARY:🏒 | TPS @ HPK
 DTSTART:20261229T163000
 DTEND:20261229T190000
 UID:liiga2701575
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701575
 LOCATION:Hämeenlinnan jäähalli I
 END:VEVENT
 BEGIN:VEVENT
@@ -332,8 +296,7 @@ SUMMARY:🏒 | HPK @ TPS
 DTSTART:20261230T163000
 DTEND:20261230T190000
 UID:liiga2701583
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701583
 LOCATION:Turun Monitoimihalli Oy
 END:VEVENT
 BEGIN:VEVENT
@@ -341,8 +304,7 @@ SUMMARY:🏒 | TPS @ Ilves
 DTSTART:20270102T150000
 DTEND:20270102T173000
 UID:liiga2701584
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701584
 LOCATION:Tampereen Kansi Areena
 END:VEVENT
 BEGIN:VEVENT
@@ -350,8 +312,7 @@ SUMMARY:🏒 | Sport @ TPS
 DTSTART:20270106T163000
 DTEND:20270106T190000
 UID:liiga2701598
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701598
 LOCATION:Turun Monitoimihalli Oy
 END:VEVENT
 BEGIN:VEVENT
@@ -359,8 +320,7 @@ SUMMARY:🏒 | SaiPa @ TPS
 DTSTART:20270109T130000
 DTEND:20270109T153000
 UID:liiga2701612
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701612
 LOCATION:Turun Monitoimihalli Oy
 END:VEVENT
 BEGIN:VEVENT
@@ -368,8 +328,7 @@ SUMMARY:🏒 | TPS @ KooKoo
 DTSTART:20270113T163000
 DTEND:20270113T190000
 UID:liiga2701617
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701617
 LOCATION:Kouvolan jäähalli
 END:VEVENT
 BEGIN:VEVENT
@@ -377,8 +336,7 @@ SUMMARY:🏒 | TPS @ KalPa
 DTSTART:20270115T173000
 DTEND:20270115T200000
 UID:liiga2701626
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701626
 LOCATION:Kuopion jäähalli
 END:VEVENT
 BEGIN:VEVENT
@@ -386,8 +344,7 @@ SUMMARY:🏒 | TPS @ JYP
 DTSTART:20270116T150000
 DTEND:20270116T173000
 UID:liiga2701631
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701631
 LOCATION:Jyväskylän jäähalli
 END:VEVENT
 BEGIN:VEVENT
@@ -395,8 +352,7 @@ SUMMARY:🏒 | TPS @ Tappara
 DTSTART:20270120T163000
 DTEND:20270120T190000
 UID:liiga2701643
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701643
 LOCATION:Tampereen Kansi Areena
 END:VEVENT
 BEGIN:VEVENT
@@ -404,8 +360,7 @@ SUMMARY:🏒 | SaiPa @ TPS
 DTSTART:20270123T150000
 DTEND:20270123T173000
 UID:liiga2701655
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701655
 LOCATION:Turun Monitoimihalli Oy
 END:VEVENT
 BEGIN:VEVENT
@@ -413,8 +368,7 @@ SUMMARY:🏒 | HIFK @ TPS
 DTSTART:20270127T163000
 DTEND:20270127T190000
 UID:liiga2701662
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701662
 LOCATION:Turun Monitoimihalli Oy
 END:VEVENT
 BEGIN:VEVENT
@@ -422,8 +376,7 @@ SUMMARY:🏒 | Lukko @ TPS
 DTSTART:20270129T163000
 DTEND:20270129T190000
 UID:liiga2701670
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701670
 LOCATION:Turun Monitoimihalli Oy
 END:VEVENT
 BEGIN:VEVENT
@@ -431,8 +384,7 @@ SUMMARY:🏒 | TPS @ Lukko
 DTSTART:20270130T150000
 DTEND:20270130T173000
 UID:liiga2701674
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701674
 LOCATION:Rauman jäähalli / Äijänsuo Areena
 END:VEVENT
 BEGIN:VEVENT
@@ -440,8 +392,7 @@ SUMMARY:🏒 | TPS @ Ässät
 DTSTART:20270203T163000
 DTEND:20270203T190000
 UID:liiga2701686
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701686
 LOCATION:Porin jäähalli I
 END:VEVENT
 BEGIN:VEVENT
@@ -449,8 +400,7 @@ SUMMARY:🏒 | TPS @ Jokerit
 DTSTART:20270205T173000
 DTEND:20270205T200000
 UID:liiga2701692
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701692
 LOCATION:Helsinki Areena
 END:VEVENT
 BEGIN:VEVENT
@@ -458,8 +408,7 @@ SUMMARY:🏒 | Pelicans @ TPS
 DTSTART:20270206T150000
 DTEND:20270206T173000
 UID:liiga2701698
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701698
 LOCATION:Turun Monitoimihalli Oy
 END:VEVENT
 BEGIN:VEVENT
@@ -467,8 +416,7 @@ SUMMARY:🏒 | TPS @ Kärpät
 DTSTART:20270216T163000
 DTEND:20270216T190000
 UID:liiga2701703
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701703
 LOCATION:Oulun jäähalli
 END:VEVENT
 BEGIN:VEVENT
@@ -476,8 +424,7 @@ SUMMARY:🏒 | Jukurit @ TPS
 DTSTART:20270218T163000
 DTEND:20270218T190000
 UID:liiga2701710
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701710
 LOCATION:Turun Monitoimihalli Oy
 END:VEVENT
 BEGIN:VEVENT
@@ -485,8 +432,7 @@ SUMMARY:🏒 | Ilves @ TPS
 DTSTART:20270220T150000
 DTEND:20270220T173000
 UID:liiga2701722
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701722
 LOCATION:Turun Monitoimihalli Oy
 END:VEVENT
 BEGIN:VEVENT
@@ -494,8 +440,7 @@ SUMMARY:🏒 | TPS @ KooKoo
 DTSTART:20270224T163000
 DTEND:20270224T190000
 UID:liiga2701727
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701727
 LOCATION:Kouvolan jäähalli
 END:VEVENT
 BEGIN:VEVENT
@@ -503,8 +448,7 @@ SUMMARY:🏒 | Jokerit @ TPS
 DTSTART:20270226T173000
 DTEND:20270226T200000
 UID:liiga2701736
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701736
 LOCATION:Turun Monitoimihalli Oy
 END:VEVENT
 BEGIN:VEVENT
@@ -512,8 +456,7 @@ SUMMARY:🏒 | JYP @ TPS
 DTSTART:20270302T163000
 DTEND:20270302T190000
 UID:liiga2701748
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701748
 LOCATION:Turun Monitoimihalli Oy
 END:VEVENT
 BEGIN:VEVENT
@@ -521,8 +464,7 @@ SUMMARY:🏒 | KalPa @ TPS
 DTSTART:20270306T150000
 DTEND:20270306T173000
 UID:liiga2701765
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701765
 LOCATION:Turun Monitoimihalli Oy
 END:VEVENT
 BEGIN:VEVENT
@@ -530,8 +472,7 @@ SUMMARY:🏒 | TPS @ Jukurit
 DTSTART:20270312T163000
 DTEND:20270312T190000
 UID:liiga2701778
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701778
 LOCATION:Mikkelin jäähalli
 END:VEVENT
 BEGIN:VEVENT
@@ -539,8 +480,7 @@ SUMMARY:🏒 | TPS @ SaiPa
 DTSTART:20270313T150000
 DTEND:20270313T173000
 UID:liiga2701785
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701785
 LOCATION:Lappeenrannan jäähalli I
 END:VEVENT
 BEGIN:VEVENT
@@ -548,8 +488,7 @@ SUMMARY:🏒 | KooKoo @ TPS
 DTSTART:20270316T163000
 DTEND:20270316T190000
 UID:liiga2701792
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701792
 LOCATION:Turun Monitoimihalli Oy
 END:VEVENT
 BEGIN:VEVENT
@@ -557,8 +496,7 @@ SUMMARY:🏒 | TPS @ Kärpät
 DTSTART:20270318T163000
 DTEND:20270318T190000
 UID:liiga2701797
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701797
 LOCATION:Oulun jäähalli
 END:VEVENT
 BEGIN:VEVENT
@@ -566,8 +504,7 @@ SUMMARY:🏒 | TPS @ Sport
 DTSTART:20270320T150000
 DTEND:20270320T173000
 UID:liiga2701807
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701807
 LOCATION:Vaasan jäähalli I
 END:VEVENT
 BEGIN:VEVENT
@@ -575,8 +512,7 @@ SUMMARY:🏒 | HPK @ TPS
 DTSTART:20270323T163000
 DTEND:20270323T190000
 UID:liiga2701814
-DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/<function uid at 0x
- 000002662C704A90>
+DESCRIPTION:Game Center: https://liiga.fi/en/game/2027/2701814
 LOCATION:Turun Monitoimihalli Oy
 END:VEVENT
 END:VCALENDAR
