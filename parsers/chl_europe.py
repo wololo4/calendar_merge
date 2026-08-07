@@ -1,6 +1,6 @@
-from icalendar import Event
-from datetime import datetime, timedelta
 from utils.calendar import create_calendar
+from parsers.common import parse_iso_datetime_duration, build_description, uid
+from utils.ics import ICSEventBuilder
 
 def parse_chl_europe_json_to_calendar(json_data, team_filter):
     cal = create_calendar()
@@ -18,42 +18,35 @@ def parse_chl_europe_json_to_calendar(json_data, team_filter):
             if home_short not in team_filter and away_short not in team_filter:
                 continue
 
-        event = Event()
-
         game_id = game.get("externalId", "unknown")
-        event.add("uid", f"chleu{game_id}")
-
-        start_str = game.get("startDate")
-        if not start_str:
-            continue
-
-        start_dt = datetime.fromisoformat(start_str.replace("Z", "+00:00"))
-        end_dt = start_dt + timedelta(hours=2, minutes=30)
-
-        event.add("dtstart", start_dt)
-        event.add("dtend", end_dt)
-
+        start_dt, end_dt = parse_iso_datetime_duration(game.get("startDate"))
         home_name = home.get("name", "Home")
         away_name = away.get("name", "Away")
-        event.add("summary", f"🏒 | {away_name} @ {home_name}")
-
         venue = game.get("venue", {}).get("name", "Arena")
-        event.add("location", venue)
 
         stage = game.get("stage", {})
         group_name = stage.get("group", {}).get("name", "")
         round_name = stage.get("round", {}).get("name", "")
 
-        description = [
-            f"Stage: {group_name}",
-            f"Round: {round_name}"
-        ]
-
         link = game.get("link", {}).get("url")
-        if link:
-            description.append(f"Game Center: https://www.chl.hockey/en{link}")
 
-        event.add("description", "\n".join(description))
+        description = build_description([
+            f"Stage: {group_name}",
+            f"Round: {round_name}",
+            f"Game Center: https://www.chl.hockey/en{link}" if link else None
+        ])
+
+        event = (
+            ICSEventBuilder()
+            .uid(uid("chleu", game_id))
+            .start(start_dt)
+            .end(end_dt)
+            .summary(f"🏒 | {away_name} @ {home_name}")
+            .location(venue)
+            .description(description)
+            .build()
+        )
+
         cal.add_component(event)
 
     return cal

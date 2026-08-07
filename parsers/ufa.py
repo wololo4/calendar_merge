@@ -1,43 +1,15 @@
-from icalendar import Event
 from datetime import datetime, timedelta, timezone
 from utils.calendar import create_calendar
+from parsers.common import parse_iso_datetime_duration, build_description, uid
+from utils.ics import ICSEventBuilder
 
 def parse_ufa_json_to_calendar(json_data):
-    """Converts raw UFA JSON data into a standard icalendar Calendar object using exact API structural keys."""
     cal = create_calendar()
 
     for game in json_data.get("games", []):
-        # Read the unified timestamp provided by the API
-        start_timestamp = game.get("startTimestamp")
-
-        # Safety Check: Skip if the game has no scheduled timestamp yet
-        if not start_timestamp:
-            away = game.get("awayTeamName")
-            home = game.get("homeTeamName")
-            print(f"Matchup sauté (Timestamp manquant): {away} @ {home}")
-            continue
-
-        event = Event()
-
-        # Build Unique Identifier using the provided gameID string
+        start_dt, end_dt = parse_iso_datetime_duration(game.get("startTimestamp"))
         game_id = game.get("gameID")
-        event.add("uid", f"ufa{game_id}")
 
-        try:
-            # Parse the ISO-8601 date string directly (handles offsets perfectly)
-            start_dt = datetime.fromisoformat(start_timestamp).astimezone(timezone.utc)
-
-            # Estimate duration (Approx. 2 hours for Ultimate Frisbee match duration)
-            end_dt = start_dt + timedelta(hours=2)
-
-            event.add("dtstart", start_dt)
-            event.add("dtend", end_dt)
-
-        except Exception as parse_err:
-            print(
-                f"Erreur de formatage ISO pour le match {game_id}: {parse_err}"
-            )
-            continue
 
         # Extract root-level team names and stadium locations
         away_name = game.get("awayTeamName", "Away Team")
@@ -46,20 +18,22 @@ def parse_ufa_json_to_calendar(json_data):
         home_city = game.get("homeTeamCity", "Home City")
         location = game.get("locationName", "UFA field")
 
-        event.add("summary", f"🥏 | {away_city} {away_name} @ {home_city} {home_name}")
-        event.add("location", location)
+        description = build_description([
+            f"Game Center: https://www.watchufa.com/league/game/{game_id}",
+            f"Watch Live: {game['streamingURL']}" if game.get("streamingURL") else None,
+            f"Tickets: {game['ticketURL']}" if game.get("ticketURL") else None
+        ])
 
-        # Include official streaming and ticket URLs inside the description field
-        description = [
-            f"Game Center: https://www.watchufa.com/league/game/{game_id}"
-        ]
-
-        if game.get("streamingURL"):
-            description.append(f"Watch Live: {game['streamingURL']}")
-        if game.get("ticketURL"):
-            description.append(f"Tickets: {game['ticketURL']}")
-
-        event.add("description", "\n".join(description))
+        event = (
+            ICSEventBuilder()
+            .uid(uid("ufa", game_id))
+            .start(start_dt)
+            .end(end_dt)
+            .summary(f"🥏 | {away_city} {away_name} @ {home_city} {home_name}")
+            .location(location)
+            .description(description)
+            .build()
+        )
 
         cal.add_component(event)
 

@@ -1,8 +1,9 @@
 import requests
 import json
-from icalendar import Event
 from datetime import datetime, timedelta, timezone
 from utils.calendar import create_calendar
+from parsers.common import parse_iso_datetime_duration, build_description, uid
+from utils.ics import ICSEventBuilder
 
 HCanada_Tournament = {
     "7": "World Junior Championship",
@@ -20,6 +21,52 @@ def fetch_seasons_for_league(league_id):
         f"&league_id={league_id}")
     return requests.get(url).json()
 
+def slugify(name):
+    return (
+        name.lower()
+        .replace("é", "e")
+        .replace("è", "e")
+        .replace("ê", "e")
+        .replace("à", "a")
+        .replace("ô", "o")
+        .replace("î", "i")
+        .replace(" ", "-")
+        .replace("'", "")
+        .replace(",", "")
+        .replace("--", "")
+        .replace("-(ohl)", "")
+    )
+
+def flo_event_link(flo_id, yyyy, away_slug, home_slug):
+    if not flo_id or flo_id == "0":
+        return None
+    return f"https://www.flohockey.tv/events/{flo_id}-{yyyy}-{away_slug}-vs-{home_slug}"
+
+def hockeytech_game_center(league, game_id, yyyy, mm, dd, home_slug, away_slug, home_code, away_code):
+    routes = {
+        "ahl": f"https://theahl.com/stats/game-center/{game_id}",
+        "bchl": f"https://bchl.ca/stats/game-center/{game_id}",
+        "chl": f"https://chl.ca/games/chl/chl/{home_code}-{away_code}/{game_id}",
+        "echl": f"https://echl.com/games/{yyyy}/{mm}/{dd}/{home_slug}-vs-{away_slug}",
+        "lhjmq": f"https://chl.ca/lhjmq/gamecentre/{game_id}",
+        "ohl": f"https://chl.ca/ohl/gamecentre/{game_id}",
+        "whl": f"https://chl.ca/whl/gamecentre/{game_id}",
+    }
+    return routes.get(league)
+
+def hockeycanada_game_center(league_id, game_id, current_year, current_season):
+    routes = {
+        "7": f"https://www.hockeycanada.ca/en-ca/team-canada/men/junior/{current_season}/world-championship/stats/game-summary/{game_id}",
+        "24": f"https://www.hockeycanada.ca/en-ca/national-championships/men/u18-club/{current_year}/stats/game-summary/{game_id}",
+        "26": f"https://www.hockeycanada.ca/en-ca/team-canada/men/under-18/{current_season}/world-championship/stats/game-summary/{game_id}",
+        "27": f"https://www.hockeycanada.ca/en-ca/team-canada/men/national/{current_season}/world-championship/stats/game-summary/{game_id}",
+        "32": f"https://www.hockeycanada.ca/en-ca/national-championships/men/national-junior-a/{current_year}/stats/game-summary/{game_id}",
+        "34": f"https://www.hlinkagretzkycup.ca/en-ca/season/{current_year}/stats/game-summary?gameid={game_id}",
+        "38": f"https://www.hockeycanada.ca/en-ca/team-canada/men/olympics/{current_year}/stats/game-summary/{game_id}",
+    }
+    return routes.get(league_id)
+
+
 def map_season_phases(seasons_json):
     mapping = {}
     for season in seasons_json["SiteKit"]["Seasons"]:
@@ -29,11 +76,6 @@ def map_season_phases(seasons_json):
     return mapping
 
 def parse_hockeytech(json_data, team_filter):
-    """
-    Universal HockeyTech parser.
-    Works for AHL, ECHL, LHJMQ, OHL, WHL, BCHL, PWHL.
-    Uses ONLY the main schedule JSON (no gameSummary scraping needed).
-    """
     cal = create_calendar()
     team_filter = [int(t) for t in team_filter]
     league = json_data["SiteKit"]["Parameters"]["client_code"].lower()
@@ -60,7 +102,7 @@ def parse_hockeytech(json_data, team_filter):
         away_code = row.get("visiting_team_code")
         venue_raw = row.get("venue_name", "")
         if " - " in venue_raw:
-            venue = venue_raw.split(" - ")[0].strip()
+            venue = venue_raw.split(" - ")[0].strip() if " - " in venue_raw else venue_raw
         else:
             venue = venue_raw.strip()
         iso_time = row.get("GameDateISO8601")
@@ -69,54 +111,20 @@ def parse_hockeytech(json_data, team_filter):
             print(f"Missing ISO time for game {game_id}")
             continue
 
-        local_start = datetime.fromisoformat(iso_time)
+        start_dt, end_dt = parse_iso_datetime_duration(iso_time)
 
-        # Convert ISO8601 → datetime
-        start_dt = local_start.astimezone(timezone.utc)
-        end_dt = start_dt + timedelta(hours=2, minutes=30)
-
-        # Game Center link
-        # Build new ECHL Game Center URL
         date_str = row.get("date_played")  # "2026-10-16"
         yyyy, mm, dd = date_str.split("-")
 
+        home_slug = slugify(home_team)
+        away_slug = slugify(away_team)
+
+        flo_id = row.get("flo_core_event_id")
+        flo_link = flo_event_link(flo_id, yyyy, away_slug, home_slug)
+
         tournament = None
-
-        def slugify(name):
-            return (
-                name.lower()
-                .replace("é", "e")
-                .replace("è", "e")
-                .replace("ê", "e")
-                .replace("à", "a")
-                .replace("ô", "o")
-                .replace("î", "i")
-                .replace(" ", "-")
-                .replace("'", "")
-                .replace(",", "")
-                .replace("--", "")
-                .replace("-(ohl)", "")
-            )
-
-        home_slug = slugify(row.get("home_team_name"))
-        away_slug = slugify(row.get("visiting_team_name"))
-
-        if league == "ahl":
-            game_center = f"https://theahl.com/stats/game-center/{game_id}"
-            flo_id = row.get("flo_core_event_id")
-            flo_link = f"https://www.flohockey.tv/events/{flo_id}" if flo_id and flo_id != "0" else None
-        elif league == "bchl":
-            game_center = f"https://bchl.ca/stats/game-center/{game_id}"
-            flo_id = row.get("flo_core_event_id")
-            flo_link = f"https://www.flohockey.tv/events/{flo_id}-{yyyy}-{away_slug}-vs-{home_slug}" if flo_id and flo_id != "0" else None
-        elif league == "chl":
-            game_center = f"https://chl.ca/games/chl/chl/{home_code}-{away_code}/{game_id}"
-            flo_link = None
-        elif league == "echl":
-            game_center = f"https://echl.com/games/{yyyy}/{mm}/{dd}/{home_slug}-vs-{away_slug}"
-            flo_id = row.get("flo_core_event_id")
-            flo_link = f"https://www.flohockey.tv/events/{flo_id}-{yyyy}-{away_slug}-vs-{home_slug}" if flo_id and flo_id != "0" else None
-        elif league == "hockeycanada":
+        
+        if league == "hockeycanada":
             seasons_json = fetch_seasons_for_league(league_id)
             season_phase_map = map_season_phases(seasons_json)
 
@@ -125,62 +133,26 @@ def parse_hockeytech(json_data, team_filter):
             tournament = f"{tournament_name} - {phase_name}"
             current_year = datetime.now().year
             current_season = f"{current_year-1}-{str(current_year)[2:]}"
-            if league_id == "7":
-                game_center = f"https://www.hockeycanada.ca/en-ca/team-canada/men/junior/{current_season}/world-championship/stats/game-summary/{game_id}"
-            if league_id == "24":
-                game_center = f"https://www.hockeycanada.ca/en-ca/national-championships/men/u18-club/{current_year}/stats/game-summary/{game_id}"
-            if league_id == "26":
-                game_center = f"https://www.hockeycanada.ca/en-ca/team-canada/men/under-18/{current_season}/world-championship/stats/game-summary/{game_id}"
-            if league_id == "27":
-                game_center = f"https://www.hockeycanada.ca/en-ca/team-canada/men/national/{current_season}/world-championship/stats/game-summary/{game_id}"
-            if league_id == "32":
-                game_center = f"https://www.hockeycanada.ca/en-ca/national-championships/men/national-junior-a/{current_year}/stats/game-summary/{game_id}"
-            if league_id == "34":
-                game_center = f"https://www.hlinkagretzkycup.ca/en-ca/season/{current_year}/stats/game-summary?gameid={game_id}"
-            if league_id == "38":
-                game_center = f"https://www.hockeycanada.ca/en-ca/team-canada/men/olympics/{current_year}/stats/game-summary/{game_id}"
-            flo_link = None
-        elif league == "lhjmq":
-            game_center = f"https://chl.ca/lhjmq/gamecentre/{game_id}"
-            flo_id = row.get("flo_core_event_id")
-            flo_link = f"https://www.flohockey.tv/events/{flo_id}-{yyyy}-{away_slug}-vs-{home_slug}" if flo_id and flo_id != "0" else None
-        elif league == "ohl":
-            game_center = f"https://chl.ca/ohl/gamecentre/{game_id}"
-            flo_id = row.get("flo_core_event_id")
-            flo_link = f"https://www.flohockey.tv/events/{flo_id}-{yyyy}-{away_slug}-vs-{home_slug}" if flo_id and flo_id != "0" else None
-        elif league == "whl":
-            game_center = f"https://chl.ca/whl/gamecentre/{game_id}"
-            flo_link = None
+            game_center = hockeycanada_game_center(league_id, game_id, current_year, current_season)
+        else:
+            game_center = hockeytech_game_center(league, game_id, yyyy, mm, dd, home_slug, away_slug, home_code, away_code)
 
+        description = build_description([
+            f"Tournament: {tournament}" if tournament else None,
+            f"Game Center: {game_center}" if game_center else None,
+            f"FloHockey: {flo_link}" if flo_link else None
+        ])
 
-        # Create ICS event
-        event = Event()
-
-        # UID
-        event.add("uid", f"{league}{game_id}")
-
-        # DTSTART / DTEND
-        event.add("dtstart", start_dt)
-        event.add("dtend", end_dt)
-
-        # SUMMARY
-        event.add("summary", f"🏒 | {away_team} @ {home_team}")
-
-        # LOCATION
-        event.add("location", venue)
-
-        # DESCRIPTION
-        description = []
-
-        if tournament:
-            description.append(f"Tournament: {tournament}")
-        if game_center:
-            description.append(f"Game Center: {game_center}")
-
-        if flo_link:
-            description.append(f"FloHockey: {flo_link}")
-
-        event.add("description", "\n".join(description))
+        event = (
+            ICSEventBuilder()
+            .uid(uid(league, game_id))
+            .start(start_dt)
+            .end(end_dt)
+            .summary(f"🏒 | {away_team} @ {home_team}")
+            .location(venue)
+            .description(description)
+            .build()
+        )
 
         cal.add_component(event)
 

@@ -1,19 +1,15 @@
-from icalendar import Calendar, Event
-from datetime import datetime, timedelta
+from icalendar import Calendar
+from parsers.common import parse_iso_datetime_duration, build_description, uid
+from utils.ics import ICSEventBuilder
 
 def parse_nl_json(json_data, team_id):
     cal = Calendar()
 
     for g in json_data:
-        # Liiga uses "start", not "startTime"
-        raw_start = g.get("date")
-        if not raw_start:
+        start_dt, end_dt = parse_iso_datetime_duration(g.get("date"))
+        if not start_dt:
             continue
 
-        # Convert start time
-        dt = datetime.fromisoformat(raw_start.replace("Z", "+00:00"))
-
-        # Teams
         home = g.get("homeTeamName", "")
         away = g.get("awayTeamName", "")
 
@@ -25,23 +21,27 @@ def parse_nl_json(json_data, team_id):
         if exhibition == True:
             continue
 
-        if away_id != str(team_id) and home_id != str(team_id):
+        team_id_value = str(team_id[0])
+
+        if away_id != team_id_value and home_id != team_id_value:
             continue
 
         # Venue
         venue = g.get("arena", "")
 
-        uid = g.get("gameId")
-        game_center = f"https://www.nationalleague.ch/game/{uid}"
+        game_id = g.get("gameId")
+        game_center = f"https://www.nationalleague.ch/game/{game_id}"
 
-        event = Event()
-        event.add("SUMMARY", f"🏒 | {away} @ {home}")
-        event.add("DTSTART", dt)
-        dt_end = dt + timedelta(hours=2, minutes=30)
-        event.add("DTEND", dt_end)
-        event.add("LOCATION", venue)
-        event.add("UID", f"nl{uid}")    
-        event.add("DESCRIPTION", f"Game Center: {game_center}")
+        event = (
+            ICSEventBuilder()
+            .uid(uid("nl", game_id))
+            .start(start_dt)
+            .end(end_dt)
+            .summary(f"🏒 | {away} @ {home}")
+            .location(venue)
+            .description(f"Game Center: {game_center}")
+            .build()
+        )
 
         cal.add_component(event)
 

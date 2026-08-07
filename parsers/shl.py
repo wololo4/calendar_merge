@@ -1,44 +1,36 @@
-from icalendar import Calendar, Event
-from datetime import datetime, timedelta
+from utils.calendar import create_calendar
+from parsers.common import parse_iso_datetime_duration, build_description, uid
+from utils.ics import ICSEventBuilder
 
 def parse_shl_json_to_calendar(league, team_name, json_data):
-    cal = Calendar()
-    cal.add("prodid", "-//SHL Parser//")
-    cal.add("version", "2.0")
+    cal = create_calendar()
 
     games = json_data.get("gameInfo", [])
 
     for game in games:
-        # Date
-        dt = datetime.fromisoformat(game["rawStartDateTime"].replace("Z", "+00:00"))
-        end_dt = dt + timedelta(hours=2,minutes=30)
+        dt, end_dt = parse_iso_datetime_duration(game["rawStartDateTime"])
 
-        # Teams
         home = game["homeTeamInfo"]["names"]["long"]
         away = game["awayTeamInfo"]["names"]["long"]
 
-        # Arena
         arena = game.get("venueInfo", {}).get("name")
+        game_id = game["uuid"]
 
-        # Game Center
         game_center = (
-            f"https://www.shl.se/game-center/{game['uuid']}/{game['ssgtUuid']}/"
+            f"https://www.shl.se/game-center/{game_id}/{game['ssgtUuid']}/"
             f"?state={game['state']}"
         )
-        # UID
-        uid = "shl" + game["uuid"]
 
-        # ICS event
-        event = Event()
-        event.add("SUMMARY", f"🏒 | {away} @ {home}")
-        event.add("DTSTART", dt)
-        event.add("DTEND", end_dt)
-        event.add("UID", uid)
-
-        if arena:
-            event.add("LOCATION", arena)
-
-        event.add("DESCRIPTION", f"Game Center: {game_center}")
+        event = (
+            ICSEventBuilder()
+            .uid(uid("shl", game_id))
+            .start(dt)
+            .end(end_dt)
+            .summary(f"🏒 | {away} @ {home}")
+            .location(arena)
+            .description(f"Game Center: {game_center}")
+            .build()
+        )
 
         cal.add_component(event)
 

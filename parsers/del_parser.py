@@ -1,37 +1,9 @@
 from bs4 import BeautifulSoup
-from icalendar import Calendar, Event
+from icalendar import Calendar
 from datetime import datetime, timedelta
-
-DEL_TEAMS = {
-    "Augsburger Panther": "Curt Frenzel Stadium",
-    "Eisbären Berlin": "Uber Arena",
-    "Pinguins Bremerhaven": "Eisarena Bremerhaven",
-    "Dresdner Eislöwen": "Joynext Arena",
-    "Löwen Frankfurt": "Eissporthalle Frankfurt",
-    "ERC Ingolstadt": "Saturn Arena",
-    "Iserlohn Roosters": "Eissporthalle Iserlohn",
-    "Kölner Haie": "Lanxess Arena",
-    "Adler Mannheim": "SAP Arena",
-    "EHC Red Bull München": "SAP Garden",
-    "Nürnberg Ice Tigers": "PSD Bank Nürnberg Arena",
-    "Schwenninger Wild Wings": "Helios Arena",
-    "Straubing Tigers": "Eisstadion am Pulvertum",
-    "Grizzlys Wolfsburg": "Eis Arena Wolfsburg",
-    "Krefeld Pinguine": "Yayla Arena"
-}
-
-def normalize_del_team(name):
-    key = name.lower().strip()
-
-    # On normalise les clés du dict DEL_TEAMS
-    # Exemple: "Kölner Haie" → "kölner haie"
-    del_keys = {k.lower().strip(): v for k, v in DEL_TEAMS.items()}
-
-    if key in del_keys:
-        return del_keys[key]
-    else:
-        print(f"[WARN] No mapping for '{name}' (key='{key}')")
-        return name
+from parsers.common import parse_iso_datetime_duration, build_description, uid, normalize_team
+from utils.ics import ICSEventBuilder
+from dict.del_dict import DEL_TEAMS
 
 def parse_del_html(html, team_name):
     soup = BeautifulSoup(html, "html.parser")
@@ -44,19 +16,14 @@ def parse_del_html(html, team_name):
         if len(cols) < 5:
             continue
 
-        # Date (ex: Freitag, 18.09.2026)
-        raw_date = cols[0].get_text(strip=True)
-        # Remove weekday (Freitag,)
-        raw_date = raw_date.split(",")[-1].strip()
-        # Convert to datetime
-        # Format: 18.09.2026
+        raw_date = cols[0].get_text(strip=True).split(",")[-1].strip()
+        raw_time = cols[1].get_text(strip=True)
+
         try:
             date_obj = datetime.strptime(raw_date, "%d.%m.%Y")
         except:
             continue
-
-        # Time (ex: 19:30)
-        raw_time = cols[1].get_text(strip=True)
+        
         try:
             time_obj = datetime.strptime(raw_time, "%H:%M").time()
         except:
@@ -88,18 +55,22 @@ def parse_del_html(html, team_name):
         away_logo_src = away_logo["src"] if away_logo and away_logo.has_attr("src") else ""
         away_id = away_logo_src.split("team_")[-1].split(".")[0] if "team_" in away_logo_src else "0"
 
-        arena = normalize_del_team(home)
+        arena = normalize_team(home, DEL_TEAMS)
 
         date_uid = date_obj.strftime("%Y")
 
-        uid = f"del{date_uid}{home_id}{away_id}{spieltag}"
+        game_id = f"{date_uid}{home_id}{away_id}{spieltag}"
 
-        event = Event()
-        event.add("SUMMARY", f"🏒 | {away} @ {home}")
-        event.add("DTSTART", dt)
-        event.add("DTEND", dt_end)
-        event.add("UID", uid)
-        event.add("LOCATION", arena)
+        event = (
+            ICSEventBuilder()
+            .uid(uid("del", game_id))
+            .start(dt)
+            .end(dt_end)
+            .summary(f"🏒 | {away} @ {home}")
+            .location(arena)
+            #.description()
+            .build()
+        )
 
         cal.add_component(event)
 

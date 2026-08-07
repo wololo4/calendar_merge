@@ -5,8 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Toronto Maple Leafs
-DTSTART:20260919T230000Z
-DTEND:20260920T013000Z
+DTSTART:20260919T230000
+DTEND:20260920T013000
 UID:nhl2026010006
 DESCRIPTION:Pre-Season Game\nGame Center: https://www.nhl.com/gamecenter/m
  tl-vs-tor/2026/09/19/2026010006\nTickets: https://www.ticketmaster.ca/even
@@ -15,8 +15,8 @@ LOCATION:Scotiabank Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Toronto Maple Leafs @ Montréal Canadiens
-DTSTART:20260919T230000Z
-DTEND:20260920T013000Z
+DTSTART:20260919T230000
+DTEND:20260920T013000
 UID:nhl2026010007
 DESCRIPTION:Pre-Season Game\nGame Center: https://www.nhl.com/gamecenter/t
  or-vs-mtl/2026/09/19/2026010007\nTickets: https://www.ticketmaster.ca/even
@@ -27,8 +27,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Ottawa Sénateurs @ Montréal Canadiens
-DTSTART:20260921T230000Z
-DTEND:20260922T013000Z
+DTSTART:20260921T230000
+DTEND:20260922T013000
 UID:nhl2026010022
 DESCRIPTION:Pre-Season Game\nTickets: https://www.nhl.com/canadiens/ticket
  s/
@@ -36,8 +36,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Ottawa Sénateurs
-DTSTART:20260926T160000Z
-DTEND:20260926T183000Z
+DTSTART:20260926T160000
+DTEND:20260926T183000
 UID:nhl2026010064
 DESCRIPTION:Pre-Season Game\nGame Center: https://www.nhl.com/gamecenter/m
  tl-vs-ott/2026/09/26/2026010064\nTickets: https://www.nhl.com/senators/tic
@@ -46,8 +46,8 @@ LOCATION:Centre Canadian Tire
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Ottawa Sénateurs @ Montréal Canadiens
-DTSTART:20260926T230000Z
-DTEND:20260927T013000Z
+DTSTART:20260926T230000
+DTEND:20260927T013000
 UID:nhl2026010065
 DESCRIPTION:Pre-Season Game\nGame Center: https://www.nhl.com/gamecenter/o
  tt-vs-mtl/2026/09/26/2026010065\nTickets: https://www.ticketmaster.ca/even
@@ -58,8 +58,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Toronto Maple Leafs
-DTSTART:20260929T230000Z
-DTEND:20260930T013000Z
+DTSTART:20260929T230000
+DTEND:20260930T013000
 UID:nhl2026020002
 DESCRIPTION:Regular Season Game\nTV Network: SN\nGame Center: https://www.
  nhl.com/gamecenter/mtl-vs-tor/2026/09/29/2026020002\nTickets: https://www.
@@ -68,8 +68,8 @@ LOCATION:Scotiabank Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Pittsburgh Penguins
-DTSTART:20261003T230000Z
-DTEND:20261004T013000Z
+DTSTART:20261003T230000
+DTEND:20261004T013000
 UID:nhl2026020026
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-pit/2026/10/03/2026020026\nTickets: https://www.ticketmaster.com
@@ -80,8 +80,8 @@ LOCATION:PPG Paints Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Caroline Hurricanes @ Montréal Canadiens
-DTSTART:20261006T230000Z
-DTEND:20261007T013000Z
+DTSTART:20261006T230000
+DTEND:20261007T013000
 UID:nhl2026020045
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/car-vs-mtl/2026/10/06/2026020045\nTickets: https://www.ticketmaster.ca/
@@ -92,8 +92,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Nashville Predators @ Montréal Canadiens
-DTSTART:20261008T230000Z
-DTEND:20261009T013000Z
+DTSTART:20261008T230000
+DTEND:20261009T013000
 UID:nhl2026020058
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/nsh-vs-mtl/2026/10/08/2026020058\nTickets: https://www.ticketmaster.ca/
@@ -104,8 +104,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Detroit Red Wings @ Montréal Canadiens
-DTSTART:20261010T230000Z
-DTEND:20261011T013000Z
+DTSTART:20261010T230000
+DTEND:20261011T013000
 UID:nhl2026020075
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/det-vs-mtl/2026/10/10/2026020075\nTickets: https://www.ticketmaster.ca/
@@ -116,8 +116,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Buffalo Sabres @ Montréal Canadiens
-DTSTART:20261013T223000Z
-DTEND:20261014T010000Z
+DTSTART:20261013T223000
+DTEND:20261014T010000
 UID:nhl2026020092
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/buf-vs-mtl/2026/10/13/2026020092\nTickets: https://www.ticketmaster.ca/
@@ -128,8 +128,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Washington Capitals
-DTSTART:20261014T233000Z
-DTEND:20261015T020000Z
+DTSTART:20261014T233000
+DTEND:20261015T020000
 UID:nhl2026020106
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-wsh/2026/10/14/2026020106\nTickets: https://www.ticketmaster.com
@@ -140,8 +140,8 @@ LOCATION:Capital One Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Buffalo Sabres @ Montréal Canadiens
-DTSTART:20261017T230000Z
-DTEND:20261018T013000Z
+DTSTART:20261017T230000
+DTEND:20261018T013000
 UID:nhl2026020126
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/buf-vs-mtl/2026/10/17/2026020126\nTickets: https://www.ticketmaster.ca/
@@ -152,8 +152,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | San Jose Sharks @ Montréal Canadiens
-DTSTART:20261020T230000Z
-DTEND:20261021T013000Z
+DTSTART:20261020T230000
+DTEND:20261021T013000
 UID:nhl2026020141
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/sjs-vs-mtl/2026/10/20/2026020141\nTickets: https://www.ticketmaster.ca/
@@ -164,8 +164,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Chicago Blackhawks
-DTSTART:20261024T000000Z
-DTEND:20261024T023000Z
+DTSTART:20261024T000000
+DTEND:20261024T023000
 UID:nhl2026020166
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-chi/2026/10/23/2026020166\nTickets: https://www.ticketmaster.com
@@ -175,8 +175,8 @@ LOCATION:United Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Winnipeg Jets
-DTSTART:20261025T230000Z
-DTEND:20261026T013000Z
+DTSTART:20261025T230000
+DTEND:20261026T013000
 UID:nhl2026020182
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-wpg/2026/10/25/2026020182\nTickets: https://www.nhl.com/jets/tic
@@ -185,8 +185,8 @@ LOCATION:Princess Auto Stadium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ St. Louis Blues
-DTSTART:20261028T000000Z
-DTEND:20261028T023000Z
+DTSTART:20261028T000000
+DTEND:20261028T023000
 UID:nhl2026020191
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-stl/2026/10/27/2026020191\nTickets: https://www.ticketmaster.com
@@ -197,8 +197,8 @@ LOCATION:Enterprise Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Dallas Stars
-DTSTART:20261030T000000Z
-DTEND:20261030T023000Z
+DTSTART:20261030T000000
+DTEND:20261030T023000
 UID:nhl2026020209
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-dal/2026/10/29/2026020209\nTickets: https://www.ticketmaster.com
@@ -209,8 +209,8 @@ LOCATION:American Airlines Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Pittsburgh Penguins @ Montréal Canadiens
-DTSTART:20261031T230000Z
-DTEND:20261101T013000Z
+DTSTART:20261031T230000
+DTEND:20261101T013000
 UID:nhl2026020223
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/pit-vs-mtl/2026/10/31/2026020223\nTickets: https://www.ticketmaster.ca/
@@ -221,8 +221,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Winnipeg Jets @ Montréal Canadiens
-DTSTART:20261104T000000Z
-DTEND:20261104T023000Z
+DTSTART:20261104T000000
+DTEND:20261104T023000
 UID:nhl2026020237
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/wpg-vs-mtl/2026/11/03/2026020237\nTickets: https://www.ticketmaster.ca/
@@ -233,8 +233,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Utah Mammoth @ Montréal Canadiens
-DTSTART:20261106T000000Z
-DTEND:20261106T023000Z
+DTSTART:20261106T000000
+DTEND:20261106T023000
 UID:nhl2026020251
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/uta-vs-mtl/2026/11/05/2026020251\nTickets: https://www.ticketmaster.ca/
@@ -245,8 +245,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Toronto Maple Leafs
-DTSTART:20261108T000000Z
-DTEND:20261108T023000Z
+DTSTART:20261108T000000
+DTEND:20261108T023000
 UID:nhl2026020268
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-tor/2026/11/07/2026020268\nTickets: https://www.nhl.com/maplelea
@@ -255,8 +255,8 @@ LOCATION:Scotiabank Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Minnesota Wild @ Montréal Canadiens
-DTSTART:20261111T000000Z
-DTEND:20261111T023000Z
+DTSTART:20261111T000000
+DTEND:20261111T023000
 UID:nhl2026020287
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/min-vs-mtl/2026/11/10/2026020287\nTickets: https://www.ticketmaster.ca/
@@ -267,8 +267,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Boston Bruins
-DTSTART:20261113T000000Z
-DTEND:20261113T023000Z
+DTSTART:20261113T000000
+DTEND:20261113T023000
 UID:nhl2026020299
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-bos/2026/11/12/2026020299\nTickets: https://www.ticketmaster.com
@@ -279,8 +279,8 @@ LOCATION:TD Garden
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Colorado Avalanche @ Montréal Canadiens
-DTSTART:20261115T000000Z
-DTEND:20261115T023000Z
+DTSTART:20261115T000000
+DTEND:20261115T023000
 UID:nhl2026020315
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/col-vs-mtl/2026/11/14/2026020315\nTickets: https://www.ticketmaster.ca/
@@ -291,8 +291,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ New York Rangers
-DTSTART:20261117T003000Z
-DTEND:20261117T030000Z
+DTSTART:20261117T003000
+DTEND:20261117T030000
 UID:nhl2026020331
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-nyr/2026/11/16/2026020331\nTickets: https://www.ticketmaster.com
@@ -304,8 +304,8 @@ LOCATION:Madison Square Garden
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ New Jersey Devils
-DTSTART:20261119T003000Z
-DTEND:20261119T030000Z
+DTSTART:20261119T003000
+DTEND:20261119T030000
 UID:nhl2026020345
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-njd/2026/11/18/2026020345\nTickets: https://www.ticketmaster.com
@@ -315,8 +315,8 @@ LOCATION:Prudential Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Caroline Hurricanes
-DTSTART:20261120T000000Z
-DTEND:20261120T023000Z
+DTSTART:20261120T000000
+DTEND:20261120T023000
 UID:nhl2026020352
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-car/2026/11/19/2026020352\nTickets: https://www.ticketmaster.com
@@ -327,8 +327,8 @@ LOCATION:Lenovo Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Philadelphie Flyers @ Montréal Canadiens
-DTSTART:20261122T000000Z
-DTEND:20261122T023000Z
+DTSTART:20261122T000000
+DTEND:20261122T023000
 UID:nhl2026020365
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/phi-vs-mtl/2026/11/21/2026020365\nTickets: https://www.ticketmaster.ca/
@@ -339,8 +339,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Los Angeles Kings @ Montréal Canadiens
-DTSTART:20261124T003000Z
-DTEND:20261124T030000Z
+DTSTART:20261124T003000
+DTEND:20261124T030000
 UID:nhl2026020379
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/lak-vs-mtl/2026/11/23/2026020379\nTickets: https://www.ticketmaster.ca/
@@ -351,8 +351,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Colorado Avalanche
-DTSTART:20261126T023000Z
-DTEND:20261126T050000Z
+DTSTART:20261126T023000
+DTEND:20261126T050000
 UID:nhl2026020397
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-col/2026/11/25/2026020397\nTickets: https://www.nhl.com/avalanch
@@ -361,8 +361,8 @@ LOCATION:Ball Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Vegas Golden Knights
-DTSTART:20261128T210000Z
-DTEND:20261128T233000Z
+DTSTART:20261128T210000
+DTEND:20261128T233000
 UID:nhl2026020415
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-vgk/2026/11/28/2026020415\nTickets: https://www.nhl.com/goldenkn
@@ -371,8 +371,8 @@ LOCATION:T-Mobile Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Utah Mammoth
-DTSTART:20261201T023000Z
-DTEND:20261201T050000Z
+DTSTART:20261201T023000
+DTEND:20261201T050000
 UID:nhl2026020435
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-uta/2026/11/30/2026020435\nTickets: https://www.nhl.com/utah/tic
@@ -381,8 +381,8 @@ LOCATION:Delta Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Tampa Bay Lightning @ Montréal Canadiens
-DTSTART:20261203T003000Z
-DTEND:20261203T030000Z
+DTSTART:20261203T003000
+DTEND:20261203T030000
 UID:nhl2026020445
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/tbl-vs-mtl/2026/12/02/2026020445\nTickets: https://www.ticketmaster.ca/
@@ -393,8 +393,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Floride Panthers @ Montréal Canadiens
-DTSTART:20261205T180000Z
-DTEND:20261205T203000Z
+DTSTART:20261205T180000
+DTEND:20261205T203000
 UID:nhl2026020465
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/fla-vs-mtl/2026/12/05/2026020465\nTickets: https://www.ticketmaster.ca/
@@ -405,8 +405,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Ottawa Sénateurs @ Montréal Canadiens
-DTSTART:20261207T000000Z
-DTEND:20261207T023000Z
+DTSTART:20261207T000000
+DTEND:20261207T023000
 UID:nhl2026020478
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/ott-vs-mtl/2026/12/06/2026020478\nTickets: https://www.ticketmaster.ca/
@@ -417,8 +417,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Vegas Golden Knights @ Montréal Canadiens
-DTSTART:20261209T000000Z
-DTEND:20261209T023000Z
+DTSTART:20261209T000000
+DTEND:20261209T023000
 UID:nhl2026020486
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/vgk-vs-mtl/2026/12/08/2026020486\nTickets: https://www.ticketmaster.ca/
@@ -429,8 +429,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Anaheim Ducks @ Montréal Canadiens
-DTSTART:20261211T000000Z
-DTEND:20261211T023000Z
+DTSTART:20261211T000000
+DTEND:20261211T023000
 UID:nhl2026020500
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/ana-vs-mtl/2026/12/10/2026020500\nTickets: https://www.ticketmaster.ca/
@@ -441,8 +441,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Columbus Blue Jackets
-DTSTART:20261212T180000Z
-DTEND:20261212T203000Z
+DTSTART:20261212T180000
+DTEND:20261212T203000
 UID:nhl2026020515
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-cbj/2026/12/12/2026020515\nTickets: https://www.ticketmaster.com
@@ -453,8 +453,8 @@ LOCATION:Nationwide Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Edmonton Oilers @ Montréal Canadiens
-DTSTART:20261215T003000Z
-DTEND:20261215T030000Z
+DTSTART:20261215T003000
+DTEND:20261215T030000
 UID:nhl2026020533
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/edm-vs-mtl/2026/12/14/2026020533\nTickets: https://www.ticketmaster.ca/
@@ -465,8 +465,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Buffalo Sabres
-DTSTART:20261219T000000Z
-DTEND:20261219T023000Z
+DTSTART:20261219T000000
+DTEND:20261219T023000
 UID:nhl2026020559
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-buf/2026/12/18/2026020559\nTickets: https://www.nhl.com/sabres/t
@@ -475,8 +475,8 @@ LOCATION:KeyBank Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Minnesota Wild
-DTSTART:20261220T000000Z
-DTEND:20261220T023000Z
+DTSTART:20261220T000000
+DTEND:20261220T023000
 UID:nhl2026020573
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-min/2026/12/19/2026020573\nTickets: https://www.nhl.com/wild/tic
@@ -485,8 +485,8 @@ LOCATION:Grand Casino Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Columbus Blue Jackets
-DTSTART:20261223T000000Z
-DTEND:20261223T023000Z
+DTSTART:20261223T000000
+DTEND:20261223T023000
 UID:nhl2026020594
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-cbj/2026/12/22/2026020594\nTickets: https://www.ticketmaster.com
@@ -497,8 +497,8 @@ LOCATION:Nationwide Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Toronto Maple Leafs @ Montréal Canadiens
-DTSTART:20261227T000000Z
-DTEND:20261227T023000Z
+DTSTART:20261227T000000
+DTEND:20261227T023000
 UID:nhl2026020604
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/tor-vs-mtl/2026/12/26/2026020604\nTickets: https://www.ticketmaster.ca/
@@ -509,8 +509,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Dallas Stars @ Montréal Canadiens
-DTSTART:20261228T000000Z
-DTEND:20261228T023000Z
+DTSTART:20261228T000000
+DTEND:20261228T023000
 UID:nhl2026020615
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/dal-vs-mtl/2026/12/27/2026020615\nTickets: https://www.ticketmaster.ca/
@@ -521,8 +521,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Columbus Blue Jackets @ Montréal Canadiens
-DTSTART:20261230T000000Z
-DTEND:20261230T023000Z
+DTSTART:20261230T000000
+DTEND:20261230T023000
 UID:nhl2026020626
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/cbj-vs-mtl/2026/12/29/2026020626\nTickets: https://www.ticketmaster.ca/
@@ -533,8 +533,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Tampa Bay Lightning
-DTSTART:20261231T190000Z
-DTEND:20261231T213000Z
+DTSTART:20261231T190000
+DTEND:20261231T213000
 UID:nhl2026020644
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-tbl/2026/12/31/2026020644\nTickets: https://www.nhl.com/lightnin
@@ -543,8 +543,8 @@ LOCATION:Benchmark International Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Floride Panthers
-DTSTART:20270102T210000Z
-DTEND:20270102T233000Z
+DTSTART:20270102T210000
+DTEND:20270102T233000
 UID:nhl2026020656
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-fla/2027/01/02/2026020656\nTickets: https://www.nhl.com/panthers
@@ -553,8 +553,8 @@ LOCATION:Amerant Bank Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Chicago Blackhawks @ Montréal Canadiens
-DTSTART:20270105T003000Z
-DTEND:20270105T030000Z
+DTSTART:20270105T003000
+DTEND:20270105T030000
 UID:nhl2026020675
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/chi-vs-mtl/2027/01/04/2026020675\nTickets: https://www.ticketmaster.ca/
@@ -565,8 +565,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Boston Bruins @ Montréal Canadiens
-DTSTART:20270107T003000Z
-DTEND:20270107T030000Z
+DTSTART:20270107T003000
+DTEND:20270107T030000
 UID:nhl2026020690
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/bos-vs-mtl/2027/01/06/2026020690\nTickets: https://www.ticketmaster.ca/
@@ -577,8 +577,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Pittsburgh Penguins @ Montréal Canadiens
-DTSTART:20270110T000000Z
-DTEND:20270110T023000Z
+DTSTART:20270110T000000
+DTEND:20270110T023000
 UID:nhl2026020714
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/pit-vs-mtl/2027/01/09/2026020714\nTickets: https://www.ticketmaster.ca/
@@ -589,8 +589,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | New Jersey Devils @ Montréal Canadiens
-DTSTART:20270114T000000Z
-DTEND:20270114T023000Z
+DTSTART:20270114T000000
+DTEND:20270114T023000
 UID:nhl2026020738
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/njd-vs-mtl/2027/01/13/2026020738\nTickets: https://www.ticketmaster.ca/
@@ -601,8 +601,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Nashville Predators
-DTSTART:20270115T010000Z
-DTEND:20270115T033000Z
+DTSTART:20270115T010000
+DTEND:20270115T033000
 UID:nhl2026020749
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-nsh/2027/01/14/2026020749\nTickets: https://www.nhl.com/predator
@@ -611,8 +611,8 @@ LOCATION:Bridgestone Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Philadelphie Flyers
-DTSTART:20270117T000000Z
-DTEND:20270117T023000Z
+DTSTART:20270117T000000
+DTEND:20270117T023000
 UID:nhl2026020764
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-phi/2027/01/16/2026020764\nTickets: https://www.ticketmaster.com
@@ -623,8 +623,8 @@ LOCATION:Xfinity Mobile Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Buffalo Sabres
-DTSTART:20270118T180000Z
-DTEND:20270118T203000Z
+DTSTART:20270118T180000
+DTEND:20270118T203000
 UID:nhl2026020776
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-buf/2027/01/18/2026020776\nTickets: https://www.nhl.com/sabres/t
@@ -633,8 +633,8 @@ LOCATION:KeyBank Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Washington Capitals
-DTSTART:20270120T000000Z
-DTEND:20270120T023000Z
+DTSTART:20270120T000000
+DTEND:20270120T023000
 UID:nhl2026020789
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-wsh/2027/01/19/2026020789\nTickets: https://www.ticketmaster.com
@@ -645,8 +645,8 @@ LOCATION:Capital One Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | St. Louis Blues @ Montréal Canadiens
-DTSTART:20270122T000000Z
-DTEND:20270122T023000Z
+DTSTART:20270122T000000
+DTEND:20270122T023000
 UID:nhl2026020799
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/stl-vs-mtl/2027/01/21/2026020799\nTickets: https://www.ticketmaster.ca/
@@ -657,8 +657,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Calgary Flames @ Montréal Canadiens
-DTSTART:20270124T000000Z
-DTEND:20270124T023000Z
+DTSTART:20270124T000000
+DTEND:20270124T023000
 UID:nhl2026020815
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/cgy-vs-mtl/2027/01/23/2026020815\nTickets: https://www.ticketmaster.ca/
@@ -669,8 +669,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Caroline Hurricanes @ Montréal Canadiens
-DTSTART:20270127T000000Z
-DTEND:20270127T023000Z
+DTSTART:20270127T000000
+DTEND:20270127T023000
 UID:nhl2026020836
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/car-vs-mtl/2027/01/26/2026020836\nTickets: https://www.ticketmaster.ca/
@@ -681,8 +681,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Calgary Flames
-DTSTART:20270129T010000Z
-DTEND:20270129T033000Z
+DTSTART:20270129T010000
+DTEND:20270129T033000
 UID:nhl2026020855
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-cgy/2027/01/28/2026020855\nTickets: https://www.nhl.com/flames/t
@@ -691,8 +691,8 @@ LOCATION:Scotiabank Saddledome
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Edmonton Oilers
-DTSTART:20270131T000000Z
-DTEND:20270131T023000Z
+DTSTART:20270131T000000
+DTEND:20270131T023000
 UID:nhl2026020874
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-edm/2027/01/30/2026020874\nTickets: https://www.nhl.com/oilers/t
@@ -701,8 +701,8 @@ LOCATION:Rogers Place
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Vancouver Canucks
-DTSTART:20270202T013000Z
-DTEND:20270202T040000Z
+DTSTART:20270202T013000
+DTEND:20270202T040000
 UID:nhl2026020883
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-van/2027/02/01/2026020883\nTickets: https://www.nhl.com/canucks/
@@ -711,8 +711,8 @@ LOCATION:Rogers Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Seattle Kraken
-DTSTART:20270204T024000Z
-DTEND:20270204T051000Z
+DTSTART:20270204T024000
+DTEND:20270204T051000
 UID:nhl2026020894
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-sea/2027/02/03/2026020894\nTickets: https://www.ticketmaster.com
@@ -723,8 +723,8 @@ LOCATION:Climate Pledge Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Washington Capitals @ Montréal Canadiens
-DTSTART:20270213T180000Z
-DTEND:20270213T203000Z
+DTSTART:20270213T180000
+DTEND:20270213T203000
 UID:nhl2026020912
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/wsh-vs-mtl/2027/02/13/2026020912\nTickets: https://www.ticketmaster.ca/
@@ -735,8 +735,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | New York Rangers @ Montréal Canadiens
-DTSTART:20270214T180000Z
-DTEND:20270214T203000Z
+DTSTART:20270214T180000
+DTEND:20270214T203000
 UID:nhl2026020927
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/nyr-vs-mtl/2027/02/14/2026020927\nTickets: https://www.ticketmaster.ca/
@@ -747,8 +747,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Detroit Red Wings
-DTSTART:20270219T000000Z
-DTEND:20270219T023000Z
+DTSTART:20270219T000000
+DTEND:20270219T023000
 UID:nhl2026020952
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-det/2027/02/18/2026020952\nTickets: https://www.ticketmaster.com
@@ -759,8 +759,8 @@ LOCATION:Little Caesars Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | New York Islanders @ Montréal Canadiens
-DTSTART:20270221T000000Z
-DTEND:20270221T023000Z
+DTSTART:20270221T000000
+DTEND:20270221T023000
 UID:nhl2026020972
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/nyi-vs-mtl/2027/02/20/2026020972\nTickets: https://www.ticketmaster.ca/
@@ -771,8 +771,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Philadelphie Flyers
-DTSTART:20270222T180000Z
-DTEND:20270222T203000Z
+DTSTART:20270222T180000
+DTEND:20270222T203000
 UID:nhl2026020986
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-phi/2027/02/22/2026020986\nTickets: https://www.ticketmaster.com
@@ -783,8 +783,8 @@ LOCATION:Xfinity Mobile Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Los Angeles Kings
-DTSTART:20270225T030000Z
-DTEND:20270225T053000Z
+DTSTART:20270225T030000
+DTEND:20270225T053000
 UID:nhl2026021003
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-lak/2027/02/24/2026021003\nTickets: https://www.nhl.com/kings/ti
@@ -793,8 +793,8 @@ LOCATION:Crypto.com Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Anaheim Ducks
-DTSTART:20270228T000000Z
-DTEND:20270228T023000Z
+DTSTART:20270228T000000
+DTEND:20270228T023000
 UID:nhl2026021027
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-ana/2027/02/27/2026021027\nTickets: https://www.nhl.com/ducks/ti
@@ -803,8 +803,8 @@ LOCATION:Honda Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ San Jose Sharks
-DTSTART:20270302T030000Z
-DTEND:20270302T053000Z
+DTSTART:20270302T030000
+DTEND:20270302T053000
 UID:nhl2026021042
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-sjs/2027/03/01/2026021042\nTickets: https://www.ticketmaster.com
@@ -815,8 +815,8 @@ LOCATION:SAP Center de San Jose
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Seattle Kraken @ Montréal Canadiens
-DTSTART:20270305T000000Z
-DTEND:20270305T023000Z
+DTSTART:20270305T000000
+DTEND:20270305T023000
 UID:nhl2026021057
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/sea-vs-mtl/2027/03/04/2026021057\nTickets: https://www.ticketmaster.ca/
@@ -827,8 +827,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Vancouver Canucks @ Montréal Canadiens
-DTSTART:20270307T000000Z
-DTEND:20270307T023000Z
+DTSTART:20270307T000000
+DTEND:20270307T023000
 UID:nhl2026021074
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/van-vs-mtl/2027/03/06/2026021074\nTickets: https://www.ticketmaster.ca/
@@ -839,8 +839,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ New York Islanders
-DTSTART:20270310T000000Z
-DTEND:20270310T023000Z
+DTSTART:20270310T000000
+DTEND:20270310T023000
 UID:nhl2026021094
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-nyi/2027/03/09/2026021094\nTickets: https://www.ticketmaster.com
@@ -851,8 +851,8 @@ LOCATION:UBS Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Boston Bruins @ Montréal Canadiens
-DTSTART:20270311T003000Z
-DTEND:20270311T030000Z
+DTSTART:20270311T003000
+DTEND:20270311T030000
 UID:nhl2026021104
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/bos-vs-mtl/2027/03/10/2026021104\nTickets: https://www.ticketmaster.ca/
@@ -863,8 +863,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Ottawa Sénateurs
-DTSTART:20270314T000000Z
-DTEND:20270314T023000Z
+DTSTART:20270314T000000
+DTEND:20270314T023000
 UID:nhl2026021126
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-ott/2027/03/13/2026021126\nTickets: https://www.nhl.com/senators
@@ -873,8 +873,8 @@ LOCATION:Centre Canadian Tire
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Floride Panthers @ Montréal Canadiens
-DTSTART:20270316T230000Z
-DTEND:20270317T013000Z
+DTSTART:20270316T230000
+DTEND:20270317T013000
 UID:nhl2026021147
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/fla-vs-mtl/2027/03/16/2026021147\nTickets: https://www.ticketmaster.ca/
@@ -885,8 +885,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Tampa Bay Lightning @ Montréal Canadiens
-DTSTART:20270318T230000Z
-DTEND:20270319T013000Z
+DTSTART:20270318T230000
+DTEND:20270319T013000
 UID:nhl2026021161
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/tbl-vs-mtl/2027/03/18/2026021161\nTickets: https://www.ticketmaster.ca/
@@ -897,8 +897,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Detroit Red Wings
-DTSTART:20270320T170000Z
-DTEND:20270320T193000Z
+DTSTART:20270320T170000
+DTEND:20270320T193000
 UID:nhl2026021175
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-det/2027/03/20/2026021175\nTickets: https://www.ticketmaster.com
@@ -909,8 +909,8 @@ LOCATION:Little Caesars Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Toronto Maple Leafs @ Montréal Canadiens
-DTSTART:20270322T233000Z
-DTEND:20270323T020000Z
+DTSTART:20270322T233000
+DTEND:20270323T020000
 UID:nhl2026021194
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/tor-vs-mtl/2027/03/22/2026021194\nTickets: https://www.ticketmaster.ca/
@@ -921,8 +921,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Ottawa Sénateurs @ Montréal Canadiens
-DTSTART:20270324T233000Z
-DTEND:20270325T020000Z
+DTSTART:20270324T233000
+DTEND:20270325T020000
 UID:nhl2026021208
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/ott-vs-mtl/2027/03/24/2026021208\nTickets: https://www.ticketmaster.ca/
@@ -933,8 +933,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | New Jersey Devils @ Montréal Canadiens
-DTSTART:20270327T230000Z
-DTEND:20270328T013000Z
+DTSTART:20270327T230000
+DTEND:20270328T013000
 UID:nhl2026021232
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/njd-vs-mtl/2027/03/27/2026021232\nTickets: https://www.ticketmaster.ca/
@@ -945,8 +945,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Detroit Red Wings @ Montréal Canadiens
-DTSTART:20270328T230000Z
-DTEND:20270329T013000Z
+DTSTART:20270328T230000
+DTEND:20270329T013000
 UID:nhl2026021242
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/det-vs-mtl/2027/03/28/2026021242\nTickets: https://www.ticketmaster.ca/
@@ -957,8 +957,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Boston Bruins
-DTSTART:20270330T230000Z
-DTEND:20270331T013000Z
+DTSTART:20270330T230000
+DTEND:20270331T013000
 UID:nhl2026021248
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-bos/2027/03/30/2026021248\nTickets: https://www.ticketmaster.com
@@ -969,8 +969,8 @@ LOCATION:TD Garden
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | New York Rangers @ Montréal Canadiens
-DTSTART:20270401T230000Z
-DTEND:20270402T013000Z
+DTSTART:20270401T230000
+DTEND:20270402T013000
 UID:nhl2026021263
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/nyr-vs-mtl/2027/04/01/2026021263\nTickets: https://www.ticketmaster.ca/
@@ -981,8 +981,8 @@ LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ New York Islanders
-DTSTART:20270404T233000Z
-DTEND:20270405T020000Z
+DTSTART:20270404T233000
+DTEND:20270405T020000
 UID:nhl2026021294
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-nyi/2027/04/04/2026021294\nTickets: https://www.ticketmaster.com
@@ -993,8 +993,8 @@ LOCATION:UBS Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Floride Panthers
-DTSTART:20270406T230000Z
-DTEND:20270407T013000Z
+DTSTART:20270406T230000
+DTEND:20270407T013000
 UID:nhl2026021302
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-fla/2027/04/06/2026021302\nTickets: https://www.nhl.com/panthers
@@ -1003,8 +1003,8 @@ LOCATION:Amerant Bank Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Tampa Bay Lightning
-DTSTART:20270408T230000Z
-DTEND:20270409T013000Z
+DTSTART:20270408T230000
+DTEND:20270409T013000
 UID:nhl2026021317
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-tbl/2027/04/08/2026021317\nTickets: https://www.nhl.com/lightnin
@@ -1013,8 +1013,8 @@ LOCATION:Benchmark International Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Ottawa Sénateurs
-DTSTART:20270410T230000Z
-DTEND:20270411T013000Z
+DTSTART:20270410T230000
+DTEND:20270411T013000
 UID:nhl2026021338
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-ott/2027/04/10/2026021338\nTickets: https://www.nhl.com/senators

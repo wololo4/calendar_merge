@@ -5,8 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 SUMMARY:🥏 | Montreal Royal @ Boston Glory
-DTSTART:20260718T230000Z
-DTEND:20260719T010000Z
+DTSTART:20260718T230000
+DTEND:20260719T013000
 UID:ufa2026-07-18-MTL-BOS
 DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-07-18-M
  TL-BOS\nWatch Live: https://watchufa.tv/events/montreal-at-boston-7-18-202
@@ -15,8 +15,8 @@ LOCATION:Hormel Stadium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🥏 | Montreal Royal @ Boston Glory
-DTSTART:20260502T180000Z
-DTEND:20260502T200000Z
+DTSTART:20260502T180000
+DTEND:20260502T203000
 UID:ufa2026-05-02-MTL-BOS
 DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-05-02-M
  TL-BOS\nWatch Live: https://watchufa.tv/videos/montreal-at-boston-5-2-2026
@@ -26,8 +26,8 @@ LOCATION:Hormel Stadium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🥏 | Toronto Rush @ Montreal Royal
-DTSTART:20260523T170000Z
-DTEND:20260523T190000Z
+DTSTART:20260523T170000
+DTEND:20260523T193000
 UID:ufa2026-05-23-TOR-MTL
 DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-05-23-T
  OR-MTL\nWatch Live: https://watchufa.tv/videos/toronto-at-montreal-5-23-20
@@ -36,8 +36,8 @@ LOCATION:Complexe sportif Claude-Robillard
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🥏 | Philadelphia Phoenix @ Montreal Royal
-DTSTART:20260619T230000Z
-DTEND:20260620T010000Z
+DTSTART:20260619T230000
+DTEND:20260620T013000
 UID:ufa2026-06-19-PHI-MTL
 DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-06-19-P
  HI-MTL\nWatch Live: https://watchufa.tv/videos/philadelphia-at-montreal-6-
@@ -46,8 +46,8 @@ LOCATION:Complexe sportif Claude-Robillard
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🥏 | Boston Glory @ Montreal Royal
-DTSTART:20260516T220000Z
-DTEND:20260517T000000Z
+DTSTART:20260516T220000
+DTEND:20260517T003000
 UID:ufa2026-05-16-BOS-MTL
 DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-05-16-B
  OS-MTL\nWatch Live: https://watchufa.tv/videos/boston-at-montreal-5-16-202
@@ -57,8 +57,8 @@ LOCATION:Complexe sportif Claude-Robillard
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🥏 | Toronto Rush @ Montreal Royal
-DTSTART:20260705T170000Z
-DTEND:20260705T190000Z
+DTSTART:20260705T170000
+DTEND:20260705T193000
 UID:ufa2026-07-05-TOR-MTL
 DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-07-05-T
  OR-MTL\nWatch Live: https://watchufa.tv/videos/toronto-at-montreal-7-4-202
@@ -67,8 +67,8 @@ LOCATION:Complexe sportif Claude-Robillard
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🥏 | Montreal Royal @ Toronto Rush
-DTSTART:20260509T200000Z
-DTEND:20260509T220000Z
+DTSTART:20260509T200000
+DTEND:20260509T223000
 UID:ufa2026-05-09-MTL-TOR
 DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-05-09-M
  TL-TOR\nWatch Live: https://watchufa.tv/videos/montreal-at-toronto-5-9-202
@@ -77,8 +77,8 @@ LOCATION:Varsity Stadium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🥏 | Montreal Royal @ Philadelphia Phoenix
-DTSTART:20260613T220000Z
-DTEND:20260614T000000Z
+DTSTART:20260613T220000
+DTEND:20260614T003000
 UID:ufa2026-06-13-MTL-PHI
 DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-06-13-M
  TL-PHI\nWatch Live: https://watchufa.tv/events/montreal-at-philadelphia-6-
@@ -88,8 +88,8 @@ LOCATION:Neumann University turf field
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🥏 | DC Breeze @ Montreal Royal
-DTSTART:20260530T220000Z
-DTEND:20260531T000000Z
+DTSTART:20260530T220000
+DTEND:20260531T003000
 UID:ufa2026-05-30-DC-MTL
 DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-05-30-D
  C-MTL\nWatch Live: https://watchufa.tv/videos/dc-at-montreal-5-30-2026-05-
@@ -98,8 +98,8 @@ LOCATION:Complexe sportif Claude-Robillard
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🥏 | New York Empire @ Montreal Royal
-DTSTART:20260606T230000Z
-DTEND:20260607T010000Z
+DTSTART:20260606T230000
+DTEND:20260607T013000
 UID:ufa2026-06-06-NY-MTL
 DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-06-06-N
  Y-MTL\nWatch Live: https://watchufa.tv/videos/new-york-at-montreal-6-6-202
@@ -108,8 +108,8 @@ LOCATION:Complexe sportif Claude-Robillard
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🥏 | Montreal Royal @ DC Breeze
-DTSTART:20260503T210000Z
-DTEND:20260503T230000Z
+DTSTART:20260503T210000
+DTEND:20260503T233000
 UID:ufa2026-05-03-MTL-DC
 DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-05-03-M
  TL-DC\nWatch Live: https://watchufa.tv/videos/montreal-at-dc-5-3-2026-05-0
@@ -118,8 +118,8 @@ LOCATION:Carlini Field\, Catholic U
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🥏 | Montreal Royal @ Pittsburgh Thunderbirds
-DTSTART:20260510T180000Z
-DTEND:20260510T200000Z
+DTSTART:20260510T180000
+DTEND:20260510T203000
 UID:ufa2026-05-10-MTL-PIT
 DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-05-10-M
  TL-PIT\nWatch Live: https://watchufa.tv/videos/montreal-at-pittsburgh-5-10

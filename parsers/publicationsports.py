@@ -1,44 +1,12 @@
 import json
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
-from icalendar import Calendar, Event
-
-TEAM_NAMES = {
-    "10570": "Braves de Valleyfield",
-    "10571": "Rangers de Montréal",
-    "10573": "Prédateurs de Joliette",
-    "10574": "Cobras de Terrebonne",
-    "10575": "Titan de Princeville",
-    "10578": "L'Indigo de Granby",
-    "10579": "Collège Français de Longueuil",
-    "10581": "Panthères de Saint-Jérôme",
-    "10591": "Nomad de Gatineau",
-    "49443": "L'Everest de la Côte-du-Sud",
-    "110271": "Vikings de Saint-Eustache",
-    "110272": "Estacades de Trois-Rivières",
-    "110273": "Blizzard du Séminaire Saint-François",
-    "110275": "Chevaliers de Lévis",
-    "110276": "Rousseau-Royal Laval-Montréal",
-    "110277": "Lions du Lac St-Louis",
-    "110278": "Élites de Jonquière",
-    "110279": "L'Intrépide de Gatineau",
-    "110280": "Albatros du Collège Notre-Dame",
-    "110281": "Phénix du Collège Esther-Blondin",
-    "110282": "Riverains du Collège Charles-Lemoyne",
-    "110283": "Gaulois de Saint-Hyacinthe",
-    "110284": "Grenadiers de Châteauguay",
-    "110285": "Forestiers d'Amos",
-    "110535": "Condors du Cégep Beauce-Appalaches",
-    "117597": "Cantonniers de Magog",
-    "139435": "L'Énergie de Laval",
-    "139922": "Phoenix de Montréal",
-}
+from icalendar import Calendar
+from parsers.common import parse_iso_datetime_duration, build_description, uid
+from utils.ics import ICSEventBuilder
+from dict.dict_publicationsports import TEAM_NAMES
 
 def extract_eventsinfo_json(script_text):
-    """
-    Extract the JSON object containing "eventsInfo" using brace counting.
-    No regex, no heuristics.
-    """
 
     key = '"eventsInfo"'
     pos = script_text.find(key)
@@ -77,10 +45,6 @@ def extract_eventsinfo_json(script_text):
         return None
     
 def extract_json_object(script_text, key):
-    """
-    Extract a JSON object by finding the key and counting braces.
-    No regex.
-    """
     pos = script_text.find(key)
     if pos == -1:
         return None
@@ -122,12 +86,12 @@ def parse_publicationsports(html, team_filter=None, league=None):
             break
 
     if not target_script:
-        print("eventsInfo introuvable dans le HTML")
+        print(f"eventsInfo introuvable dans le HTML: {league}")
         return cal
 
     data = extract_eventsinfo_json(target_script)
     if not data:
-        print("Impossible de parser les informations d'événements")
+        print(f"Impossible de parser les informations d'événements: {league}")
         return cal
 
     events_info = data["eventsInfo"]
@@ -187,20 +151,21 @@ def parse_publicationsports(html, team_filter=None, league=None):
             if location_id and str(location_id) in locations_info:
                 location_name = locations_info[str(location_id)].get("locationName")
 
-            event = Event()
-            event.add("SUMMARY", f"🏒 | {away_name} @ {home_name}")
-            event.add("DTSTART", dtstart)
-            event.add("DTEND", dtend)
-            event.add("UID", f"lhmaaaq{game_id}")
-
-            if location_name:
-                event.add("LOCATION", location_name)
-
             if league == 'LHMAAAQ':
                 boxscore_url = f"https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subSeason=4951&category=5366&game={game_id}"
             if league == 'LHJAAAQ':
                 boxscore_url = f"https://www.lhjaaaq.com/fr/stats/sommaire.html?season=4908&subSeason=4910&category=1093&game={game_id}"
-            event.add("DESCRIPTION", f"Game Center: {boxscore_url}")
+    
+            event = (
+                ICSEventBuilder()
+                .uid(uid(league, game_id))
+                .start(dtstart)
+                .end(dtend)
+                .summary(f"🏒 | {away_name} @ {home_name}")
+                .location(location_name)
+                .description(boxscore_url)
+                .build()
+            )
 
             cal.add_component(event)
 

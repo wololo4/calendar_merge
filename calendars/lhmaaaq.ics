@@ -8,9 +8,9 @@ SUMMARY:🏒 | Blizzard du Séminaire Saint-François @ Rousseau-Royal Lav
  al-Montréal
 DTSTART:20260906T133000
 DTEND:20260906T160000
-UID:lhmaaaq1903907
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1903907
+UID:LHMAAAQ1903907
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1903907
 LOCATION:Laval\, Complexe Sportif Guimond-3
 END:VEVENT
 BEGIN:VEVENT
@@ -18,9 +18,9 @@ SUMMARY:🏒 | Estacades de Trois-Rivières @ Rousseau-Royal Laval-Montré
  al
 DTSTART:20260911T193000
 DTEND:20260911T220000
-UID:lhmaaaq1903923
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1903923
+UID:LHMAAAQ1903923
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1903923
 LOCATION:Laval\, Complexe Sportif Guimond-3
 END:VEVENT
 BEGIN:VEVENT
@@ -28,18 +28,18 @@ SUMMARY:🏒 | Rousseau-Royal Laval-Montréal @ Phénix du Collège Esther
  -Blondin
 DTSTART:20260916T190000
 DTEND:20260916T213000
-UID:lhmaaaq1903941
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1903941
+UID:LHMAAAQ1903941
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1903941
 LOCATION:Lachenaie 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Rousseau-Royal Laval-Montréal @ Cantonniers de Magog
 DTSTART:20260918T190000
 DTEND:20260918T213000
-UID:lhmaaaq1903943
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1903943
+UID:LHMAAAQ1903943
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1903943
 LOCATION:Magog
 END:VEVENT
 BEGIN:VEVENT
@@ -47,36 +47,36 @@ SUMMARY:🏒 | Phénix du Collège Esther-Blondin @ Rousseau-Royal Laval-M
  ontréal
 DTSTART:20260919T193000
 DTEND:20260919T220000
-UID:lhmaaaq1903963
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1903963
+UID:LHMAAAQ1903963
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1903963
 LOCATION:Laval\, Complexe Sportif Guimond-3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Rousseau-Royal Laval-Montréal @ Chevaliers de Lévis
 DTSTART:20260925T193000
 DTEND:20260925T220000
-UID:lhmaaaq1903985
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1903985
+UID:LHMAAAQ1903985
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1903985
 LOCATION:Aréna de Lévis
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Rousseau-Royal Laval-Montréal @ Élites de Jonquière
 DTSTART:20260926T140000
 DTEND:20260926T163000
-UID:lhmaaaq1903991
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1903991
+UID:LHMAAAQ1903991
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1903991
 LOCATION:Jonquière\, Foyer des loisirs
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | L'Intrépide de Gatineau @ Rousseau-Royal Laval-Montréal
 DTSTART:20260930T190000
 DTEND:20260930T213000
-UID:lhmaaaq1904001
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1904001
+UID:LHMAAAQ1904001
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1904001
 LOCATION:Laval\, Complexe Sportif Guimond-3
 END:VEVENT
 BEGIN:VEVENT
@@ -84,45 +84,45 @@ SUMMARY:🏒 | Rousseau-Royal Laval-Montréal @ Riverains du Collège Char
  les-Lemoyne
 DTSTART:20261002T193000
 DTEND:20261002T220000
-UID:lhmaaaq1904011
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1904011
+UID:LHMAAAQ1904011
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1904011
 LOCATION:Ste-Catherine\, Le Sportium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Rousseau-Royal Laval-Montréal @ Vikings de Saint-Eustache
 DTSTART:20261007T191500
 DTEND:20261007T214500
-UID:lhmaaaq1904037
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1904037
+UID:LHMAAAQ1904037
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1904037
 LOCATION:Glace 1 Florian-Guindon 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Gaulois de Saint-Hyacinthe @ Rousseau-Royal Laval-Montréal
 DTSTART:20261016T193000
 DTEND:20261016T220000
-UID:lhmaaaq1904057
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1904057
+UID:LHMAAAQ1904057
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1904057
 LOCATION:Laval\, Complexe Sportif Guimond-3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Cantonniers de Magog @ Rousseau-Royal Laval-Montréal
 DTSTART:20261017T193000
 DTEND:20261017T220000
-UID:lhmaaaq1904063
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1904063
+UID:LHMAAAQ1904063
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1904063
 LOCATION:Laval\, Complexe Sportif Guimond-3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Rousseau-Royal Laval-Montréal @ L'Intrépide de Gatineau
 DTSTART:20261023T190000
 DTEND:20261023T213000
-UID:lhmaaaq1904081
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1904081
+UID:LHMAAAQ1904081
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1904081
 LOCATION:C. Branchaud-Brière - Branchaud
 END:VEVENT
 BEGIN:VEVENT
@@ -130,9 +130,9 @@ SUMMARY:🏒 | Riverains du Collège Charles-Lemoyne @ Rousseau-Royal Lava
  l-Montréal
 DTSTART:20261025T133000
 DTEND:20261025T160000
-UID:lhmaaaq1904097
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1904097
+UID:LHMAAAQ1904097
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1904097
 LOCATION:Laval\, Complexe Sportif Guimond-3
 END:VEVENT
 BEGIN:VEVENT
@@ -140,9 +140,9 @@ SUMMARY:🏒 | Rousseau-Royal Laval-Montréal @ Blizzard du Séminaire Sai
  nt-François
 DTSTART:20261030T190000
 DTEND:20261030T213000
-UID:lhmaaaq1904107
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1904107
+UID:LHMAAAQ1904107
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1904107
 LOCATION:C. sportif de Saint-Augustin-de-Desmaures A
 END:VEVENT
 BEGIN:VEVENT
@@ -150,9 +150,9 @@ SUMMARY:🏒 | Rousseau-Royal Laval-Montréal @ Albatros du Collège Notre
  -Dame
 DTSTART:20261031T140000
 DTEND:20261031T163000
-UID:lhmaaaq1904121
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1904121
+UID:LHMAAAQ1904121
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1904121
 LOCATION:Centre Premier Tech 
 END:VEVENT
 BEGIN:VEVENT
@@ -160,36 +160,36 @@ SUMMARY:🏒 | Phénix du Collège Esther-Blondin @ Rousseau-Royal Laval-M
  ontréal
 DTSTART:20261107T193000
 DTEND:20261107T220000
-UID:lhmaaaq1904151
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1904151
+UID:LHMAAAQ1904151
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1904151
 LOCATION:Laval\, Complexe Sportif Guimond-3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Vikings de Saint-Eustache @ Rousseau-Royal Laval-Montréal
 DTSTART:20261108T133000
 DTEND:20261108T160000
-UID:lhmaaaq1904159
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1904159
+UID:LHMAAAQ1904159
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1904159
 LOCATION:Laval\, Complexe Sportif Guimond-3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Rousseau-Royal Laval-Montréal @ L'Intrépide de Gatineau
 DTSTART:20261112T190000
 DTEND:20261112T213000
-UID:lhmaaaq1904171
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1904171
+UID:LHMAAAQ1904171
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1904171
 LOCATION:C. Branchaud-Brière - Branchaud
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | L'Intrépide de Gatineau @ Rousseau-Royal Laval-Montréal
 DTSTART:20261114T193000
 DTEND:20261114T220000
-UID:lhmaaaq1904183
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1904183
+UID:LHMAAAQ1904183
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1904183
 LOCATION:Laval\, Complexe Sportif Guimond-3
 END:VEVENT
 BEGIN:VEVENT
@@ -197,9 +197,9 @@ SUMMARY:🏒 | Rousseau-Royal Laval-Montréal @ Estacades de Trois-Rivièr
  es
 DTSTART:20261115T140000
 DTEND:20261115T163000
-UID:lhmaaaq1904195
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1904195
+UID:LHMAAAQ1904195
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1904195
 LOCATION:Centre Sportif Promutuel Assurance
 END:VEVENT
 BEGIN:VEVENT
@@ -207,18 +207,18 @@ SUMMARY:🏒 | Phénix du Collège Esther-Blondin @ Rousseau-Royal Laval-M
  ontréal
 DTSTART:20261121T193000
 DTEND:20261121T220000
-UID:lhmaaaq1904213
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1904213
+UID:LHMAAAQ1904213
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1904213
 LOCATION:Laval\, Complexe Sportif Guimond-3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Rousseau-Royal Laval-Montréal @ Gaulois de Saint-Hyacinthe
 DTSTART:20261122T120000
 DTEND:20261122T143000
-UID:lhmaaaq1904219
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1904219
+UID:LHMAAAQ1904219
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1904219
 LOCATION:St-Hyacinthe\, L.P. Gaucher
 END:VEVENT
 BEGIN:VEVENT
@@ -226,9 +226,9 @@ SUMMARY:🏒 | Rousseau-Royal Laval-Montréal @ Phénix du Collège Esther
  -Blondin
 DTSTART:20261126T190000
 DTEND:20261126T213000
-UID:lhmaaaq1904233
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1904233
+UID:LHMAAAQ1904233
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1904233
 LOCATION:Lachenaie 1
 END:VEVENT
 BEGIN:VEVENT
@@ -236,144 +236,144 @@ SUMMARY:🏒 | Albatros du Collège Notre-Dame @ Rousseau-Royal Laval-Mont
  réal
 DTSTART:20261129T193000
 DTEND:20261129T220000
-UID:lhmaaaq1904255
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1904255
+UID:LHMAAAQ1904255
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1904255
 LOCATION:Laval\, Complexe Sportif Guimond-3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Rousseau-Royal Laval-Montréal @ Grenadiers de Châteauguay
 DTSTART:20261203T190500
 DTEND:20261203T213500
-UID:lhmaaaq1904269
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1904269
+UID:LHMAAAQ1904269
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1904269
 LOCATION:Châteauguay\, Multisport Léo-Crépin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Forestiers d'Amos @ Rousseau-Royal Laval-Montréal
 DTSTART:20261205T193000
 DTEND:20261205T220000
-UID:lhmaaaq1904277
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1904277
+UID:LHMAAAQ1904277
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1904277
 LOCATION:Laval\, Complexe Sportif Guimond-3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Forestiers d'Amos @ Rousseau-Royal Laval-Montréal
 DTSTART:20261205T130000
 DTEND:20261205T153000
-UID:lhmaaaq1904279
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1904279
+UID:LHMAAAQ1904279
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1904279
 LOCATION:Laval\, Complexe Sportif Guimond-3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Rousseau-Royal Laval-Montréal @ Forestiers d'Amos
 DTSTART:20261212T190000
 DTEND:20261212T213000
-UID:lhmaaaq1904305
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1904305
+UID:LHMAAAQ1904305
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1904305
 LOCATION:C. Sportif Desjardins Pav. Paul-Carrière
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Rousseau-Royal Laval-Montréal @ Forestiers d'Amos
 DTSTART:20261212T130000
 DTEND:20261212T153000
-UID:lhmaaaq1904313
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1904313
+UID:LHMAAAQ1904313
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1904313
 LOCATION:C. Sportif Desjardins Pav. Paul-Carrière
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Vikings de Saint-Eustache @ Rousseau-Royal Laval-Montréal
 DTSTART:20270110T133000
 DTEND:20270110T160000
-UID:lhmaaaq1904345
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1904345
+UID:LHMAAAQ1904345
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1904345
 LOCATION:Laval\, Complexe Sportif Guimond-3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Lions du Lac St-Louis @ Rousseau-Royal Laval-Montréal
 DTSTART:20270117T193000
 DTEND:20270117T220000
-UID:lhmaaaq1904375
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1904375
+UID:LHMAAAQ1904375
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1904375
 LOCATION:Laval\, Complexe Sportif Guimond-3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Grenadiers de Châteauguay @ Rousseau-Royal Laval-Montréal
 DTSTART:20270117T133000
 DTEND:20270117T160000
-UID:lhmaaaq1904381
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1904381
+UID:LHMAAAQ1904381
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1904381
 LOCATION:Laval\, Complexe Sportif Guimond-3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Rousseau-Royal Laval-Montréal @ Vikings de Saint-Eustache
 DTSTART:20270121T191500
 DTEND:20270121T214500
-UID:lhmaaaq1904391
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1904391
+UID:LHMAAAQ1904391
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1904391
 LOCATION:Glace 1 Florian-Guindon 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Rousseau-Royal Laval-Montréal @ Forestiers d'Amos
 DTSTART:20270123T130000
 DTEND:20270123T153000
-UID:lhmaaaq1904401
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1904401
+UID:LHMAAAQ1904401
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1904401
 LOCATION:C. Sportif Desjardins Pav. Paul-Carrière
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | L'Intrépide de Gatineau @ Rousseau-Royal Laval-Montréal
 DTSTART:20270130T193000
 DTEND:20270130T220000
-UID:lhmaaaq1904435
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1904435
+UID:LHMAAAQ1904435
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1904435
 LOCATION:Laval\, Complexe Sportif Guimond-3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Rousseau-Royal Laval-Montréal @ Lions du Lac St-Louis
 DTSTART:20270130T141500
 DTEND:20270130T164500
-UID:lhmaaaq1904439
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1904439
+UID:LHMAAAQ1904439
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1904439
 LOCATION:DDO\, Centre Civique de DDO 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Rousseau-Royal Laval-Montréal @ Vikings de Saint-Eustache
 DTSTART:20270204T191500
 DTEND:20270204T214500
-UID:lhmaaaq1904455
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1904455
+UID:LHMAAAQ1904455
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1904455
 LOCATION:Glace 1 Florian-Guindon 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Élites de Jonquière @ Rousseau-Royal Laval-Montréal
 DTSTART:20270206T133000
 DTEND:20270206T160000
-UID:lhmaaaq1904475
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1904475
+UID:LHMAAAQ1904475
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1904475
 LOCATION:Laval\, Complexe Sportif Guimond-3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Chevaliers de Lévis @ Rousseau-Royal Laval-Montréal
 DTSTART:20270208T190000
 DTEND:20270208T213000
-UID:lhmaaaq1904485
-DESCRIPTION:Game Center: https://www.m18aaa.com/fr/stats/boxscore.html?sea
- son=4939&subSeason=4951&category=5366&game=1904485
+UID:LHMAAAQ1904485
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1904485
 LOCATION:Laval\, Complexe Sportif Guimond-3
 END:VEVENT
 END:VCALENDAR
