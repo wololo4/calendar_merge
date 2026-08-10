@@ -6,6 +6,25 @@ from utils.ics import ICSEventBuilder
 from dict.ncaa_dict import TEAM_STADIUM, CITY_TO_ARENA, KNOWN_ARENAS, NCAA_MASCOT_FIX, NCAA_TEAM_FIX, TEAM_NORMALIZATION, TEAM_MASCOTS_FALLBACK
 from parsers.common import parse_iso_datetime_duration, build_description, uid, city_to_arena, normalize_team
 
+TEAM_MASCOTS_FALLBACK_NORMALIZED = {
+    key.lower(): f"{key} {value}".strip()
+    for key, value in TEAM_MASCOTS_FALLBACK.items()
+}
+
+def normalize_team_ncaa(title):
+    cleaned = clean_ncaa_team_name(title)
+    cleaned_title, _ = clean_ncaa_title_and_flags(cleaned)
+    name_low = cleaned_title.lower().strip()
+
+    for short_name in TEAM_MASCOTS_FALLBACK:
+        short_lower = short_name.lower()
+
+        # FIX: exact match OR prefix match ONLY
+        if name_low == short_lower or name_low.startswith(short_lower + " "):
+            return normalize_team(fix_ncaa_team_name(short_name), TEAM_MASCOTS_FALLBACK_NORMALIZED)
+
+    return normalize_team(fix_ncaa_team_name(cleaned_title), TEAM_MASCOTS_FALLBACK_NORMALIZED)
+
 def full_team_name_conf(team_obj):
     raw_title = team_obj.get("title", "").strip()
     title = fix_ncaa_team_name(
@@ -101,18 +120,28 @@ def clean_ncaa_team_name(name):
     name = name.strip()
 
     patterns = [
+        "University of Nebraska at ",
         "University of ",
         "University",
-        "at Omaha",
         "University (OH)",
-        "(SD)"
+        "(SD)",
+        "(Exhibition)",
+        "(ex)",
+        "(exh.)",
+        "Exhibition",
+        "(Ont.)"
     ]
 
+    name_low = name.lower()
+
     for p in patterns:
-        if name.startswith(p):
+        p_low = p.lower()
+        if name_low.startswith(p_low):
             name = name[len(p):].strip()
-        if name.endswith(p):
+            name_low = name.lower()
+        if name_low.endswith(p_low):
             name = name[:-len(p)].strip()
+            name_low = name.lower()
     
     return name
 
@@ -247,7 +276,11 @@ def parse_ncaa_conf(json_data, team_name):
         school = ev.get("school", {})
         opp = ev.get("opponent", {})
 
-        if team_name != school.get("title", "") and team_name != opp.get("title", ""):
+        school_title = normalize_team_ncaa(school.get("title", ""))
+        opp_title = normalize_team_ncaa(opp.get("title", ""))
+        team_title = normalize_team_ncaa(TEAM_NORMALIZATION.get(team_name, team_name))
+
+        if team_title != school_title and team_title != opp_title:
             continue
 
         home_title = full_team_name_conf(school)
@@ -255,7 +288,10 @@ def parse_ncaa_conf(json_data, team_name):
 
         home_team, away_team = resolve_home_away(ev, home_title, away_title)
 
-        start_dt, end_dt = parse_iso_datetime_duration(ev.get("date_utc"))
+        if ev.get("tba") == True:
+            start_dt, end_dt = parse_iso_datetime_duration(ev.get("date", ""))
+        elif ev.get("tba") == False:
+            start_dt, end_dt = parse_iso_datetime_duration(ev.get("date_utc", ""))
         if not start_dt:
             continue
 

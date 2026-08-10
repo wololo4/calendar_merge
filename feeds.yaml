@@ -1,116 +1,116 @@
-# ============================
-# Hockey Feeds Configuration
-# ============================
+# # ============================
+# # Hockey Feeds Configuration
+# # ============================
 
-AHL:
-  parser: hockeytech
-  base_url: https://lscluster.hockeytech.com/feed/index.php?feed=modulekit&view=schedule&client_code=ahl&key=ccb91f29d6744675
-  teams:
-    - name: Laval Rocket
-      team_id: 415
-
-BCHL:
-  parser: hockeytech
-  base_url: https://cluster.leaguestat.com/feed/index.php?feed=modulekit&view=schedule&client_code=bchl&key=ca4e9e599d4dae55
-  teams:
-    - name: Victoria Grizzlies
-      team_id: 18
-
-CHL:
-  parser: chl_europe
-  url: https://www.chl.hockey/api/s3?q=schedule-21ec9dad81abe2e0240460d0-fc954f6d33272fdf4a8b95bb.json
-  teams:
-  - name: Skellefteå AIK
-    code: SKE
-  - name: Kölner Haie
-    code: KOL
-
-CHL_Memorial_Cup:
-  parser: hockeytech
-  base_url: https://lscluster.hockeytech.com/feed/index.php?feed=modulekit&view=schedule&key=f1aa699db3d81487&client_code=chl
-  teams: []
-
-DEL:
-  parser: del
-  base_url: https://www.penny-del.org/spiele/team
-  teams:
-    - name: Kölner Haie
-      team_id: 11
-
-ECHL:
-  parser: hockeytech
-  base_url: https://lscluster.hockeytech.com/feed/index.php?feed=modulekit&view=schedule&client_code=echl&key=2c2b89ea7345cae8
-  teams:
-    - name: Trois-Rivières Lions
-      team_id: 99
-
-Hockey_Canada:
-  parser: hockeytech
-  base_url: https://lscluster.hockeytech.com/feed/index.php?feed=modulekit&client_code=hockeycanada&key=a575453e4321c122
-  league_id: [7,24,26,27,32,34,38]
-  teams: []
-
-KHL:
-  parser: khl
-  base_url: https://khl.api.webcaster.pro/api/khl_mobile/events_v2.json
-  teams:
-    - name: Salavat Yulaev Ufa
-      team_id: 32
-    - name: Torpedo Nizhny Novgorod
-      team_id: 22
-    # - name: Amur Khabarovsk
-    #   team_id: 54
-    # - name: Spartak Moscow
-    #   team_id: 7
-
-LHJAAAQ:
-  parser: publicationsports
-  base_url: "https://www.lhjaaaq.com/fr/stats/horaire.html?"
-  teams:
-    - name: L'Énergie de Laval
-      team_id: 139435
-
-LHJMQ:
-  parser: hockeytech
-  base_url: https://cluster.leaguestat.com/feed/index.php?feed=modulekit&view=schedule&client_code=lhjmq&key=f322673b6bcae299
-  teams:
-    - name: Saguenéens Chicoutimi
-      team_id: 10
-    - name: Foreurs Val-d'Or
-      team_id: 15
-
-LHMAAAQ:
-  parser: publicationsports
-  base_url: "https://www.m18aaa.com/fr/stats/horaire.html?"
-  teams:
-    - name: Rousseau-Royal Montréal-Laval
-      team_id: 110276
-
-Liiga:
-  parser: liiga
-  base_url: https://liiga.fi/api/v2/schedule
-  season: 2027
-  tournament: [runkosarja,playoffs]
-  teams:
-    - name: TPS turku
-      team_id: "651304385:tps"
-
-# NCAA_AHA:
-#   parser: ncaa_conf
-#   base_url: https://atlantichockeyamerica.com/services/responsive-calendar.ashx?sport_id=2&school_id=0
+# AHL:
+#   parser: hockeytech
+#   base_url: https://lscluster.hockeytech.com/feed/index.php?feed=modulekit&view=schedule&client_code=ahl&key=ccb91f29d6744675
 #   teams:
-#     - name: 
+#     - name: Laval Rocket
+#       team_id: 415
 
-NCAA_BIG10:
-  parser: ncaa_b10
-  base_url: https://bigten.org/api/cms/b1g/api/game/?&where[sport.alias][equals]=mhky&limit=500&sort=datetime.date_scheduled
-  teams:
-    - name: Wisconsin Badgers
-      team_id: 3741
-    - name: Michigan Wolverines
-      team_id: 3519
-    - name: Minnesota Golden Gophers
-      team_id: 3736
+# BCHL:
+#   parser: hockeytech
+#   base_url: https://cluster.leaguestat.com/feed/index.php?feed=modulekit&view=schedule&client_code=bchl&key=ca4e9e599d4dae55
+#   teams:
+#     - name: Victoria Grizzlies
+#       team_id: 18
+
+# CHL:
+#   parser: chl_europe
+#   url: https://www.chl.hockey/api/s3?q=schedule-21ec9dad81abe2e0240460d0-fc954f6d33272fdf4a8b95bb.json
+#   teams:
+#   - name: Skellefteå AIK
+#     code: SKE
+#   - name: Kölner Haie
+#     code: KOL
+
+# CHL_Memorial_Cup:
+#   parser: hockeytech
+#   base_url: https://lscluster.hockeytech.com/feed/index.php?feed=modulekit&view=schedule&key=f1aa699db3d81487&client_code=chl
+#   teams: []
+
+# DEL:
+#   parser: del
+#   base_url: https://www.penny-del.org/spiele/team
+#   teams:
+#     - name: Kölner Haie
+#       team_id: 11
+
+# ECHL:
+#   parser: hockeytech
+#   base_url: https://lscluster.hockeytech.com/feed/index.php?feed=modulekit&view=schedule&client_code=echl&key=2c2b89ea7345cae8
+#   teams:
+#     - name: Trois-Rivières Lions
+#       team_id: 99
+
+# Hockey_Canada:
+#   parser: hockeytech
+#   base_url: https://lscluster.hockeytech.com/feed/index.php?feed=modulekit&client_code=hockeycanada&key=a575453e4321c122
+#   league_id: [7,24,26,27,32,34,38]
+#   teams: []
+
+# KHL:
+#   parser: khl
+#   base_url: https://khl.api.webcaster.pro/api/khl_mobile/events_v2.json
+#   teams:
+#     - name: Salavat Yulaev Ufa
+#       team_id: 32
+#     - name: Torpedo Nizhny Novgorod
+#       team_id: 22
+#     # - name: Amur Khabarovsk
+#     #   team_id: 54
+#     # - name: Spartak Moscow
+#     #   team_id: 7
+
+# LHJAAAQ:
+#   parser: publicationsports
+#   base_url: "https://www.lhjaaaq.com/fr/stats/horaire.html?"
+#   teams:
+#     - name: L'Énergie de Laval
+#       team_id: 139435
+
+# LHJMQ:
+#   parser: hockeytech
+#   base_url: https://cluster.leaguestat.com/feed/index.php?feed=modulekit&view=schedule&client_code=lhjmq&key=f322673b6bcae299
+#   teams:
+#     - name: Saguenéens Chicoutimi
+#       team_id: 10
+#     - name: Foreurs Val-d'Or
+#       team_id: 15
+
+# LHMAAAQ:
+#   parser: publicationsports
+#   base_url: "https://www.m18aaa.com/fr/stats/horaire.html?"
+#   teams:
+#     - name: Rousseau-Royal Montréal-Laval
+#       team_id: 110276
+
+# Liiga:
+#   parser: liiga
+#   base_url: https://liiga.fi/api/v2/schedule
+#   season: 2027
+#   tournament: [runkosarja,playoffs]
+#   teams:
+#     - name: TPS turku
+#       team_id: "651304385:tps"
+
+# # NCAA_AHA:
+# #   parser: ncaa_conf
+# #   base_url: https://atlantichockeyamerica.com/services/responsive-calendar.ashx?sport_id=2&school_id=0
+# #   teams:
+# #     - name: 
+
+# NCAA_BIG10:
+#   parser: ncaa_b10
+#   base_url: https://bigten.org/api/cms/b1g/api/game/?&where[sport.alias][equals]=mhky&limit=500&sort=datetime.date_scheduled
+#   teams:
+#     - name: Wisconsin Badgers
+#       team_id: 3741
+#     - name: Michigan Wolverines
+#       team_id: 3519
+#     - name: Minnesota Golden Gophers
+#       team_id: 3736
 
 NCAA_CCHA:
   parser: ncaa_conf
@@ -125,15 +125,15 @@ NCAA_ECAC:
   teams:
     - name: Dartmouth College Big Green
 
-NCAA_EAST:
-  parser: ncaa_east
-  teams:
-    - name: Boston University Terriers
-      base_url: https://goterriers.com/api/v2/Calendar
-      sport_id: 5
-    - name: Providence Friars
-      base_url: https://friars.com/api/v2/Calendar
-      sport_id: 5
+# NCAA_EAST:
+#   parser: ncaa_east
+#   teams:
+#     - name: Boston University Terriers
+#       base_url: https://goterriers.com/api/v2/Calendar
+#       sport_id: 5
+#     - name: Providence Friars
+#       base_url: https://friars.com/api/v2/Calendar
+#       sport_id: 5
 
 NCAA_NCHC:
   parser: ncaa_conf
@@ -144,67 +144,67 @@ NCAA_NCHC:
     - name: St. Cloud State Huskies
     - name: Western Michigan Broncos
 
-NHL:
-  parser: nhl
-  teams:
-    - name: Montréal Canadiens
-      url: https://api-web.nhle.com/v1/club-schedule-season/MTL/now
+# NHL:
+#   parser: nhl
+#   teams:
+#     - name: Montréal Canadiens
+#       url: https://api-web.nhle.com/v1/club-schedule-season/MTL/now
 
-NL:
-  parser: nl
-  base_url: https://www.nationalleague.ch/api/games?
-  teams:
-    - name: EV Zug
-      team_id: 101144
+# NL:
+#   parser: nl
+#   base_url: https://www.nationalleague.ch/api/games?
+#   teams:
+#     - name: EV Zug
+#       team_id: 101144
 
-OHL:
-  parser: hockeytech
-  base_url: https://cluster.leaguestat.com/feed/index.php?feed=modulekit&view=schedule&client_code=ohl&key=2976319eb44abe94
-  teams:
-    - name: Brantford Bulldogs
-      team_id: 1
-    - name: Owen Sound Attack
-      team_id: 11
+# OHL:
+#   parser: hockeytech
+#   base_url: https://cluster.leaguestat.com/feed/index.php?feed=modulekit&view=schedule&client_code=ohl&key=2976319eb44abe94
+#   teams:
+#     - name: Brantford Bulldogs
+#       team_id: 1
+#     - name: Owen Sound Attack
+#       team_id: 11
 
-SHL:
-  parser: shl
-  base_url: https://www.shl.se/api/sports-v2/game-schedule
-  seasonUuid: ndcf81nlb3
-  seriesUuid: qQ9-bb0bzEWUk
-  gameTypeUuid: qQ9-af37Ti40B
-  teams:
-    - name: Luleå HF
-      uuid: 1a71-1a71gTHKh
-    - name: Skellefteå AIK
-      uuid: 50e6-50e6DYeWM
+# SHL:
+#   parser: shl
+#   base_url: https://www.shl.se/api/sports-v2/game-schedule
+#   seasonUuid: ndcf81nlb3
+#   seriesUuid: qQ9-bb0bzEWUk
+#   gameTypeUuid: qQ9-af37Ti40B
+#   teams:
+#     - name: Luleå HF
+#       uuid: 1a71-1a71gTHKh
+#     - name: Skellefteå AIK
+#       uuid: 50e6-50e6DYeWM
 
-UFA:
-  parser: ufa
-  base_url: https://www.backend.ufastats.com/web-v1/games?current
-  teams:
-    - name: Royal Montréal
-      team_id: 13
-      type: json
+# UFA:
+#   parser: ufa
+#   base_url: https://www.backend.ufastats.com/web-v1/games?current
+#   teams:
+#     - name: Royal Montréal
+#       team_id: 13
+#       type: json
 
-VHL:
-  parser: vhl
-  base_url: https://www.vhlru.ru/en/calendar
-  season_id: 1374
-  teams:
-    - name: Khimik Voskresensk
-      team_id: 15029
-    - name: Izhstal Izhevsk
-      team_id: 15014
-    - name: AKM
-      team_id: 15005
+# VHL:
+#   parser: vhl
+#   base_url: https://www.vhlru.ru/en/calendar
+#   season_id: 1374
+#   teams:
+#     - name: Khimik Voskresensk
+#       team_id: 15029
+#     - name: Izhstal Izhevsk
+#       team_id: 15014
+#     - name: AKM
+#       team_id: 15005
 
-WHL:
-  parser: hockeytech
-  base_url: https://cluster.leaguestat.com/feed/index.php?feed=modulekit&view=schedule&client_code=whl&key=41b145a848f4bd67
-  teams:
-    - name: Penticton Vees
-      team_id: 277
-    - name: Saskatoon Blades
-      team_id: 213
-    - name: Regina Pats
-      team_id: 212
+# WHL:
+#   parser: hockeytech
+#   base_url: https://cluster.leaguestat.com/feed/index.php?feed=modulekit&view=schedule&client_code=whl&key=41b145a848f4bd67
+#   teams:
+#     - name: Penticton Vees
+#       team_id: 277
+#     - name: Saskatoon Blades
+#       team_id: 213
+#     - name: Regina Pats
+#       team_id: 212
