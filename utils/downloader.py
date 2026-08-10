@@ -260,19 +260,23 @@ def download_nl(league, team_name, url, team_filter):
 # ============================
 @register_downloader("publicationsports")
 def download_publicationsports(league, team_name, url, team_filter):
-    try:
-        with Stealth().use_sync(sync_playwright()) as p:
-            browser = p.chromium.launch(headless=True)
-            page = browser.new_page()
-            page.goto(url, timeout=90000)
-            page.wait_for_load_state("networkidle")
-            html = page.content()
-            browser.close()
-        calendar = parse_publicationsports(html, team_filter, league)
-        return league, team_name, calendar
-    except Exception as e:
-        print(f"Error parsing Publication Sports HTML for {league}:", e)
-        return league, team_name, None
+    for attempt in range(3):
+        try:
+            with Stealth().use_sync(sync_playwright()) as p:
+                browser = p.chromium.launch(headless=True)
+                page = browser.new_page()
+                page.goto(url, timeout=90000)
+                page.wait_for_load_state("networkidle")
+                html = page.content()
+                browser.close()
+            calendar = parse_publicationsports(html, team_filter, league)
+            return league, team_name, calendar
+        except Exception as e:
+            print(f"⚠️ PublicationSports retry {attempt+1}/3 for {team_name}: {e}")
+
+    print(f"❌ PublicationSports failed after 3 attempts for {team_name}")
+    return league, team_name, None
+
 
 # ============================
 # SHL JSON
