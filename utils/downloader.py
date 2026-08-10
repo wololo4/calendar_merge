@@ -3,6 +3,7 @@ import requests
 import json
 import re
 import cloudscraper
+import time
 from playwright.sync_api import sync_playwright
 from playwright_stealth import Stealth
 from bs4 import BeautifulSoup
@@ -69,30 +70,45 @@ DEFAULT_HEADERS = {
     "Accept": "*/*",
 }
 
-def fetch_json(url, headers=None):
+def fetch_json(url, headers=None, retries=3, delay=1):
     session = SESSION
 
     req_headers = DEFAULT_HEADERS.copy()
     if headers:
         req_headers.update(headers)
 
-    resp = session.get(url, headers=req_headers, timeout=4)
-    resp.raise_for_status()
+    for attempt in range(retries):
+        try:
+            resp = session.get(url, headers=req_headers, timeout=4)
+            resp.raise_for_status()
+            return resp.json()
+        except Exception as e:
+            print(f"⚠️ JSON retry {attempt+1}/{retries} for {url}: {e}")
+            if attempt < retries - 1:
+                time.sleep(delay)
 
-    return resp.json()
+    print(f"❌ JSON fetch failed after {retries} attempts: {url}")
+    return None
 
-
-def fetch_html(url, headers=None):
+def fetch_html(url, headers=None, retries=3, delay=1):
     session = SESSION
 
     req_headers = DEFAULT_HEADERS.copy()
     if headers:
         req_headers.update(headers)
 
-    resp = session.get(url, headers=req_headers, timeout=4)
-    resp.raise_for_status()
+    for attempt in range(retries):
+        try:
+            resp = session.get(url, headers=req_headers, timeout=4)
+            resp.raise_for_status()
+            return resp.text
+        except Exception as e:
+            print(f"⚠️ HTML retry {attempt+1}/{retries} for {url}: {e}")
+            if attempt < retries - 1:
+                time.sleep(delay)
 
-    return resp.text
+    print(f"❌ HTML fetch failed after {retries} attempts: {url}")
+    return None
 
 # ============================
 # CHL EUROPE JSON
