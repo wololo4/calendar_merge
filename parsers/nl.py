@@ -2,6 +2,11 @@ from icalendar import Calendar
 from parsers.common import parse_iso_datetime_duration, build_description, uid
 from utils.ics import ICSEventBuilder
 
+NL_TEAM_FIX = {
+    "SCRJ Lakers": "SC Rapperswil-Jona Lakers",
+    "SC Rapperswil-Jona Lakers": "SC Rapperswil-Jona Lakers",
+}
+
 def parse_nl_json(json_data, team_id):
     cal = Calendar()
 
@@ -10,8 +15,8 @@ def parse_nl_json(json_data, team_id):
         if not start_dt:
             continue
 
-        home = g.get("homeTeamName", "")
-        away = g.get("awayTeamName", "")
+        home = NL_TEAM_FIX.get(g.get("homeTeamName", ""), g.get("homeTeamName", ""))
+        away = NL_TEAM_FIX.get(g.get("awayTeamName", ""), g.get("awayTeamName", ""))
 
         home_id = g.get("homeTeamId", "")
         away_id = g.get("awayTeamId", "")
