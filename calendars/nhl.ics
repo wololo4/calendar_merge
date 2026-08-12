@@ -36,8 +36,8 @@ LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Montréal Canadiens @ Ottawa Sénateurs
-DTSTART:20260926T160000
-DTEND:20260926T183000
+DTSTART:20260926T230000
+DTEND:20260927T013000
 UID:nhl2026010064
 DESCRIPTION:Pre-Season Game\nGame Center: https://www.nhl.com/gamecenter/m
  tl-vs-ott/2026/09/26/2026010064\nTickets: https://www.nhl.com/senators/tic
@@ -539,8 +539,10 @@ DTSTART:20261231T190000
 DTEND:20261231T213000
 UID:nhl2026020644
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
- er/mtl-vs-tbl/2026/12/31/2026020644\nTickets: https://www.nhl.com/lightnin
- g/tickets/
+ er/mtl-vs-tbl/2026/12/31/2026020644\nTickets: https://www.ticketmaster.com
+ /event/0D0064F8CF9A9E3D?brand=tblightning&artistid=806028&landing=s&wt.mc_
+ id=NHL_TEAM_TBL_SCHEDULE_GM21&utm_source=NHL.com&utm_medium=client&utm_cam
+ paign=NHL_TEAM_TBL&utm_content=SCHEDULE_GM21
 LOCATION:Benchmark International Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1011,8 +1013,10 @@ DTSTART:20270408T230000
 DTEND:20270409T013000
 UID:nhl2026021317
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
- er/mtl-vs-tbl/2027/04/08/2026021317\nTickets: https://www.nhl.com/lightnin
- g/tickets/
+ er/mtl-vs-tbl/2027/04/08/2026021317\nTickets: https://www.ticketmaster.com
+ /event/0D0064F8CFDA9EE8?brand=tblightning&artistid=806028&landing=s&wt.mc_
+ id=NHL_TEAM_TBL_SCHEDULE_GM41&utm_source=NHL.com&utm_medium=client&utm_cam
+ paign=NHL_TEAM_TBL&utm_content=SCHEDULE_GM41
 LOCATION:Benchmark International Arena
 END:VEVENT
 BEGIN:VEVENT
