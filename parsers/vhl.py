@@ -32,9 +32,9 @@ def parse_vhl_html(html, team_name, season_id):
         month_num = datetime.strptime(month_name, "%B").month
 
         if month_num >= 8:   # Aug-Dec
-            year = 2025
-        else:                # Jan-Apr
             year = 2026
+        else:                # Jan-Apr
+            year = 2027
 
         # Convert date (ex: "14 March")
         try:
