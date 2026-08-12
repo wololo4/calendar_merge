@@ -2,6 +2,7 @@ import yaml
 import requests
 import cloudscraper
 import json
+import requests
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta, date
 from dateutil.relativedelta import relativedelta
@@ -58,6 +59,106 @@ def hockeytech_find_playoffs(seasons, regular_season):
             start = datetime.fromisoformat(s["start_date"])
             if start > reg_end:
                 return s
+    return None
+
+def vhl_fetch_calendar(base_url):
+    response = requests.get(
+        base_url,
+        timeout=30,
+        headers={
+            "User-Agent": "Mozilla/5.0"
+        }
+    )
+    response.raise_for_status()
+    soup = BeautifulSoup(response.text, "html.parser")
+    tournament_select = soup.find(
+        "select",
+        {"name": "tournament"}
+    )
+    seasons = []
+    for option in tournament_select.find_all("option"):
+        value = option.get("value", "").strip()
+        label = option.get_text(" ", strip=True)
+        if not value or not label:
+            continue
+        parts = [
+            part.strip()
+            for part in label.split("|", 1)
+        ]
+        if len(parts) != 2:
+            continue
+        season_name, stage = parts
+        season_id = value.rstrip("/").split("/")[-1]
+        if not season_id.isdigit():
+            continue
+        seasons.append({
+            "season_id": season_id,
+            "season": season_name,
+            "stage": stage,
+            "label": label,
+        })
+
+    club_select = soup.find(
+        "select",
+        {"name": "club"}
+    )
+    teams = {}
+    for option in club_select.find_all("option"):
+        value = option.get("value", "").strip()
+        site_name = option.get_text(" ", strip=True)
+        if not value or not site_name:
+            continue
+
+        if site_name.lower() == "all":
+            continue
+
+        parts = value.rstrip("/").split("/")
+        if len(parts) < 2:
+            continue
+        team_id = parts[-1]
+        if not team_id.isdigit():
+            continue
+        teams[site_name] = team_id
+    return {
+        "seasons": seasons,
+        "teams": teams,
+    }
+
+def vhl_current_season_name():
+    today = datetime.now()
+    if today >= datetime(today.year, 7, 1):
+        start_year = today.year
+    else:
+        start_year = today.year - 1
+    return (
+        f"{start_year % 100:02d}/"
+        f"{(start_year + 1) % 100:02d}"
+    )
+
+def vhl_find_current_seasons(seasons):
+    target = vhl_current_season_name()
+    regular = None
+    playoffs = None
+    for season in seasons:
+        if season["season"] != target:
+            continue
+        stage = season["stage"].strip().lower()
+        if stage == "regular season":
+            regular = season
+        elif stage == "playoffs":
+            playoffs = season
+    return regular, playoffs
+
+def vhl_find_team_id(teams, configured_name):
+    configured = configured_name.strip().lower()
+    for site_name, team_id in teams.items():
+        if site_name.strip().lower() == configured:
+            return team_id
+
+    for site_name, team_id in teams.items():
+        site = site_name.strip().lower()
+        if configured.startswith(site + " "):
+            return team_id
     return None
 
 def extract_latest_season(html):
@@ -398,7 +499,21 @@ def handle_ufa(feeds, league, data):
 @register_parser("vhl")
 def handle_vhl(feeds, league, data):
     base_url = data["base_url"]
-    season_id = data["season_id"]
-    for team_name, team_id, team in iter_teams(data):
-        url = f"{base_url}/{season_id}/0/{team_id}/"
-        feeds.append((league, team_name, url, season_id, "vhl"))
+    calendar = vhl_fetch_calendar(base_url)
+    seasons = calendar["seasons"]
+    teams = calendar["teams"]
+    regular, playoffs = vhl_find_current_seasons(seasons)
+    regular_season_id = regular["season_id"]
+    for team_name, _, team in iter_teams(data):
+        team_id = vhl_find_team_id(teams, team_name)
+        if not team_id:
+            print(f"VHL Warning: could not find {team_name} on VHL Page")
+            continue
+        regular_url = (f"{base_url}{regular_season_id}/0/{team_id}")
+        feeds.append((league, f"{team_name} (Regular Season)", regular_url, regular_season_id, "vhl"))
+        if playoffs:
+            playoff_season_id = playoffs["season_id"]
+            playoff_url = f"{base_url}{playoff_season_id}/0/{team_id}/"
+            feeds.append((league, f"{team_name} (Playoffs)", playoff_url, playoff_season_id, "vhl"))
+        else:
+            continue

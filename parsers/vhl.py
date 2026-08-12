@@ -51,7 +51,6 @@ def parse_vhl_html(html, team_name, season_id):
             home = normalize_vhl(home_raw)
             away = normalize_vhl(away_raw)
 
-            # Normalisation pour matcher "Khimik Voskresensk" avec "Khimik"
             if not (
                 home_raw.lower() in team_name.lower()
                 or away_raw.lower() in team_name.lower()
@@ -65,8 +64,7 @@ def parse_vhl_html(html, team_name, season_id):
 
             if link and link.has_attr("href"):
                 href = link["href"]
-                if "idgame=" in href:
-                    game_id = href.split("idgame=")[-1].split("&")[0]
+                game_id = href.split("/")[-1].split(".html")[0]
 
             game_center = f"https://www.vhlru.ru/en/report/{season_id}/?idgame={game_id}"
             home_key = home_raw.lower().strip()
@@ -81,7 +79,7 @@ def parse_vhl_html(html, team_name, season_id):
                 .uid(uid("vhl", game_id))
                 .start(dtstart)
                 .end(end_dt)
-                .summary(f"🏒 | {home} vs {away}")
+                .summary(f"🏒 | {away} @ {home}")
                 .location(arena)
                 .description(description)
                 .build()
