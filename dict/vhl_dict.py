@@ -44,6 +44,10 @@ VHL_TEAMS = {
         "name": "Gornyak-UGMK Verkhnyaya Pyshma",
         "arena": "Alexei Kozitsyn Ice Arena"
     },
+    "hc kaluga": {
+        "name": "HC Kaluga",
+        "arena": "Tsentralny Sports Palace"
+    },
     "hc norilsk": {
         "name": "HC Norilsk",
         "arena": "Artika Sport Palace"
