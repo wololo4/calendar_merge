@@ -121,6 +121,7 @@ def clean_ncaa_team_name(name):
 
     patterns = [
         "University of Nebraska at ",
+        "Nebraska ",
         "University of ",
         "University",
         "University (OH)",
