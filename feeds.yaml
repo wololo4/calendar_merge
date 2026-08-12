@@ -187,7 +187,7 @@ UFA:
 VHL:
   parser: vhl
   base_url: https://www.vhlru.ru/en/calendar
-  season_id: 1374
+  season_id: 1430
   teams:
     - name: Khimik Voskresensk
       team_id: 15029
