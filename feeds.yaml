@@ -190,11 +190,11 @@ VHL:
   season_id: 1430
   teams:
     - name: Khimik Voskresensk
-      team_id: 15029
+      team_id: 15532
     - name: Izhstal Izhevsk
-      team_id: 15014
+      team_id: 15519
     - name: AKM
-      team_id: 15005
+      team_id: 15510
 
 WHL:
   parser: hockeytech
