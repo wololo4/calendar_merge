@@ -356,8 +356,8 @@ DTSTART:20261126T023000
 DTEND:20261126T050000
 UID:nhl2026020397
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
- er/mtl-vs-col/2026/11/25/2026020397\nTickets: https://www.nhl.com/avalanch
- e/tickets/
+ er/mtl-vs-col/2026/11/25/2026020397\nTickets: https://avs.social/2627_SCHE
+ DULE_GM12
 LOCATION:Ball Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -852,8 +852,8 @@ UID:nhl2026021094
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-nyi/2027/03/09/2026021094\nTickets: https://www.ticketmaster.com
  /event/300064E2D30962BC?brand=nyislanders&artistid=805986&wt.mc_id=NHL_TEA
- M_NYI_SCHEDULE_GM34&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_
- TEAM_NYI&utm_content=SCHEDULE_GM34
+ M_NYI_SCHEDULE_GM34&utm_source=nyi_website&utm_medium=schedulepage&utm_cam
+ paign=NHL_TEAM_NYI&utm_content=SCHEDULE_GM34
 LOCATION:UBS Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -994,8 +994,8 @@ UID:nhl2026021294
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
  er/mtl-vs-nyi/2027/04/04/2026021294\nTickets: https://www.ticketmaster.com
  /event/300064E2D3336309?brand=nyislanders&artistid=805986&wt.mc_id=NHL_TEA
- M_NYI_SCHEDULE_GM40&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_
- TEAM_NYI&utm_content=SCHEDULE_GM40
+ M_NYI_SCHEDULE_GM40&utm_source=nyi_website&utm_medium=schedulepage&utm_cam
+ paign=NHL_TEAM_NYI&utm_content=SCHEDULE_GM40
 LOCATION:UBS Arena
 END:VEVENT
 BEGIN:VEVENT
