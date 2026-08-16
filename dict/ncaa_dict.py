@@ -199,6 +199,7 @@ NCAA_TEAM_FIX = {
     "United States National Team Development Program": "US National Team Development Program",
     "U.S. Under-18 Team": "US National Team Development Program",
     "USA Hockey Under-18 Team": "US National Team Development Program",
+    "Wisconsin/Northern Michigan": "To be determined",
     "Wisconsin/UMass/NMU": "To be determined",
 }
 
