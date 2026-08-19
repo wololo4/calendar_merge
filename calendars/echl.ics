@@ -149,11 +149,12 @@ LOCATION:CURE Insurance Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Trois-Rivières Lions @ Reading Royals
-DTSTART:20261129T000000
-DTEND:20261129T023000
+DTSTART:20261128T180000
+DTEND:20261128T203000
 UID:echl25742
 DESCRIPTION:Game Center: https://echl.com/games/2026/11/28/reading-royals-
- vs-trois-rivieres-lions
+ vs-trois-rivieres-lions\nFloHockey: https://www.flohockey.tv/events/160482
+ 27-2026-trois-rivieres-lions-vs-reading-royals
 LOCATION:Santander Arena
 END:VEVENT
 BEGIN:VEVENT
