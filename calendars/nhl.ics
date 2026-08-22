@@ -806,8 +806,10 @@ DTSTART:20270228T000000
 DTEND:20270228T023000
 UID:nhl2026021027
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
- er/mtl-vs-ana/2027/02/27/2026021027\nTickets: https://www.nhl.com/ducks/ti
- ckets/
+ er/mtl-vs-ana/2027/02/27/2026021027\nTickets: https://www.ticketmaster.com
+ /event/090064EA392E9785?brand=ducks&artistid=805893&wt.mc_id=NHL_TEAM_ANA_
+ SCHEDULE_GM33&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_A
+ NA&utm_content=SCHEDULE_GM33
 LOCATION:Honda Center
 END:VEVENT
 BEGIN:VEVENT
