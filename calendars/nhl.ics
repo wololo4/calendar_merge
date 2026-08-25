@@ -711,8 +711,10 @@ DTSTART:20270202T013000
 DTEND:20270202T040000
 UID:nhl2026020883
 DESCRIPTION:Regular Season Game\nGame Center: https://www.nhl.com/gamecent
- er/mtl-vs-van/2027/02/01/2026020883\nTickets: https://www.nhl.com/canucks/
- tickets/
+ er/mtl-vs-van/2027/02/01/2026020883\nTickets: https://www.ticketmaster.ca/
+ event/11006503F010BA90?brand=canucks&artistid=806037&wt.mc_id=NHL_TEAM_VAN
+ _SCHEDULE_GM26&utm_source=NHL.com&utm_medium=client_PM&utm_campaign=NHL_TE
+ AM_VAN&utm_content=SCHEDULE_GM26
 LOCATION:Rogers Arena
 END:VEVENT
 BEGIN:VEVENT
