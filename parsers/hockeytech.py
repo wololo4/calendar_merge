@@ -1,6 +1,6 @@
 import requests
 import json
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timedelta, timezone, date
 from utils.calendar import create_calendar
 from parsers.common import parse_iso_datetime_duration, build_description, uid
 from utils.ics import ICSEventBuilder
@@ -84,9 +84,31 @@ def parse_hockeytech(json_data, team_filter):
 
     schedule = json_data.get("SiteKit", {}).get("Schedule", [])
 
-    for row in schedule:
+    today = date.today()
 
-        # Team filtering (HockeyTech uses numeric team_id)
+    if today >= date(today.year, 7, 1):
+        season_start = date(today.year, 7, 1)
+    else:
+        season_start = date(today.year - 1, 7, 1)
+    
+    for row in schedule:
+        date_str = row.get("date_played")
+
+        if not date_str:
+            continue
+
+        try:
+            game_date = datetime.strptime(
+                date_str,
+                "%Y-%m-%d"
+            ).date()
+
+        except ValueError:
+            continue
+
+        if game_date < season_start:
+            continue
+        
         home_id = int(row.get("home_team"))
         away_id = int(row.get("visiting_team"))
 
@@ -94,7 +116,6 @@ def parse_hockeytech(json_data, team_filter):
             if home_id not in team_filter and away_id not in team_filter:
                 continue
 
-        # Extract fields directly from JSON
         game_id = row.get("game_id")
         home_team = row.get("home_team_name").replace(",", "")
         away_team = row.get("visiting_team_name").replace(",", "")
