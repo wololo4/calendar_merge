@@ -40,7 +40,13 @@ def hockeytech_pick_current_season(seasons):
     if today >= cutoff:
         target_year = today.year
     else:
-        target_year = today.year - 1
+        target_year = today.year - 1  
+    for s in seasons:
+        name = s.get("season_name", "").lower()
+        if "memorial cup" in name:
+            start = datetime.fromisoformat(s["start_date"])
+            if start.year == target_year:
+                return s 
     for s in seasons:
         if s.get("playoff") == "0" and "Regular Season" in s.get("season_name", ""):
             start = datetime.fromisoformat(s["start_date"])
@@ -281,6 +287,14 @@ def handle_hockeytech(feeds, league, data):
     seasons = hockeytech_fetch_seasons(base_url)
     regular = hockeytech_pick_current_season(seasons)
     playoffs = hockeytech_find_playoffs(seasons, regular)
+
+    if not data.get("teams"):
+        if regular:
+            season_id = regular["season_id"]
+            season_name = regular["season_name"]
+            url = f"{base_url}&season_id={season_id}"
+            feeds.append((league, f"{league} ({season_name})", url, [], "hockeytech"))
+        return
     
     for season_obj in [regular, playoffs]:
         if not season_obj:

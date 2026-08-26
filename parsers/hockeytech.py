@@ -98,10 +98,7 @@ def parse_hockeytech(json_data, team_filter):
             continue
 
         try:
-            game_date = datetime.strptime(
-                date_str,
-                "%Y-%m-%d"
-            ).date()
+            game_date = datetime.strptime(date_str,"%Y-%m-%d").date()
 
         except ValueError:
             continue

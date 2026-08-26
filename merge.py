@@ -2,7 +2,7 @@ import os
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor
 
-from utils.database import export_calendar_from_db, initialize_database, store_event
+from utils.database import export_calendar_from_db, initialize_database, store_event, clear_league
 from utils.downloader import download_single_feed
 from utils.feeds import load_feeds
 
@@ -21,6 +21,8 @@ def main():
     
         event_count = sum(1 for e in calendar.walk() if e.name == "VEVENT")
         print(f"Téléchargement: {league} – {team_name} ({event_count} events)")
+        if league not in leagues:
+            leagues[league] = []
 
         for event in calendar.walk():
             if event.name != "VEVENT":
@@ -67,6 +69,8 @@ def main():
                 del leagues[league]
 
     for league, events in leagues.items():
+        if len(events) == 0:
+            clear_league(league)
         output = export_calendar_from_db(league=league)
 
         filename = f"calendars/{league.lower()}.ics"

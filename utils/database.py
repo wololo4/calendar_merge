@@ -70,6 +70,12 @@ def store_event(
     conn.commit()
     conn.close()
 
+def clear_league(league, db_path=DEFAULT_DB_PATH):
+    conn = sqlite3.connect(db_path)
+    cur = conn.cursor()
+    cur.execute("DELETE FROM events WHERE league = ?", (league,))
+    conn.commit()
+    conn.close()
 
 def get_events(db_path=DEFAULT_DB_PATH, *, league=None, team_name=None, start_date=None, end_date=None):
     conn = sqlite3.connect(db_path)
