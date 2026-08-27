@@ -147,7 +147,7 @@ def download_hockeytech(league, team_name, url, team_filter):
         print(f"Error parsing Hockeytech JSON for {league}:", e)
         return league, team_name, None
     try:
-        calendar = parse_hockeytech(raw_json, team_filter)
+        calendar = parse_hockeytech(raw_json, team_filter, team_name)
     except Exception as e:
         print(f"Error parsing hocktech events for {league}:", e)
         return league, team_name, calendar

@@ -1,6 +1,6 @@
 import requests
 import json
-from datetime import datetime, timedelta, timezone, date
+from datetime import datetime, date
 from utils.calendar import create_calendar
 from parsers.common import parse_iso_datetime_duration, build_description, uid
 from utils.ics import ICSEventBuilder
@@ -13,6 +13,18 @@ HCanada_Tournament = {
     "32": "Centennial Cup",
     "34": "Hlinka Gretzky Cup",
     "38": "Olympic Games",
+}
+
+BROADCASTERS = {
+    "LAVAL": {
+        "home": ["RDS"]
+    },
+    "CHL_MEMORIAL_CUP": {
+        "all": ["RDS"]
+    },
+    "TROIS_RIVIÈRES": {
+        "home": ["TVAS"]
+    }
 }
 
 def fetch_seasons_for_league(league_id):
@@ -75,7 +87,7 @@ def map_season_phases(seasons_json):
         mapping[sid] = name
     return mapping
 
-def parse_hockeytech(json_data, team_filter):
+def parse_hockeytech(json_data, team_filter, team_name):
     cal = create_calendar()
     team_filter = [int(t) for t in team_filter]
     league = json_data["SiteKit"]["Parameters"]["client_code"].lower()
@@ -140,9 +152,24 @@ def parse_hockeytech(json_data, team_filter):
         flo_id = row.get("flo_core_event_id")
         flo_link = flo_event_link(flo_id, yyyy, away_slug, home_slug)
 
+        broadcasters = []
+        if league == "ahl":
+            home_team_upper = home_team.upper()
+            team_name_upper = team_name.upper().split('(')[0].strip()
+            if team_name_upper == home_team_upper:
+                broadcasters.extend(BROADCASTERS["LAVAL"]["home"])
+        if league == "chl_memorial_cup":
+            broadcasters.extend(BROADCASTERS["CHL_MEMORIAL_CUP"]["all"])
+        if league == "echl":
+            home_team_upper = home_team.upper()
+            team_name_upper = team_name.upper().split('(')[0].strip()
+            if team_name_upper == home_team_upper:
+                broadcasters.extend(BROADCASTERS["TROIS_RIVIÈRES"]["home"])
+        
         tournament = None
         
         if league == "hockeycanada":
+            broadcasters.extend(BROADCASTERS["CHL_MEMORIAL_CUP"]["all"])
             seasons_json = fetch_seasons_for_league(league_id)
             season_phase_map = map_season_phases(seasons_json)
 
@@ -155,11 +182,21 @@ def parse_hockeytech(json_data, team_filter):
         else:
             game_center = hockeytech_game_center(league, game_id, yyyy, mm, dd, home_slug, away_slug, home_code, away_code)
 
-        description = build_description([
+        description_items = [
             f"Tournament: {tournament}" if tournament else None,
             f"Game Center: {game_center}" if game_center else None,
-            f"FloHockey: {flo_link}" if flo_link else None
-        ])
+        ]
+
+        if broadcasters:
+            description_items.append(f"TV: {', '.join(broadcasters)}")
+
+        if league == "whl":
+            streaming = "Victory+"
+        else:
+            streaming = flo_link if flo_link else None
+        description_items.append(f"Streaming: {streaming}" if streaming else "Streaming link not yet available")
+        description_items = [item for item in description_items if item]
+        description = build_description(description_items)
 
         event = (
             ICSEventBuilder()

@@ -3,6 +3,21 @@ from utils.calendar import create_calendar
 from parsers.common import parse_iso_datetime_duration, build_description, uid
 from utils.ics import ICSEventBuilder
 
+CANADA_BROADCAST = {
+    "RDS": "Français",
+    "TVAS": "Français",
+
+    "CBC": "Anglais",
+    "CITY": "Anglais",
+    "SN": "Anglais", 
+    "SN1": "Anglais",
+    "SNE": "Anglais", 
+    "SNW": "Anglais",
+    "TSN2": "Anglais",
+    "TSN4": "Anglais",
+    "TSN5": "Anglais",
+}
+
 def get_fr_or_default(obj):
     return obj.get("fr") or obj.get("default")
 
@@ -34,15 +49,30 @@ def parse_nhl_json_to_calendar(json_data):
         game_type_str = "Regular Season" if game_type_id == 2 else "Pre-Season" if game_type_id == 1 else "Playoffs"
 
         broadcasts = game.get("tvBroadcasts", [])
+        canadian = [
+            b for b in broadcasts
+            if b.get("countryCode") == "CA"
+        ]
         gameCenterLink = game.get("gameCenterLink")
         ticketsLink = game.get("ticketsLink")
         channels = []
-        if broadcasts and isinstance(broadcasts, list):
-            channels = [b.get("network", "") for b in broadcasts if b.get("network")]
+        if canadian:
+            for b in canadian:
+                net = b.get("network")
+                if not net:
+                    continue
+                lang = CANADA_BROADCAST.get(net)
+                if lang:
+                    channels.append(f"{net} ({lang})")
+                else:
+                    print(f"{net} Unknown broadcaster for NHL")
+                    channels.append(f"{net} (Unknown)")
+        else:
+            channels.append("TDB (Canadian broadcast not yet announced)")
 
         description = build_description([
             f"{game_type_str} Game",
-            f"TV Network: {', '.join(channels)}" if channels else None,
+            f"TV (Canada): {', '.join(channels)}",
             f"Game Center: https://www.nhl.com{gameCenterLink}" if gameCenterLink else None,
             f"Tickets: {game['ticketsLink']}" if ticketsLink else None
         ])
