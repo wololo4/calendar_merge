@@ -132,9 +132,9 @@ NCAA_NCHC:
     base_url: 
         https://nchchockey.com/services/responsive-calendar.ashx?sport_id=0&school_id=0
     teams:
+      - name: Denver Pioneers
       - name: Miami RedHawks
       - name: Western Michigan Broncos
-      - name: Denver Pioneers
       - name: St. Cloud State Huskies
 NHL:
     parser: nhl
