@@ -387,7 +387,7 @@ def handle_ncaa_east(feeds, league, data):
         base_url = team["base_url"]
 
         url = (
-            f"{base_url}/from/{from_date}/to/{to_date}"
+            f"{base_url}/api/v2/Calendar/from/{from_date}/to/{to_date}"
             f"?sportId={team['sport_id']}"
         )
 

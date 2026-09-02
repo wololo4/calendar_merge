@@ -1,6 +1,6 @@
 VHL_TEAMS = {
     "akm": {
-        "name": "AKM Tula",
+        "name": "Akademia Mikhailov",
         "arena": "Ice Palace"
     },
     "bars": {
