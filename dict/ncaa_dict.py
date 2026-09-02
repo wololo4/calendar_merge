@@ -176,6 +176,7 @@ KNOWN_ARENAS = {
     "Value City Arena",
     "Van Andel Arena",
     "Waldo Stadium",
+    "Walter Brown Arena",
     "Whittemore Center",
     "Yost Ice Arena",
 }
