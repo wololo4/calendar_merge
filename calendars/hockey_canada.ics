@@ -9,7 +9,8 @@ DTSTART:20260808T200000
 DTEND:20260808T223000
 UID:hockeycanada5725
 DESCRIPTION:Tournament: Hlinka Gretzky Cup - 7th\nGame Center: https://www
- .hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5725
+ .hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5725\nTV:
+  RDS\nStreaming link not yet available
 LOCATION:Downtown Community Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -18,7 +19,8 @@ DTSTART:20260808T180000
 DTEND:20260808T203000
 UID:hockeycanada5724
 DESCRIPTION:Tournament: Hlinka Gretzky Cup - Bronze\nGame Center: https://
- www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5724
+ www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5724\n
+ TV: RDS\nStreaming link not yet available
 LOCATION:Rogers Place
 END:VEVENT
 BEGIN:VEVENT
@@ -27,7 +29,8 @@ DTSTART:20260808T230000
 DTEND:20260809T013000
 UID:hockeycanada5726
 DESCRIPTION:Tournament: Hlinka Gretzky Cup - Gold\nGame Center: https://ww
- w.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5726
+ w.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5726\nTV
+ : RDS\nStreaming link not yet available
 LOCATION:Rogers Place
 END:VEVENT
 BEGIN:VEVENT
@@ -36,7 +39,8 @@ DTSTART:20260808T010000
 DTEND:20260808T033000
 UID:hockeycanada5723
 DESCRIPTION:Tournament: Hlinka Gretzky Cup - 5th\nGame Center: https://www
- .hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5723
+ .hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5723\nTV:
+  RDS\nStreaming link not yet available
 LOCATION:Downtown Community Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -46,7 +50,7 @@ DTEND:20260807T203000
 UID:hockeycanada5721
 DESCRIPTION:Tournament: Hlinka Gretzky Cup - Semifinal\nGame Center: https
  ://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=572
- 1
+ 1\nTV: RDS\nStreaming link not yet available
 LOCATION:Rogers Place
 END:VEVENT
 BEGIN:VEVENT
@@ -56,7 +60,7 @@ DTEND:20260808T013000
 UID:hockeycanada5722
 DESCRIPTION:Tournament: Hlinka Gretzky Cup - Semifinal\nGame Center: https
  ://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=572
- 2
+ 2\nTV: RDS\nStreaming link not yet available
 LOCATION:Rogers Place
 END:VEVENT
 BEGIN:VEVENT
@@ -66,7 +70,7 @@ DTEND:20260803T213000
 UID:hockeycanada5709
 DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
  ps://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5
- 709
+ 709\nTV: RDS\nStreaming link not yet available
 LOCATION:Rogers Place
 END:VEVENT
 BEGIN:VEVENT
@@ -76,7 +80,7 @@ DTEND:20260803T233000
 UID:hockeycanada5710
 DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
  ps://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5
- 710
+ 710\nTV: RDS\nStreaming link not yet available
 LOCATION:Downtown Community Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -86,7 +90,7 @@ DTEND:20260804T013000
 UID:hockeycanada5711
 DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
  ps://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5
- 711
+ 711\nTV: RDS\nStreaming link not yet available
 LOCATION:Rogers Place
 END:VEVENT
 BEGIN:VEVENT
@@ -96,7 +100,7 @@ DTEND:20260804T033000
 UID:hockeycanada5712
 DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
  ps://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5
- 712
+ 712\nTV: RDS\nStreaming link not yet available
 LOCATION:Downtown Community Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -106,7 +110,7 @@ DTEND:20260804T213000
 UID:hockeycanada5713
 DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
  ps://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5
- 713
+ 713\nTV: RDS\nStreaming link not yet available
 LOCATION:Rogers Place
 END:VEVENT
 BEGIN:VEVENT
@@ -116,7 +120,7 @@ DTEND:20260804T233000
 UID:hockeycanada5714
 DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
  ps://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5
- 714
+ 714\nTV: RDS\nStreaming link not yet available
 LOCATION:Downtown Community Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -126,7 +130,7 @@ DTEND:20260805T013000
 UID:hockeycanada5715
 DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
  ps://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5
- 715
+ 715\nTV: RDS\nStreaming link not yet available
 LOCATION:Rogers Place
 END:VEVENT
 BEGIN:VEVENT
@@ -136,7 +140,7 @@ DTEND:20260805T033000
 UID:hockeycanada5716
 DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
  ps://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5
- 716
+ 716\nTV: RDS\nStreaming link not yet available
 LOCATION:Downtown Community Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -146,7 +150,7 @@ DTEND:20260805T213000
 UID:hockeycanada5717
 DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
  ps://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5
- 717
+ 717\nTV: RDS\nStreaming link not yet available
 LOCATION:Rogers Place
 END:VEVENT
 BEGIN:VEVENT
@@ -156,7 +160,7 @@ DTEND:20260805T233000
 UID:hockeycanada5718
 DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
  ps://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5
- 718
+ 718\nTV: RDS\nStreaming link not yet available
 LOCATION:Downtown Community Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -166,7 +170,7 @@ DTEND:20260806T013000
 UID:hockeycanada5719
 DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
  ps://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5
- 719
+ 719\nTV: RDS\nStreaming link not yet available
 LOCATION:Rogers Place
 END:VEVENT
 BEGIN:VEVENT
@@ -176,7 +180,7 @@ DTEND:20260806T033000
 UID:hockeycanada5720
 DESCRIPTION:Tournament: Hlinka Gretzky Cup - Preliminary\nGame Center: htt
  ps://www.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5
- 720
+ 720\nTV: RDS\nStreaming link not yet available
 LOCATION:Downtown Community Arena
 END:VEVENT
 END:VCALENDAR

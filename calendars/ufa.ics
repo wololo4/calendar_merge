@@ -36,16 +36,6 @@ DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-05-16-B
 LOCATION:Complexe sportif Claude-Robillard
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🥏 | New York Empire @ Montreal Royal
-DTSTART:20260606T230000
-DTEND:20260607T013000
-UID:ufa2026-06-06-NY-MTL
-DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-06-06-N
- Y-MTL\nWatch Live: https://watchufa.tv/videos/new-york-at-montreal-6-6-202
- 6-06-07-2026-01-00-05\nTickets: https://boutique.royalultimate.com/
-LOCATION:Complexe sportif Claude-Robillard
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🥏 | Toronto Rush @ Montreal Royal
 DTSTART:20260523T170000
 DTEND:20260523T193000
@@ -126,5 +116,15 @@ DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-05-10-M
  -2026-05-10-2026-20-26-31\nTickets: https://www.gofevo.com/event/thunderbi
  rds0510
 LOCATION:F.N.B. Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥏 | New York Empire @ Montreal Royal
+DTSTART:20260606T230000
+DTEND:20260607T013000
+UID:ufa2026-06-06-NY-MTL
+DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-06-06-N
+ Y-MTL\nWatch Live: https://watchufa.tv/videos/new-york-at-montreal-6-6-202
+ 6-06-07-2026-01-00-05\nTickets: https://boutique.royalultimate.com/
+LOCATION:Complexe sportif Claude-Robillard
 END:VEVENT
 END:VCALENDAR

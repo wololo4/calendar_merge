@@ -4,66 +4,6 @@ PRODID:-//Hockey Calendar//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:🏒 | Skellefteå AIK @ HK Nitra
-DTSTART:20260904T160000
-DTEND:20260904T183000
-UID:chleu2995
-DESCRIPTION:Stage: Regular Season\nRound: Game Day 1\nGame Center: https:/
- /www.chl.hockey/en/matches/2955e4b9c682514ca88e1d64/hk-nitra-vs-skelleftea
- -aik
-LOCATION:Tiposbet Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Skellefteå AIK @ Adler Mannheim
-DTSTART:20260906T150000
-DTEND:20260906T173000
-UID:chleu3011
-DESCRIPTION:Stage: Regular Season\nRound: Game Day 2\nGame Center: https:/
- /www.chl.hockey/en/matches/8ea8d511f11e851e50fd4110/adler-mannheim-vs-skel
- leftea-aik
-LOCATION:SAP Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Genève-Servette @ Skellefteå AIK
-DTSTART:20260910T170000
-DTEND:20260910T193000
-UID:chleu3015
-DESCRIPTION:Stage: Regular Season\nRound: Game Day 3\nGame Center: https:/
- /www.chl.hockey/en/matches/f53c78cf34039461d87b4a44/skelleftea-aik-vs-gene
- ve-servette
-LOCATION:Skellefteå Kraft Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | HC Davos @ Skellefteå AIK
-DTSTART:20260912T123000
-DTEND:20260912T150000
-UID:chleu3024
-DESCRIPTION:Stage: Regular Season\nRound: Game Day 4\nGame Center: https:/
- /www.chl.hockey/en/matches/2c97b18b6dcb99eed865e111/skelleftea-aik-vs-hc-d
- avos
-LOCATION:Skellefteå Kraft Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Skellefteå AIK @ HC Pilsen
-DTSTART:20261006T153000
-DTEND:20261006T180000
-UID:chleu3036
-DESCRIPTION:Stage: Regular Season\nRound: Game Day 5\nGame Center: https:/
- /www.chl.hockey/en/matches/1a7ccbdac3737e2e2123f998/hc-pilsen-vs-skellefte
- a-aik
-LOCATION:Logspeed CZ Aréna
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Red Bull Salzburg @ Skellefteå AIK
-DTSTART:20261013T170000
-DTEND:20261013T193000
-UID:chleu3053
-DESCRIPTION:Stage: Regular Season\nRound: Game Day 6\nGame Center: https:/
- /www.chl.hockey/en/matches/94a430b5b1a8f81c4883aaa3/skelleftea-aik-vs-red-
- bull-salzburg
-LOCATION:Skellefteå Kraft Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Kölner Haie @ Red Bull Salzburg
 DTSTART:20260903T171500
 DTEND:20260903T194500
@@ -122,5 +62,65 @@ DESCRIPTION:Stage: Regular Season\nRound: Game Day 6\nGame Center: https:/
  /www.chl.hockey/en/matches/5ed0449680b6681769378978/geneve-servette-vs-kol
  ner-haie
 LOCATION:Patinoire des Vernets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Skellefteå AIK @ HK Nitra
+DTSTART:20260904T160000
+DTEND:20260904T183000
+UID:chleu2995
+DESCRIPTION:Stage: Regular Season\nRound: Game Day 1\nGame Center: https:/
+ /www.chl.hockey/en/matches/2955e4b9c682514ca88e1d64/hk-nitra-vs-skelleftea
+ -aik
+LOCATION:Tiposbet Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Skellefteå AIK @ Adler Mannheim
+DTSTART:20260906T150000
+DTEND:20260906T173000
+UID:chleu3011
+DESCRIPTION:Stage: Regular Season\nRound: Game Day 2\nGame Center: https:/
+ /www.chl.hockey/en/matches/8ea8d511f11e851e50fd4110/adler-mannheim-vs-skel
+ leftea-aik
+LOCATION:SAP Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Genève-Servette @ Skellefteå AIK
+DTSTART:20260910T170000
+DTEND:20260910T193000
+UID:chleu3015
+DESCRIPTION:Stage: Regular Season\nRound: Game Day 3\nGame Center: https:/
+ /www.chl.hockey/en/matches/f53c78cf34039461d87b4a44/skelleftea-aik-vs-gene
+ ve-servette
+LOCATION:Skellefteå Kraft Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | HC Davos @ Skellefteå AIK
+DTSTART:20260912T123000
+DTEND:20260912T150000
+UID:chleu3024
+DESCRIPTION:Stage: Regular Season\nRound: Game Day 4\nGame Center: https:/
+ /www.chl.hockey/en/matches/2c97b18b6dcb99eed865e111/skelleftea-aik-vs-hc-d
+ avos
+LOCATION:Skellefteå Kraft Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Skellefteå AIK @ HC Pilsen
+DTSTART:20261006T153000
+DTEND:20261006T180000
+UID:chleu3036
+DESCRIPTION:Stage: Regular Season\nRound: Game Day 5\nGame Center: https:/
+ /www.chl.hockey/en/matches/1a7ccbdac3737e2e2123f998/hc-pilsen-vs-skellefte
+ a-aik
+LOCATION:Logspeed CZ Aréna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Red Bull Salzburg @ Skellefteå AIK
+DTSTART:20261013T170000
+DTEND:20261013T193000
+UID:chleu3053
+DESCRIPTION:Stage: Regular Season\nRound: Game Day 6\nGame Center: https:/
+ /www.chl.hockey/en/matches/94a430b5b1a8f81c4883aaa3/skelleftea-aik-vs-red-
+ bull-salzburg
+LOCATION:Skellefteå Kraft Arena
 END:VEVENT
 END:VCALENDAR
