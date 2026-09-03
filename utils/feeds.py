@@ -519,6 +519,8 @@ def handle_vhl(feeds, league, data):
     regular, playoffs = vhl_find_current_seasons(seasons)
     regular_season_id = regular["season_id"]
     for team_name, _, team in iter_teams(data):
+        if team_name.lower() == "akademia mikhailov":
+            team_name = "AKM"
         team_id = vhl_find_team_id(teams, team_name)
         if not team_id:
             print(f"VHL Warning: could not find {team_name} on VHL Page")

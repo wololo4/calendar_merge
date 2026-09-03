@@ -15,11 +15,6 @@ VHL_TEAMS = {
         "name": "Chelmet Chelyabinsk",
         "arena": "Yunost Sport Palace"
     },
-    "ska-vmf": {
-        "name": "SKA-VMF Saint Petersburg",
-        "arena": "Ice Palace"
-    },
-
     "csk vvs": {
         "name": "CSK VVS Samara",
         "arean": "Vladimir Vysotsky Sport Palace"
@@ -70,7 +65,7 @@ VHL_TEAMS = {
     },
     "magnitka": {
         "name": "Magnitka Magnitogorsk",
-        "arena": "Ice Sport Palace"
+        "arena": "Arena Metallurg"
     },
     "metallurg nk": {
         "name": "Metallurg Novokuznetsk",
@@ -136,4 +131,34 @@ VHL_TEAMS = {
         "name": "Zvezda Moscow",
         "arena": "CSKA Ice Palace"
     }
+}
+
+VHL_ARENAS = {
+    "Almetyevsk": "Yubileyny Sports Palace",
+    "Barnaul": "Titov Arena",
+    "Chelyabinsk": "Yunost Sport Palace",
+    "Izhevsk": "Sports Palace Izhstal",
+    "Kaluga": "Central Sports Palace Ice Arena",
+    "Kazan": "Sports Palace Kazan",
+    "Khanty-Mansiysk": "Arena Ugra",
+    "Kirovo-Chepetsk": "Olimp-Arena",
+    "Krasnoyarsk": "Arena Sever",
+    "Kurgan": "Ice Sports Palace Mostovik",
+    "Magnitogorsk": "Arena Metallurg", 
+    "Neftekamsk": "Ice Palace Neftekamsk",
+    "Norilsk": "Artika Sport Palace",
+    "Novokuznetsk": "Kuznetsk Metallurgists Sports Palace",
+    "Omsk": "Avangard Hockey Academy",
+    "Orsk": "Ice Palace Yubileyny",
+    "Penza": "Dizel Arena",
+    "Perm": "Universal Sports Palace Molot",
+    "Ryazan": "Ryazan Olympic Sports Palace",
+    "Samara": "Vladimir Vysotsky Sport Palace",
+    "Saratov": "Sports Palace Kristall",
+    "Tambov": "Crystall Ice Palace",
+    "Tula": "Ice Palace",
+    "Tyumen": "Partikum Ice Palace",
+    "Verkhnyaya Pyshma": "Alexei Kozitsyn Ice Arena",
+    "Voronezh": "LDS Jubileiny",
+    "Voskresensk": "Podmoskovie Ice Palace",
 }

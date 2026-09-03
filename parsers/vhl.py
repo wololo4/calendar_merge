@@ -1,18 +1,19 @@
 from bs4 import BeautifulSoup
 from icalendar import Calendar
-from datetime import datetime, timedelta
-from parsers.common import parse_iso_datetime_duration, build_description, uid
+from datetime import datetime, timedelta, timezone
+from parsers.common import build_description, uid
 from utils.ics import ICSEventBuilder
-from dict.vhl_dict import VHL_TEAMS
+from dict.vhl_dict import VHL_TEAMS, VHL_ARENAS
+
+MSK_TZ = timezone(timedelta(hours=3))
 
 def normalize_vhl(name):
     key = name.lower().strip()
-    # Debug print intégré
-    if key in VHL_TEAMS:
-        return VHL_TEAMS[key]["name"]
-    else:
-        print(f"[WARN] No mapping for '{name}' (key='{key}')")
-        return name
+    mapping = VHL_TEAMS.get(key)
+    if mapping:
+        return mapping["name"]
+    print(f"[WARN] No mapping for '{name}' (key='{key}')")
+    return name
 
 def parse_vhl_html(html, team_name, season_id):
     soup = BeautifulSoup(html, "html.parser")
@@ -39,15 +40,13 @@ def parse_vhl_html(html, team_name, season_id):
         # Convert date (ex: "14 March")
         try:
             dt_date = datetime.strptime(f"{day_num} {month_name} {year}", "%d %B %Y")
-            dtstart = dt_date.replace(hour=0, minute=0)
-            end_dt = dtstart + timedelta(hours=2, minutes=30)
         except:
             continue
                 
         for match in matches:
             home_raw = match.select(".calendar-page__match-team--home .calendar-page__match-team-name")[0].text.strip()
             away_raw = match.select(".calendar-page__match-team--guest .calendar-page__match-team-name")[0].text.strip()
-
+            
             home = normalize_vhl(home_raw)
             away = normalize_vhl(away_raw)
 
@@ -59,6 +58,24 @@ def parse_vhl_html(html, team_name, season_id):
             ):
                 continue
 
+            time_tag = match.select_one(".calendar-page__match-date-time")
+            if not time_tag:
+                continue
+            time_text = time_tag.text.strip()
+            if not time_text or ":" not in time_text:
+                continue
+            try:
+                hour_str, minute_str = time_text.split(":")
+                hour = int(hour_str)
+                minute = int(minute_str)
+            except ValueError:
+                print(f"WARNING Cannot parse time {time_text}")
+            msk = timezone(timedelta(hours=3))
+            dtstart_msk = dt_date.replace(hour=hour, minute=minute, tzinfo=msk)
+            end_dt_msk = dtstart_msk + timedelta(hours=2, minutes=30)
+            dtstart = dtstart_msk.astimezone(timezone.utc)
+            end_dt = end_dt_msk.astimezone(timezone.utc)
+
             link = match.select_one(".calendar-page__match-detail-link")
             game_id = None
 
@@ -66,9 +83,17 @@ def parse_vhl_html(html, team_name, season_id):
                 href = link["href"]
                 game_id = href.split("/")[-1].split(".html")[0]
 
-            game_center = f"https://www.vhlru.ru/en/report/{season_id}/?idgame={game_id}"
-            home_key = home_raw.lower().strip()
-            arena = VHL_TEAMS.get(home_key, {}).get("arena")
+            game_center = f"https://online.vhlru.ru/online/{game_id}"
+            city = match.select_one(".calendar-page__match-city").text.strip()
+            team_key = home_raw.lower().strip()
+            if city in ("Moscow", "Saint Petersburg"):
+                arena = VHL_TEAMS.get(team_key, {}).get("arena")
+                if not arena:
+                    print(f"WARNING No arena for team {home_raw} in {city}")
+            else:
+                arena = VHL_ARENAS.get(city)
+                if arena is None:
+                    print(f"WARNING no known arena for {city}")
 
             description = build_description([
                 f"Game Center: {game_center}"
