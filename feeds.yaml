@@ -17,7 +17,6 @@ BCHL:
     teams:
       - name: Victoria Grizzlies
         team_id: 18
-
 CHL:
     parser: chl_europe
     url: 
@@ -58,12 +57,12 @@ KHL:
     parser: khl
     base_url: https://khl.api.webcaster.pro/api/khl_mobile/events_v2.json
     teams:
-      - name: Salavat Yulaev Ufa
-        team_id: 32
       - name: Torpedo Nizhny Novgorod
         team_id: 22
       - name: Amur Khabarovsk
         team_id: 12
+      - name: Salavat Yulaev Ufa
+        team_id: 32
 LHJAAAQ:
     parser: publicationsports
     base_url: "https://www.lhjaaaq.com/fr/stats/horaire.html?"
@@ -95,6 +94,12 @@ Liiga:
     teams:
       - name: TPS Turku
         team_id: 651304385:tps
+NCAA_AHA:
+    parser: ncaa_conf
+    base_url: 
+        https://atlantichockeyamerica.com/services/responsive-calendar.ashx?sport_id=2&school_id=0
+    teams: []
+
 NCAA_BIG10:
     parser: ncaa_b10
     base_url: 
@@ -132,10 +137,10 @@ NCAA_NCHC:
     base_url: 
         https://nchchockey.com/services/responsive-calendar.ashx?sport_id=0&school_id=0
     teams:
-      - name: Denver Pioneers
+      - name: St. Cloud State Huskies
       - name: Miami RedHawks
       - name: Western Michigan Broncos
-      - name: St. Cloud State Huskies
+      - name: Denver Pioneers
 NHL:
     parser: nhl
     teams:
@@ -153,10 +158,10 @@ OHL:
     base_url: 
         https://cluster.leaguestat.com/feed/index.php?feed=modulekit&view=schedule&client_code=ohl&key=2976319eb44abe94
     teams:
-      - name: Brantford Bulldogs
-        team_id: 1
       - name: Owen Sound Attack
         team_id: 11
+      - name: Brantford Bulldogs
+        team_id: 1
       - name: Kitchener Rangers
         team_id: 10
 SHL:
@@ -189,9 +194,9 @@ WHL:
     base_url: 
         https://cluster.leaguestat.com/feed/index.php?feed=modulekit&view=schedule&client_code=whl&key=41b145a848f4bd67
     teams:
+      - name: Regina Pats
+        team_id: 212
       - name: Penticton Vees
         team_id: 277
       - name: Saskatoon Blades
         team_id: 213
-      - name: Regina Pats
-        team_id: 212
