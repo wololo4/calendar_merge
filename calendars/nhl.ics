@@ -11,7 +11,9 @@ UID:nhl2026010006
 DESCRIPTION:Pre-Season Game\nTV (Canada): TDB (Canadian broadcast not yet 
  announced)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-tor/2026/09
  /19/2026010006\nTickets: https://www.ticketmaster.ca/event/100064EDD6F5121
- D
+ D?brand=torontomapleleafs&artistid=806033&wt.mc_id=NHL_TEAM_TOR_SCHEDULE_P
+ R1&utm_source=NHL.com&utm_medium=client_PM&utm_campaign=NHL_TEAM_TOR&utm_c
+ ontent=SCHEDULE_PR1
 LOCATION:Scotiabank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -68,7 +70,9 @@ DTEND:20260930T013000
 UID:nhl2026020002
 DESCRIPTION:Regular Season Game\nTV (Canada): SN (Anglais)\nGame Center: h
  ttps://www.nhl.com/gamecenter/mtl-vs-tor/2026/09/29/2026020002\nTickets: h
- ttps://www.nhl.com/mapleleafs/tickets/
+ ttps://www.ticketmaster.ca/event/100064FECCC2F770?brand=torontomapleleafs&
+ artistid=806033&wt.mc_id=NHL_TEAM_TOR_SCHEDULE_GM1&utm_source=NHL.com&utm_
+ medium=client_PM&utm_campaign=NHL_TEAM_TOR&utm_content=SCHEDULE_GM1
 LOCATION:Scotiabank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -267,7 +271,10 @@ DTEND:20261108T023000
 UID:nhl2026020268
 DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
  yet announced)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-tor/202
- 6/11/07/2026020268\nTickets: https://www.nhl.com/mapleleafs/tickets/
+ 6/11/07/2026020268\nTickets: https://www.ticketmaster.ca/event/100064FECCF
+ 1F826?brand=torontomapleleafs&artistid=806033&wt.mc_id=NHL_TEAM_TOR_SCHEDU
+ LE_GM10&utm_source=NHL.com&utm_medium=client_PM&utm_campaign=NHL_TEAM_TOR&
+ utm_content=SCHEDULE_GM10
 LOCATION:Scotiabank Arena
 END:VEVENT
 BEGIN:VEVENT

@@ -4,6 +4,546 @@ PRODID:-//Hockey Calendar//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Brandon Wheat Kings
+DTSTART:20260919T000000
+DTEND:20260919T023000
+UID:whl1023081
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023081\nStreaming:
+  Victory+
+LOCATION:Assiniboine Credit Union Place
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Moose Jaw Warriors
+DTSTART:20260920T000000
+DTEND:20260920T023000
+UID:whl1023089
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023089\nStreaming:
+  Victory+
+LOCATION:Temple Gardens Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Prince Albert Raiders
+DTSTART:20260926T010000
+DTEND:20260926T033000
+UID:whl1023102
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023102\nStreaming:
+  Victory+
+LOCATION:Art Hauser Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Prince Albert Raiders @ Saskatoon Blades
+DTSTART:20260927T010000
+DTEND:20260927T033000
+UID:whl1023109
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023109\nStreaming:
+  Victory+
+LOCATION:SaskTel Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Red Deer Rebels @ Saskatoon Blades
+DTSTART:20261003T010000
+DTEND:20261003T033000
+UID:whl1023124
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023124\nStreaming:
+  Victory+
+LOCATION:SaskTel Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Moose Jaw Warriors @ Saskatoon Blades
+DTSTART:20261010T010000
+DTEND:20261010T033000
+UID:whl1023149
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023149\nStreaming:
+  Victory+
+LOCATION:SaskTel Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Swift Current Broncos
+DTSTART:20261017T010000
+DTEND:20261017T033000
+UID:whl1023176
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023176\nStreaming:
+  Victory+
+LOCATION:InnovationPlex
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Moose Jaw Warriors @ Saskatoon Blades
+DTSTART:20261018T010000
+DTEND:20261018T033000
+UID:whl1023184
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023184\nStreaming:
+  Victory+
+LOCATION:SaskTel Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Everett Silvertips @ Saskatoon Blades
+DTSTART:20261022T003000
+DTEND:20261022T030000
+UID:whl1023198
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023198\nStreaming:
+  Victory+
+LOCATION:SaskTel Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Edmonton Oil Kings
+DTSTART:20261024T010000
+DTEND:20261024T033000
+UID:whl1023201
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023201\nStreaming:
+  Victory+
+LOCATION:Rogers Place
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Calgary Hitmen
+DTSTART:20261025T220000
+DTEND:20261026T003000
+UID:whl1023218
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023218\nStreaming:
+  Victory+
+LOCATION:Scotiabank Saddledome
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Red Deer Rebels
+DTSTART:20261028T010000
+DTEND:20261028T033000
+UID:whl1023222
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023222\nStreaming:
+  Victory+
+LOCATION:Marchant Crane Centrium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Seattle Thunderbirds @ Saskatoon Blades
+DTSTART:20261031T200000
+DTEND:20261031T223000
+UID:whl1023240
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023240\nStreaming:
+  Victory+
+LOCATION:SaskTel Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Calgary Hitmen @ Saskatoon Blades
+DTSTART:20261107T010000
+DTEND:20261107T033000
+UID:whl1023260
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023260\nStreaming:
+  Victory+
+LOCATION:SaskTel Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Brandon Wheat Kings
+DTSTART:20261108T000000
+DTEND:20261108T023000
+UID:whl1023263
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023263\nStreaming:
+  Victory+
+LOCATION:Assiniboine Credit Union Place
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Edmonton Oil Kings @ Saskatoon Blades
+DTSTART:20261115T010000
+DTEND:20261115T033000
+UID:whl1023300
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023300\nStreaming:
+  Victory+
+LOCATION:SaskTel Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Portland Winterhawks @ Saskatoon Blades
+DTSTART:20261118T010000
+DTEND:20261118T033000
+UID:whl1023308
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023308\nStreaming:
+  Victory+
+LOCATION:SaskTel Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Wenatchee Wild @ Saskatoon Blades
+DTSTART:20261121T010000
+DTEND:20261121T033000
+UID:whl1023321
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023321\nStreaming:
+  Victory+
+LOCATION:SaskTel Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Medicine Hat Tigers @ Saskatoon Blades
+DTSTART:20261122T220000
+DTEND:20261123T003000
+UID:whl1023334
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023334\nStreaming:
+  Victory+
+LOCATION:SaskTel Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Edmonton Oil Kings
+DTSTART:20261126T010000
+DTEND:20261126T033000
+UID:whl1023338
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023338\nStreaming:
+  Victory+
+LOCATION:Rogers Place
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Lethbridge Hurricanes
+DTSTART:20261128T010000
+DTEND:20261128T033000
+UID:whl1023347
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023347\nStreaming:
+  Victory+
+LOCATION:VisitLethbridge.com Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Medicine Hat Tigers
+DTSTART:20261129T010000
+DTEND:20261129T033000
+UID:whl1023356
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023356\nStreaming:
+  Victory+
+LOCATION:Co-op Place
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Brandon Wheat Kings
+DTSTART:20261205T010000
+DTEND:20261205T033000
+UID:whl1023369
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023369\nStreaming:
+  Victory+
+LOCATION:Assiniboine Credit Union Place
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Lethbridge Hurricanes @ Saskatoon Blades
+DTSTART:20261209T010000
+DTEND:20261209T033000
+UID:whl1023398
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023398\nStreaming:
+  Victory+
+LOCATION:SaskTel Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Red Deer Rebels @ Saskatoon Blades
+DTSTART:20261213T010000
+DTEND:20261213T033000
+UID:whl1023418
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023418\nStreaming:
+  Victory+
+LOCATION:SaskTel Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Swift Current Broncos @ Saskatoon Blades
+DTSTART:20261216T010000
+DTEND:20261216T033000
+UID:whl1023428
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023428\nStreaming:
+  Victory+
+LOCATION:SaskTel Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Brandon Wheat Kings @ Saskatoon Blades
+DTSTART:20261219T010000
+DTEND:20261219T033000
+UID:whl1023445
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023445\nStreaming:
+  Victory+
+LOCATION:SaskTel Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Prince Albert Raiders @ Saskatoon Blades
+DTSTART:20261227T220000
+DTEND:20261228T003000
+UID:whl1023459
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023459\nStreaming:
+  Victory+
+LOCATION:SaskTel Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Prince Albert Raiders
+DTSTART:20261230T010000
+DTEND:20261230T033000
+UID:whl1023467
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023467\nStreaming:
+  Victory+
+LOCATION:Art Hauser Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Swift Current Broncos @ Saskatoon Blades
+DTSTART:20270101T220000
+DTEND:20270102T003000
+UID:whl1023487
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023487\nStreaming:
+  Victory+
+LOCATION:SaskTel Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Swift Current Broncos
+DTSTART:20270103T000000
+DTEND:20270103T023000
+UID:whl1023494
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023494\nStreaming:
+  Victory+
+LOCATION:InnovationPlex
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Tri-City Americans @ Saskatoon Blades
+DTSTART:20270109T010000
+DTEND:20270109T033000
+UID:whl1023509
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023509\nStreaming:
+  Victory+
+LOCATION:SaskTel Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Prince Albert Raiders
+DTSTART:20270110T010000
+DTEND:20270110T033000
+UID:whl1023518
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023518\nStreaming:
+  Victory+
+LOCATION:Art Hauser Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Red Deer Rebels
+DTSTART:20270113T010000
+DTEND:20270113T033000
+UID:whl1023528
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023528\nStreaming:
+  Victory+
+LOCATION:Marchant Crane Centrium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Calgary Hitmen
+DTSTART:20270114T010000
+DTEND:20270114T033000
+UID:whl1023529
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023529\nStreaming:
+  Victory+
+LOCATION:Scotiabank Saddledome
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Spokane Chiefs @ Saskatoon Blades
+DTSTART:20270116T010000
+DTEND:20270116T033000
+UID:whl1023541
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023541\nStreaming:
+  Victory+
+LOCATION:SaskTel Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Brandon Wheat Kings @ Saskatoon Blades
+DTSTART:20270117T220000
+DTEND:20270118T003000
+UID:whl1023554
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023554\nStreaming:
+  Victory+
+LOCATION:SaskTel Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Edmonton Oil Kings @ Saskatoon Blades
+DTSTART:20270121T003000
+DTEND:20270121T030000
+UID:whl1023561
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023561\nStreaming:
+  Victory+
+LOCATION:SaskTel Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Medicine Hat Tigers @ Saskatoon Blades
+DTSTART:20270123T010000
+DTEND:20270123T033000
+UID:whl1023565
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023565\nStreaming:
+  Victory+
+LOCATION:SaskTel Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Prince Albert Raiders @ Saskatoon Blades
+DTSTART:20270124T220000
+DTEND:20270125T003000
+UID:whl1023583
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023583\nStreaming:
+  Victory+
+LOCATION:SaskTel Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Moose Jaw Warriors
+DTSTART:20270131T000000
+DTEND:20270131T023000
+UID:whl1023604
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023604\nStreaming:
+  Victory+
+LOCATION:Temple Gardens Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Lethbridge Hurricanes @ Saskatoon Blades
+DTSTART:20270131T220000
+DTEND:20270201T003000
+UID:whl1023613
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023613\nStreaming:
+  Victory+
+LOCATION:SaskTel Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Brandon Wheat Kings @ Saskatoon Blades
+DTSTART:20270206T010000
+DTEND:20270206T033000
+UID:whl1023626
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023626\nStreaming:
+  Victory+
+LOCATION:SaskTel Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Brandon Wheat Kings
+DTSTART:20270207T000000
+DTEND:20270207T023000
+UID:whl1023629
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023629\nStreaming:
+  Victory+
+LOCATION:Assiniboine Credit Union Place
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Swift Current Broncos @ Saskatoon Blades
+DTSTART:20270211T003000
+DTEND:20270211T030000
+UID:whl1023648
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023648\nStreaming:
+  Victory+
+LOCATION:SaskTel Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Lethbridge Hurricanes
+DTSTART:20270213T010000
+DTEND:20270213T033000
+UID:whl1023651
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023651\nStreaming:
+  Victory+
+LOCATION:VisitLethbridge.com Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Medicine Hat Tigers
+DTSTART:20270214T010000
+DTEND:20270214T033000
+UID:whl1023663
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023663\nStreaming:
+  Victory+
+LOCATION:Co-op Place
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Swift Current Broncos
+DTSTART:20270215T220000
+DTEND:20270216T003000
+UID:whl1023678
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023678\nStreaming:
+  Victory+
+LOCATION:InnovationPlex
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Calgary Hitmen @ Saskatoon Blades
+DTSTART:20270220T010000
+DTEND:20270220T033000
+UID:whl1023687
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023687\nStreaming:
+  Victory+
+LOCATION:SaskTel Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Vancouver Giants
+DTSTART:20270225T020000
+DTEND:20270225T043000
+UID:whl1023713
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023713\nStreaming:
+  Victory+
+LOCATION:Langley Events Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Victoria Royals
+DTSTART:20270227T020500
+DTEND:20270227T043500
+UID:whl1023723
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023723\nStreaming:
+  Victory+
+LOCATION:Save-On-Foods Memorial Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Kelowna Rockets
+DTSTART:20270303T020500
+DTEND:20270303T043500
+UID:whl1023740
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023740\nStreaming:
+  Victory+
+LOCATION:Prospera Place
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Kamloops Blazers
+DTSTART:20270304T020000
+DTEND:20270304T043000
+UID:whl1023744
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023744\nStreaming:
+  Victory+
+LOCATION:Sandman Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Prince George Cougars
+DTSTART:20270306T020000
+DTEND:20270306T043000
+UID:whl1023752
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023752\nStreaming:
+  Victory+
+LOCATION:CN Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Moose Jaw Warriors @ Saskatoon Blades
+DTSTART:20270313T010000
+DTEND:20270313T033000
+UID:whl1023780
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023780\nStreaming:
+  Victory+
+LOCATION:SaskTel Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Swift Current Broncos @ Saskatoon Blades
+DTSTART:20270314T010000
+DTEND:20270314T033000
+UID:whl1023792
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023792\nStreaming:
+  Victory+
+LOCATION:SaskTel Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Swift Current Broncos
+DTSTART:20270321T000000
+DTEND:20270321T023000
+UID:whl1023826
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023826\nStreaming:
+  Victory+
+LOCATION:InnovationPlex
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Moose Jaw Warriors
+DTSTART:20270324T010000
+DTEND:20270324T033000
+UID:whl1023833
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023833\nStreaming:
+  Victory+
+LOCATION:Temple Gardens Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Prince Albert Raiders
+DTSTART:20270327T010000
+DTEND:20270327T033000
+UID:whl1023846
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023846\nStreaming:
+  Victory+
+LOCATION:Art Hauser Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Prince Albert Raiders @ Saskatoon Blades
+DTSTART:20270328T010000
+DTEND:20270328T033000
+UID:whl1023854
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023854\nStreaming:
+  Victory+
+LOCATION:SaskTel Centre
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Regina Pats @ Prince Albert Raiders
 DTSTART:20260919T010000
 DTEND:20260919T033000
@@ -56,6 +596,15 @@ UID:whl1023148
 DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023148\nStreaming:
   Victory+
 LOCATION:Brandt Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Regina Pats @ Saskatoon Blades
+DTSTART:20261011T010000
+DTEND:20261011T033000
+UID:whl1023156
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023156\nStreaming:
+  Victory+
+LOCATION:SaskTel Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Medicine Hat Tigers @ Regina Pats
@@ -130,6 +679,15 @@ DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023259\nStreaming:
 LOCATION:Brandt Centre
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Regina Pats @ Saskatoon Blades
+DTSTART:20261111T010000
+DTEND:20261111T033000
+UID:whl1023278
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023278\nStreaming:
+  Victory+
+LOCATION:SaskTel Centre
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Portland Winterhawks @ Regina Pats
 DTSTART:20261114T010000
 DTEND:20261114T033000
@@ -202,11 +760,38 @@ DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023375\nStreaming:
 LOCATION:Brandt Centre
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Regina Pats
+DTSTART:20261206T000000
+DTEND:20261206T023000
+UID:whl1023386
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023386\nStreaming:
+  Victory+
+LOCATION:Brandt Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Regina Pats @ Saskatoon Blades
+DTSTART:20261206T220000
+DTEND:20261207T003000
+UID:whl1023392
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023392\nStreaming:
+  Victory+
+LOCATION:SaskTel Centre
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Red Deer Rebels @ Regina Pats
 DTSTART:20261209T010000
 DTEND:20261209T033000
 UID:whl1023397
 DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023397\nStreaming:
+  Victory+
+LOCATION:Brandt Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Regina Pats
+DTSTART:20261212T010000
+DTEND:20261212T033000
+UID:whl1023410
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023410\nStreaming:
   Victory+
 LOCATION:Brandt Centre
 END:VEVENT
@@ -506,6 +1091,24 @@ UID:whl1023796
 DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023796\nStreaming:
   Victory+
 LOCATION:Brandt Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Regina Pats
+DTSTART:20270318T010000
+DTEND:20270318T033000
+UID:whl1023806
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023806\nStreaming:
+  Victory+
+LOCATION:Brandt Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Regina Pats @ Saskatoon Blades
+DTSTART:20270320T010000
+DTEND:20270320T033000
+UID:whl1023815
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023815\nStreaming:
+  Victory+
+LOCATION:SaskTel Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Prince Albert Raiders @ Regina Pats
@@ -1048,6 +1651,15 @@ DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023727\nStreaming:
 LOCATION:South Okanagan Events Centre
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Penticton Vees
+DTSTART:20270228T230000
+DTEND:20270301T013000
+UID:whl1023736
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023736\nStreaming:
+  Victory+
+LOCATION:South Okanagan Events Centre
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Victoria Royals @ Penticton Vees
 DTSTART:20270306T020500
 DTEND:20270306T043500
@@ -1145,617 +1757,5 @@ UID:whl1023851
 DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023851\nStreaming:
   Victory+
 LOCATION:Prospera Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Brandon Wheat Kings
-DTSTART:20260919T000000
-DTEND:20260919T023000
-UID:whl1023081
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023081\nStreaming:
-  Victory+
-LOCATION:Assiniboine Credit Union Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Moose Jaw Warriors
-DTSTART:20260920T000000
-DTEND:20260920T023000
-UID:whl1023089
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023089\nStreaming:
-  Victory+
-LOCATION:Temple Gardens Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Prince Albert Raiders
-DTSTART:20260926T010000
-DTEND:20260926T033000
-UID:whl1023102
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023102\nStreaming:
-  Victory+
-LOCATION:Art Hauser Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Prince Albert Raiders @ Saskatoon Blades
-DTSTART:20260927T010000
-DTEND:20260927T033000
-UID:whl1023109
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023109\nStreaming:
-  Victory+
-LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Red Deer Rebels @ Saskatoon Blades
-DTSTART:20261003T010000
-DTEND:20261003T033000
-UID:whl1023124
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023124\nStreaming:
-  Victory+
-LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Moose Jaw Warriors @ Saskatoon Blades
-DTSTART:20261010T010000
-DTEND:20261010T033000
-UID:whl1023149
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023149\nStreaming:
-  Victory+
-LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Regina Pats @ Saskatoon Blades
-DTSTART:20261011T010000
-DTEND:20261011T033000
-UID:whl1023156
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023156\nStreaming:
-  Victory+
-LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Swift Current Broncos
-DTSTART:20261017T010000
-DTEND:20261017T033000
-UID:whl1023176
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023176\nStreaming:
-  Victory+
-LOCATION:InnovationPlex
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Moose Jaw Warriors @ Saskatoon Blades
-DTSTART:20261018T010000
-DTEND:20261018T033000
-UID:whl1023184
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023184\nStreaming:
-  Victory+
-LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Everett Silvertips @ Saskatoon Blades
-DTSTART:20261022T003000
-DTEND:20261022T030000
-UID:whl1023198
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023198\nStreaming:
-  Victory+
-LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Edmonton Oil Kings
-DTSTART:20261024T010000
-DTEND:20261024T033000
-UID:whl1023201
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023201\nStreaming:
-  Victory+
-LOCATION:Rogers Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Calgary Hitmen
-DTSTART:20261025T220000
-DTEND:20261026T003000
-UID:whl1023218
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023218\nStreaming:
-  Victory+
-LOCATION:Scotiabank Saddledome
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Red Deer Rebels
-DTSTART:20261028T010000
-DTEND:20261028T033000
-UID:whl1023222
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023222\nStreaming:
-  Victory+
-LOCATION:Marchant Crane Centrium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Seattle Thunderbirds @ Saskatoon Blades
-DTSTART:20261031T200000
-DTEND:20261031T223000
-UID:whl1023240
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023240\nStreaming:
-  Victory+
-LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Calgary Hitmen @ Saskatoon Blades
-DTSTART:20261107T010000
-DTEND:20261107T033000
-UID:whl1023260
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023260\nStreaming:
-  Victory+
-LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Brandon Wheat Kings
-DTSTART:20261108T000000
-DTEND:20261108T023000
-UID:whl1023263
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023263\nStreaming:
-  Victory+
-LOCATION:Assiniboine Credit Union Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Regina Pats @ Saskatoon Blades
-DTSTART:20261111T010000
-DTEND:20261111T033000
-UID:whl1023278
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023278\nStreaming:
-  Victory+
-LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Edmonton Oil Kings @ Saskatoon Blades
-DTSTART:20261115T010000
-DTEND:20261115T033000
-UID:whl1023300
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023300\nStreaming:
-  Victory+
-LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Portland Winterhawks @ Saskatoon Blades
-DTSTART:20261118T010000
-DTEND:20261118T033000
-UID:whl1023308
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023308\nStreaming:
-  Victory+
-LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Wenatchee Wild @ Saskatoon Blades
-DTSTART:20261121T010000
-DTEND:20261121T033000
-UID:whl1023321
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023321\nStreaming:
-  Victory+
-LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Medicine Hat Tigers @ Saskatoon Blades
-DTSTART:20261122T220000
-DTEND:20261123T003000
-UID:whl1023334
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023334\nStreaming:
-  Victory+
-LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Edmonton Oil Kings
-DTSTART:20261126T010000
-DTEND:20261126T033000
-UID:whl1023338
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023338\nStreaming:
-  Victory+
-LOCATION:Rogers Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Lethbridge Hurricanes
-DTSTART:20261128T010000
-DTEND:20261128T033000
-UID:whl1023347
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023347\nStreaming:
-  Victory+
-LOCATION:VisitLethbridge.com Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Medicine Hat Tigers
-DTSTART:20261129T010000
-DTEND:20261129T033000
-UID:whl1023356
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023356\nStreaming:
-  Victory+
-LOCATION:Co-op Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Brandon Wheat Kings
-DTSTART:20261205T010000
-DTEND:20261205T033000
-UID:whl1023369
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023369\nStreaming:
-  Victory+
-LOCATION:Assiniboine Credit Union Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Regina Pats
-DTSTART:20261206T000000
-DTEND:20261206T023000
-UID:whl1023386
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023386\nStreaming:
-  Victory+
-LOCATION:Brandt Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Regina Pats @ Saskatoon Blades
-DTSTART:20261206T220000
-DTEND:20261207T003000
-UID:whl1023392
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023392\nStreaming:
-  Victory+
-LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Lethbridge Hurricanes @ Saskatoon Blades
-DTSTART:20261209T010000
-DTEND:20261209T033000
-UID:whl1023398
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023398\nStreaming:
-  Victory+
-LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Regina Pats
-DTSTART:20261212T010000
-DTEND:20261212T033000
-UID:whl1023410
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023410\nStreaming:
-  Victory+
-LOCATION:Brandt Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Red Deer Rebels @ Saskatoon Blades
-DTSTART:20261213T010000
-DTEND:20261213T033000
-UID:whl1023418
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023418\nStreaming:
-  Victory+
-LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Swift Current Broncos @ Saskatoon Blades
-DTSTART:20261216T010000
-DTEND:20261216T033000
-UID:whl1023428
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023428\nStreaming:
-  Victory+
-LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brandon Wheat Kings @ Saskatoon Blades
-DTSTART:20261219T010000
-DTEND:20261219T033000
-UID:whl1023445
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023445\nStreaming:
-  Victory+
-LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Prince Albert Raiders @ Saskatoon Blades
-DTSTART:20261227T220000
-DTEND:20261228T003000
-UID:whl1023459
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023459\nStreaming:
-  Victory+
-LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Prince Albert Raiders
-DTSTART:20261230T010000
-DTEND:20261230T033000
-UID:whl1023467
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023467\nStreaming:
-  Victory+
-LOCATION:Art Hauser Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Swift Current Broncos @ Saskatoon Blades
-DTSTART:20270101T220000
-DTEND:20270102T003000
-UID:whl1023487
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023487\nStreaming:
-  Victory+
-LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Swift Current Broncos
-DTSTART:20270103T000000
-DTEND:20270103T023000
-UID:whl1023494
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023494\nStreaming:
-  Victory+
-LOCATION:InnovationPlex
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Tri-City Americans @ Saskatoon Blades
-DTSTART:20270109T010000
-DTEND:20270109T033000
-UID:whl1023509
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023509\nStreaming:
-  Victory+
-LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Prince Albert Raiders
-DTSTART:20270110T010000
-DTEND:20270110T033000
-UID:whl1023518
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023518\nStreaming:
-  Victory+
-LOCATION:Art Hauser Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Red Deer Rebels
-DTSTART:20270113T010000
-DTEND:20270113T033000
-UID:whl1023528
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023528\nStreaming:
-  Victory+
-LOCATION:Marchant Crane Centrium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Calgary Hitmen
-DTSTART:20270114T010000
-DTEND:20270114T033000
-UID:whl1023529
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023529\nStreaming:
-  Victory+
-LOCATION:Scotiabank Saddledome
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Spokane Chiefs @ Saskatoon Blades
-DTSTART:20270116T010000
-DTEND:20270116T033000
-UID:whl1023541
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023541\nStreaming:
-  Victory+
-LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brandon Wheat Kings @ Saskatoon Blades
-DTSTART:20270117T220000
-DTEND:20270118T003000
-UID:whl1023554
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023554\nStreaming:
-  Victory+
-LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Edmonton Oil Kings @ Saskatoon Blades
-DTSTART:20270121T003000
-DTEND:20270121T030000
-UID:whl1023561
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023561\nStreaming:
-  Victory+
-LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Medicine Hat Tigers @ Saskatoon Blades
-DTSTART:20270123T010000
-DTEND:20270123T033000
-UID:whl1023565
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023565\nStreaming:
-  Victory+
-LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Prince Albert Raiders @ Saskatoon Blades
-DTSTART:20270124T220000
-DTEND:20270125T003000
-UID:whl1023583
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023583\nStreaming:
-  Victory+
-LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Moose Jaw Warriors
-DTSTART:20270131T000000
-DTEND:20270131T023000
-UID:whl1023604
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023604\nStreaming:
-  Victory+
-LOCATION:Temple Gardens Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Lethbridge Hurricanes @ Saskatoon Blades
-DTSTART:20270131T220000
-DTEND:20270201T003000
-UID:whl1023613
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023613\nStreaming:
-  Victory+
-LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brandon Wheat Kings @ Saskatoon Blades
-DTSTART:20270206T010000
-DTEND:20270206T033000
-UID:whl1023626
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023626\nStreaming:
-  Victory+
-LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Brandon Wheat Kings
-DTSTART:20270207T000000
-DTEND:20270207T023000
-UID:whl1023629
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023629\nStreaming:
-  Victory+
-LOCATION:Assiniboine Credit Union Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Swift Current Broncos @ Saskatoon Blades
-DTSTART:20270211T003000
-DTEND:20270211T030000
-UID:whl1023648
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023648\nStreaming:
-  Victory+
-LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Lethbridge Hurricanes
-DTSTART:20270213T010000
-DTEND:20270213T033000
-UID:whl1023651
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023651\nStreaming:
-  Victory+
-LOCATION:VisitLethbridge.com Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Medicine Hat Tigers
-DTSTART:20270214T010000
-DTEND:20270214T033000
-UID:whl1023663
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023663\nStreaming:
-  Victory+
-LOCATION:Co-op Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Swift Current Broncos
-DTSTART:20270215T220000
-DTEND:20270216T003000
-UID:whl1023678
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023678\nStreaming:
-  Victory+
-LOCATION:InnovationPlex
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Calgary Hitmen @ Saskatoon Blades
-DTSTART:20270220T010000
-DTEND:20270220T033000
-UID:whl1023687
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023687\nStreaming:
-  Victory+
-LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Vancouver Giants
-DTSTART:20270225T020000
-DTEND:20270225T043000
-UID:whl1023713
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023713\nStreaming:
-  Victory+
-LOCATION:Langley Events Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Victoria Royals
-DTSTART:20270227T020500
-DTEND:20270227T043500
-UID:whl1023723
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023723\nStreaming:
-  Victory+
-LOCATION:Save-On-Foods Memorial Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Penticton Vees
-DTSTART:20270228T230000
-DTEND:20270301T013000
-UID:whl1023736
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023736\nStreaming:
-  Victory+
-LOCATION:South Okanagan Events Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Kelowna Rockets
-DTSTART:20270303T020500
-DTEND:20270303T043500
-UID:whl1023740
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023740\nStreaming:
-  Victory+
-LOCATION:Prospera Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Kamloops Blazers
-DTSTART:20270304T020000
-DTEND:20270304T043000
-UID:whl1023744
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023744\nStreaming:
-  Victory+
-LOCATION:Sandman Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Prince George Cougars
-DTSTART:20270306T020000
-DTEND:20270306T043000
-UID:whl1023752
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023752\nStreaming:
-  Victory+
-LOCATION:CN Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Moose Jaw Warriors @ Saskatoon Blades
-DTSTART:20270313T010000
-DTEND:20270313T033000
-UID:whl1023780
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023780\nStreaming:
-  Victory+
-LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Swift Current Broncos @ Saskatoon Blades
-DTSTART:20270314T010000
-DTEND:20270314T033000
-UID:whl1023792
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023792\nStreaming:
-  Victory+
-LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Regina Pats
-DTSTART:20270318T010000
-DTEND:20270318T033000
-UID:whl1023806
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023806\nStreaming:
-  Victory+
-LOCATION:Brandt Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Regina Pats @ Saskatoon Blades
-DTSTART:20270320T010000
-DTEND:20270320T033000
-UID:whl1023815
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023815\nStreaming:
-  Victory+
-LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Swift Current Broncos
-DTSTART:20270321T000000
-DTEND:20270321T023000
-UID:whl1023826
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023826\nStreaming:
-  Victory+
-LOCATION:InnovationPlex
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Moose Jaw Warriors
-DTSTART:20270324T010000
-DTEND:20270324T033000
-UID:whl1023833
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023833\nStreaming:
-  Victory+
-LOCATION:Temple Gardens Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Prince Albert Raiders
-DTSTART:20270327T010000
-DTEND:20270327T033000
-UID:whl1023846
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023846\nStreaming:
-  Victory+
-LOCATION:Art Hauser Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Prince Albert Raiders @ Saskatoon Blades
-DTSTART:20270328T010000
-DTEND:20270328T033000
-UID:whl1023854
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023854\nStreaming:
-  Victory+
-LOCATION:SaskTel Centre
 END:VEVENT
 END:VCALENDAR
