@@ -4,6 +4,531 @@ PRODID:-//Hockey Calendar//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ London Knights
+DTSTART:20260925T230000
+DTEND:20260926T013000
+UID:ohl29016
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29016\nStreaming li
+ nk not yet available
+LOCATION:Canada Life Place
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Guelph Storm @ Owen Sound Attack
+DTSTART:20260926T230000
+DTEND:20260927T013000
+UID:ohl29025
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29025\nStreaming li
+ nk not yet available
+LOCATION:Harry Lumley Bayshore Community Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Windsor Spitfires @ Owen Sound Attack
+DTSTART:20261003T230000
+DTEND:20261004T013000
+UID:ohl29049
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29049\nStreaming li
+ nk not yet available
+LOCATION:Harry Lumley Bayshore Community Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ Guelph Storm
+DTSTART:20261009T230700
+DTEND:20261010T013700
+UID:ohl29060
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29060\nStreaming li
+ nk not yet available
+LOCATION:Sleeman Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Guelph Storm @ Owen Sound Attack
+DTSTART:20261010T230000
+DTEND:20261011T013000
+UID:ohl29069
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29069\nStreaming li
+ nk not yet available
+LOCATION:Harry Lumley Bayshore Community Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ Windsor Spitfires
+DTSTART:20261016T230500
+DTEND:20261017T013500
+UID:ohl29090
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29090\nStreaming li
+ nk not yet available
+LOCATION:WFCU Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ Flint Firebirds
+DTSTART:20261017T230000
+DTEND:20261018T013000
+UID:ohl29093
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29093\nStreaming li
+ nk not yet available
+LOCATION:Dort Financial Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ Saginaw Spirit
+DTSTART:20261018T213000
+DTEND:20261019T000000
+UID:ohl29101
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29101\nStreaming li
+ nk not yet available
+LOCATION:Dow Event Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ Barrie Colts
+DTSTART:20261022T230000
+DTEND:20261023T013000
+UID:ohl29103
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29103\nStreaming li
+ nk not yet available
+LOCATION:Sadlon Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | London Knights @ Owen Sound Attack
+DTSTART:20261024T230000
+DTEND:20261025T013000
+UID:ohl29119
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29119\nStreaming li
+ nk not yet available
+LOCATION:Harry Lumley Bayshore Community Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Barrie Colts @ Owen Sound Attack
+DTSTART:20261025T180000
+DTEND:20261025T203000
+UID:ohl29126
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29126\nStreaming li
+ nk not yet available
+LOCATION:Harry Lumley Bayshore Community Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Sarnia Sting @ Owen Sound Attack
+DTSTART:20261028T143000
+DTEND:20261028T170000
+UID:ohl29128
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29128\nStreaming li
+ nk not yet available
+LOCATION:Harry Lumley Bayshore Community Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Windsor Spitfires @ Owen Sound Attack
+DTSTART:20261031T180000
+DTEND:20261031T203000
+UID:ohl29143
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29143\nStreaming li
+ nk not yet available
+LOCATION:Harry Lumley Bayshore Community Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ Sarnia Sting
+DTSTART:20261105T000500
+DTEND:20261105T023500
+UID:ohl29156
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29156\nStreaming li
+ nk not yet available
+LOCATION:Progressive Auto Sales Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ Guelph Storm
+DTSTART:20261107T000700
+DTEND:20261107T023700
+UID:ohl29161
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29161\nStreaming li
+ nk not yet available
+LOCATION:Sleeman Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Barrie Colts @ Owen Sound Attack
+DTSTART:20261112T000000
+DTEND:20261112T023000
+UID:ohl29181
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29181\nStreaming li
+ nk not yet available
+LOCATION:Harry Lumley Bayshore Community Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Guelph Storm @ Owen Sound Attack
+DTSTART:20261115T000000
+DTEND:20261115T023000
+UID:ohl29198
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29198\nStreaming li
+ nk not yet available
+LOCATION:Harry Lumley Bayshore Community Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Bay Battalion @ Owen Sound Attack
+DTSTART:20261119T000000
+DTEND:20261119T023000
+UID:ohl29208
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29208\nStreaming li
+ nk not yet available
+LOCATION:Harry Lumley Bayshore Community Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ Niagara IceDogs
+DTSTART:20261121T000000
+DTEND:20261121T023000
+UID:ohl29220
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29220\nStreaming li
+ nk not yet available
+LOCATION:Meridian Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ Erie Otters
+DTSTART:20261121T230000
+DTEND:20261122T013000
+UID:ohl29225
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29225\nStreaming li
+ nk not yet available
+LOCATION:Erie Insurance Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Ottawa 67's @ Owen Sound Attack
+DTSTART:20261129T000000
+DTEND:20261129T023000
+UID:ohl29255
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29255\nStreaming li
+ nk not yet available
+LOCATION:Harry Lumley Bayshore Community Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kingston Frontenacs @ Owen Sound Attack
+DTSTART:20261129T200000
+DTEND:20261129T223000
+UID:ohl29260
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29260\nStreaming li
+ nk not yet available
+LOCATION:Harry Lumley Bayshore Community Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Niagara IceDogs @ Owen Sound Attack
+DTSTART:20261206T000000
+DTEND:20261206T023000
+UID:ohl29276
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29276\nStreaming li
+ nk not yet available
+LOCATION:Harry Lumley Bayshore Community Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ Barrie Colts
+DTSTART:20261211T000000
+DTEND:20261211T023000
+UID:ohl29290
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29290\nStreaming li
+ nk not yet available
+LOCATION:Sadlon Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ Sudbury Wolves
+DTSTART:20261212T000500
+DTEND:20261212T023500
+UID:ohl29302
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29302\nStreaming: h
+ ttps://www.flohockey.tv/events/16027862-2026-owen-sound-attack-vs-sudbury-
+ wolves
+LOCATION:Sudbury Community Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ Soo Greyhounds
+DTSTART:20261213T190700
+DTEND:20261213T213700
+UID:ohl29312
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29312\nStreaming: h
+ ttps://www.flohockey.tv/events/16027246-2026-owen-sound-attack-vs-soo-grey
+ hounds
+LOCATION:GFL Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Flint Firebirds @ Owen Sound Attack
+DTSTART:20261217T000000
+DTEND:20261217T023000
+UID:ohl29314
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29314\nStreaming li
+ nk not yet available
+LOCATION:Harry Lumley Bayshore Community Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Sudbury Wolves @ Owen Sound Attack
+DTSTART:20261220T000000
+DTEND:20261220T023000
+UID:ohl29333
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29333\nStreaming li
+ nk not yet available
+LOCATION:Harry Lumley Bayshore Community Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Barrie Colts @ Owen Sound Attack
+DTSTART:20261229T000000
+DTEND:20261229T023000
+UID:ohl29340
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29340\nStreaming li
+ nk not yet available
+LOCATION:Harry Lumley Bayshore Community Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ Barrie Colts
+DTSTART:20270101T003000
+DTEND:20270101T030000
+UID:ohl29348
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29348\nStreaming li
+ nk not yet available
+LOCATION:Sadlon Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Erie Otters @ Owen Sound Attack
+DTSTART:20270103T000000
+DTEND:20270103T023000
+UID:ohl29362
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29362\nStreaming li
+ nk not yet available
+LOCATION:Harry Lumley Bayshore Community Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Erie Otters @ Owen Sound Attack
+DTSTART:20270103T190000
+DTEND:20270103T213000
+UID:ohl29371
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29371\nStreaming li
+ nk not yet available
+LOCATION:Harry Lumley Bayshore Community Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ Guelph Storm
+DTSTART:20270109T000700
+DTEND:20270109T023700
+UID:ohl29381
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29381\nStreaming li
+ nk not yet available
+LOCATION:Sleeman Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Guelph Storm @ Owen Sound Attack
+DTSTART:20270110T000000
+DTEND:20270110T023000
+UID:ohl29390
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29390\nStreaming li
+ nk not yet available
+LOCATION:Harry Lumley Bayshore Community Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ Oshawa Generals
+DTSTART:20270110T230500
+DTEND:20270111T013500
+UID:ohl29396
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29396\nStreaming li
+ nk not yet available
+LOCATION:Tribute Communities Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ North Bay Battalion
+DTSTART:20270117T190000
+DTEND:20270117T213000
+UID:ohl29423
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29423\nStreaming li
+ nk not yet available
+LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saginaw Spirit @ Owen Sound Attack
+DTSTART:20270124T000000
+DTEND:20270124T023000
+UID:ohl29442
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29442\nStreaming li
+ nk not yet available
+LOCATION:Harry Lumley Bayshore Community Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | London Knights @ Owen Sound Attack
+DTSTART:20270131T000000
+DTEND:20270131T023000
+UID:ohl29468
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29468\nStreaming li
+ nk not yet available
+LOCATION:Harry Lumley Bayshore Community Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Sarnia Sting @ Owen Sound Attack
+DTSTART:20270204T000000
+DTEND:20270204T023000
+UID:ohl29478
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29478\nStreaming li
+ nk not yet available
+LOCATION:Harry Lumley Bayshore Community Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ Erie Otters
+DTSTART:20270206T230000
+DTEND:20270207T013000
+UID:ohl29493
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29493\nStreaming li
+ nk not yet available
+LOCATION:Erie Insurance Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ Erie Otters
+DTSTART:20270207T210000
+DTEND:20270207T233000
+UID:ohl29497
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29497\nStreaming li
+ nk not yet available
+LOCATION:Erie Insurance Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Brampton Steelheads @ Owen Sound Attack
+DTSTART:20270211T000000
+DTEND:20270211T023000
+UID:ohl29505
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29505\nStreaming li
+ nk not yet available
+LOCATION:Harry Lumley Bayshore Community Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ Brampton Steelheads
+DTSTART:20270213T000000
+DTEND:20270213T023000
+UID:ohl29509
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29509\nStreaming li
+ nk not yet available
+LOCATION:CAA Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Soo Greyhounds @ Owen Sound Attack
+DTSTART:20270214T000000
+DTEND:20270214T023000
+UID:ohl29523
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29523\nStreaming li
+ nk not yet available
+LOCATION:Harry Lumley Bayshore Community Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ London Knights
+DTSTART:20270215T210000
+DTEND:20270215T233000
+UID:ohl29530
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29530\nStreaming li
+ nk not yet available
+LOCATION:Canada Life Place
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ Peterborough Petes
+DTSTART:20270219T000500
+DTEND:20270219T023500
+UID:ohl29538
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29538\nStreaming li
+ nk not yet available
+LOCATION:Peterborough Memorial Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ Kingston Frontenacs
+DTSTART:20270220T000500
+DTEND:20270220T023500
+UID:ohl29543
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29543\nStreaming li
+ nk not yet available
+LOCATION:Slush Puppie Place
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ Ottawa 67's
+DTSTART:20270221T200000
+DTEND:20270221T223000
+UID:ohl29559
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29559\nStreaming: h
+ ttps://www.flohockey.tv/events/16027324-2027-owen-sound-attack-vs-ottawa-6
+ 7s
+LOCATION:TD Place
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Erie Otters @ Owen Sound Attack
+DTSTART:20270225T000000
+DTEND:20270225T023000
+UID:ohl29564
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29564\nStreaming li
+ nk not yet available
+LOCATION:Harry Lumley Bayshore Community Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ London Knights
+DTSTART:20270227T000000
+DTEND:20270227T023000
+UID:ohl29573
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29573\nStreaming li
+ nk not yet available
+LOCATION:Canada Life Place
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Flint Firebirds @ Owen Sound Attack
+DTSTART:20270304T000000
+DTEND:20270304T023000
+UID:ohl29593
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29593\nStreaming li
+ nk not yet available
+LOCATION:Harry Lumley Bayshore Community Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ Sarnia Sting
+DTSTART:20270306T000500
+DTEND:20270306T023500
+UID:ohl29603
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29603\nStreaming li
+ nk not yet available
+LOCATION:Progressive Auto Sales Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Oshawa Generals @ Owen Sound Attack
+DTSTART:20270307T000000
+DTEND:20270307T023000
+UID:ohl29609
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29609\nStreaming li
+ nk not yet available
+LOCATION:Harry Lumley Bayshore Community Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ Flint Firebirds
+DTSTART:20270311T000000
+DTEND:20270311T023000
+UID:ohl29621
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29621\nStreaming li
+ nk not yet available
+LOCATION:Dort Financial Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ Windsor Spitfires
+DTSTART:20270312T000500
+DTEND:20270312T023500
+UID:ohl29626
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29626\nStreaming li
+ nk not yet available
+LOCATION:WFCU Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Peterborough Petes @ Owen Sound Attack
+DTSTART:20270314T000000
+DTEND:20270314T023000
+UID:ohl29639
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29639\nStreaming li
+ nk not yet available
+LOCATION:Harry Lumley Bayshore Community Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | London Knights @ Owen Sound Attack
+DTSTART:20270317T230000
+DTEND:20270318T013000
+UID:ohl29653
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29653\nStreaming li
+ nk not yet available
+LOCATION:Harry Lumley Bayshore Community Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ Guelph Storm
+DTSTART:20270319T230700
+DTEND:20270320T013700
+UID:ohl29658
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29658\nStreaming li
+ nk not yet available
+LOCATION:Sleeman Centre
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Niagara IceDogs @ Brantford Bulldogs
 DTSTART:20260918T230000
 DTEND:20260919T013000
@@ -71,6 +596,15 @@ DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29046\nStreaming: h
  ttps://www.flohockey.tv/events/16027616-2026-north-bay-battalion-vs-brantf
  ord-bulldogs
 LOCATION:TD Civic Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Brantford Bulldogs @ Owen Sound Attack
+DTSTART:20261004T180000
+DTEND:20261004T203000
+UID:ohl29054
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29054\nStreaming li
+ nk not yet available
+LOCATION:Harry Lumley Bayshore Community Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Kingston Frontenacs @ Brantford Bulldogs
@@ -232,6 +766,16 @@ UID:ohl29235
 DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29235\nStreaming: h
  ttps://www.flohockey.tv/events/16027626-2026-sudbury-wolves-vs-brantford-b
  ulldogs
+LOCATION:TD Civic Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ Brantford Bulldogs
+DTSTART:20261128T000000
+DTEND:20261128T023000
+UID:ohl29242
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29242\nStreaming: h
+ ttps://www.flohockey.tv/events/16028303-2026-owen-sound-attack-vs-brantfor
+ d-bulldogs
 LOCATION:TD Civic Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -615,550 +1159,6 @@ UID:ohl29667
 DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29667\nStreaming li
  nk not yet available
 LOCATION:Erie Insurance Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ London Knights
-DTSTART:20260925T230000
-DTEND:20260926T013000
-UID:ohl29016
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29016\nStreaming li
- nk not yet available
-LOCATION:Canada Life Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Guelph Storm @ Owen Sound Attack
-DTSTART:20260926T230000
-DTEND:20260927T013000
-UID:ohl29025
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29025\nStreaming li
- nk not yet available
-LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Windsor Spitfires @ Owen Sound Attack
-DTSTART:20261003T230000
-DTEND:20261004T013000
-UID:ohl29049
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29049\nStreaming li
- nk not yet available
-LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brantford Bulldogs @ Owen Sound Attack
-DTSTART:20261004T180000
-DTEND:20261004T203000
-UID:ohl29054
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29054\nStreaming li
- nk not yet available
-LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ Guelph Storm
-DTSTART:20261009T230700
-DTEND:20261010T013700
-UID:ohl29060
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29060\nStreaming li
- nk not yet available
-LOCATION:Sleeman Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Guelph Storm @ Owen Sound Attack
-DTSTART:20261010T230000
-DTEND:20261011T013000
-UID:ohl29069
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29069\nStreaming li
- nk not yet available
-LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ Windsor Spitfires
-DTSTART:20261016T230500
-DTEND:20261017T013500
-UID:ohl29090
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29090\nStreaming li
- nk not yet available
-LOCATION:WFCU Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ Flint Firebirds
-DTSTART:20261017T230000
-DTEND:20261018T013000
-UID:ohl29093
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29093\nStreaming li
- nk not yet available
-LOCATION:Dort Financial Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ Saginaw Spirit
-DTSTART:20261018T213000
-DTEND:20261019T000000
-UID:ohl29101
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29101\nStreaming li
- nk not yet available
-LOCATION:Dow Event Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ Barrie Colts
-DTSTART:20261022T230000
-DTEND:20261023T013000
-UID:ohl29103
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29103\nStreaming li
- nk not yet available
-LOCATION:Sadlon Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | London Knights @ Owen Sound Attack
-DTSTART:20261024T230000
-DTEND:20261025T013000
-UID:ohl29119
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29119\nStreaming li
- nk not yet available
-LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Barrie Colts @ Owen Sound Attack
-DTSTART:20261025T180000
-DTEND:20261025T203000
-UID:ohl29126
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29126\nStreaming li
- nk not yet available
-LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Sarnia Sting @ Owen Sound Attack
-DTSTART:20261028T143000
-DTEND:20261028T170000
-UID:ohl29128
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29128\nStreaming li
- nk not yet available
-LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Windsor Spitfires @ Owen Sound Attack
-DTSTART:20261031T180000
-DTEND:20261031T203000
-UID:ohl29143
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29143\nStreaming li
- nk not yet available
-LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ Sarnia Sting
-DTSTART:20261105T000500
-DTEND:20261105T023500
-UID:ohl29156
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29156\nStreaming li
- nk not yet available
-LOCATION:Progressive Auto Sales Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ Guelph Storm
-DTSTART:20261107T000700
-DTEND:20261107T023700
-UID:ohl29161
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29161\nStreaming li
- nk not yet available
-LOCATION:Sleeman Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Barrie Colts @ Owen Sound Attack
-DTSTART:20261112T000000
-DTEND:20261112T023000
-UID:ohl29181
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29181\nStreaming li
- nk not yet available
-LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Guelph Storm @ Owen Sound Attack
-DTSTART:20261115T000000
-DTEND:20261115T023000
-UID:ohl29198
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29198\nStreaming li
- nk not yet available
-LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | North Bay Battalion @ Owen Sound Attack
-DTSTART:20261119T000000
-DTEND:20261119T023000
-UID:ohl29208
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29208\nStreaming li
- nk not yet available
-LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ Niagara IceDogs
-DTSTART:20261121T000000
-DTEND:20261121T023000
-UID:ohl29220
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29220\nStreaming li
- nk not yet available
-LOCATION:Meridian Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ Erie Otters
-DTSTART:20261121T230000
-DTEND:20261122T013000
-UID:ohl29225
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29225\nStreaming li
- nk not yet available
-LOCATION:Erie Insurance Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ Brantford Bulldogs
-DTSTART:20261128T000000
-DTEND:20261128T023000
-UID:ohl29242
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29242\nStreaming: h
- ttps://www.flohockey.tv/events/16028303-2026-owen-sound-attack-vs-brantfor
- d-bulldogs
-LOCATION:TD Civic Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Ottawa 67's @ Owen Sound Attack
-DTSTART:20261129T000000
-DTEND:20261129T023000
-UID:ohl29255
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29255\nStreaming li
- nk not yet available
-LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kingston Frontenacs @ Owen Sound Attack
-DTSTART:20261129T200000
-DTEND:20261129T223000
-UID:ohl29260
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29260\nStreaming li
- nk not yet available
-LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Niagara IceDogs @ Owen Sound Attack
-DTSTART:20261206T000000
-DTEND:20261206T023000
-UID:ohl29276
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29276\nStreaming li
- nk not yet available
-LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ Barrie Colts
-DTSTART:20261211T000000
-DTEND:20261211T023000
-UID:ohl29290
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29290\nStreaming li
- nk not yet available
-LOCATION:Sadlon Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ Sudbury Wolves
-DTSTART:20261212T000500
-DTEND:20261212T023500
-UID:ohl29302
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29302\nStreaming: h
- ttps://www.flohockey.tv/events/16027862-2026-owen-sound-attack-vs-sudbury-
- wolves
-LOCATION:Sudbury Community Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ Soo Greyhounds
-DTSTART:20261213T190700
-DTEND:20261213T213700
-UID:ohl29312
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29312\nStreaming: h
- ttps://www.flohockey.tv/events/16027246-2026-owen-sound-attack-vs-soo-grey
- hounds
-LOCATION:GFL Memorial Gardens
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Flint Firebirds @ Owen Sound Attack
-DTSTART:20261217T000000
-DTEND:20261217T023000
-UID:ohl29314
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29314\nStreaming li
- nk not yet available
-LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Sudbury Wolves @ Owen Sound Attack
-DTSTART:20261220T000000
-DTEND:20261220T023000
-UID:ohl29333
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29333\nStreaming li
- nk not yet available
-LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Barrie Colts @ Owen Sound Attack
-DTSTART:20261229T000000
-DTEND:20261229T023000
-UID:ohl29340
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29340\nStreaming li
- nk not yet available
-LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ Barrie Colts
-DTSTART:20270101T003000
-DTEND:20270101T030000
-UID:ohl29348
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29348\nStreaming li
- nk not yet available
-LOCATION:Sadlon Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Erie Otters @ Owen Sound Attack
-DTSTART:20270103T000000
-DTEND:20270103T023000
-UID:ohl29362
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29362\nStreaming li
- nk not yet available
-LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Erie Otters @ Owen Sound Attack
-DTSTART:20270103T190000
-DTEND:20270103T213000
-UID:ohl29371
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29371\nStreaming li
- nk not yet available
-LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ Guelph Storm
-DTSTART:20270109T000700
-DTEND:20270109T023700
-UID:ohl29381
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29381\nStreaming li
- nk not yet available
-LOCATION:Sleeman Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Guelph Storm @ Owen Sound Attack
-DTSTART:20270110T000000
-DTEND:20270110T023000
-UID:ohl29390
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29390\nStreaming li
- nk not yet available
-LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ Oshawa Generals
-DTSTART:20270110T230500
-DTEND:20270111T013500
-UID:ohl29396
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29396\nStreaming li
- nk not yet available
-LOCATION:Tribute Communities Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ North Bay Battalion
-DTSTART:20270117T190000
-DTEND:20270117T213000
-UID:ohl29423
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29423\nStreaming li
- nk not yet available
-LOCATION:Boart Longyear Memorial Gardens
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saginaw Spirit @ Owen Sound Attack
-DTSTART:20270124T000000
-DTEND:20270124T023000
-UID:ohl29442
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29442\nStreaming li
- nk not yet available
-LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | London Knights @ Owen Sound Attack
-DTSTART:20270131T000000
-DTEND:20270131T023000
-UID:ohl29468
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29468\nStreaming li
- nk not yet available
-LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Sarnia Sting @ Owen Sound Attack
-DTSTART:20270204T000000
-DTEND:20270204T023000
-UID:ohl29478
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29478\nStreaming li
- nk not yet available
-LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ Erie Otters
-DTSTART:20270206T230000
-DTEND:20270207T013000
-UID:ohl29493
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29493\nStreaming li
- nk not yet available
-LOCATION:Erie Insurance Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ Erie Otters
-DTSTART:20270207T210000
-DTEND:20270207T233000
-UID:ohl29497
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29497\nStreaming li
- nk not yet available
-LOCATION:Erie Insurance Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brampton Steelheads @ Owen Sound Attack
-DTSTART:20270211T000000
-DTEND:20270211T023000
-UID:ohl29505
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29505\nStreaming li
- nk not yet available
-LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ Brampton Steelheads
-DTSTART:20270213T000000
-DTEND:20270213T023000
-UID:ohl29509
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29509\nStreaming li
- nk not yet available
-LOCATION:CAA Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Soo Greyhounds @ Owen Sound Attack
-DTSTART:20270214T000000
-DTEND:20270214T023000
-UID:ohl29523
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29523\nStreaming li
- nk not yet available
-LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ London Knights
-DTSTART:20270215T210000
-DTEND:20270215T233000
-UID:ohl29530
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29530\nStreaming li
- nk not yet available
-LOCATION:Canada Life Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ Peterborough Petes
-DTSTART:20270219T000500
-DTEND:20270219T023500
-UID:ohl29538
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29538\nStreaming li
- nk not yet available
-LOCATION:Peterborough Memorial Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ Kingston Frontenacs
-DTSTART:20270220T000500
-DTEND:20270220T023500
-UID:ohl29543
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29543\nStreaming li
- nk not yet available
-LOCATION:Slush Puppie Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ Ottawa 67's
-DTSTART:20270221T200000
-DTEND:20270221T223000
-UID:ohl29559
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29559\nStreaming: h
- ttps://www.flohockey.tv/events/16027324-2027-owen-sound-attack-vs-ottawa-6
- 7s
-LOCATION:TD Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Erie Otters @ Owen Sound Attack
-DTSTART:20270225T000000
-DTEND:20270225T023000
-UID:ohl29564
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29564\nStreaming li
- nk not yet available
-LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ London Knights
-DTSTART:20270227T000000
-DTEND:20270227T023000
-UID:ohl29573
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29573\nStreaming li
- nk not yet available
-LOCATION:Canada Life Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Flint Firebirds @ Owen Sound Attack
-DTSTART:20270304T000000
-DTEND:20270304T023000
-UID:ohl29593
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29593\nStreaming li
- nk not yet available
-LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ Sarnia Sting
-DTSTART:20270306T000500
-DTEND:20270306T023500
-UID:ohl29603
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29603\nStreaming li
- nk not yet available
-LOCATION:Progressive Auto Sales Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Oshawa Generals @ Owen Sound Attack
-DTSTART:20270307T000000
-DTEND:20270307T023000
-UID:ohl29609
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29609\nStreaming li
- nk not yet available
-LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ Flint Firebirds
-DTSTART:20270311T000000
-DTEND:20270311T023000
-UID:ohl29621
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29621\nStreaming li
- nk not yet available
-LOCATION:Dort Financial Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ Windsor Spitfires
-DTSTART:20270312T000500
-DTEND:20270312T023500
-UID:ohl29626
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29626\nStreaming li
- nk not yet available
-LOCATION:WFCU Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Peterborough Petes @ Owen Sound Attack
-DTSTART:20270314T000000
-DTEND:20270314T023000
-UID:ohl29639
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29639\nStreaming li
- nk not yet available
-LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | London Knights @ Owen Sound Attack
-DTSTART:20270317T230000
-DTEND:20270318T013000
-UID:ohl29653
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29653\nStreaming li
- nk not yet available
-LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ Guelph Storm
-DTSTART:20270319T230700
-DTEND:20270320T013700
-UID:ohl29658
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29658\nStreaming li
- nk not yet available
-LOCATION:Sleeman Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Owen Sound Attack @ Kitchener Rangers
