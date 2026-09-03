@@ -364,7 +364,12 @@ def handle_khl(feeds, league, data):
 @register_parser("liiga")
 def handle_liiga(feeds, league, data):
     base_url = data["base_url"]
-    season = data["season"]
+    season_url = "https://cdn.builder.io/api/v3/query/f11503eeae084753968caac3899a5d78/season-teams-configuration"
+    scraper = cloudscraper.create_scraper()
+    raw = scraper.get(season_url).text
+    season_dict = json.loads(raw)
+    seasonTeams = season_dict["season-teams-configuration"][0]["data"]["seasonTeams"]
+    season = sorted(seasonTeams.keys())[-1]
     tournaments = data.get("tournament", [])
     if isinstance(tournaments, str):
         tournaments = [tournaments]
@@ -479,9 +484,14 @@ def handle_publicationsports(feeds, league, data):
 # ============================
 @register_parser("shl")
 def handle_shl(feeds, league, data):
-    season = data["seasonUuid"]
-    series = data["seriesUuid"]
-    game_type = data["gameTypeUuid"]
+    base_url = data["base_url"]
+    seasons_url = base_url.replace("game-schedule", "season-series-game-types-filter")
+    scraper = cloudscraper.create_scraper()
+    raw = scraper.get(seasons_url).text
+    shl_dict = json.loads(raw)
+    season = shl_dict.get("season", {})[0].get("uuid", "")
+    series = shl_dict.get("series", {})[1].get("uuid", "")
+    game_type = shl_dict.get("gameType", {})[0].get("uuid", "")
     base_url = data["base_url"]
 
     for team_name, team_id, team in iter_teams(data):
