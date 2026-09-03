@@ -172,7 +172,7 @@ def download_khl(league, team_name, url, team_filter):
         all_events.extend(raw_json)
         page += 1
 
-    calendar = parse_khl_json(all_events, team_filter)
+    calendar = parse_khl_json(all_events, team_filter, league)
     return league, team_name, calendar
 
 # ============================

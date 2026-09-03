@@ -33,7 +33,7 @@ def clean_location(description):
     return description.strip()
 
 
-def parse_khl_json(events, team_filter):
+def parse_khl_json(events, team_filter, league):
     cal_out = Calendar()
 
     target_team_id = team_filter[0] if (team_filter and isinstance(team_filter, list)) else None
@@ -81,6 +81,12 @@ def parse_khl_json(events, team_filter):
             # ============================
             match_id = ev_event.get("khl_id")
             season_id = ev_event.get("outer_stage_id")
+            if league == "KHL":
+                mid = uid("khl", match_id)
+                game_center = f"https://en.khl.ru/game/{season_id}/{match_id}/preview"
+            elif league == "MHL":
+                mid = uid("mhl", match_id)
+                game_center = f"https://engmhl.khl.ru/game/{season_id}/{match_id}/preview/"
 
             # ============================
             # Location
@@ -88,12 +94,9 @@ def parse_khl_json(events, team_filter):
             raw_loc = ev_event.get("location", "")
             arena_final = validate_arena(city_to_arena(raw_loc, CITY_TO_ARENA))
 
-            game_center = f"https://en.khl.ru/game/{season_id}/{match_id}/preview"
-
-
             event = (
                 ICSEventBuilder()
-                .uid(uid("khl", (match_id)))
+                .uid(mid)
                 .start(dtstart)
                 .end(dtend)
                 .summary(f"🏒 | {away} @ {home}")

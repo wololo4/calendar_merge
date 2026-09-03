@@ -237,6 +237,20 @@ def update_team_ids(habs_teams):
             data["teams"].extend(fresh)
             continue
 
+        if league == "MHL":
+            hp_list = habs_teams.get("MHL", [])
+            khl_map = khl_fetch(data["base_url"])
+            fresh = []
+            for name in hp_list:
+                tid = khl_map.get(name)
+                if not tid:
+                    print(f"WARNING: MHL -> Team not found in API: {name}")
+                    continue
+                fresh.append({"name": name, "team_id": tid})
+            data["teams"].clear()
+            data["teams"].extend(fresh)
+            continue
+
         if parser == "ncaa_conf":
             name = {
                 normalize_team_name(n, league)

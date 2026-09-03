@@ -1,0 +1,438 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Hockey Calendar//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+SUMMARY:🏒 | Irbis Kazan @ Chaika Nizhny Novgorod
+DTSTART:20260907T153000Z
+DTEND:20260907T180000Z
+UID:mhl903022
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903022/preview/
+LOCATION:CEC Nagorny
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chaika Nizhny Novgorod @ Reaktor Niznekamsk
+DTSTART:20260915T153000Z
+DTEND:20260915T180000Z
+UID:mhl903066
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903066/preview/
+LOCATION:Neftekhim Ice Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chaika Nizhny Novgorod @ Sputnik Almetyevsk
+DTSTART:20260917T153000Z
+DTEND:20260917T180000Z
+UID:mhl903075
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903075/preview/
+LOCATION:Yubileyny Sports Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chaika Nizhny Novgorod @ Molot-Prikamye Perm
+DTSTART:20260921T140000Z
+DTEND:20260921T163000Z
+UID:mhl903093
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903093/preview/
+LOCATION:Universal Sports Palace Molot
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Tolpar Ufa @ Chaika Nizhny Novgorod
+DTSTART:20260925T153000Z
+DTEND:20260925T180000Z
+UID:mhl903115
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903115/preview/
+LOCATION:CEC Nagorny
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Tolpar Ufa @ Chaika Nizhny Novgorod
+DTSTART:20260926T140000Z
+DTEND:20260926T163000Z
+UID:mhl903119
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903119/preview/
+LOCATION:CEC Nagorny
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Stalnye Lisy @ Chaika Nizhny Novgorod
+DTSTART:20260929T153000Z
+DTEND:20260929T180000Z
+UID:mhl903134
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903134/preview/
+LOCATION:CEC Nagorny
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Stalnye Lisy @ Chaika Nizhny Novgorod
+DTSTART:20260930T153000Z
+DTEND:20260930T180000Z
+UID:mhl903136
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903136/preview/
+LOCATION:CEC Nagorny
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chaika Nizhny Novgorod @ Loko Yaroslavl
+DTSTART:20261004T100000Z
+DTEND:20261004T123000Z
+UID:mhl903156
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903156/preview/
+LOCATION:Arena-2000 Lokomotiv
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Irbis Kazan @ Chaika Nizhny Novgorod
+DTSTART:20261010T100000Z
+DTEND:20261010T123000Z
+UID:mhl903189
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903189/preview/
+LOCATION:CEC Nagorny
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chaika Nizhny Novgorod @ Sibirskie Snaipery
+DTSTART:20261020T113000Z
+DTEND:20261020T140000Z
+UID:mhl903237
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903237/preview/
+LOCATION:Sibir Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chaika Nizhny Novgorod @ Sibirskie Snaipery
+DTSTART:20261021T113000Z
+DTEND:20261021T140000Z
+UID:mhl903243
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903243/preview/
+LOCATION:Sibir Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chaika Nizhny Novgorod @ Omskie Yastreby
+DTSTART:20261024T070000Z
+DTEND:20261024T093000Z
+UID:mhl903257
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903257/preview/
+LOCATION:G-Drive Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chaika Nizhny Novgorod @ Omskie Yastreby
+DTSTART:20261025T070000Z
+DTEND:20261025T093000Z
+UID:mhl903266
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903266/preview/
+LOCATION:G-Drive Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Mamonty Yugry @ Chaika Nizhny Novgorod
+DTSTART:20261102T153000Z
+DTEND:20261102T180000Z
+UID:mhl903304
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903304/preview/
+LOCATION:CEC Nagorny
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Loko Yaroslavl @ Chaika Nizhny Novgorod
+DTSTART:20261104T153000Z
+DTEND:20261104T180000Z
+UID:mhl903311
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903311/preview/
+LOCATION:CEC Nagorny
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Loko Yaroslavl @ Chaika Nizhny Novgorod
+DTSTART:20261105T153000Z
+DTEND:20261105T180000Z
+UID:mhl903313
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903313/preview/
+LOCATION:CEC Nagorny
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Krasnoyark Lynxes @ Chaika Nizhny Novgorod
+DTSTART:20261110T153000Z
+DTEND:20261110T180000Z
+UID:mhl903492
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903492/preview/
+LOCATION:CEC Nagorny
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Molot-Prikamye Perm @ Chaika Nizhny Novgorod
+DTSTART:20261112T153000Z
+DTEND:20261112T180000Z
+UID:mhl903347
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903347/preview/
+LOCATION:CEC Nagorny
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Loko Yaroslavl @ Chaika Nizhny Novgorod
+DTSTART:20261118T153000Z
+DTEND:20261118T180000Z
+UID:mhl903375
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903375/preview/
+LOCATION:CEC Nagorny
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chaika Nizhny Novgorod @ Mikhailov Academy
+DTSTART:20261123T160000Z
+DTEND:20261123T183000Z
+UID:mhl903393
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903393/preview/
+LOCATION:Ice Sports Palace Tula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chaika Nizhny Novgorod @ Irbis Kazan
+DTSTART:20261126T153000Z
+DTEND:20261126T180000Z
+UID:mhl903407
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903407/preview/
+LOCATION:Tatneft Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chaika Nizhny Novgorod @ MHK Spartak Moscow
+DTSTART:20261129T110000Z
+DTEND:20261129T133000Z
+UID:mhl903420
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903420/preview/
+LOCATION:CSKA Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chaika Nizhny Novgorod @ Krasnaya Armiya
+DTSTART:20261201T153000Z
+DTEND:20261201T180000Z
+UID:mhl903430
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903430/preview/
+LOCATION:CSKA Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kuznetskie Medvedi @ Chaika Nizhny Novgorod
+DTSTART:20261208T153000Z
+DTEND:20261208T180000Z
+UID:mhl903466
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903466/preview/
+LOCATION:CEC Nagorny
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Belye Medvedi Chelyabinsk @ Chaika Nizhny Novgorod
+DTSTART:20261216T153000Z
+DTEND:20261216T180000Z
+UID:mhl903504
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903504/preview/
+LOCATION:CEC Nagorny
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Belye Medvedi Chelyabinsk @ Chaika Nizhny Novgorod
+DTSTART:20261218T153000Z
+DTEND:20261218T180000Z
+UID:mhl903515
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903515/preview/
+LOCATION:CEC Nagorny
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Avto Yekaterinburg @ Chaika Nizhny Novgorod
+DTSTART:20261221T153000Z
+DTEND:20261221T180000Z
+UID:mhl903525
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903525/preview/
+LOCATION:CEC Nagorny
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Avto Yekaterinburg @ Chaika Nizhny Novgorod
+DTSTART:20261223T153000Z
+DTEND:20261223T180000Z
+UID:mhl903537
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903537/preview/
+LOCATION:CEC Nagorny
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chaika Nizhny Novgorod @ Snezhnye Barsy
+DTSTART:20261227T120000Z
+DTEND:20261227T143000Z
+UID:mhl903556
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903556/preview/
+LOCATION:Barys Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Sputnik Almetyevsk @ Chaika Nizhny Novgorod
+DTSTART:20270106T100000Z
+DTEND:20270106T123000Z
+UID:mhl903575
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903575/preview/
+LOCATION:CEC Nagorny
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Snezhnye Barsy @ Chaika Nizhny Novgorod
+DTSTART:20270109T100000Z
+DTEND:20270109T123000Z
+UID:mhl903594
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903594/preview/
+LOCATION:CEC Nagorny
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chaika Nizhny Novgorod @ Kuznetskie Medvedi
+DTSTART:20270115T113000Z
+DTEND:20270115T140000Z
+UID:mhl903623
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903623/preview/
+LOCATION:Kuznetsk Metallurgists Sports Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chaika Nizhny Novgorod @ Krasnoyark Lynxes
+DTSTART:20270118T113000Z
+DTEND:20270118T140000Z
+UID:mhl903205
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903205/preview/
+LOCATION:Platinum Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Krasnaya Armiya @ Chaika Nizhny Novgorod
+DTSTART:20270123T100000Z
+DTEND:20270123T123000Z
+UID:mhl903658
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903658/preview/
+LOCATION:CEC Nagorny
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chaika Nizhny Novgorod @ Avto Yekaterinburg
+DTSTART:20270128T133000Z
+DTEND:20270128T160000Z
+UID:mhl903674
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903674/preview/
+LOCATION:KRK Uralets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chaika Nizhny Novgorod @ Avto Yekaterinburg
+DTSTART:20270129T133000Z
+DTEND:20270129T160000Z
+UID:mhl903681
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903681/preview/
+LOCATION:KRK Uralets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chaika Nizhny Novgorod @ Belye Medvedi Chelyabinsk
+DTSTART:20270201T133000Z
+DTEND:20270201T160000Z
+UID:mhl903697
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903697/preview/
+LOCATION:Traktor Ice Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chaika Nizhny Novgorod @ Belye Medvedi Chelyabinsk
+DTSTART:20270202T133000Z
+DTEND:20270202T160000Z
+UID:mhl903706
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903706/preview/
+LOCATION:Traktor Ice Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Sibirskie Snaipery @ Chaika Nizhny Novgorod
+DTSTART:20270207T100000Z
+DTEND:20270207T123000Z
+UID:mhl903716
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903716/preview/
+LOCATION:CEC Nagorny
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Sibirskie Snaipery @ Chaika Nizhny Novgorod
+DTSTART:20270208T153000Z
+DTEND:20270208T180000Z
+UID:mhl903723
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903723/preview/
+LOCATION:CEC Nagorny
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Omskie Yastreby @ Chaika Nizhny Novgorod
+DTSTART:20270211T153000Z
+DTEND:20270211T180000Z
+UID:mhl903738
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903738/preview/
+LOCATION:CEC Nagorny
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Omskie Yastreby @ Chaika Nizhny Novgorod
+DTSTART:20270212T153000Z
+DTEND:20270212T180000Z
+UID:mhl903744
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903744/preview/
+LOCATION:CEC Nagorny
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Mikhailov Academy @ Chaika Nizhny Novgorod
+DTSTART:20270215T153000Z
+DTEND:20270215T180000Z
+UID:mhl903760
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903760/preview/
+LOCATION:CEC Nagorny
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chaika Nizhny Novgorod @ Loko Yaroslavl
+DTSTART:20270221T100000Z
+DTEND:20270221T123000Z
+UID:mhl903786
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903786/preview/
+LOCATION:Arena-2000 Lokomotiv
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chaika Nizhny Novgorod @ Loko Yaroslavl
+DTSTART:20270222T100000Z
+DTEND:20270222T123000Z
+UID:mhl903790
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903790/preview/
+LOCATION:Arena-2000 Lokomotiv
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chaika Nizhny Novgorod @ Mamonty Yugry
+DTSTART:20270225T140000Z
+DTEND:20270225T163000Z
+UID:mhl903809
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903809/preview/
+LOCATION:Arena Ugra
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Reaktor Niznekamsk @ Chaika Nizhny Novgorod
+DTSTART:20270303T153000Z
+DTEND:20270303T180000Z
+UID:mhl903838
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903838/preview/
+LOCATION:CEC Nagorny
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | MHK Spartak Moscow @ Chaika Nizhny Novgorod
+DTSTART:20270306T100000Z
+DTEND:20270306T123000Z
+UID:mhl903855
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903855/preview/
+LOCATION:CEC Nagorny
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chaika Nizhny Novgorod @ Stalnye Lisy
+DTSTART:20270313T080000Z
+DTEND:20270313T103000Z
+UID:mhl903884
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903884/preview/
+LOCATION:Arena Metallurg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chaika Nizhny Novgorod @ Stalnye Lisy
+DTSTART:20270314T080000Z
+DTEND:20270314T103000Z
+UID:mhl903894
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903894/preview/
+LOCATION:Arena Metallurg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chaika Nizhny Novgorod @ Tolpar Ufa
+DTSTART:20270317T133000Z
+DTEND:20270317T160000Z
+UID:mhl903910
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903910/preview/
+LOCATION:Ufa Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chaika Nizhny Novgorod @ Tolpar Ufa
+DTSTART:20270318T133000Z
+DTEND:20270318T160000Z
+UID:mhl903916
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903916/preview/
+LOCATION:Ufa Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chaika Nizhny Novgorod @ Irbis Kazan
+DTSTART:20270322T153000Z
+DTEND:20270322T180000Z
+UID:mhl903933
+DESCRIPTION:Game Center: https://engmhl.khl.ru/game/1440/903933/preview/
+LOCATION:Tatneft Arena
+END:VEVENT
+END:VCALENDAR
