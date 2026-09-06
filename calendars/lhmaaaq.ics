@@ -16,8 +16,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Estacades de Trois-Rivières @ Rousseau-Royal Laval-Montré
  al
-DTSTART:20260911T193000
-DTEND:20260911T220000
+DTSTART:20260911T190000
+DTEND:20260911T213000
 UID:LHMAAAQ1903923
 DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
  eason=4951&category=5366&game=1903923
@@ -72,8 +72,8 @@ LOCATION:Jonquière\, Foyer des loisirs
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | L'Intrépide de Gatineau @ Rousseau-Royal Laval-Montréal
-DTSTART:20260930T190000
-DTEND:20260930T213000
+DTSTART:20260930T193000
+DTEND:20260930T220000
 UID:LHMAAAQ1904001
 DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
  eason=4951&category=5366&game=1904001
@@ -109,8 +109,8 @@ LOCATION:Laval\, Complexe Sportif Guimond-3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Cantonniers de Magog @ Rousseau-Royal Laval-Montréal
-DTSTART:20261017T193000
-DTEND:20261017T220000
+DTSTART:20261017T190000
+DTEND:20261017T213000
 UID:LHMAAAQ1904063
 DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
  eason=4951&category=5366&game=1904063
@@ -234,8 +234,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Albatros du Collège Notre-Dame @ Rousseau-Royal Laval-Mont
  réal
-DTSTART:20261129T193000
-DTEND:20261129T220000
+DTSTART:20261129T190000
+DTEND:20261129T213000
 UID:LHMAAAQ1904255
 DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
  eason=4951&category=5366&game=1904255
@@ -297,8 +297,8 @@ LOCATION:Laval\, Complexe Sportif Guimond-3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Lions du Lac St-Louis @ Rousseau-Royal Laval-Montréal
-DTSTART:20270117T193000
-DTEND:20270117T220000
+DTSTART:20270117T190000
+DTEND:20270117T213000
 UID:LHMAAAQ1904375
 DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
  eason=4951&category=5366&game=1904375
