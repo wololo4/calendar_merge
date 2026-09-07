@@ -61,6 +61,8 @@ KHL:
         team_id: 22
       - name: Amur Khabarovsk
         team_id: 12
+      - name: Spartak Moscow
+        team_id: 18
       - name: Salavat Yulaev Ufa
         team_id: 32
 LHJAAAQ:
@@ -142,10 +144,10 @@ NCAA_NCHC:
     base_url: 
         https://nchchockey.com/services/responsive-calendar.ashx?sport_id=0&school_id=0
     teams:
-      - name: Miami RedHawks
-      - name: Denver Pioneers
       - name: Western Michigan Broncos
+      - name: Denver Pioneers
       - name: St. Cloud State Huskies
+      - name: Miami RedHawks
 NHL:
     parser: nhl
     teams:
@@ -172,11 +174,7 @@ OHL:
 SHL:
     parser: shl
     base_url: https://www.shl.se/api/sports-v2/game-schedule
-    teams:
-      - name: Luleå HF
-        uuid: 1a71-1a71gTHKh
-      - name: Skellefteå AIK
-        uuid: 50e6-50e6DYeWM
+    teams: []
 UFA:
     parser: ufa
     base_url: https://www.backend.ufastats.com/web-v1/games?current
