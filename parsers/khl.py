@@ -8,28 +8,22 @@ import re
 
 def validate_arena(arena_name): 
     if arena_name not in KNOWN_ARENAS: 
-        print(f"[ERROR] Arena not in KNOWN_ARENAS: '{arena_name}'")
+        print(f"[ERROR] KHL Arena not in KNOWN_ARENAS: '{arena_name}'")
 
     return arena_name
 
 def clean_location(description):
-    """
-    Convert 'Novosibirsk «Сибирь-Арена»' → 'Сибирь-Арена'
-    """
     if not description:
         return None
 
-    # 1. Extraire ce qui est entre guillemets « »
     arena = re.findall(r"«([^»]+)»", description)
     if arena:
         return arena[0].strip()
 
-    # 2. Sinon, essayer après le dernier espace
     parts = description.split()
     if len(parts) > 1:
         return parts[-1].strip()
 
-    # 3. Sinon retourner brut
     return description.strip()
 
 
