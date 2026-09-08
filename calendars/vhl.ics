@@ -12,20 +12,20 @@ DESCRIPTION:Game Center: https://online.vhlru.ru/online/904008
 LOCATION:Sports Palace Izhstal
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Akademia Mikhailov @ Ugra Khanty-Mansiysk
-DTSTART:20260906T120000Z
-DTEND:20260906T143000Z
-UID:vhl904012
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904012
-LOCATION:Arena Ugra
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Dynamo Saint-Petersburg @ Izhstal Izhevsk
 DTSTART:20260907T143000Z
 DTEND:20260907T170000Z
 UID:vhl904016
 DESCRIPTION:Game Center: https://online.vhlru.ru/online/904016
 LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Akademia Mikhailov @ Ugra Khanty-Mansiysk
+DTSTART:20260906T120000Z
+DTEND:20260906T143000Z
+UID:vhl904012
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904012
+LOCATION:Arena Ugra
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Zvezda Moscow @ Izhstal Izhevsk
