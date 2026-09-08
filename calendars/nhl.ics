@@ -8,12 +8,11 @@ SUMMARY:🏒 | Montréal Canadiens @ Toronto Maple Leafs
 DTSTART:20260919T230000
 DTEND:20260920T013000
 UID:nhl2026010006
-DESCRIPTION:Pre-Season Game\nTV (Canada): TDB (Canadian broadcast not yet 
- announced)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-tor/2026/09
- /19/2026010006\nTickets: https://www.ticketmaster.ca/event/100064EDD6F5121
- D?brand=torontomapleleafs&artistid=806033&wt.mc_id=NHL_TEAM_TOR_SCHEDULE_P
- R1&utm_source=NHL.com&utm_medium=client_PM&utm_campaign=NHL_TEAM_TOR&utm_c
- ontent=SCHEDULE_PR1
+DESCRIPTION:Pre-Season Game\nTV (Canada): TSN4 (Anglais)\nGame Center: htt
+ ps://www.nhl.com/gamecenter/mtl-vs-tor/2026/09/19/2026010006\nTickets: htt
+ ps://www.ticketmaster.ca/event/100064EDD6F5121D?brand=torontomapleleafs&ar
+ tistid=806033&wt.mc_id=NHL_TEAM_TOR_SCHEDULE_PR1&utm_source=NHL.com&utm_me
+ dium=client_PM&utm_campaign=NHL_TEAM_TOR&utm_content=SCHEDULE_PR1
 LOCATION:Scotiabank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -21,12 +20,11 @@ SUMMARY:🏒 | Toronto Maple Leafs @ Montréal Canadiens
 DTSTART:20260919T230000
 DTEND:20260920T013000
 UID:nhl2026010007
-DESCRIPTION:Pre-Season Game\nTV (Canada): TDB (Canadian broadcast not yet 
- announced)\nGame Center: https://www.nhl.com/gamecenter/tor-vs-mtl/2026/09
- /19/2026010007\nTickets: https://www.ticketmaster.ca/event/310064FACA9986E
- 8?lang=en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCHEDUL
- E_PR1&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&utm_c
- ontent=SCHEDULE_PR1
+DESCRIPTION:Pre-Season Game\nTV (Canada): SN1 (Anglais)\nGame Center: http
+ s://www.nhl.com/gamecenter/tor-vs-mtl/2026/09/19/2026010007\nTickets: http
+ s://www.ticketmaster.ca/event/310064FACA9986E8?lang=en-ca&brand=canadiens&
+ artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCHEDULE_PR1&utm_source=NHL.com&utm_
+ medium=client&utm_campaign=NHL_TEAM_MTL&utm_content=SCHEDULE_PR1
 LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
@@ -34,8 +32,8 @@ SUMMARY:🏒 | Ottawa Sénateurs @ Montréal Canadiens
 DTSTART:20260921T230000
 DTEND:20260922T013000
 UID:nhl2026010022
-DESCRIPTION:Pre-Season Game\nTV (Canada): TDB (Canadian broadcast not yet 
- announced)\nTickets: https://www.nhl.com/canadiens/tickets/
+DESCRIPTION:Pre-Season Game\nTV (Canada): SN1 (Anglais)\nTickets: https://
+ www.nhl.com/canadiens/tickets/
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT

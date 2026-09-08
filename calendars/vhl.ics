@@ -28,6 +28,14 @@ DESCRIPTION:Game Center: https://online.vhlru.ru/online/904012
 LOCATION:Arena Ugra
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Akademia Mikhailov @ Rubin Tyumen
+DTSTART:20260908T140000Z
+DTEND:20260908T163000Z
+UID:vhl904024
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904024
+LOCATION:Partikum Ice Palace
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Zvezda Moscow @ Izhstal Izhevsk
 DTSTART:20260909T143000Z
 DTEND:20260909T170000Z
@@ -442,14 +450,6 @@ DTEND:20270318T170000Z
 UID:vhl904861
 DESCRIPTION:Game Center: https://online.vhlru.ru/online/904861
 LOCATION:Sports Palace Izhstal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Akademia Mikhailov @ Rubin Tyumen
-DTSTART:20260908T140000Z
-DTEND:20260908T163000Z
-UID:vhl904024
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904024
-LOCATION:Partikum Ice Palace
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Akademia Mikhailov @ Zauralye Kurgan
