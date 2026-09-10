@@ -6,6 +6,7 @@ from utils.ics import ICSEventBuilder
 CANADA_BROADCAST = {
     "RDS": "Français",
     "TVAS": "Français",
+    "Prime": "Français/Anglais",
 
     "CBC": "Anglais",
     "CITY": "Anglais",
@@ -13,6 +14,7 @@ CANADA_BROADCAST = {
     "SN1": "Anglais",
     "SNE": "Anglais", 
     "SNW": "Anglais",
+    "SN+": "Anglais",
     "TSN2": "Anglais",
     "TSN4": "Anglais",
     "TSN5": "Anglais",
