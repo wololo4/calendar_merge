@@ -77,10 +77,10 @@ LHJMQ:
     base_url: 
         https://cluster.leaguestat.com/feed/index.php?feed=modulekit&view=schedule&client_code=lhjmq&key=f322673b6bcae299
     teams:
-      - name: Saguenéens Chicoutimi
-        team_id: 10
       - name: Foreurs Val-d'Or
         team_id: 15
+      - name: Saguenéens Chicoutimi
+        team_id: 10
 LHMAAAQ:
     parser: publicationsports
     base_url: "https://www.m18aaa.com/fr/stats/horaire.html?"
@@ -112,12 +112,12 @@ NCAA_BIG10:
     base_url: 
         https://bigten.org/api/cms/b1g/api/game/?&where[sport.alias][equals]=mhky&limit=500&sort=datetime.date_scheduled
     teams:
-      - name: Minnesota Golden Gophers
-        team_id: 3736
       - name: Michigan Wolverines
         team_id: 3519
       - name: Wisconsin Badgers
         team_id: 3741
+      - name: Minnesota Golden Gophers
+        team_id: 3736
 NCAA_CCHA:
     parser: ncaa_conf
     base_url: 
@@ -144,10 +144,10 @@ NCAA_NCHC:
     base_url: 
         https://nchchockey.com/services/responsive-calendar.ashx?sport_id=0&school_id=0
     teams:
-      - name: Denver Pioneers
-      - name: St. Cloud State Huskies
-      - name: Miami RedHawks
       - name: Western Michigan Broncos
+      - name: Miami RedHawks
+      - name: St. Cloud State Huskies
+      - name: Denver Pioneers
 NHL:
     parser: nhl
     teams:
@@ -165,12 +165,12 @@ OHL:
     base_url: 
         https://cluster.leaguestat.com/feed/index.php?feed=modulekit&view=schedule&client_code=ohl&key=2976319eb44abe94
     teams:
-      - name: Kitchener Rangers
-        team_id: 10
       - name: Owen Sound Attack
         team_id: 11
       - name: Brantford Bulldogs
         team_id: 1
+      - name: Kitchener Rangers
+        team_id: 10
 SHL:
     parser: shl
     base_url: https://www.shl.se/api/sports-v2/game-schedule
@@ -200,7 +200,7 @@ WHL:
     teams:
       - name: Regina Pats
         team_id: 212
-      - name: Penticton Vees
-        team_id: 277
       - name: Saskatoon Blades
         team_id: 213
+      - name: Penticton Vees
+        team_id: 277
