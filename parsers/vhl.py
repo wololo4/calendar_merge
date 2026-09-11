@@ -12,7 +12,7 @@ def normalize_vhl(name):
     mapping = VHL_TEAMS.get(key)
     if mapping:
         return mapping["name"]
-    print(f"[WARN] No mapping for '{name}' (key='{key}')")
+    print(f"[WARN] No mapping for VHL '{name}' (key='{key}')")
     return name
 
 def parse_vhl_html(html, team_name, season_id):
