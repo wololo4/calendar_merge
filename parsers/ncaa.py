@@ -107,7 +107,7 @@ def stadium(name):
     if key in TEAM_STADIUM:
         return TEAM_STADIUM[key]
     else:
-        print(f"[WARN] No mapping for '{name}' (key='{key}')")
+        print(f"[WARN] No mapping for NCAA '{name}' (key='{key}')")
         return name
 
 def validate_arena(arena_name):
