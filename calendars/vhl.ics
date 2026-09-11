@@ -44,6 +44,14 @@ DESCRIPTION:Game Center: https://online.vhlru.ru/online/904024
 LOCATION:Partikum Ice Palace
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Akademia Mikhailov @ Zauralye Kurgan
+DTSTART:20260910T133000Z
+DTEND:20260910T160000Z
+UID:vhl904036
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904036
+LOCATION:Ice Sports Palace Mostovik
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Khimik Voskresensk @ Olympiya Kirovo-Chepetsk
 DTSTART:20260909T153000Z
 DTEND:20260909T180000Z
@@ -458,14 +466,6 @@ DTEND:20270318T170000Z
 UID:vhl904861
 DESCRIPTION:Game Center: https://online.vhlru.ru/online/904861
 LOCATION:Sports Palace Izhstal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Akademia Mikhailov @ Zauralye Kurgan
-DTSTART:20260910T133000Z
-DTEND:20260910T160000Z
-UID:vhl904036
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904036
-LOCATION:Ice Sports Palace Mostovik
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Akademia Mikhailov @ Omskie Krylya Omsk
