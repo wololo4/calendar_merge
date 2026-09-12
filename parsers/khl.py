@@ -54,8 +54,8 @@ def parse_khl_json(events, team_filter, league):
             # ============================
             # Noms normalisés
             # ============================
-            home = normalize_team(team_a.get("name", ""), TEAM_SYNONYMS)
-            away = normalize_team(team_b.get("name", ""), TEAM_SYNONYMS)
+            home = normalize_team(team_a.get("name", ""), TEAM_SYNONYMS, league)
+            away = normalize_team(team_b.get("name", ""), TEAM_SYNONYMS, league)
 
             # ============================
             # Horaires
