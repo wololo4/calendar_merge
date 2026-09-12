@@ -230,6 +230,7 @@ TEAM_MASCOTS_FALLBACK = {
     "Colgate": "Raiders",
     "Colorado College": "Tigers",
     "Cornell": "Big Red",
+    "CT Ice": "To be determined",
     "Dartmouth College": "Big Green",
     "Denver": "Pioneers",
     "Ferris State": "Bulldogs",
