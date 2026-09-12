@@ -52,12 +52,28 @@ DESCRIPTION:Game Center: https://online.vhlru.ru/online/904036
 LOCATION:Ice Sports Palace Mostovik
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Akademia Mikhailov @ Omskie Krylya Omsk
+DTSTART:20260912T070000Z
+DTEND:20260912T093000Z
+UID:vhl904044
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904044
+LOCATION:Avangard Hockey Academy
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Khimik Voskresensk @ Olympiya Kirovo-Chepetsk
 DTSTART:20260909T153000Z
 DTEND:20260909T180000Z
 UID:vhl904030
 DESCRIPTION:Game Center: https://online.vhlru.ru/online/904030
 LOCATION:Olimp-Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Khimik Voskresensk @ Izhstal Izhevsk
+DTSTART:20260911T143000Z
+DTEND:20260911T170000Z
+UID:vhl904040
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904040
+LOCATION:Sports Palace Izhstal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Izhstal Izhevsk @ CSK VVS Samara
@@ -109,8 +125,8 @@ LOCATION:Artika Sport Palace
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Izhstal Izhevsk @ Sokol Krasnoyarsk
-DTSTART:20261011T100000Z
-DTEND:20261011T123000Z
+DTSTART:20261011T060000Z
+DTEND:20261011T083000Z
 UID:vhl904174
 DESCRIPTION:Game Center: https://online.vhlru.ru/online/904174
 LOCATION:Arena Sever
@@ -466,14 +482,6 @@ DTEND:20270318T170000Z
 UID:vhl904861
 DESCRIPTION:Game Center: https://online.vhlru.ru/online/904861
 LOCATION:Sports Palace Izhstal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Akademia Mikhailov @ Omskie Krylya Omsk
-DTSTART:20260912T070000Z
-DTEND:20260912T093000Z
-UID:vhl904044
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904044
-LOCATION:Avangard Hockey Academy
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Buran Voronezh @ Akademia Mikhailov
@@ -890,14 +898,6 @@ DTEND:20270315T183000Z
 UID:vhl904849
 DESCRIPTION:Game Center: https://online.vhlru.ru/online/904849
 LOCATION:Ice Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Khimik Voskresensk @ Izhstal Izhevsk
-DTSTART:20260911T143000Z
-DTEND:20260911T170000Z
-UID:vhl904040
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904040
-LOCATION:Sports Palace Izhstal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Khimik Voskresensk @ Toros Neftekamsk
