@@ -21,9 +21,9 @@ def normalize_team_ncaa(title):
 
         # FIX: exact match OR prefix match ONLY
         if name_low == short_lower or name_low.startswith(short_lower + " "):
-            return normalize_team(fix_ncaa_team_name(short_name), TEAM_MASCOTS_FALLBACK_NORMALIZED)
+            return normalize_team(fix_ncaa_team_name(short_name), TEAM_MASCOTS_FALLBACK_NORMALIZED, "ncaa")
 
-    return normalize_team(fix_ncaa_team_name(cleaned_title), TEAM_MASCOTS_FALLBACK_NORMALIZED)
+    return normalize_team(fix_ncaa_team_name(cleaned_title), TEAM_MASCOTS_FALLBACK_NORMALIZED, "ncaa")
 
 def full_team_name_conf(team_obj):
     raw_title = team_obj.get("title", "").strip()
