@@ -31,10 +31,10 @@ def city_to_arena(raw_location, mapping):
             return mapping[key]
     return loc
 
-def normalize_team(name, mapping):
+def normalize_team(name, mapping, league):
     key = name.lower().strip()
     if key in mapping:
         return mapping.get(key, name)
     else:
-        print(f"[WARN] No mapping for '{name}' (key='{key}')")
+        print(f"[WARN] No mapping for '{name}' (key='{key}') in '{league}'")
         return name
