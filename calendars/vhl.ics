@@ -76,6 +76,14 @@ DESCRIPTION:Game Center: https://online.vhlru.ru/online/904040
 LOCATION:Sports Palace Izhstal
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Khimik Voskresensk @ Toros Neftekamsk
+DTSTART:20260913T120000Z
+DTEND:20260913T143000Z
+UID:vhl904048
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904048
+LOCATION:Ice Palace Neftekamsk
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Izhstal Izhevsk @ CSK VVS Samara
 DTSTART:20260916T150000Z
 DTEND:20260916T173000Z
@@ -898,14 +906,6 @@ DTEND:20270315T183000Z
 UID:vhl904849
 DESCRIPTION:Game Center: https://online.vhlru.ru/online/904849
 LOCATION:Ice Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Khimik Voskresensk @ Toros Neftekamsk
-DTSTART:20260913T120000Z
-DTEND:20260913T143000Z
-UID:vhl904048
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904048
-LOCATION:Ice Palace Neftekamsk
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Khimik Voskresensk @ Molot Perm
