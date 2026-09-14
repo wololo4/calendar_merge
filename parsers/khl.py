@@ -5,8 +5,9 @@ from parsers.common import parse_iso_datetime_duration, build_description, uid, 
 from utils.ics import ICSEventBuilder
 import re
 
-
 def validate_arena(arena_name): 
+    if not arena_name:
+        return "To Be Determined"
     if arena_name not in KNOWN_ARENAS: 
         print(f"[ERROR] KHL Arena not in KNOWN_ARENAS: '{arena_name}'")
 
