@@ -35,6 +35,7 @@ TEAM_SYNONYMS = {
     "нефтехимик": "Neftekhimik Nizhnekamsk",
     "омские ястребы": "Omskie Yastreby", 
     "реактор": "Reaktor Niznekamsk",
+    "красная машина юниор": "Red Machine Junior",
     "сахалинские акулы": "Sakhalin Sharks",
     "салават юлаев": "Salavat Yulaev Ufa",
     "северсталь": "Severstal Cherepovets",
