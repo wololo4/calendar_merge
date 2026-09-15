@@ -16,8 +16,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Estacades de Trois-Rivières @ Rousseau-Royal Laval-Montré
  al
-DTSTART:20260911T190000
-DTEND:20260911T213000
+DTSTART:20260911T193000
+DTEND:20260911T220000
 UID:LHMAAAQ1903923
 DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
  eason=4951&category=5366&game=1903923
@@ -45,8 +45,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Phénix du Collège Esther-Blondin @ Rousseau-Royal Laval-M
  ontréal
-DTSTART:20260919T193000
-DTEND:20260919T220000
+DTSTART:20260919T190000
+DTEND:20260919T213000
 UID:LHMAAAQ1903963
 DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
  eason=4951&category=5366&game=1903963
