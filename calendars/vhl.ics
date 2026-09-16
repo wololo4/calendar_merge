@@ -84,6 +84,14 @@ DESCRIPTION:Game Center: https://online.vhlru.ru/online/904048
 LOCATION:Ice Palace Neftekamsk
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Khimik Voskresensk @ Molot Perm
+DTSTART:20260915T140000Z
+DTEND:20260915T163000Z
+UID:vhl904053
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904053
+LOCATION:Universal Sports Palace Molot
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Izhstal Izhevsk @ CSK VVS Samara
 DTSTART:20260916T150000Z
 DTEND:20260916T173000Z
@@ -906,14 +914,6 @@ DTEND:20270315T183000Z
 UID:vhl904849
 DESCRIPTION:Game Center: https://online.vhlru.ru/online/904849
 LOCATION:Ice Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Khimik Voskresensk @ Molot Perm
-DTSTART:20260915T140000Z
-DTEND:20260915T163000Z
-UID:vhl904053
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904053
-LOCATION:Universal Sports Palace Molot
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Yuzhny Ural Orsk @ Khimik Voskresensk
