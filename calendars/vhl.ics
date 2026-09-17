@@ -28,6 +28,14 @@ DESCRIPTION:Game Center: https://online.vhlru.ru/online/904028
 LOCATION:Sports Palace Izhstal
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk @ CSK VVS Samara
+DTSTART:20260916T150000Z
+DTEND:20260916T173000Z
+UID:vhl904056
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904056
+LOCATION:Vladimir Vysotsky Sport Palace
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Akademia Mikhailov @ Ugra Khanty-Mansiysk
 DTSTART:20260906T120000Z
 DTEND:20260906T143000Z
@@ -90,14 +98,6 @@ DTEND:20260915T163000Z
 UID:vhl904053
 DESCRIPTION:Game Center: https://online.vhlru.ru/online/904053
 LOCATION:Universal Sports Palace Molot
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Izhstal Izhevsk @ CSK VVS Samara
-DTSTART:20260916T150000Z
-DTEND:20260916T173000Z
-UID:vhl904056
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904056
-LOCATION:Vladimir Vysotsky Sport Palace
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Izhstal Izhevsk @ Neftyanik Almetyevsk
