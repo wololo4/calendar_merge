@@ -10,10 +10,7 @@ DTEND:20260920T013000
 UID:nhl2026010006
 DESCRIPTION:Pre-Season Game\nTV (Canada): TSN2 (Anglais)\, RDSI (Français
  )\, TSN4 (Anglais)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-tor
- /2026/09/19/2026010006\nTickets: https://www.ticketmaster.ca/event/100064E
- DD6F5121D?brand=torontomapleleafs&artistid=806033&wt.mc_id=NHL_TEAM_TOR_SC
- HEDULE_PR1&utm_source=NHL.com&utm_medium=client_PM&utm_campaign=NHL_TEAM_T
- OR&utm_content=SCHEDULE_PR1
+ /2026/09/19/2026010006
 LOCATION:Scotiabank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -23,10 +20,7 @@ DTEND:20260920T013000
 UID:nhl2026010007
 DESCRIPTION:Pre-Season Game\nTV (Canada): SN1 (Anglais)\, RDS (Français)
  \nGame Center: https://www.nhl.com/gamecenter/tor-vs-mtl/2026/09/19/202601
- 0007\nTickets: https://www.ticketmaster.ca/event/310064FACA9986E8?lang=en-
- ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCHEDULE_PR1&utm_
- source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&utm_content=SCH
- EDULE_PR1
+ 0007
 LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
