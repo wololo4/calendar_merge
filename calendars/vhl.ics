@@ -44,6 +44,14 @@ DESCRIPTION:Game Center: https://online.vhlru.ru/online/904065
 LOCATION:Yubileyny Sports Palace
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk @ Bars Kazan
+DTSTART:20260920T100000Z
+DTEND:20260920T123000Z
+UID:vhl904075
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904075
+LOCATION:Sports Palace Kazan
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Akademia Mikhailov @ Ugra Khanty-Mansiysk
 DTSTART:20260906T120000Z
 DTEND:20260906T143000Z
@@ -124,12 +132,12 @@ DESCRIPTION:Game Center: https://online.vhlru.ru/online/904053
 LOCATION:Universal Sports Palace Molot
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Izhstal Izhevsk @ Bars Kazan
-DTSTART:20260920T100000Z
-DTEND:20260920T123000Z
-UID:vhl904075
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904075
-LOCATION:Sports Palace Kazan
+SUMMARY:🏒 | Yuzhny Ural Orsk @ Khimik Voskresensk
+DTSTART:20260920T140000Z
+DTEND:20260920T163000Z
+UID:vhl904079
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904079
+LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Ryazan-VDV @ Izhstal Izhevsk
@@ -914,14 +922,6 @@ DTEND:20270315T183000Z
 UID:vhl904849
 DESCRIPTION:Game Center: https://online.vhlru.ru/online/904849
 LOCATION:Ice Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Yuzhny Ural Orsk @ Khimik Voskresensk
-DTSTART:20260920T140000Z
-DTEND:20260920T163000Z
-UID:vhl904079
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904079
-LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Magnitka Magnitogorsk @ Khimik Voskresensk
