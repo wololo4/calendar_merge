@@ -144,10 +144,10 @@ NCAA_NCHC:
     base_url: 
         https://nchchockey.com/services/responsive-calendar.ashx?sport_id=0&school_id=0
     teams:
-      - name: Denver Pioneers
       - name: Miami RedHawks
       - name: Western Michigan Broncos
       - name: St. Cloud State Huskies
+      - name: Denver Pioneers
 NHL:
     parser: nhl
     teams:
@@ -165,10 +165,10 @@ OHL:
     base_url: 
         https://cluster.leaguestat.com/feed/index.php?feed=modulekit&view=schedule&client_code=ohl&key=2976319eb44abe94
     teams:
-      - name: Kitchener Rangers
-        team_id: 10
       - name: Brantford Bulldogs
         team_id: 1
+      - name: Kitchener Rangers
+        team_id: 10
       - name: Owen Sound Attack
         team_id: 11
 SHL:
@@ -200,7 +200,7 @@ WHL:
     teams:
       - name: Regina Pats
         team_id: 212
-      - name: Penticton Vees
-        team_id: 277
       - name: Saskatoon Blades
         team_id: 213
+      - name: Penticton Vees
+        team_id: 277
