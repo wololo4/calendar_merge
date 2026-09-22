@@ -30,7 +30,7 @@ DTEND:20260922T013000
 UID:nhl2026010022
 DESCRIPTION:Pre-Season Game\nTV (Canada): SN1 (Anglais)\, TVAS (Français)
  \nGame Center: https://www.nhl.com/gamecenter/ott-vs-mtl/2026/09/21/202601
- 0022\nTickets: https://www.nhl.com/canadiens/tickets/
+ 0022
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -744,12 +744,11 @@ SUMMARY:🏒 | Montréal Canadiens @ Calgary Flames
 DTSTART:20270129T010000
 DTEND:20270129T033000
 UID:nhl2026020855
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-cgy/202
- 7/01/28/2026020855\nTickets: https://www.ticketmaster.ca/event/110064FCC9D
- 177F3?brand=calgaryflames&artistid=805907&wt.mc_id=NHL_TEAM_CGY_SCHEDULE_G
- M26&utm_source=NHL.com&utm_medium=client_PM&utm_campaign=NHL_TEAM_CGY&utm_
- content=SCHEDULE_GM26
+DESCRIPTION:Regular Season Game\nTV (Canada): SNW (Anglais)\nGame Center: 
+ https://www.nhl.com/gamecenter/mtl-vs-cgy/2027/01/28/2026020855\nTickets: 
+ https://www.ticketmaster.ca/event/110064FCC9D177F3?brand=calgaryflames&art
+ istid=805907&wt.mc_id=NHL_TEAM_CGY_SCHEDULE_GM26&utm_source=NHL.com&utm_me
+ dium=client_PM&utm_campaign=NHL_TEAM_CGY&utm_content=SCHEDULE_GM26
 LOCATION:Scotiabank Saddledome
 END:VEVENT
 BEGIN:VEVENT

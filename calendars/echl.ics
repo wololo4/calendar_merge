@@ -99,7 +99,8 @@ DTSTART:20261114T001000
 DTEND:20261114T024000
 UID:echl25634
 DESCRIPTION:Game Center: https://echl.com/games/2026/11/13/atlanta-gladiat
- ors-vs-trois-rivieres-lions\nStreaming link not yet available
+ ors-vs-trois-rivieres-lions\nStreaming: https://www.flohockey.tv/events/16
+ 024729-2026-trois-rivieres-lions-vs-atlanta-gladiators
 LOCATION:Gas South Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -108,7 +109,8 @@ DTSTART:20261115T201000
 DTEND:20261115T224000
 UID:echl25657
 DESCRIPTION:Game Center: https://echl.com/games/2026/11/15/atlanta-gladiat
- ors-vs-trois-rivieres-lions\nStreaming link not yet available
+ ors-vs-trois-rivieres-lions\nStreaming: https://www.flohockey.tv/events/16
+ 023777-2026-trois-rivieres-lions-vs-atlanta-gladiators
 LOCATION:Gas South Arena
 END:VEVENT
 BEGIN:VEVENT

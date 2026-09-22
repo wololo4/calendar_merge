@@ -4,6 +4,182 @@ PRODID:-//Hockey Calendar//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+SUMMARY:🏒 | Czechia @ Norway
+DTSTART:20261226T180000
+DTEND:20261226T203000
+UID:hockeycanada5803
+DESCRIPTION:Tournament: World Junior Championship - Preliminary\nGame Cent
+ er: https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26/world
+ -championship/stats/game-summary/5803\nTV: RDS\nStreaming link not yet ava
+ ilable
+LOCATION:Rogers Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Sweden @ Finland
+DTSTART:20261226T203000
+DTEND:20261226T230000
+UID:hockeycanada5804
+DESCRIPTION:Tournament: World Junior Championship - Preliminary\nGame Cent
+ er: https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26/world
+ -championship/stats/game-summary/5804\nTV: RDS\nStreaming link not yet ava
+ ilable
+LOCATION:Westerner Park Centrium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Canada @ Switzerland
+DTSTART:20261226T230000
+DTEND:20261227T013000
+UID:hockeycanada5805
+DESCRIPTION:Tournament: World Junior Championship - Preliminary\nGame Cent
+ er: https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26/world
+ -championship/stats/game-summary/5805\nTV: RDS\nStreaming link not yet ava
+ ilable
+LOCATION:Rogers Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | United States @ Germany
+DTSTART:20261227T013000
+DTEND:20261227T040000
+UID:hockeycanada5806
+DESCRIPTION:Tournament: World Junior Championship - Preliminary\nGame Cent
+ er: https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26/world
+ -championship/stats/game-summary/5806\nTV: RDS\nStreaming link not yet ava
+ ilable
+LOCATION:Westerner Park Centrium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Latvia @ Czechia
+DTSTART:20261227T180000
+DTEND:20261227T203000
+UID:hockeycanada5807
+DESCRIPTION:Tournament: World Junior Championship - Preliminary\nGame Cent
+ er: https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26/world
+ -championship/stats/game-summary/5807\nTV: RDS\nStreaming link not yet ava
+ ilable
+LOCATION:Rogers Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Slovakia @ Sweden
+DTSTART:20261227T203000
+DTEND:20261227T230000
+UID:hockeycanada5808
+DESCRIPTION:Tournament: World Junior Championship - Preliminary\nGame Cent
+ er: https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26/world
+ -championship/stats/game-summary/5808\nTV: RDS\nStreaming link not yet ava
+ ilable
+LOCATION:Westerner Park Centrium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Switzerland @ Norway
+DTSTART:20261227T230000
+DTEND:20261228T013000
+UID:hockeycanada5809
+DESCRIPTION:Tournament: World Junior Championship - Preliminary\nGame Cent
+ er: https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26/world
+ -championship/stats/game-summary/5809\nTV: RDS\nStreaming link not yet ava
+ ilable
+LOCATION:Rogers Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Germany @ Finland
+DTSTART:20261228T013000
+DTEND:20261228T040000
+UID:hockeycanada5810
+DESCRIPTION:Tournament: World Junior Championship - Preliminary\nGame Cent
+ er: https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26/world
+ -championship/stats/game-summary/5810\nTV: RDS\nStreaming link not yet ava
+ ilable
+LOCATION:Westerner Park Centrium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Slovakia @ United States
+DTSTART:20261228T203000
+DTEND:20261228T230000
+UID:hockeycanada5811
+DESCRIPTION:Tournament: World Junior Championship - Preliminary\nGame Cent
+ er: https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26/world
+ -championship/stats/game-summary/5811\nTV: RDS\nStreaming link not yet ava
+ ilable
+LOCATION:Westerner Park Centrium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Canada @ Latvia
+DTSTART:20261228T230000
+DTEND:20261229T013000
+UID:hockeycanada5812
+DESCRIPTION:Tournament: World Junior Championship - Preliminary\nGame Cent
+ er: https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26/world
+ -championship/stats/game-summary/5812\nTV: RDS\nStreaming link not yet ava
+ ilable
+LOCATION:Rogers Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Switzerland @ Czechia
+DTSTART:20261229T180000
+DTEND:20261229T203000
+UID:hockeycanada5813
+DESCRIPTION:Tournament: World Junior Championship - Preliminary\nGame Cent
+ er: https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26/world
+ -championship/stats/game-summary/5813\nTV: RDS\nStreaming link not yet ava
+ ilable
+LOCATION:Rogers Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Finland @ United States
+DTSTART:20261229T203000
+DTEND:20261229T230000
+UID:hockeycanada5814
+DESCRIPTION:Tournament: World Junior Championship - Preliminary\nGame Cent
+ er: https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26/world
+ -championship/stats/game-summary/5814\nTV: RDS\nStreaming link not yet ava
+ ilable
+LOCATION:Westerner Park Centrium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Norway @ Canada
+DTSTART:20261229T230000
+DTEND:20261230T013000
+UID:hockeycanada5815
+DESCRIPTION:Tournament: World Junior Championship - Preliminary\nGame Cent
+ er: https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26/world
+ -championship/stats/game-summary/5815\nTV: RDS\nStreaming link not yet ava
+ ilable
+LOCATION:Rogers Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Sweden @ Germany
+DTSTART:20261230T013000
+DTEND:20261230T040000
+UID:hockeycanada5816
+DESCRIPTION:Tournament: World Junior Championship - Preliminary\nGame Cent
+ er: https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26/world
+ -championship/stats/game-summary/5816\nTV: RDS\nStreaming link not yet ava
+ ilable
+LOCATION:Westerner Park Centrium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Norway @ Latvia
+DTSTART:20261230T190000
+DTEND:20261230T213000
+UID:hockeycanada5817
+DESCRIPTION:Tournament: World Junior Championship - Preliminary\nGame Cent
+ er: https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26/world
+ -championship/stats/game-summary/5817\nTV: RDS\nStreaming link not yet ava
+ ilable
+LOCATION:Rogers Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Germany @ Slovakia
+DTSTART:20261230T223000
+DTEND:20261231T010000
+UID:hockeycanada5818
+DESCRIPTION:Tournament: World Junior Championship - Preliminary\nGame Cent
+ er: https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26/world
+ -championship/stats/game-summary/5818\nTV: RDS\nStreaming link not yet ava
+ ilable
+LOCATION:Westerner Park Centrium
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Germany @ Sweden
 DTSTART:20260808T200000
 DTEND:20260808T223000
