@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 from parsers.nhl import parse_nhl_json_to_calendar
 from parsers.hockeytech import parse_hockeytech
 from parsers.publicationsports import parse_publicationsports
-from parsers.ncaa import parse_ncaa_east, parse_ncaa_conf, parse_ncaa_b10
+from parsers.ncaa import parse_ncaa_east, parse_ncaa_conf
 from parsers.khl import parse_khl_json
 from parsers.chl_europe import parse_chl_europe_json_to_calendar
 from parsers.nl import parse_nl_json
@@ -210,16 +210,6 @@ def download_ncaa_conf(league, team_name, url, team_filter):
         print(f"Error parsing {league} JSON:", e)
         return league, team_name, None
     calendar = parse_ncaa_conf(raw_json, team_name)
-    return league, team_name, calendar
-
-@register_downloader("ncaa_b10")
-def download_ncaa_b10(league, team_name, url, team_filter):
-    try:
-        raw_json = fetch_json(url)
-    except Exception as e:
-        print(f"Error parsing {league} JSON:", e)
-        return league, team_name, None
-    calendar = parse_ncaa_b10(raw_json, team_filter)
     return league, team_name, calendar
 
 @register_downloader("ncaa_east")
