@@ -108,9 +108,9 @@ NCAA_AHA:
     teams: []
 
 NCAA_BIG10:
-    parser: ncaa_b10
+    parser: ncaa_conf
     base_url: 
-        https://bigten.org/api/cms/b1g/api/game/?&where[sport.alias][equals]=mhky&limit=500&sort=datetime.date_scheduled
+        https://bigten.org/services/responsive-calendar.ashx?sport_id=9&school_id=0
     teams: []
 NCAA_CCHA:
     parser: ncaa_conf
