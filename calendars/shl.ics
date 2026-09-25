@@ -18,7 +18,7 @@ DTSTART:20260924T170000
 DTEND:20260924T193000
 UID:shls8v6jpqbr7
 DESCRIPTION:Game Center: https://www.shl.se/game-center/s8v6jpqbr7/qa98unl
- bd6/?state=pre-game
+ bd6/?state=post-game
 LOCATION:Coop Norrbotten Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -450,7 +450,7 @@ DTSTART:20260924T170000
 DTEND:20260924T193000
 UID:shlm01wkdm2u1
 DESCRIPTION:Game Center: https://www.shl.se/game-center/m01wkdm2u1/qa98unl
- bd6/?state=pre-game
+ bd6/?state=post-game
 LOCATION:Husqvarna Garden
 END:VEVENT
 BEGIN:VEVENT
