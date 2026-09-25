@@ -14,6 +14,7 @@ ALWAYS_KEEP = {
 
 NCAA_MAP = {
     "NCAA_AHA": "NCAA",
+    "NCAA_BIG10": "NCAA",
     "NCAA_CCHA": "NCAA",
     "NCAA_ECAC": "NCAA",
     "NCAA_NCHC": "NCAA",
@@ -168,7 +169,7 @@ PARSERS = {
     "hockeytech": hockeytech_fetch,
     "khl": khl_fetch,
     "liiga": liiga_fetch,
-    "ncaa_b10": ncaa_b10_fetch,
+#    "ncaa_b10": ncaa_b10_fetch,
     "ncaa_east": None,
     "nl": nl_fetch,
     "shl": shl_fetch,
