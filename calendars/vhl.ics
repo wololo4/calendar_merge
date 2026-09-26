@@ -108,6 +108,14 @@ DESCRIPTION:Game Center: https://online.vhlru.ru/online/904095
 LOCATION:Ice Palace
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Kristall Saratov @ Akademia Mikhailov
+DTSTART:20260925T160000Z
+DTEND:20260925T183000Z
+UID:vhl904103
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904103
+LOCATION:Ice Palace
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Khimik Voskresensk @ Olympiya Kirovo-Chepetsk
 DTSTART:20260909T153000Z
 DTEND:20260909T180000Z
@@ -546,14 +554,6 @@ DTEND:20270318T170000Z
 UID:vhl904861
 DESCRIPTION:Game Center: https://online.vhlru.ru/online/904861
 LOCATION:Sports Palace Izhstal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kristall Saratov @ Akademia Mikhailov
-DTSTART:20260925T160000Z
-DTEND:20260925T183000Z
-UID:vhl904103
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904103
-LOCATION:Ice Palace
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Akademia Mikhailov @ Olympiya Kirovo-Chepetsk
