@@ -191,7 +191,7 @@ def parse_hockeytech(json_data, team_filter, team_name):
             description_items.append(f"TV: {', '.join(broadcasters)}")
 
         if league == "whl":
-            streaming = "Victory+"
+            streaming = "YouTube"
         else:
             streaming = flo_link if flo_link else None
         description_items.append(f"Streaming: {streaming}" if streaming else "Streaming link not yet available")
