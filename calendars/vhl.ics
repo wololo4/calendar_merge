@@ -172,6 +172,14 @@ DESCRIPTION:Game Center: https://online.vhlru.ru/online/904097
 LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Gornyak-UGMK Verkhnyaya Pyshma @ Khimik Voskresensk
+DTSTART:20260926T140000Z
+DTEND:20260926T163000Z
+UID:vhl904106
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904106
+LOCATION:Podmoskovie Ice Palace
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Ryazan-VDV @ Izhstal Izhevsk
 DTSTART:20260929T143000Z
 DTEND:20260929T170000Z
@@ -938,14 +946,6 @@ DTEND:20270315T183000Z
 UID:vhl904849
 DESCRIPTION:Game Center: https://online.vhlru.ru/online/904849
 LOCATION:Ice Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Gornyak-UGMK Verkhnyaya Pyshma @ Khimik Voskresensk
-DTSTART:20260926T140000Z
-DTEND:20260926T163000Z
-UID:vhl904106
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904106
-LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Dynamo Saint-Petersburg @ Khimik Voskresensk

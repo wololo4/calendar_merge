@@ -40,9 +40,7 @@ DTEND:20260927T013000
 UID:nhl2026010064
 DESCRIPTION:Pre-Season Game\nTV (Canada): TDB (Canadian broadcast not yet 
  announced)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-ott/2026/09
- /26/2026010064\nTickets: https://www.ticketmaster.ca/ottawa-senators-vs-mo
- ntreal-canadiens-ottawa-ontario-09-26-2026/event/310064D3868235A6?language
- =en-ca&landing=s
+ /26/2026010064
 LOCATION:Centre Canadian Tire
 END:VEVENT
 BEGIN:VEVENT
@@ -52,10 +50,7 @@ DTEND:20260927T013000
 UID:nhl2026010065
 DESCRIPTION:Pre-Season Game\nTV (Canada): RDS (Français)\, TSN5 (Anglais)
  \nGame Center: https://www.nhl.com/gamecenter/ott-vs-mtl/2026/09/26/202601
- 0065\nTickets: https://www.ticketmaster.ca/event/310064FACA9D86FB?lang=en-
- ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCHEDULE_PR2&utm_
- source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&utm_content=SCH
- EDULE_PR2
+ 0065
 LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT

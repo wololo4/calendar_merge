@@ -27,7 +27,7 @@ DTSTART:20260926T131500
 DTEND:20260926T154500
 UID:shljvejhqk9zo
 DESCRIPTION:Game Center: https://www.shl.se/game-center/jvejhqk9zo/qa98unl
- bd6/?state=pre-game
+ bd6/?state=post-game
 LOCATION:Monitor ERP Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -459,7 +459,7 @@ DTSTART:20260926T160000
 DTEND:20260926T183000
 UID:shlu0ribje54r
 DESCRIPTION:Game Center: https://www.shl.se/game-center/u0ribje54r/qa98unl
- bd6/?state=pre-game
+ bd6/?state=post-game
 LOCATION:Behrn Arena
 END:VEVENT
 BEGIN:VEVENT
