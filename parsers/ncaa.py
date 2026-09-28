@@ -14,13 +14,17 @@ TEAM_MASCOTS_FALLBACK_NORMALIZED = {
 def normalize_team_ncaa(title):
     cleaned = clean_ncaa_team_name(title)
     cleaned_title, _ = clean_ncaa_title_and_flags(cleaned)
+
+    if cleaned_title in TEAM_MASCOTS_FALLBACK_NORMALIZED.values():
+        return cleaned_title
+
     name_low = cleaned_title.lower().strip()
 
     for short_name in TEAM_MASCOTS_FALLBACK:
         short_lower = short_name.lower()
 
         # FIX: exact match OR prefix match ONLY
-        if name_low == short_lower or name_low.startswith(short_lower + " "):
+        if name_low == short_lower:
             return normalize_team(fix_ncaa_team_name(short_name), TEAM_MASCOTS_FALLBACK_NORMALIZED, "ncaa")
 
     return normalize_team(fix_ncaa_team_name(cleaned_title), TEAM_MASCOTS_FALLBACK_NORMALIZED, "ncaa")
@@ -44,7 +48,7 @@ def full_team_name_conf(team_obj):
     if fallback:
         return f"{title} {fallback}".strip()
 
-    print(f"ERROR no mascot with {title}")
+    print(f"[ERROR] no mascot with {title}")
     return title
 
 def is_ncaa_tournament(name):
@@ -52,6 +56,12 @@ def is_ncaa_tournament(name):
         return False
     
     tournament_keywords = [
+        "big ten conference tournament championship",
+        "big ten conference tournament quarterfinals",
+        "big ten conference tournament semifinals",
+        "big ten championship",
+        "big ten quarterfinal", 
+        "big ten semifinal", 
         "ccha mason cup championship",
         "ccha mason cup championship - first round series",
         "ccha mason cup championship - semifinals",
@@ -243,14 +253,17 @@ def parse_ncaa_east(json_data, team_name):
             start_date = ev.get("date")[:10] if ev.get("date") else None
             end_date = ev.get("enddate")[:10] if ev.get("enddate") else None
 
-            promo = ev.get("gamePromotionText", "")
+            scrimmage = ev.get("type")
+            if scrimmage == 'S' or is_exhibition:
+                continue
+
+            streaming = ev.get("media", {}).get("tv", "")
 
             description = build_description([
                 f"Game date to be determined" if ev.get("tbd") else None,
                 f"From {start_date} to {end_date}" if start_date and end_date and start_date != end_date else None,
                 links[0] if links else None,
-                f"Exhibition Game" if is_exhibition else None,
-                f"Scrimmage Game" if promo and "scrimmage" in promo.lower() else None
+                f"Streaming: {streaming}" if streaming else None
             ])
 
             event = (
@@ -277,8 +290,14 @@ def parse_ncaa_conf(json_data, team_name):
         school = ev.get("school", {})
         opp = ev.get("opponent", {})
 
-        school_title = normalize_team_ncaa(school.get("title", ""))
-        opp_title = normalize_team_ncaa(opp.get("title", ""))
+        school_raw = school.get("title", "")
+        opp_raw = opp.get("title", "")
+
+        if is_ncaa_tournament(school_raw) or is_ncaa_tournament(opp_raw):
+            continue
+
+        school_title = normalize_team_ncaa(school_raw)
+        opp_title = normalize_team_ncaa(opp_raw)
         team_title = normalize_team_ncaa(TEAM_NORMALIZATION.get(team_name, team_name))
 
         if team_title != school_title and team_title != opp_title:
@@ -292,7 +311,13 @@ def parse_ncaa_conf(json_data, team_name):
         if ev.get("tba") == True:
             start_dt, end_dt = parse_iso_datetime_duration(ev.get("date", ""))
         elif ev.get("tba") == False:
-            start_dt, end_dt = parse_iso_datetime_duration(ev.get("date_utc", ""))
+            date_utc = ev.get("date_utc", "")
+            if date_utc:
+                if not date_utc.endswith("Z"):
+                    date_utc = date_utc + "Z"
+                start_dt, end_dt = parse_iso_datetime_duration(date_utc)
+            else:
+                start_dt, end_dt = parse_iso_datetime_duration(ev.get("date", ""))
         if not start_dt:
             continue
 
@@ -304,11 +329,14 @@ def parse_ncaa_conf(json_data, team_name):
 
         # Scrimmage detection
         scrimmage = ev.get("type", "")
-        is_scrimmage = scrimmage == 'S'
+        if scrimmage == 'S':
+            continue
+
+        streaming = ev.get("media", {}).get("tv", "")
 
         description = build_description([
             f"Game time to be determined" if ev.get("tba") == True else None,
-            f"Scrimmage Game" if is_scrimmage else None
+            f"Streaming: {streaming}" if streaming else None
         ])
 
         event = (

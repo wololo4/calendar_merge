@@ -1,6 +1,7 @@
 import os
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor
+from datetime import datetime
 
 from utils.database import export_calendar_from_db, initialize_database, store_event, clear_league
 from utils.downloader import download_single_feed
@@ -14,6 +15,8 @@ def main():
     with ThreadPoolExecutor(max_workers=35) as executor:
         results = executor.map(download_single_feed, feeds)
     
+    seen_ncaa = {}
+
     for league, team_name, calendar in results:
         if calendar is None:
             print(f"Téléchargement: {league} – {team_name} (0 events, skipped)")
@@ -40,6 +43,23 @@ def main():
 
             db_league = "NCAA" if league.startswith("NCAA") else league
 
+            if db_league == "NCAA":
+                game_time = datetime.fromisoformat(dtstart_value)
+                key = summary.lower().strip()
+                existing_times = seen_ncaa.setdefault(key, [])
+                duplicate = False
+                for existing_time in existing_times:
+                    diff_hours = abs(
+                        (game_time - existing_time).total_seconds()
+                    ) / 3600
+                    if diff_hours <= 8:
+                        duplicate = True
+                        # print(f"SKIPPED {uid}")
+                        break
+                if duplicate:
+                    continue
+                existing_times.append(game_time)
+                
             store_event(
                 league=db_league,
                 team_name=team_name,

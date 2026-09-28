@@ -416,22 +416,6 @@ def handle_ncaa_conf(feeds, league, data):
         feeds.append((league, team_name, url, [], "ncaa_conf"))
 
 # ============================
-# NCAA_Big10 ( BIG10)
-# ============================
-@register_parser("ncaa_b10")
-def handle_ncaa_b10(feeds, league, data):
-    base_url = data["base_url"]
-    season_start, season_end = current_hockey_season_range()
-
-    url = (
-        f"{base_url}"
-        f"&where[datetime.date_scheduled][greater_than_equal]={season_start}"
-        f"&where[datetime.date_scheduled][less_than]={season_end}"
-    )
-    for team_name, team_id, team in iter_teams(data):
-        feeds.append((league, team_name, url,[team_id], "ncaa_b10"))
-
-# ============================
 # NL JSON parser
 # ============================
 @register_parser("nl")
