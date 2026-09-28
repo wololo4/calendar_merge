@@ -84,12 +84,12 @@ SUMMARY:🏒 | Caroline Hurricanes @ Montréal Canadiens
 DTSTART:20261006T230000
 DTEND:20261007T013000
 UID:nhl2026020045
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/car-vs-mtl/202
- 6/10/06/2026020045\nTickets: https://www.ticketmaster.ca/event/310064FACAA
- 28703?lang=en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCH
- EDULE_GM1&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&u
- tm_content=SCHEDULE_GM1
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/car-vs-mtl/2026/10/06/20
+ 26020045\nTickets: https://www.ticketmaster.ca/event/310064FACAA28703?lang
+ =en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCHEDULE_GM1&
+ utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&utm_content
+ =SCHEDULE_GM1
 LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
@@ -97,12 +97,12 @@ SUMMARY:🏒 | Nashville Predators @ Montréal Canadiens
 DTSTART:20261008T230000
 DTEND:20261009T013000
 UID:nhl2026020058
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/nsh-vs-mtl/202
- 6/10/08/2026020058\nTickets: https://www.ticketmaster.ca/event/310064FACAA
- 6870A?lang=en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCH
- EDULE_GM2&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&u
- tm_content=SCHEDULE_GM2
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/nsh-vs-mtl/2026/10/08/20
+ 26020058\nTickets: https://www.ticketmaster.ca/event/310064FACAA6870A?lang
+ =en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCHEDULE_GM2&
+ utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&utm_content
+ =SCHEDULE_GM2
 LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
@@ -123,12 +123,12 @@ SUMMARY:🏒 | Buffalo Sabres @ Montréal Canadiens
 DTSTART:20261013T223000
 DTEND:20261014T010000
 UID:nhl2026020092
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/buf-vs-mtl/202
- 6/10/13/2026020092\nTickets: https://www.ticketmaster.ca/event/310064FACAB
- 08723?lang=en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCH
- EDULE_GM4&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&u
- tm_content=SCHEDULE_GM4
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/buf-vs-mtl/2026/10/13/20
+ 26020092\nTickets: https://www.ticketmaster.ca/event/310064FACAB08723?lang
+ =en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCHEDULE_GM4&
+ utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&utm_content
+ =SCHEDULE_GM4
 LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
@@ -161,12 +161,12 @@ SUMMARY:🏒 | San Jose Sharks @ Montréal Canadiens
 DTSTART:20261020T230000
 DTEND:20261021T013000
 UID:nhl2026020141
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/sjs-vs-mtl/202
- 6/10/20/2026020141\nTickets: https://www.ticketmaster.ca/event/310064FACAB
- 98731?lang=en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCH
- EDULE_GM6&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&u
- tm_content=SCHEDULE_GM6
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/sjs-vs-mtl/2026/10/20/20
+ 26020141\nTickets: https://www.ticketmaster.ca/event/310064FACAB98731?lang
+ =en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCHEDULE_GM6&
+ utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&utm_content
+ =SCHEDULE_GM6
 LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
@@ -174,10 +174,10 @@ SUMMARY:🏒 | Montréal Canadiens @ Chicago Blackhawks
 DTSTART:20261024T000000
 DTEND:20261024T023000
 UID:nhl2026020166
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-chi/202
- 6/10/23/2026020166\nTickets: https://www.ticketmaster.com/event/040064F090
- 4477E7?brand=blackhawks&artistid=805913&wt.mc_id=NHL_TEAM_CHI_SCHEDULE_GM6
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-chi/2026/10/23/20
+ 26020166\nTickets: https://www.ticketmaster.com/event/040064F0904477E7?bra
+ nd=blackhawks&artistid=805913&wt.mc_id=NHL_TEAM_CHI_SCHEDULE_GM6
 LOCATION:United Center
 END:VEVENT
 BEGIN:VEVENT
@@ -195,12 +195,11 @@ SUMMARY:🏒 | Montréal Canadiens @ St. Louis Blues
 DTSTART:20261028T000000
 DTEND:20261028T023000
 UID:nhl2026020191
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-stl/202
- 6/10/27/2026020191\nTickets: https://www.ticketmaster.com/event/060064EECE
- 021B24?brand=blues&artistid=806025&wt.mc_id=NHL_TEAM_STL_SCHEDULE_GM6&utm_
- source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_STL&utm_content=SCH
- EDULE_GM6
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-stl/2026/10/27/20
+ 26020191\nTickets: https://www.ticketmaster.com/event/060064EECE021B24?bra
+ nd=blues&artistid=806025&wt.mc_id=NHL_TEAM_STL_SCHEDULE_GM6&utm_source=NHL
+ .com&utm_medium=client&utm_campaign=NHL_TEAM_STL&utm_content=SCHEDULE_GM6
 LOCATION:Enterprise Center
 END:VEVENT
 BEGIN:VEVENT
@@ -208,11 +207,11 @@ SUMMARY:🏒 | Montréal Canadiens @ Dallas Stars
 DTSTART:20261030T000000
 DTEND:20261030T023000
 UID:nhl2026020209
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-dal/202
- 6/10/29/2026020209\nTickets: https://www.ticketmaster.com/event/0C0064EDDB
- 92A48B?brand=dallas_stars&wt.mc_id=NHL_TEAM_DAL_SCHEDULE_GM8&utm_source=NH
- L.com&utm_medium=client&utm_campaign=NHL_TEAM_DAL&utm_content=SCHEDULE_GM8
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-dal/2026/10/29/20
+ 26020209\nTickets: https://www.ticketmaster.com/event/0C0064EDDB92A48B?bra
+ nd=dallas_stars&wt.mc_id=NHL_TEAM_DAL_SCHEDULE_GM8&utm_source=NHL.com&utm_
+ medium=client&utm_campaign=NHL_TEAM_DAL&utm_content=SCHEDULE_GM8
 LOCATION:American Airlines Center
 END:VEVENT
 BEGIN:VEVENT
@@ -233,12 +232,12 @@ SUMMARY:🏒 | Winnipeg Jets @ Montréal Canadiens
 DTSTART:20261104T000000
 DTEND:20261104T023000
 UID:nhl2026020237
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/wpg-vs-mtl/202
- 6/11/03/2026020237\nTickets: https://www.ticketmaster.ca/event/310064FACAC
- 28742?lang=en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCH
- EDULE_GM8&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&u
- tm_content=SCHEDULE_GM8
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\, TSN3 (Unknown)\nGame Center: https://www.nhl.com/gamecenter/wpg-vs-
+ mtl/2026/11/03/2026020237\nTickets: https://www.ticketmaster.ca/event/3100
+ 64FACAC28742?lang=en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_
+ MTL_SCHEDULE_GM8&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEA
+ M_MTL&utm_content=SCHEDULE_GM8
 LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
@@ -246,12 +245,12 @@ SUMMARY:🏒 | Utah Mammoth @ Montréal Canadiens
 DTSTART:20261106T000000
 DTEND:20261106T023000
 UID:nhl2026020251
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/uta-vs-mtl/202
- 6/11/05/2026020251\nTickets: https://www.ticketmaster.ca/event/310064FACAC
- 68747?lang=en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCH
- EDULE_GM9&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&u
- tm_content=SCHEDULE_GM9
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/uta-vs-mtl/2026/11/05/20
+ 26020251\nTickets: https://www.ticketmaster.ca/event/310064FACAC68747?lang
+ =en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCHEDULE_GM9&
+ utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&utm_content
+ =SCHEDULE_GM9
 LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
@@ -272,12 +271,12 @@ SUMMARY:🏒 | Minnesota Wild @ Montréal Canadiens
 DTSTART:20261111T000000
 DTEND:20261111T023000
 UID:nhl2026020287
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/min-vs-mtl/202
- 6/11/10/2026020287\nTickets: https://www.ticketmaster.ca/event/310064FACAC
- D8751?lang=en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCH
- EDULE_GM10&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&
- utm_content=SCHEDULE_GM10
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/min-vs-mtl/2026/11/10/20
+ 26020287\nTickets: https://www.ticketmaster.ca/event/310064FACACD8751?lang
+ =en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCHEDULE_GM10
+ &utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&utm_conten
+ t=SCHEDULE_GM10
 LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
@@ -285,12 +284,12 @@ SUMMARY:🏒 | Montréal Canadiens @ Boston Bruins
 DTSTART:20261113T000000
 DTEND:20261113T023000
 UID:nhl2026020299
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-bos/202
- 6/11/12/2026020299\nTickets: https://www.ticketmaster.com/event/010064EDC5
- 137A4E?brand=bostonbruins&artistid=805902&wt.mc_id=NHL_TEAM_BOS_SCHEDULE_G
- M10&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_BOS&utm_con
- tent=SCHEDULE_GM10
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-bos/2026/11/12/20
+ 26020299\nTickets: https://www.ticketmaster.com/event/010064EDC5137A4E?bra
+ nd=bostonbruins&artistid=805902&wt.mc_id=NHL_TEAM_BOS_SCHEDULE_GM10&utm_so
+ urce=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_BOS&utm_content=SCHED
+ ULE_GM10
 LOCATION:TD Garden
 END:VEVENT
 BEGIN:VEVENT
@@ -336,12 +335,12 @@ SUMMARY:🏒 | Montréal Canadiens @ Caroline Hurricanes
 DTSTART:20261120T000000
 DTEND:20261120T023000
 UID:nhl2026020352
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-car/202
- 6/11/19/2026020352\nTickets: https://www.ticketmaster.com/event/2D0064F4BD
- 6FD1DC?brand=carolinahurricanes&artistid=805908&wt.mc_id=NHL_TEAM_CAR_SCHE
- DULE_GM9&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_CAR&ut
- m_content=SCHEDULE_GM9
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-car/2026/11/19/20
+ 26020352\nTickets: https://www.ticketmaster.com/event/2D0064F4BD6FD1DC?bra
+ nd=carolinahurricanes&artistid=805908&wt.mc_id=NHL_TEAM_CAR_SCHEDULE_GM9&u
+ tm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_CAR&utm_content=
+ SCHEDULE_GM9
 LOCATION:Lenovo Center
 END:VEVENT
 BEGIN:VEVENT
@@ -375,9 +374,9 @@ SUMMARY:🏒 | Montréal Canadiens @ Colorado Avalanche
 DTSTART:20261126T023000
 DTEND:20261126T050000
 UID:nhl2026020397
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-col/202
- 6/11/25/2026020397\nTickets: https://avs.social/2627_SCHEDULE_GM12
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-col/2026/11/25/20
+ 26020397\nTickets: https://avs.social/2627_SCHEDULE_GM12
 LOCATION:Ball Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -385,10 +384,11 @@ SUMMARY:🏒 | Montréal Canadiens @ Vegas Golden Knights
 DTSTART:20261128T210000
 DTEND:20261128T233000
 UID:nhl2026020415
-DESCRIPTION:Regular Season Game\nTV (Canada): TVAS (Français)\nGame Cente
- r: https://www.nhl.com/gamecenter/mtl-vs-vgk/2026/11/28/2026020415\nTicket
- s: https://tix.axs.com/c8egKQAAAAAB6rruAgAAAACJ%2fv%2f%2f%2fwD%2f%2f%2f%2f
- %2fEnZlZ2FzZ29sZGVua25pZ2h0cwD%2f%2f%2f%2f%2f%2f%2f%2f%2f%2fw%3d%3d
+DESCRIPTION:Regular Season Game\nTV (Canada): TVAS (Français)\, TSN2 (Ang
+ lais)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-vgk/2026/11/28/2
+ 026020415\nTickets: https://tix.axs.com/c8egKQAAAAAB6rruAgAAAACJ%2fv%2f%2f
+ %2fwD%2f%2f%2f%2f%2fEnZlZ2FzZ29sZGVua25pZ2h0cwD%2f%2f%2f%2f%2f%2f%2f%2f%2f
+ %2fw%3d%3d
 LOCATION:T-Mobile Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -396,11 +396,10 @@ SUMMARY:🏒 | Montréal Canadiens @ Utah Mammoth
 DTSTART:20261201T023000
 DTEND:20261201T050000
 UID:nhl2026020435
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-uta/202
- 6/11/30/2026020435\nTickets: https://seatgeek.com/utah-mammoth-tickets/7-2
- 0-2026-salt-lake-city-utah-delta-center-1/nhl/18242291?wid=club-web-schedu
- le
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-uta/2026/11/30/20
+ 26020435\nTickets: https://seatgeek.com/utah-mammoth-tickets/7-20-2026-sal
+ t-lake-city-utah-delta-center-1/nhl/18242291?wid=club-web-schedule
 LOCATION:Delta Center
 END:VEVENT
 BEGIN:VEVENT
@@ -421,12 +420,12 @@ SUMMARY:🏒 | Floride Panthers @ Montréal Canadiens
 DTSTART:20261205T180000
 DTEND:20261205T203000
 UID:nhl2026020465
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/fla-vs-mtl/202
- 6/12/05/2026020465\nTickets: https://www.ticketmaster.ca/event/310064FACAE
- 38799?lang=en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCH
- EDULE_GM15&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&
- utm_content=SCHEDULE_GM15
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/fla-vs-mtl/2026/12/05/20
+ 26020465\nTickets: https://www.ticketmaster.ca/event/310064FACAE38799?lang
+ =en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCHEDULE_GM15
+ &utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&utm_conten
+ t=SCHEDULE_GM15
 LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
@@ -434,11 +433,12 @@ SUMMARY:🏒 | Ottawa Sénateurs @ Montréal Canadiens
 DTSTART:20261207T000000
 DTEND:20261207T023000
 UID:nhl2026020478
-DESCRIPTION:Regular Season Game\nTV (Canada): TVAS (Français)\nGame Cente
- r: https://www.nhl.com/gamecenter/ott-vs-mtl/2026/12/06/2026020478\nTicket
- s: https://www.ticketmaster.ca/event/310064FACAE887B5?lang=en-ca&brand=can
- adiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCHEDULE_GM16&utm_source=NHL.
- com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&utm_content=SCHEDULE_GM16
+DESCRIPTION:Regular Season Game\nTV (Canada): TVAS (Français)\, TSN2 (Ang
+ lais)\, TSN5 (Anglais)\nGame Center: https://www.nhl.com/gamecenter/ott-vs
+ -mtl/2026/12/06/2026020478\nTickets: https://www.ticketmaster.ca/event/310
+ 064FACAE887B5?lang=en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM
+ _MTL_SCHEDULE_GM16&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_T
+ EAM_MTL&utm_content=SCHEDULE_GM16
 LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
@@ -446,12 +446,12 @@ SUMMARY:🏒 | Vegas Golden Knights @ Montréal Canadiens
 DTSTART:20261209T000000
 DTEND:20261209T023000
 UID:nhl2026020486
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/vgk-vs-mtl/202
- 6/12/08/2026020486\nTickets: https://www.ticketmaster.ca/event/310064FACAE
- C87C3?lang=en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCH
- EDULE_GM17&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&
- utm_content=SCHEDULE_GM17
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/vgk-vs-mtl/2026/12/08/20
+ 26020486\nTickets: https://www.ticketmaster.ca/event/310064FACAEC87C3?lang
+ =en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCHEDULE_GM17
+ &utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&utm_conten
+ t=SCHEDULE_GM17
 LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
@@ -459,12 +459,12 @@ SUMMARY:🏒 | Anaheim Ducks @ Montréal Canadiens
 DTSTART:20261211T000000
 DTEND:20261211T023000
 UID:nhl2026020500
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/ana-vs-mtl/202
- 6/12/10/2026020500\nTickets: https://www.ticketmaster.ca/event/310064FACAF
- 187CC?lang=en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCH
- EDULE_GM18&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&
- utm_content=SCHEDULE_GM18
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/ana-vs-mtl/2026/12/10/20
+ 26020500\nTickets: https://www.ticketmaster.ca/event/310064FACAF187CC?lang
+ =en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCHEDULE_GM18
+ &utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&utm_conten
+ t=SCHEDULE_GM18
 LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
@@ -472,12 +472,12 @@ SUMMARY:🏒 | Montréal Canadiens @ Columbus Blue Jackets
 DTSTART:20261212T180000
 DTEND:20261212T203000
 UID:nhl2026020515
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-cbj/202
- 6/12/12/2026020515\nTickets: https://www.ticketmaster.com/event/050064EDD4
- 72C976?brand=bluejackets&artistid=805927&wt.mc_id=NHL_TEAM_CBJ_SCHEDULE_GM
- 16&utm_source=web_schedule_club&utm_medium=NHL.com&utm_campaign=single_gam
- e_tickets&utm_content=SCHEDULE_GM16
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-cbj/2026/12/12/20
+ 26020515\nTickets: https://www.ticketmaster.com/event/050064EDD472C976?bra
+ nd=bluejackets&artistid=805927&wt.mc_id=NHL_TEAM_CBJ_SCHEDULE_GM16&utm_sou
+ rce=web_schedule_club&utm_medium=NHL.com&utm_campaign=single_game_tickets&
+ utm_content=SCHEDULE_GM16
 LOCATION:Nationwide Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -498,12 +498,12 @@ SUMMARY:🏒 | Montréal Canadiens @ Buffalo Sabres
 DTSTART:20261219T003000
 DTEND:20261219T030000
 UID:nhl2026020559
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-buf/202
- 6/12/18/2026020559\nTickets: https://www.ticketmaster.com/event/000064EFCB
- 5480C8?brand=sabres&artistid=805906&wt.mc_id=NHL_TEAM_BUF_SCHEDULE_GM16&ut
- m_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_BUF&utm_content=S
- CHEDULE_GM16
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-buf/2026/12/18/20
+ 26020559\nTickets: https://www.ticketmaster.com/event/000064EFCB5480C8?bra
+ nd=sabres&artistid=805906&wt.mc_id=NHL_TEAM_BUF_SCHEDULE_GM16&utm_source=N
+ HL.com&utm_medium=client&utm_campaign=NHL_TEAM_BUF&utm_content=SCHEDULE_GM
+ 16
 LOCATION:KeyBank Center
 END:VEVENT
 BEGIN:VEVENT
@@ -521,12 +521,12 @@ SUMMARY:🏒 | Montréal Canadiens @ Columbus Blue Jackets
 DTSTART:20261223T000000
 DTEND:20261223T023000
 UID:nhl2026020594
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-cbj/202
- 6/12/22/2026020594\nTickets: https://www.ticketmaster.com/event/050064EDD7
- 8DD046?brand=bluejackets&artistid=805927&wt.mc_id=NHL_TEAM_CBJ_SCHEDULE_GM
- 20&utm_source=web_schedule_club&utm_medium=NHL.com&utm_campaign=single_gam
- e_tickets&utm_content=SCHEDULE_GM20
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-cbj/2026/12/22/20
+ 26020594\nTickets: https://www.ticketmaster.com/event/050064EDD78DD046?bra
+ nd=bluejackets&artistid=805927&wt.mc_id=NHL_TEAM_CBJ_SCHEDULE_GM20&utm_sou
+ rce=web_schedule_club&utm_medium=NHL.com&utm_campaign=single_game_tickets&
+ utm_content=SCHEDULE_GM20
 LOCATION:Nationwide Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -547,12 +547,12 @@ SUMMARY:🏒 | Dallas Stars @ Montréal Canadiens
 DTSTART:20261228T000000
 DTEND:20261228T023000
 UID:nhl2026020615
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/dal-vs-mtl/202
- 6/12/27/2026020615\nTickets: https://www.ticketmaster.ca/event/310064FACB0
- 087EC?lang=en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCH
- EDULE_GM21&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&
- utm_content=SCHEDULE_GM21
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/dal-vs-mtl/2026/12/27/20
+ 26020615\nTickets: https://www.ticketmaster.ca/event/310064FACB0087EC?lang
+ =en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCHEDULE_GM21
+ &utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&utm_conten
+ t=SCHEDULE_GM21
 LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
@@ -560,12 +560,12 @@ SUMMARY:🏒 | Columbus Blue Jackets @ Montréal Canadiens
 DTSTART:20261230T000000
 DTEND:20261230T023000
 UID:nhl2026020626
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/cbj-vs-mtl/202
- 6/12/29/2026020626\nTickets: https://www.ticketmaster.ca/event/310064FACB0
- 487FC?lang=en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCH
- EDULE_GM22&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&
- utm_content=SCHEDULE_GM22
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/cbj-vs-mtl/2026/12/29/20
+ 26020626\nTickets: https://www.ticketmaster.ca/event/310064FACB0487FC?lang
+ =en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCHEDULE_GM22
+ &utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&utm_conten
+ t=SCHEDULE_GM22
 LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
@@ -573,12 +573,12 @@ SUMMARY:🏒 | Montréal Canadiens @ Tampa Bay Lightning
 DTSTART:20261231T190000
 DTEND:20261231T213000
 UID:nhl2026020644
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-tbl/202
- 6/12/31/2026020644\nTickets: https://www.ticketmaster.com/event/0D0064F8CF
- 9A9E3D?brand=tblightning&artistid=806028&landing=s&wt.mc_id=NHL_TEAM_TBL_S
- CHEDULE_GM21&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_TB
- L&utm_content=SCHEDULE_GM21
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-tbl/2026/12/31/20
+ 26020644\nTickets: https://www.ticketmaster.com/event/0D0064F8CF9A9E3D?bra
+ nd=tblightning&artistid=806028&landing=s&wt.mc_id=NHL_TEAM_TBL_SCHEDULE_GM
+ 21&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_TBL&utm_cont
+ ent=SCHEDULE_GM21
 LOCATION:Benchmark International Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -586,9 +586,9 @@ SUMMARY:🏒 | Montréal Canadiens @ Floride Panthers
 DTSTART:20270102T180000
 DTEND:20270102T203000
 UID:nhl2026020656
-DESCRIPTION:Regular Season Game\nTV (Canada): TVAS (Français)\nGame Cente
- r: https://www.nhl.com/gamecenter/mtl-vs-fla/2027/01/02/2026020656\nTicket
- s: https://www.nhl.com/panthers/tickets/
+DESCRIPTION:Regular Season Game\nTV (Canada): TVAS (Français)\, TSN2 (Ang
+ lais)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-fla/2027/01/02/2
+ 026020656\nTickets: https://www.nhl.com/panthers/tickets/
 LOCATION:Amerant Bank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -648,12 +648,12 @@ SUMMARY:🏒 | Montréal Canadiens @ Nashville Predators
 DTSTART:20270115T010000
 DTEND:20270115T033000
 UID:nhl2026020749
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-nsh/202
- 7/01/14/2026020749\nTickets: https://www.ticketmaster.com/event/1B006507EF
- 6FE2F2?brand=predators&artistid=805978&landing=s&wt.mc_id=NHL_TEAM_NSH_SGT
- _PG_GM23&utm_source=NHL.com&utm_medium=PredsWebSchedule&utm_campaign=NHL_T
- EAM_NSH_SGT_PG_GM23
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-nsh/2027/01/14/20
+ 26020749\nTickets: https://www.ticketmaster.com/event/1B006507EF6FE2F2?bra
+ nd=predators&artistid=805978&landing=s&wt.mc_id=NHL_TEAM_NSH_SGT_PG_GM23&u
+ tm_source=NHL.com&utm_medium=PredsWebSchedule&utm_campaign=NHL_TEAM_NSH_SG
+ T_PG_GM23
 LOCATION:Bridgestone Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -674,12 +674,12 @@ SUMMARY:🏒 | Montréal Canadiens @ Buffalo Sabres
 DTSTART:20270118T190000
 DTEND:20270118T213000
 UID:nhl2026020776
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-buf/202
- 7/01/18/2026020776\nTickets: https://www.ticketmaster.com/event/000064EFCA
- A87D66?brand=sabres&artistid=805906&wt.mc_id=NHL_TEAM_BUF_SCHEDULE_GM25&ut
- m_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_BUF&utm_content=S
- CHEDULE_GM25
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-buf/2027/01/18/20
+ 26020776\nTickets: https://www.ticketmaster.com/event/000064EFCAA87D66?bra
+ nd=sabres&artistid=805906&wt.mc_id=NHL_TEAM_BUF_SCHEDULE_GM25&utm_source=N
+ HL.com&utm_medium=client&utm_campaign=NHL_TEAM_BUF&utm_content=SCHEDULE_GM
+ 25
 LOCATION:KeyBank Center
 END:VEVENT
 BEGIN:VEVENT
@@ -687,12 +687,11 @@ SUMMARY:🏒 | Montréal Canadiens @ Washington Capitals
 DTSTART:20270120T000000
 DTEND:20270120T023000
 UID:nhl2026020789
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-wsh/202
- 7/01/19/2026020789\nTickets: https://www.ticketmaster.com/event/150064F035
- FAE5D1?brand=capitals&artistid=806039&wt.mc_id=NHL_TEAM_WSH_SCHEDULE_GM26&
- utm_source=club_schedule&utm_medium=web_organic&utm_campaign=2627sgb_cb011
- 9mc
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-wsh/2027/01/19/20
+ 26020789\nTickets: https://www.ticketmaster.com/event/150064F035FAE5D1?bra
+ nd=capitals&artistid=806039&wt.mc_id=NHL_TEAM_WSH_SCHEDULE_GM26&utm_source
+ =club_schedule&utm_medium=web_organic&utm_campaign=2627sgb_cb0119mc
 LOCATION:Capital One Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -700,12 +699,12 @@ SUMMARY:🏒 | St. Louis Blues @ Montréal Canadiens
 DTSTART:20270122T000000
 DTEND:20270122T023000
 UID:nhl2026020799
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/stl-vs-mtl/202
- 7/01/21/2026020799\nTickets: https://www.ticketmaster.ca/event/310064FACA5
- 1863D?lang=en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCH
- EDULE_GM27&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&
- utm_content=SCHEDULE_GM27
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/stl-vs-mtl/2027/01/21/20
+ 26020799\nTickets: https://www.ticketmaster.ca/event/310064FACA51863D?lang
+ =en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCHEDULE_GM27
+ &utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&utm_conten
+ t=SCHEDULE_GM27
 LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
@@ -726,12 +725,12 @@ SUMMARY:🏒 | Caroline Hurricanes @ Montréal Canadiens
 DTSTART:20270127T000000
 DTEND:20270127T023000
 UID:nhl2026020836
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/car-vs-mtl/202
- 7/01/26/2026020836\nTickets: https://www.ticketmaster.ca/event/310064FACA5
- A8655?lang=en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCH
- EDULE_GM29&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&
- utm_content=SCHEDULE_GM29
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/car-vs-mtl/2027/01/26/20
+ 26020836\nTickets: https://www.ticketmaster.ca/event/310064FACA5A8655?lang
+ =en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCHEDULE_GM29
+ &utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&utm_conten
+ t=SCHEDULE_GM29
 LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
@@ -739,11 +738,12 @@ SUMMARY:🏒 | Montréal Canadiens @ Calgary Flames
 DTSTART:20270129T010000
 DTEND:20270129T033000
 UID:nhl2026020855
-DESCRIPTION:Regular Season Game\nTV (Canada): SNW (Anglais)\nGame Center: 
- https://www.nhl.com/gamecenter/mtl-vs-cgy/2027/01/28/2026020855\nTickets: 
- https://www.ticketmaster.ca/event/110064FCC9D177F3?brand=calgaryflames&art
- istid=805907&wt.mc_id=NHL_TEAM_CGY_SCHEDULE_GM26&utm_source=NHL.com&utm_me
- dium=client_PM&utm_campaign=NHL_TEAM_CGY&utm_content=SCHEDULE_GM26
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\, SNW (Anglais)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-c
+ gy/2027/01/28/2026020855\nTickets: https://www.ticketmaster.ca/event/11006
+ 4FCC9D177F3?brand=calgaryflames&artistid=805907&wt.mc_id=NHL_TEAM_CGY_SCHE
+ DULE_GM26&utm_source=NHL.com&utm_medium=client_PM&utm_campaign=NHL_TEAM_CG
+ Y&utm_content=SCHEDULE_GM26
 LOCATION:Scotiabank Saddledome
 END:VEVENT
 BEGIN:VEVENT
@@ -777,12 +777,12 @@ SUMMARY:🏒 | Montréal Canadiens @ Seattle Kraken
 DTSTART:20270204T024000
 DTEND:20270204T051000
 UID:nhl2026020894
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-sea/202
- 7/02/03/2026020894\nTickets: https://www.ticketmaster.com/event/0F0064C4A0
- C8A341?brand=seattlekraken&artistid=2763657&wt.mc_id=NHL_TEAM_SEA_SCHEDULE
- _GM27&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_SEA&utm_c
- ontent=SCHEDULE_GM27
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-sea/2027/02/03/20
+ 26020894\nTickets: https://www.ticketmaster.com/event/0F0064C4A0C8A341?bra
+ nd=seattlekraken&artistid=2763657&wt.mc_id=NHL_TEAM_SEA_SCHEDULE_GM27&utm_
+ source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_SEA&utm_content=SCH
+ EDULE_GM27
 LOCATION:Climate Pledge Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -790,12 +790,12 @@ SUMMARY:🏒 | Washington Capitals @ Montréal Canadiens
 DTSTART:20270213T180000
 DTEND:20270213T203000
 UID:nhl2026020912
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/wsh-vs-mtl/202
- 7/02/13/2026020912\nTickets: https://www.ticketmaster.ca/event/310064FACA5
- F865E?lang=en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCH
- EDULE_GM30&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&
- utm_content=SCHEDULE_GM30
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/wsh-vs-mtl/2027/02/13/20
+ 26020912\nTickets: https://www.ticketmaster.ca/event/310064FACA5F865E?lang
+ =en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCHEDULE_GM30
+ &utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&utm_conten
+ t=SCHEDULE_GM30
 LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
@@ -803,12 +803,12 @@ SUMMARY:🏒 | New York Rangers @ Montréal Canadiens
 DTSTART:20270214T180000
 DTEND:20270214T203000
 UID:nhl2026020927
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/nyr-vs-mtl/202
- 7/02/14/2026020927\nTickets: https://www.ticketmaster.ca/event/310064FACA6
- 38664?lang=en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCH
- EDULE_GM31&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&
- utm_content=SCHEDULE_GM31
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/nyr-vs-mtl/2027/02/14/20
+ 26020927\nTickets: https://www.ticketmaster.ca/event/310064FACA638664?lang
+ =en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCHEDULE_GM31
+ &utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&utm_conten
+ t=SCHEDULE_GM31
 LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
@@ -816,12 +816,12 @@ SUMMARY:🏒 | Montréal Canadiens @ Detroit Red Wings
 DTSTART:20270219T000000
 DTEND:20270219T023000
 UID:nhl2026020952
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-det/202
- 7/02/18/2026020952\nTickets: https://www.ticketmaster.com/event/080064EED8
- 42806C?brand=redwings&artistid=805938&wt.mc_id=NHL_TEAM_DET_SCHEDULE_GM32&
- utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_DET&utm_content
- =SCHEDULE_GM32
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-det/2027/02/18/20
+ 26020952\nTickets: https://www.ticketmaster.com/event/080064EED842806C?bra
+ nd=redwings&artistid=805938&wt.mc_id=NHL_TEAM_DET_SCHEDULE_GM32&utm_source
+ =NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_DET&utm_content=SCHEDULE_
+ GM32
 LOCATION:Little Caesars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -842,12 +842,12 @@ SUMMARY:🏒 | Montréal Canadiens @ Philadelphie Flyers
 DTSTART:20270222T190000
 DTEND:20270222T213000
 UID:nhl2026020986
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-phi/202
- 7/02/22/2026020986\nTickets: https://www.ticketmaster.com/event/300064EEEE
- 49E0A9?brand=flyers&artistid=806000&wt.mc_id=NHL_TEAM_PHI_SCHEDULE_GM32&ut
- m_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_PHI&utm_content=S
- CHEDULE_GM32
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-phi/2027/02/22/20
+ 26020986\nTickets: https://www.ticketmaster.com/event/300064EEEE49E0A9?bra
+ nd=flyers&artistid=806000&wt.mc_id=NHL_TEAM_PHI_SCHEDULE_GM32&utm_source=N
+ HL.com&utm_medium=client&utm_campaign=NHL_TEAM_PHI&utm_content=SCHEDULE_GM
+ 32
 LOCATION:Xfinity Mobile Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -855,10 +855,9 @@ SUMMARY:🏒 | Montréal Canadiens @ Los Angeles Kings
 DTSTART:20270225T030000
 DTEND:20270225T053000
 UID:nhl2026021003
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-lak/202
- 7/02/24/2026021003\nTickets: https://www.nhl.com/kings/tickets/single-game
- -tickets
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-lak/2027/02/24/20
+ 26021003\nTickets: https://www.nhl.com/kings/tickets/single-game-tickets
 LOCATION:Crypto.com Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -879,12 +878,12 @@ SUMMARY:🏒 | Montréal Canadiens @ San Jose Sharks
 DTSTART:20270302T030000
 DTEND:20270302T053000
 UID:nhl2026021042
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-sjs/202
- 7/03/01/2026021042\nTickets: https://www.ticketmaster.com/event/1C0064E79B
- 699D49?brand=sharks&artistid=806018&wt.mc_id=NHL_TEAM_SJS_SCHEDULE_GM33&ut
- m_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_SJS&utm_content=S
- CHEDULE_GM33
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-sjs/2027/03/01/20
+ 26021042\nTickets: https://www.ticketmaster.com/event/1C0064E79B699D49?bra
+ nd=sharks&artistid=806018&wt.mc_id=NHL_TEAM_SJS_SCHEDULE_GM33&utm_source=N
+ HL.com&utm_medium=client&utm_campaign=NHL_TEAM_SJS&utm_content=SCHEDULE_GM
+ 33
 LOCATION:SAP Center de San Jose
 END:VEVENT
 BEGIN:VEVENT
@@ -892,12 +891,12 @@ SUMMARY:🏒 | Seattle Kraken @ Montréal Canadiens
 DTSTART:20270305T000000
 DTEND:20270305T023000
 UID:nhl2026021057
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/sea-vs-mtl/202
- 7/03/04/2026021057\nTickets: https://www.ticketmaster.ca/event/310064FACA6
- C8671?lang=en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCH
- EDULE_GM33&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&
- utm_content=SCHEDULE_GM33
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/sea-vs-mtl/2027/03/04/20
+ 26021057\nTickets: https://www.ticketmaster.ca/event/310064FACA6C8671?lang
+ =en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCHEDULE_GM33
+ &utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&utm_conten
+ t=SCHEDULE_GM33
 LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
@@ -918,12 +917,12 @@ SUMMARY:🏒 | Montréal Canadiens @ New York Islanders
 DTSTART:20270310T000000
 DTEND:20270310T023000
 UID:nhl2026021094
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-nyi/202
- 7/03/09/2026021094\nTickets: https://www.ticketmaster.com/event/300064E2D3
- 0962BC?brand=nyislanders&artistid=805986&wt.mc_id=NHL_TEAM_NYI_SCHEDULE_GM
- 34&utm_source=nyi_website&utm_medium=schedulepage&utm_campaign=NHL_TEAM_NY
- I&utm_content=SCHEDULE_GM34
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-nyi/2027/03/09/20
+ 26021094\nTickets: https://www.ticketmaster.com/event/300064E2D30962BC?bra
+ nd=nyislanders&artistid=805986&wt.mc_id=NHL_TEAM_NYI_SCHEDULE_GM34&utm_sou
+ rce=nyi_website&utm_medium=schedulepage&utm_campaign=NHL_TEAM_NYI&utm_cont
+ ent=SCHEDULE_GM34
 LOCATION:UBS Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -956,12 +955,12 @@ SUMMARY:🏒 | Floride Panthers @ Montréal Canadiens
 DTSTART:20270316T230000
 DTEND:20270317T013000
 UID:nhl2026021147
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/fla-vs-mtl/202
- 7/03/16/2026021147\nTickets: https://www.ticketmaster.ca/event/310064FACA7
- 9868C?lang=en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCH
- EDULE_GM36&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&
- utm_content=SCHEDULE_GM36
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/fla-vs-mtl/2027/03/16/20
+ 26021147\nTickets: https://www.ticketmaster.ca/event/310064FACA79868C?lang
+ =en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCHEDULE_GM36
+ &utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&utm_conten
+ t=SCHEDULE_GM36
 LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
@@ -969,12 +968,12 @@ SUMMARY:🏒 | Tampa Bay Lightning @ Montréal Canadiens
 DTSTART:20270318T230000
 DTEND:20270319T013000
 UID:nhl2026021161
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/tbl-vs-mtl/202
- 7/03/18/2026021161\nTickets: https://www.ticketmaster.ca/event/310064FACA7
- E8693?lang=en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCH
- EDULE_GM37&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&
- utm_content=SCHEDULE_GM37
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/tbl-vs-mtl/2027/03/18/20
+ 26021161\nTickets: https://www.ticketmaster.ca/event/310064FACA7E8693?lang
+ =en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCHEDULE_GM37
+ &utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&utm_conten
+ t=SCHEDULE_GM37
 LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
@@ -982,12 +981,12 @@ SUMMARY:🏒 | Montréal Canadiens @ Detroit Red Wings
 DTSTART:20270320T163000
 DTEND:20270320T190000
 UID:nhl2026021175
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-det/202
- 7/03/20/2026021175\nTickets: https://www.ticketmaster.com/event/080064EED8
- 60808E?brand=redwings&artistid=805938&wt.mc_id=NHL_TEAM_DET_SCHEDULE_GM38&
- utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_DET&utm_content
- =SCHEDULE_GM38
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-det/2027/03/20/20
+ 26021175\nTickets: https://www.ticketmaster.com/event/080064EED860808E?bra
+ nd=redwings&artistid=805938&wt.mc_id=NHL_TEAM_DET_SCHEDULE_GM38&utm_source
+ =NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_DET&utm_content=SCHEDULE_
+ GM38
 LOCATION:Little Caesars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1034,12 +1033,12 @@ SUMMARY:🏒 | Detroit Red Wings @ Montréal Canadiens
 DTSTART:20270328T220000
 DTEND:20270329T003000
 UID:nhl2026021242
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/det-vs-mtl/202
- 7/03/28/2026021242\nTickets: https://www.ticketmaster.ca/event/310064FACA9
- 086CE?lang=en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCH
- EDULE_GM41&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&
- utm_content=SCHEDULE_GM41
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/det-vs-mtl/2027/03/28/20
+ 26021242\nTickets: https://www.ticketmaster.ca/event/310064FACA9086CE?lang
+ =en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCHEDULE_GM41
+ &utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&utm_conten
+ t=SCHEDULE_GM41
 LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
@@ -1047,11 +1046,12 @@ SUMMARY:🏒 | Montréal Canadiens @ Boston Bruins
 DTSTART:20270330T230000
 DTEND:20270331T013000
 UID:nhl2026021248
-DESCRIPTION:Regular Season Game\nTV (Canada): TVAS (Français)\nGame Cente
- r: https://www.nhl.com/gamecenter/mtl-vs-bos/2027/03/30/2026021248\nTicket
- s: https://www.ticketmaster.com/event/010064EDC4D17923?brand=bostonbruins&
- artistid=805902&wt.mc_id=NHL_TEAM_BOS_SCHEDULE_GM41&utm_source=NHL.com&utm
- _medium=client&utm_campaign=NHL_TEAM_BOS&utm_content=SCHEDULE_GM41
+DESCRIPTION:Regular Season Game\nTV (Canada): TVAS (Français)\, TSN2 (Ang
+ lais)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-bos/2027/03/30/2
+ 026021248\nTickets: https://www.ticketmaster.com/event/010064EDC4D17923?br
+ and=bostonbruins&artistid=805902&wt.mc_id=NHL_TEAM_BOS_SCHEDULE_GM41&utm_s
+ ource=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_BOS&utm_content=SCHE
+ DULE_GM41
 LOCATION:TD Garden
 END:VEVENT
 BEGIN:VEVENT
@@ -1059,12 +1059,12 @@ SUMMARY:🏒 | New York Rangers @ Montréal Canadiens
 DTSTART:20270401T230000
 DTEND:20270402T013000
 UID:nhl2026021263
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/nyr-vs-mtl/202
- 7/04/01/2026021263\nTickets: https://www.ticketmaster.ca/event/310064FACA9
- 586D8?lang=en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCH
- EDULE_GM42&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&
- utm_content=SCHEDULE_GM42
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/nyr-vs-mtl/2027/04/01/20
+ 26021263\nTickets: https://www.ticketmaster.ca/event/310064FACA9586D8?lang
+ =en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCHEDULE_GM42
+ &utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&utm_conten
+ t=SCHEDULE_GM42
 LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
@@ -1072,12 +1072,12 @@ SUMMARY:🏒 | Montréal Canadiens @ New York Islanders
 DTSTART:20270404T233000
 DTEND:20270405T020000
 UID:nhl2026021294
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-nyi/202
- 7/04/04/2026021294\nTickets: https://www.ticketmaster.com/event/300064E2D3
- 336309?brand=nyislanders&artistid=805986&wt.mc_id=NHL_TEAM_NYI_SCHEDULE_GM
- 40&utm_source=nyi_website&utm_medium=schedulepage&utm_campaign=NHL_TEAM_NY
- I&utm_content=SCHEDULE_GM40
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-nyi/2027/04/04/20
+ 26021294\nTickets: https://www.ticketmaster.com/event/300064E2D3336309?bra
+ nd=nyislanders&artistid=805986&wt.mc_id=NHL_TEAM_NYI_SCHEDULE_GM40&utm_sou
+ rce=nyi_website&utm_medium=schedulepage&utm_campaign=NHL_TEAM_NYI&utm_cont
+ ent=SCHEDULE_GM40
 LOCATION:UBS Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1085,9 +1085,9 @@ SUMMARY:🏒 | Montréal Canadiens @ Floride Panthers
 DTSTART:20270406T231500
 DTEND:20270407T014500
 UID:nhl2026021302
-DESCRIPTION:Regular Season Game\nTV (Canada): TDB (Canadian broadcast not 
- yet announced)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-fla/202
- 7/04/06/2026021302\nTickets: https://www.nhl.com/panthers/tickets/
+DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
+ ais)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-fla/2027/04/06/20
+ 26021302\nTickets: https://www.nhl.com/panthers/tickets/
 LOCATION:Amerant Bank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1095,12 +1095,12 @@ SUMMARY:🏒 | Montréal Canadiens @ Tampa Bay Lightning
 DTSTART:20270408T230000
 DTEND:20270409T013000
 UID:nhl2026021317
-DESCRIPTION:Regular Season Game\nTV (Canada): TVAS (Français)\nGame Cente
- r: https://www.nhl.com/gamecenter/mtl-vs-tbl/2027/04/08/2026021317\nTicket
- s: https://www.ticketmaster.com/event/0D0064F8CFDA9EE8?brand=tblightning&a
- rtistid=806028&landing=s&wt.mc_id=NHL_TEAM_TBL_SCHEDULE_GM41&utm_source=NH
- L.com&utm_medium=client&utm_campaign=NHL_TEAM_TBL&utm_content=SCHEDULE_GM4
- 1
+DESCRIPTION:Regular Season Game\nTV (Canada): TVAS (Français)\, TSN2 (Ang
+ lais)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-tbl/2027/04/08/2
+ 026021317\nTickets: https://www.ticketmaster.com/event/0D0064F8CFDA9EE8?br
+ and=tblightning&artistid=806028&landing=s&wt.mc_id=NHL_TEAM_TBL_SCHEDULE_G
+ M41&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_TBL&utm_con
+ tent=SCHEDULE_GM41
 LOCATION:Benchmark International Arena
 END:VEVENT
 BEGIN:VEVENT
