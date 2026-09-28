@@ -17,6 +17,7 @@ CANADA_BROADCAST = {
     "SNW": "Anglais",
     "SN+": "Anglais",
     "TSN2": "Anglais",
+    "TSN3": "Anglais",
     "TSN4": "Anglais",
     "TSN5": "Anglais",
 }
