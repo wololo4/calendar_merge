@@ -199,6 +199,7 @@ NCAA_TEAM_FIX = {
     "Army": "Army West Point",
     "Boston": "Boston University",
     "Boston College / Boston": "To be determined",
+    "Connecticut": "UConn",
     "Harvard/Northeastern": "To be determined",
     "Kwik Trip Holiday Face-Off": "To be determined",
     "Kwik Trip Holiday Face-Off (Arizona State, UMass)": "To be determined",
