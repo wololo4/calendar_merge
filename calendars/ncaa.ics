@@ -8,6 +8,7 @@ SUMMARY:🏒 | Minnesota Golden Gophers @ Michigan Tech Huskies
 DTSTART:20261002T230000
 DTEND:20261003T013000
 UID:ncaa410029
+DESCRIPTION:Streaming: Midco Sports Plus
 LOCATION:John MacInnes Student Ice Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -15,6 +16,7 @@ SUMMARY:🏒 | Minnesota Golden Gophers @ Michigan Tech Huskies
 DTSTART:20261003T220000
 DTEND:20261004T003000
 UID:ncaa410030
+DESCRIPTION:Streaming: Midco Sports Plus
 LOCATION:John MacInnes Student Ice Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -416,6 +418,7 @@ SUMMARY:🏒 | Wisconsin Badgers @ Penn State Nittany Lions
 DTSTART:20270121T000000
 DTEND:20270121T023000
 UID:ncaa410464
+DESCRIPTION:Game time to be determined
 LOCATION:Pegula Ice Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -423,6 +426,7 @@ SUMMARY:🏒 | Wisconsin Badgers @ Penn State Nittany Lions
 DTSTART:20270122T000000
 DTEND:20270122T023000
 UID:ncaa410466
+DESCRIPTION:Game time to be determined
 LOCATION:Pegula Ice Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -466,7 +470,7 @@ DESCRIPTION:Game time to be determined
 LOCATION:Kohl Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Wisconsin Badgers @ Michigan Wolverines
+SUMMARY:🏒 | Michigan Wolverines @ Wisconsin Badgers
 DTSTART:20270220T000000
 DTEND:20270220T023000
 UID:ncaa410123
@@ -478,6 +482,7 @@ SUMMARY:🏒 | Wisconsin Badgers @ Notre Dame Fighting Irish
 DTSTART:20270304T000000
 DTEND:20270304T023000
 UID:ncaa410471
+DESCRIPTION:Game time to be determined
 LOCATION:Compton Family Ice Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -485,6 +490,7 @@ SUMMARY:🏒 | Wisconsin Badgers @ Notre Dame Fighting Irish
 DTSTART:20270305T000000
 DTEND:20270305T023000
 UID:ncaa410469
+DESCRIPTION:Game time to be determined
 LOCATION:Compton Family Ice Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -647,7 +653,7 @@ DESCRIPTION:Game time to be determined
 LOCATION:Munn Ice Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Michigan State Spartans @ Michigan Wolverines
+SUMMARY:🏒 | Michigan Wolverines @ Michigan State Spartans
 DTSTART:20270206T000000
 DTEND:20270206T023000
 UID:ncaa409814
@@ -1552,11 +1558,10 @@ LOCATION:Mullins Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | UMass Minutemen @ Providence College Friars
-DTSTART:20261121T050000
-DTEND:20261121T073000
+DTSTART:20261121T220000
+DTEND:20261122T003000
 UID:ncaa12610
-DESCRIPTION:Game date to be determined\nLive Stats: https://friars.com/sid
- earmstats/mhockey/summary
+DESCRIPTION:Live Stats: https://friars.com/sidearmstats/mhockey/summary
 LOCATION:Schneider Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1592,20 +1597,18 @@ LOCATION:Schneider Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | St. Thomas Tommies @ Providence College Friars
-DTSTART:20270101T050000
-DTEND:20270101T073000
+DTSTART:20270101T220000
+DTEND:20270102T003000
 UID:ncaa12615
-DESCRIPTION:Game date to be determined\nLive Stats: https://friars.com/sid
- earmstats/mhockey/summary
+DESCRIPTION:Live Stats: https://friars.com/sidearmstats/mhockey/summary
 LOCATION:Schneider Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | St. Thomas Tommies @ Providence College Friars
-DTSTART:20270102T050000
-DTEND:20270102T073000
+DTSTART:20270102T220000
+DTEND:20270103T003000
 UID:ncaa12616
-DESCRIPTION:Game date to be determined\nLive Stats: https://friars.com/sid
- earmstats/mhockey/summary
+DESCRIPTION:Live Stats: https://friars.com/sidearmstats/mhockey/summary
 LOCATION:Schneider Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1658,11 +1661,10 @@ LOCATION:Schneider Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Long Island Sharks @ Providence College Friars
-DTSTART:20270206T050000
-DTEND:20270206T073000
+DTSTART:20270206T210000
+DTEND:20270206T233000
 UID:ncaa12625
-DESCRIPTION:Game date to be determined\nLive Stats: https://friars.com/sid
- earmstats/mhockey/summary
+DESCRIPTION:Live Stats: https://friars.com/sidearmstats/mhockey/summary
 LOCATION:Schneider Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1678,6 +1680,14 @@ SUMMARY:🏒 | Northeastern Huskies @ Providence College Friars
 DTSTART:20270220T000000
 DTEND:20270220T023000
 UID:ncaa12628
+DESCRIPTION:Live Stats: https://friars.com/sidearmstats/mhockey/summary
+LOCATION:Schneider Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Northeastern Huskies @ Providence College Friars
+DTSTART:20270220T230000
+DTEND:20270221T013000
+UID:ncaa12629
 DESCRIPTION:Live Stats: https://friars.com/sidearmstats/mhockey/summary
 LOCATION:Schneider Arena
 END:VEVENT
@@ -2449,10 +2459,9 @@ LOCATION:Baxter Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Western Michigan Broncos @ Arizona State Sun Devils
-DTSTART:20261211T000000
-DTEND:20261211T023000
+DTSTART:20261212T020000
+DTEND:20261212T043000
 UID:ncaa20735
-DESCRIPTION:Game time to be determined
 LOCATION:Mullett Arena
 END:VEVENT
 BEGIN:VEVENT
