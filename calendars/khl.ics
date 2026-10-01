@@ -100,6 +100,14 @@ DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902132/preview
 LOCATION:CEC Nagorny
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Dynamo Moscow @ Torpedo Nizhny Novgorod
+DTSTART:20261016T160000Z
+DTEND:20261016T183000Z
+UID:khl902217
+DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902217/preview
+LOCATION:CEC Nagorny
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Torpedo Nizhny Novgorod @ Severstal Cherepovets
 DTSTART:20261019T160000Z
 DTEND:20261019T183000Z
@@ -138,14 +146,6 @@ DTEND:20261029T163000Z
 UID:khl902195
 DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902195/preview
 LOCATION:UMMC Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Dynamo Moscow @ Torpedo Nizhny Novgorod
-DTSTART:20261103T160000Z
-DTEND:20261103T183000Z
-UID:khl902217
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902217/preview
-LOCATION:CEC Nagorny
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Dynamo Moscow @ Torpedo Nizhny Novgorod
