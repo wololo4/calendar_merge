@@ -36,7 +36,7 @@ DTSTART:20261001T170000
 DTEND:20261001T193000
 UID:shldyy1rfomia
 DESCRIPTION:Game Center: https://www.shl.se/game-center/dyy1rfomia/qa98unl
- bd6/?state=pre-game
+ bd6/?state=post-game
 LOCATION:Saab Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -477,7 +477,7 @@ DTSTART:20261001T170000
 DTEND:20261001T193000
 UID:shltuegrv6pk3
 DESCRIPTION:Game Center: https://www.shl.se/game-center/tuegrv6pk3/qa98unl
- bd6/?state=pre-game
+ bd6/?state=post-game
 LOCATION:Skellefteå Kraft Arena
 END:VEVENT
 BEGIN:VEVENT

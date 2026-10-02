@@ -503,6 +503,7 @@ SUMMARY:🏒 | Robert Morris Colonials @ Wisconsin Badgers
 DTSTART:20261003T010000
 DTEND:20261003T033000
 UID:ncaa410136
+DESCRIPTION:Streaming: B1G+
 LOCATION:Kohl Center
 END:VEVENT
 BEGIN:VEVENT
@@ -1635,19 +1636,19 @@ DESCRIPTION:Live Stats: https://goblackbears.com/sidearmstats/mhockey
 LOCATION:Alfond Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Boston College Eagles @ Providence College Friars
+SUMMARY:🏒 | Providence College Friars @ Boston College Eagles
 DTSTART:20270116T000000
 DTEND:20270116T023000
+UID:ncaa12620
+LOCATION:Conte Forum
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Boston College Eagles @ Providence College Friars
+DTSTART:20270116T230000
+DTEND:20270117T013000
 UID:ncaa12619
 DESCRIPTION:Live Stats: https://friars.com/sidearmstats/mhockey/summary
 LOCATION:Schneider Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Providence College Friars @ Boston College Eagles
-DTSTART:20270117T000000
-DTEND:20270117T023000
-UID:ncaa12620
-LOCATION:Conte Forum
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Maine Black Bears @ Providence College Friars
