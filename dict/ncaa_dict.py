@@ -205,6 +205,7 @@ NCAA_TEAM_FIX = {
     "Kwik Trip Holiday Face-Off (Arizona State, UMass)": "To be determined",
     "LIU": "Long Island",
     "Merrimack College": "Merrimack",
+    "Michigan State/Lindenwood": "To be determined",
     "Michigan Tech or Western Michigan": "To be determined",
     "Providence": "Providence College",
     "Providence/Minnesota-Duluth": "To be determined",
