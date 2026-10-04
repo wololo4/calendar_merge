@@ -4,14 +4,6 @@ PRODID:-//Hockey Calendar//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:🏒 | HC Kaluga @ Izhstal Izhevsk
-DTSTART:20261003T130000Z
-DTEND:20261003T153000Z
-UID:vhl904145
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904145
-LOCATION:Sports Palace Izhstal
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Izhstal Izhevsk @ HC Norilsk
 DTSTART:20261008T120000Z
 DTEND:20261008T143000Z
@@ -378,14 +370,6 @@ DTEND:20270318T170000Z
 UID:vhl904861
 DESCRIPTION:Game Center: https://online.vhlru.ru/online/904861
 LOCATION:Sports Palace Izhstal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Akademia Mikhailov @ Toros Neftekamsk
-DTSTART:20261003T120000Z
-DTEND:20261003T143000Z
-UID:vhl904144
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904144
-LOCATION:Ice Palace Neftekamsk
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Akademia Mikhailov @ Molot Perm

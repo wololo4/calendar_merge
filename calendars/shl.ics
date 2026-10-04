@@ -45,7 +45,7 @@ DTSTART:20261003T160000
 DTEND:20261003T183000
 UID:shlbq4o55s9hh
 DESCRIPTION:Game Center: https://www.shl.se/game-center/bq4o55s9hh/qa98unl
- bd6/?state=pre-game
+ bd6/?state=post-game
 LOCATION:Behrn Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -486,7 +486,7 @@ DTSTART:20261003T131500
 DTEND:20261003T154500
 UID:shlazzzh3iecf
 DESCRIPTION:Game Center: https://www.shl.se/game-center/azzzh3iecf/qa98unl
- bd6/?state=pre-game
+ bd6/?state=post-game
 LOCATION:SCA Arena
 END:VEVENT
 BEGIN:VEVENT

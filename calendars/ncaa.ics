@@ -1871,7 +1871,6 @@ SUMMARY:🏒 | North Dakota Fighting Hawks @ Miami RedHawks
 DTSTART:20270109T000500
 DTEND:20270109T023500
 UID:ncaa20650
-DESCRIPTION:Streaming: NCHC.tv
 LOCATION:Goggin Ice Center
 END:VEVENT
 BEGIN:VEVENT
@@ -1879,7 +1878,6 @@ SUMMARY:🏒 | North Dakota Fighting Hawks @ Miami RedHawks
 DTSTART:20270109T230500
 DTEND:20270110T013500
 UID:ncaa20651
-DESCRIPTION:Streaming: NCHC.tv
 LOCATION:Goggin Ice Center
 END:VEVENT
 BEGIN:VEVENT
@@ -1943,7 +1941,7 @@ SUMMARY:🏒 | Miami RedHawks @ North Dakota Fighting Hawks
 DTSTART:20270220T010700
 DTEND:20270220T033700
 UID:ncaa20619
-DESCRIPTION:Streaming: NCHC.tv
+DESCRIPTION:Streaming: Midco Sports
 LOCATION:Ralph Engelstad Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1951,7 +1949,7 @@ SUMMARY:🏒 | Miami RedHawks @ North Dakota Fighting Hawks
 DTSTART:20270221T000700
 DTEND:20270221T023700
 UID:ncaa20620
-DESCRIPTION:Streaming: NCHC.tv
+DESCRIPTION:Streaming: Midco Sports
 LOCATION:Ralph Engelstad Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2044,7 +2042,7 @@ SUMMARY:🏒 | St. Cloud State Huskies @ North Dakota Fighting Hawks
 DTSTART:20261121T010700
 DTEND:20261121T033700
 UID:ncaa20598
-DESCRIPTION:Streaming: NCHC.tv
+DESCRIPTION:Streaming: Midco Sports
 LOCATION:Ralph Engelstad Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2052,7 +2050,7 @@ SUMMARY:🏒 | St. Cloud State Huskies @ North Dakota Fighting Hawks
 DTSTART:20261122T000700
 DTEND:20261122T023700
 UID:ncaa20599
-DESCRIPTION:Streaming: NCHC.tv
+DESCRIPTION:Streaming: Midco Sports
 LOCATION:Ralph Engelstad Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2421,7 +2419,7 @@ SUMMARY:🏒 | Western Michigan Broncos @ North Dakota Fighting Hawks
 DTSTART:20261107T010700
 DTEND:20261107T033700
 UID:ncaa20606
-DESCRIPTION:Streaming: NCHC.tv
+DESCRIPTION:Streaming: Midco Sports
 LOCATION:Ralph Engelstad Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2429,7 +2427,7 @@ SUMMARY:🏒 | Western Michigan Broncos @ North Dakota Fighting Hawks
 DTSTART:20261108T000700
 DTEND:20261108T023700
 UID:ncaa20607
-DESCRIPTION:Streaming: NCHC.tv
+DESCRIPTION:Streaming: Midco Sports
 LOCATION:Ralph Engelstad Arena
 END:VEVENT
 BEGIN:VEVENT
