@@ -113,7 +113,6 @@ NCAA_BIG10:
         https://bigten.org/services/responsive-calendar.ashx?sport_id=9&school_id=0
     teams:
       - name: Michigan Wolverines
-      - name: Minnesota Golden Gophers
       - name: Wisconsin Badgers
 NCAA_CCHA:
     parser: ncaa_conf
@@ -141,7 +140,6 @@ NCAA_NCHC:
     base_url: 
         https://nchchockey.com/services/responsive-calendar.ashx?sport_id=0&school_id=0
     teams:
-      - name: Miami RedHawks
       - name: St. Cloud State Huskies
       - name: Denver Pioneers
       - name: Western Michigan Broncos
@@ -164,10 +162,10 @@ OHL:
     teams:
       - name: Kitchener Rangers
         team_id: 10
-      - name: Owen Sound Attack
-        team_id: 11
       - name: Brantford Bulldogs
         team_id: 1
+      - name: Owen Sound Attack
+        team_id: 11
 SHL:
     parser: shl
     base_url: https://www.shl.se/api/sports-v2/game-schedule
@@ -195,9 +193,9 @@ WHL:
     base_url: 
         https://cluster.leaguestat.com/feed/index.php?feed=modulekit&view=schedule&client_code=whl&key=41b145a848f4bd67
     teams:
-      - name: Regina Pats
-        team_id: 212
-      - name: Saskatoon Blades
-        team_id: 213
       - name: Penticton Vees
         team_id: 277
+      - name: Saskatoon Blades
+        team_id: 213
+      - name: Regina Pats
+        team_id: 212
