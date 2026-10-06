@@ -59,6 +59,7 @@ CITY_TO_ARENA = {
     "Grand Forks, N.D.": "Ralph Engelstad Arena",
     "Grand Forks, ND": "Ralph Engelstad Arena",
     "Grand Rapids, Mich.": "Van Andel Arena",
+    "Grand Rapids, Mich. (Great Lakes Invitational)": "Van Andel Arena",
     "Green Bay, Wisc.": "Lambeau Field", 
     "Hamden, CT": "M&T Bank Arena",
     "Hamilton, NY": "Class of 1965 Arena",
