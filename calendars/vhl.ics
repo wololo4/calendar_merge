@@ -372,14 +372,6 @@ DESCRIPTION:Game Center: https://online.vhlru.ru/online/904861
 LOCATION:Sports Palace Izhstal
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Akademia Mikhailov @ Molot Perm
-DTSTART:20261005T140000Z
-DTEND:20261005T163000Z
-UID:vhl904149
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904149
-LOCATION:Universal Sports Palace Molot
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Yuzhny Ural Orsk @ Akademia Mikhailov
 DTSTART:20261010T100000Z
 DTEND:20261010T123000Z

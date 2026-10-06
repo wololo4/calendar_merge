@@ -322,6 +322,323 @@ DESCRIPTION:Tournament: World Junior Championship - Preliminary\nGame Cent
 LOCATION:Westerner Park Centrium
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | L26 @ L27
+DTSTART:20270502T180000
+DTEND:20270502T203000
+UID:hockeycanada5878
+DESCRIPTION:Tournament: World U18 Championship - Bronze\nGame Center: http
+ s://www.hockeycanada.ca/en-ca/team-canada/men/under-18/2025-26/world-champ
+ ionship/stats/game-summary/5878\nTV: RDS\nStreaming link not yet available
+LOCATION:Amsoil Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | W26 @ W27
+DTSTART:20270502T220000
+DTEND:20270503T003000
+UID:hockeycanada5879
+DESCRIPTION:Tournament: World U18 Championship - Gold\nGame Center: https:
+ //www.hockeycanada.ca/en-ca/team-canada/men/under-18/2025-26/world-champio
+ nship/stats/game-summary/5879\nTV: RDS\nStreaming link not yet available
+LOCATION:Amsoil Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | TBD @ TBD
+DTSTART:20270501T200000
+DTEND:20270501T223000
+UID:hockeycanada5876
+DESCRIPTION:Tournament: World U18 Championship - Semifinal\nGame Center: h
+ ttps://www.hockeycanada.ca/en-ca/team-canada/men/under-18/2025-26/world-ch
+ ampionship/stats/game-summary/5876\nTV: RDS\nStreaming link not yet availa
+ ble
+LOCATION:Amsoil Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | TBD @ TBD
+DTSTART:20270502T000000
+DTEND:20270502T023000
+UID:hockeycanada5877
+DESCRIPTION:Tournament: World U18 Championship - Semifinal\nGame Center: h
+ ttps://www.hockeycanada.ca/en-ca/team-canada/men/under-18/2025-26/world-ch
+ ampionship/stats/game-summary/5877\nTV: RDS\nStreaming link not yet availa
+ ble
+LOCATION:Amsoil Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | 5A @ 5B
+DTSTART:20270430T170000
+DTEND:20270430T193000
+UID:hockeycanada5875
+DESCRIPTION:Tournament: World U18 Championship - Relegation\nGame Center: 
+ https://www.hockeycanada.ca/en-ca/team-canada/men/under-18/2025-26/world-c
+ hampionship/stats/game-summary/5875\nTV: RDS\nStreaming link not yet avail
+ able
+LOCATION:Amsoil Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | TBD @ TBD
+DTSTART:20270429T150000
+DTEND:20270429T173000
+UID:hockeycanada5871
+DESCRIPTION:Tournament: World U18 Championship - Quarterfinal\nGame Center
+ : https://www.hockeycanada.ca/en-ca/team-canada/men/under-18/2025-26/world
+ -championship/stats/game-summary/5871\nTV: RDS\nStreaming link not yet ava
+ ilable
+LOCATION:Amsoil Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | TBD @ TBD
+DTSTART:20270429T183000
+DTEND:20270429T210000
+UID:hockeycanada5872
+DESCRIPTION:Tournament: World U18 Championship - Quarterfinal\nGame Center
+ : https://www.hockeycanada.ca/en-ca/team-canada/men/under-18/2025-26/world
+ -championship/stats/game-summary/5872\nTV: RDS\nStreaming link not yet ava
+ ilable
+LOCATION:Amsoil Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | TBD @ TBD
+DTSTART:20270429T220000
+DTEND:20270430T003000
+UID:hockeycanada5873
+DESCRIPTION:Tournament: World U18 Championship - Quarterfinal\nGame Center
+ : https://www.hockeycanada.ca/en-ca/team-canada/men/under-18/2025-26/world
+ -championship/stats/game-summary/5873\nTV: RDS\nStreaming link not yet ava
+ ilable
+LOCATION:Amsoil Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | TBD @ TBD
+DTSTART:20270430T013000
+DTEND:20270430T040000
+UID:hockeycanada5874
+DESCRIPTION:Tournament: World U18 Championship - Quarterfinal\nGame Center
+ : https://www.hockeycanada.ca/en-ca/team-canada/men/under-18/2025-26/world
+ -championship/stats/game-summary/5874\nTV: RDS\nStreaming link not yet ava
+ ilable
+LOCATION:Amsoil Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Sweden @ Latvia
+DTSTART:20270421T160000
+DTEND:20270421T183000
+UID:hockeycanada5851
+DESCRIPTION:Tournament: World U18 Championship - Preliminary\nGame Center:
+  https://www.hockeycanada.ca/en-ca/team-canada/men/under-18/2025-26/world-
+ championship/stats/game-summary/5851\nTV: RDS\nStreaming link not yet avai
+ lable
+LOCATION:Amsoil Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Belarus @ Czechia
+DTSTART:20270421T200000
+DTEND:20270421T223000
+UID:hockeycanada5852
+DESCRIPTION:Tournament: World U18 Championship - Preliminary\nGame Center:
+  https://www.hockeycanada.ca/en-ca/team-canada/men/under-18/2025-26/world-
+ championship/stats/game-summary/5852\nTV: RDS\nStreaming link not yet avai
+ lable
+LOCATION:Amsoil Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | United States  @ Norway 
+DTSTART:20270422T000000
+DTEND:20270422T023000
+UID:hockeycanada5853
+DESCRIPTION:Tournament: World U18 Championship - Preliminary\nGame Center:
+  https://www.hockeycanada.ca/en-ca/team-canada/men/under-18/2025-26/world-
+ championship/stats/game-summary/5853\nTV: RDS\nStreaming link not yet avai
+ lable
+LOCATION:Amsoil Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Finland @ Belarus
+DTSTART:20270422T160000
+DTEND:20270422T183000
+UID:hockeycanada5854
+DESCRIPTION:Tournament: World U18 Championship - Preliminary\nGame Center:
+  https://www.hockeycanada.ca/en-ca/team-canada/men/under-18/2025-26/world-
+ championship/stats/game-summary/5854\nTV: RDS\nStreaming link not yet avai
+ lable
+LOCATION:Amsoil Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Denmark  @ Norway 
+DTSTART:20270422T200000
+DTEND:20270422T223000
+UID:hockeycanada5855
+DESCRIPTION:Tournament: World U18 Championship - Preliminary\nGame Center:
+  https://www.hockeycanada.ca/en-ca/team-canada/men/under-18/2025-26/world-
+ championship/stats/game-summary/5855\nTV: RDS\nStreaming link not yet avai
+ lable
+LOCATION:Amsoil Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Canada @ Slovakia
+DTSTART:20270423T000000
+DTEND:20270423T023000
+UID:hockeycanada5856
+DESCRIPTION:Tournament: World U18 Championship - Preliminary\nGame Center:
+  https://www.hockeycanada.ca/en-ca/team-canada/men/under-18/2025-26/world-
+ championship/stats/game-summary/5856\nTV: RDS\nStreaming link not yet avai
+ lable
+LOCATION:Amsoil Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Czechia @ Finland
+DTSTART:20270423T160000
+DTEND:20270423T183000
+UID:hockeycanada5857
+DESCRIPTION:Tournament: World U18 Championship - Preliminary\nGame Center:
+  https://www.hockeycanada.ca/en-ca/team-canada/men/under-18/2025-26/world-
+ championship/stats/game-summary/5857\nTV: RDS\nStreaming link not yet avai
+ lable
+LOCATION:Amsoil Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Sweden @ Denmark 
+DTSTART:20270423T200000
+DTEND:20270423T223000
+UID:hockeycanada5858
+DESCRIPTION:Tournament: World U18 Championship - Preliminary\nGame Center:
+  https://www.hockeycanada.ca/en-ca/team-canada/men/under-18/2025-26/world-
+ championship/stats/game-summary/5858\nTV: RDS\nStreaming link not yet avai
+ lable
+LOCATION:Amsoil Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Latvia @ United States 
+DTSTART:20270424T000000
+DTEND:20270424T023000
+UID:hockeycanada5859
+DESCRIPTION:Tournament: World U18 Championship - Preliminary\nGame Center:
+  https://www.hockeycanada.ca/en-ca/team-canada/men/under-18/2025-26/world-
+ championship/stats/game-summary/5859\nTV: RDS\nStreaming link not yet avai
+ lable
+LOCATION:Amsoil Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Slovakia @ Czechia
+DTSTART:20270424T160000
+DTEND:20270424T183000
+UID:hockeycanada5860
+DESCRIPTION:Tournament: World U18 Championship - Preliminary\nGame Center:
+  https://www.hockeycanada.ca/en-ca/team-canada/men/under-18/2025-26/world-
+ championship/stats/game-summary/5860\nTV: RDS\nStreaming link not yet avai
+ lable
+LOCATION:Amsoil Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Canada @ Belarus
+DTSTART:20270424T200000
+DTEND:20270424T223000
+UID:hockeycanada5861
+DESCRIPTION:Tournament: World U18 Championship - Preliminary\nGame Center:
+  https://www.hockeycanada.ca/en-ca/team-canada/men/under-18/2025-26/world-
+ championship/stats/game-summary/5861\nTV: RDS\nStreaming link not yet avai
+ lable
+LOCATION:Amsoil Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | United States  @ Sweden
+DTSTART:20270425T000000
+DTEND:20270425T023000
+UID:hockeycanada5862
+DESCRIPTION:Tournament: World U18 Championship - Preliminary\nGame Center:
+  https://www.hockeycanada.ca/en-ca/team-canada/men/under-18/2025-26/world-
+ championship/stats/game-summary/5862\nTV: RDS\nStreaming link not yet avai
+ lable
+LOCATION:Amsoil Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Norway  @ Latvia
+DTSTART:20270425T160000
+DTEND:20270425T183000
+UID:hockeycanada5863
+DESCRIPTION:Tournament: World U18 Championship - Preliminary\nGame Center:
+  https://www.hockeycanada.ca/en-ca/team-canada/men/under-18/2025-26/world-
+ championship/stats/game-summary/5863\nTV: RDS\nStreaming link not yet avai
+ lable
+LOCATION:Amsoil Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Finland @ Canada
+DTSTART:20270425T200000
+DTEND:20270425T223000
+UID:hockeycanada5864
+DESCRIPTION:Tournament: World U18 Championship - Preliminary\nGame Center:
+  https://www.hockeycanada.ca/en-ca/team-canada/men/under-18/2025-26/world-
+ championship/stats/game-summary/5864\nTV: RDS\nStreaming link not yet avai
+ lable
+LOCATION:Amsoil Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Belarus @ Slovakia
+DTSTART:20270426T160000
+DTEND:20270426T183000
+UID:hockeycanada5865
+DESCRIPTION:Tournament: World U18 Championship - Preliminary\nGame Center:
+  https://www.hockeycanada.ca/en-ca/team-canada/men/under-18/2025-26/world-
+ championship/stats/game-summary/5865\nTV: RDS\nStreaming link not yet avai
+ lable
+LOCATION:Amsoil Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Norway  @ Sweden
+DTSTART:20270426T200000
+DTEND:20270426T223000
+UID:hockeycanada5866
+DESCRIPTION:Tournament: World U18 Championship - Preliminary\nGame Center:
+  https://www.hockeycanada.ca/en-ca/team-canada/men/under-18/2025-26/world-
+ championship/stats/game-summary/5866\nTV: RDS\nStreaming link not yet avai
+ lable
+LOCATION:Amsoil Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Denmark  @ United States 
+DTSTART:20270427T000000
+DTEND:20270427T023000
+UID:hockeycanada5867
+DESCRIPTION:Tournament: World U18 Championship - Preliminary\nGame Center:
+  https://www.hockeycanada.ca/en-ca/team-canada/men/under-18/2025-26/world-
+ championship/stats/game-summary/5867\nTV: RDS\nStreaming link not yet avai
+ lable
+LOCATION:Amsoil Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Slovakia @ Finland
+DTSTART:20270427T160000
+DTEND:20270427T183000
+UID:hockeycanada5868
+DESCRIPTION:Tournament: World U18 Championship - Preliminary\nGame Center:
+  https://www.hockeycanada.ca/en-ca/team-canada/men/under-18/2025-26/world-
+ championship/stats/game-summary/5868\nTV: RDS\nStreaming link not yet avai
+ lable
+LOCATION:Amsoil Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Latvia @ Denmark 
+DTSTART:20270427T200000
+DTEND:20270427T223000
+UID:hockeycanada5869
+DESCRIPTION:Tournament: World U18 Championship - Preliminary\nGame Center:
+  https://www.hockeycanada.ca/en-ca/team-canada/men/under-18/2025-26/world-
+ championship/stats/game-summary/5869\nTV: RDS\nStreaming link not yet avai
+ lable
+LOCATION:Amsoil Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Czechia @ Canada
+DTSTART:20270428T000000
+DTEND:20270428T023000
+UID:hockeycanada5870
+DESCRIPTION:Tournament: World U18 Championship - Preliminary\nGame Center:
+  https://www.hockeycanada.ca/en-ca/team-canada/men/under-18/2025-26/world-
+ championship/stats/game-summary/5870\nTV: RDS\nStreaming link not yet avai
+ lable
+LOCATION:Amsoil Arena
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Germany @ Sweden
 DTSTART:20260808T200000
 DTEND:20260808T223000
