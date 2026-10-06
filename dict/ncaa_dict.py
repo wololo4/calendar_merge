@@ -203,6 +203,7 @@ NCAA_TEAM_FIX = {
     "Harvard/Northeastern": "To be determined",
     "Kwik Trip Holiday Face-Off": "To be determined",
     "Kwik Trip Holiday Face-Off (Arizona State, UMass)": "To be determined",
+    "Lindenwood/Michigan State": "To be determined",
     "LIU": "Long Island",
     "Merrimack College": "Merrimack",
     "Michigan State/Lindenwood": "To be determined",
