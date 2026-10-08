@@ -112,8 +112,8 @@ NCAA_BIG10:
     base_url: 
         https://bigten.org/services/responsive-calendar.ashx?sport_id=9&school_id=0
     teams:
-      - name: Michigan Wolverines
       - name: Wisconsin Badgers
+      - name: Michigan Wolverines
 NCAA_CCHA:
     parser: ncaa_conf
     base_url: 
@@ -140,9 +140,9 @@ NCAA_NCHC:
     base_url: 
         https://nchchockey.com/services/responsive-calendar.ashx?sport_id=0&school_id=0
     teams:
-      - name: St. Cloud State Huskies
       - name: Denver Pioneers
       - name: Western Michigan Broncos
+      - name: St. Cloud State Huskies
 NHL:
     parser: nhl
     teams:
@@ -193,9 +193,9 @@ WHL:
     base_url: 
         https://cluster.leaguestat.com/feed/index.php?feed=modulekit&view=schedule&client_code=whl&key=41b145a848f4bd67
     teams:
+      - name: Regina Pats
+        team_id: 212
       - name: Penticton Vees
         team_id: 277
       - name: Saskatoon Blades
         team_id: 213
-      - name: Regina Pats
-        team_id: 212
