@@ -54,7 +54,7 @@ DTSTART:20261008T170000
 DTEND:20261008T193000
 UID:shldu44ay2r9v
 DESCRIPTION:Game Center: https://www.shl.se/game-center/du44ay2r9v/qa98unl
- bd6/?state=pre-game
+ bd6/?state=post-game
 LOCATION:Coop Norrbotten Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -495,7 +495,7 @@ DTSTART:20261008T170000
 DTEND:20261008T193000
 UID:shlemdl6a38ir
 DESCRIPTION:Game Center: https://www.shl.se/game-center/emdl6a38ir/qa98unl
- bd6/?state=pre-game
+ bd6/?state=post-game
 LOCATION:Skellefteå Kraft Arena
 END:VEVENT
 BEGIN:VEVENT

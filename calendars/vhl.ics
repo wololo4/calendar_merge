@@ -4,14 +4,6 @@ PRODID:-//Hockey Calendar//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:🏒 | Izhstal Izhevsk @ HC Norilsk
-DTSTART:20261008T120000Z
-DTEND:20261008T143000Z
-UID:vhl904160
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904160
-LOCATION:Artika Sport Palace
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Izhstal Izhevsk @ Sokol Krasnoyarsk
 DTSTART:20261011T060000Z
 DTEND:20261011T083000Z
@@ -722,14 +714,6 @@ DTEND:20270315T183000Z
 UID:vhl904849
 DESCRIPTION:Game Center: https://online.vhlru.ru/online/904849
 LOCATION:Ice Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Khimik Voskresensk @ Neftyanik Almetyevsk
-DTSTART:20261008T153000Z
-DTEND:20261008T180000Z
-UID:vhl904162
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904162
-LOCATION:Yubileyny Sports Palace
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Khimik Voskresensk @ Bars Kazan
