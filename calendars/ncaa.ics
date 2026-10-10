@@ -2404,6 +2404,7 @@ SUMMARY:🏒 | Michigan Tech Huskies @ St. Cloud State Huskies
 DTSTART:20261010T000000
 DTEND:20261010T023000
 UID:ncaa20841
+DESCRIPTION:Streaming: Twin Cities CW
 LOCATION:Herb Brooks National Hockey Center
 END:VEVENT
 BEGIN:VEVENT
@@ -2411,6 +2412,7 @@ SUMMARY:🏒 | Michigan Tech Huskies @ St. Cloud State Huskies
 DTSTART:20261010T230000
 DTEND:20261011T013000
 UID:ncaa20842
+DESCRIPTION:Streaming: Twin Cities CW
 LOCATION:Herb Brooks National Hockey Center
 END:VEVENT
 BEGIN:VEVENT
