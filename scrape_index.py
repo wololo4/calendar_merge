@@ -124,18 +124,42 @@ def scrape_russia(filename):
 
 def scrape_chl_page(filename):
     soup = fetch_soup(BASE_URL + filename)
-    teams = set()
+    team_players = {}
+
     for tr in soup.find_all("tr"):
         tds = tr.find_all("td")
         if len(tds) < 3:
             continue
-        team_name = tds[2].get_text(strip=True)
-        if team_name.lower() in ("team", "player"):
-            continue
-        team_name = html.unescape(team_name)
-        if team_name:
-            teams.add(team_name)
-    return sorted(teams)
+
+        team_name = html.unescape(tds[2].get_text(" ", strip=True))
+        if team_name.lower() in ("team", "player") or not team_name:
+        continue
+
+        row_text = tr.get_text(" ", strip=True).lower()
+        injured = any(term in row_text for term in (
+            "injury",
+            "injured",
+            "ir",
+            "out indefinitely",
+            "return expected",
+        ))
+
+        if team_name not in team_players:
+            team_players[team_name] = {
+                "total": 0,
+                "healthy": 0,
+            }
+
+        team_players[team_name]["total"] += 1
+
+        if not injured:
+            team_players[team_name]["healthy"] += 1
+
+    return sorted(
+        team for team, players in team_players.items()
+        if players["healthy"] > 0
+    )
+
 
 def scrape_league_page(filename):
     soup = fetch_soup(BASE_URL + filename)
