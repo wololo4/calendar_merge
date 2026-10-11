@@ -128,38 +128,32 @@ def scrape_chl_page(filename):
 
     for tr in soup.find_all("tr"):
         tds = tr.find_all("td")
-        if len(tds) < 3:
+        if not tds:
             continue
 
-        team_name = html.unescape(tds[2].get_text(" ", strip=True))
-        if team_name.lower() in ("team", "player") or not team_name: 
+        links = tds[0].find_all("a")
+        if len(links) < 2:
             continue
 
-        row_text = tr.get_text(" ", strip=True).lower()
+        player_name = links[0].get_text(strip=True)
+        team_name = html.unescape(links[1].get_text(strip=True))
+        row_text = tds[0].get_text(" ", strip=True).lower()
+
+        if not team_name:
+            continue
+
         injured = any(term in row_text for term in (
             "injury",
             "injured",
-            "ir",
-            "out indefinitely",
             "return expected",
         ))
 
-        if team_name not in team_players:
-            team_players[team_name] = {
-                "total": 0,
-                "healthy": 0,
-            }
-
-        team_players[team_name]["total"] += 1
-
-        if not injured:
-            team_players[team_name]["healthy"] += 1
+        team_players.setdefault(team_name, []).append(injured)
 
     return sorted(
-        team for team, players in team_players.items()
-        if players["healthy"] > 0
+        team for team, injuries in team_players.items()
+        if not all(injuries)
     )
-
 
 def scrape_league_page(filename):
     soup = fetch_soup(BASE_URL + filename)
