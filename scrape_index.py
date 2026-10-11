@@ -132,8 +132,8 @@ def scrape_chl_page(filename):
             continue
 
         team_name = html.unescape(tds[2].get_text(" ", strip=True))
-        if team_name.lower() in ("team", "player") or not team_name:
-        continue
+        if team_name.lower() in ("team", "player") or not team_name: 
+            continue
 
         row_text = tr.get_text(" ", strip=True).lower()
         injured = any(term in row_text for term in (
