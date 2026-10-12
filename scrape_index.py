@@ -6,6 +6,9 @@ from utils.team_id import update_team_ids
 HABSPROSPECTS_URL = "https://habsprospects.com/index.html"
 BASE_URL = "https://habsprospects.com/"
 
+# CHANGE 1: single source of truth for injury detection
+INJURY_TERMS = ("injury", "injured", "return expected")
+
 LEAGUE_MAP = {
     "qmjhl.html": "QMJHL",
     "ohl.html": "OHL",
@@ -25,6 +28,11 @@ def fetch_soup(url):
 
 def clean_href(a):
     return (a.get("href") or "").lower().strip()
+
+# CHANGE 1 (continued): shared helper
+def is_injured(text):
+    text = text.lower()
+    return any(term in text for term in INJURY_TERMS)
 
 def scrape_index():
     soup = fetch_soup(HABSPROSPECTS_URL)
@@ -70,6 +78,11 @@ def scrape_ncaa_page(filename):
 
     for td in soup.find_all("td", class_="Style2"):
         text = td.get_text(" ", strip=True)
+
+        # CHANGE 2: skip injured players so injured-only teams drop out
+        if is_injured(text):
+            continue
+
         if "(" not in text:
             continue
 
@@ -98,7 +111,7 @@ def scrape_ncaa_page(filename):
             ncaa["NCAA_ECAC"].append(team)
         elif conf == "NCHC":
             ncaa["NCAA_NCHC"].append(team)
-        
+
     return ncaa
 
 def scrape_russia(filename):
@@ -106,6 +119,10 @@ def scrape_russia(filename):
     russia = {"KHL": [], "VHL": [], "MHL": []}
 
     for td in soup.find_all(["td", "span"], class_="Style2"):
+        # CHANGE 3: skip injured players
+        if is_injured(td.get_text(" ", strip=True)):
+            continue
+
         links = td.find_all("a")
         if len(links) < 3:
             continue
@@ -137,16 +154,13 @@ def scrape_chl_page(filename):
 
         player_name = links[0].get_text(strip=True)
         team_name = html.unescape(links[1].get_text(strip=True))
-        row_text = tds[0].get_text(" ", strip=True).lower()
+        row_text = tds[0].get_text(" ", strip=True)
 
         if not team_name:
             continue
 
-        injured = any(term in row_text for term in (
-            "injury",
-            "injured",
-            "return expected",
-        ))
+        # CHANGE 4: use the shared helper instead of the inline any(...)
+        injured = is_injured(row_text)
 
         team_players.setdefault(team_name, []).append(injured)
 
@@ -160,6 +174,11 @@ def scrape_league_page(filename):
     teams = set()
 
     for td in soup.find_all("td", class_="Style2"):
+        # CHANGE 5: skip injured players (QMJHL, OHL, WHL, BCHL, Sweden,
+        # Finland, Switzerland, Germany)
+        if is_injured(td.get_text(" ", strip=True)):
+            continue
+
         links = td.find_all("a")
         if len(links) >= 2:
             teams.add(links[1].text.strip())
