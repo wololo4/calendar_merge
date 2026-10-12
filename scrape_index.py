@@ -143,23 +143,26 @@ def scrape_chl_page(filename):
     soup = fetch_soup(BASE_URL + filename)
     team_players = {}
 
-    for tr in soup.find_all("tr"):
-        tds = tr.find_all("td")
-        if not tds:
+    # CHANGE 4: this page is a stats table (Player | Team | GP | ...).
+    # The old code looped over every <tr>, including the outer one that wraps
+    # the whole table, so it read two player links and used the second player
+    # as the team. Now we read only the rows of the sortable table, taking the
+    # player from column 2 and the team (plain text, not a link) from column 3.
+    for tr in soup.select("table.sortable tr"):
+        tds = tr.find_all("td", recursive=False)
+        if len(tds) < 3:
             continue
 
-        links = tds[0].find_all("a")
-        if len(links) < 2:
+        if not tds[1].find("a"):  # header row
             continue
 
-        player_name = links[0].get_text(strip=True)
-        team_name = html.unescape(links[1].get_text(strip=True))
-        row_text = tds[0].get_text(" ", strip=True)
+        player_name = tds[1].get_text(strip=True)
+        team_name = html.unescape(tds[2].get_text(strip=True))
+        row_text = tr.get_text(" ", strip=True)
 
         if not team_name:
             continue
 
-        # CHANGE 4: use the shared helper instead of the inline any(...)
         injured = is_injured(row_text)
 
         team_players.setdefault(team_name, []).append(injured)
