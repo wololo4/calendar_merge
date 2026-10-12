@@ -73,10 +73,10 @@ LHJMQ:
     base_url: 
         https://cluster.leaguestat.com/feed/index.php?feed=modulekit&view=schedule&client_code=lhjmq&key=f322673b6bcae299
     teams:
-      - name: Saguenéens Chicoutimi
-        team_id: 10
       - name: Foreurs Val-d'Or
         team_id: 15
+      - name: Saguenéens Chicoutimi
+        team_id: 10
 LHMAAAQ:
     parser: publicationsports
     base_url: "https://www.m18aaa.com/fr/stats/horaire.html?"
@@ -108,8 +108,8 @@ NCAA_BIG10:
     base_url: 
         https://bigten.org/services/responsive-calendar.ashx?sport_id=9&school_id=0
     teams:
-      - name: Michigan Wolverines
       - name: Wisconsin Badgers
+      - name: Michigan Wolverines
 NCAA_CCHA:
     parser: ncaa_conf
     base_url: 
@@ -156,10 +156,10 @@ OHL:
     base_url: 
         https://cluster.leaguestat.com/feed/index.php?feed=modulekit&view=schedule&client_code=ohl&key=2976319eb44abe94
     teams:
-      - name: North Bay Battalion
-        team_id: 19
       - name: Owen Sound Attack
         team_id: 11
+      - name: North Bay Battalion
+        team_id: 19
       - name: Kitchener Rangers
         team_id: 10
 SHL:
