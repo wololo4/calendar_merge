@@ -86,6 +86,7 @@ CITY_TO_ARENA = {
     "M & T Bank Arena": "M&T Bank Arena",
     "New Haven, CT": "Ingalls Rink",
     "North Andover, MA": "Lawler Rink",
+    "Northfield, Vt.": "Kreitzberg Arena",
     "Omaha, Neb.": "Baxter Arena",
     "Omaha, NE": "Baxter Arena",
     "Orono, ME": "Alfond Arena",
