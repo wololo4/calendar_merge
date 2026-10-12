@@ -332,7 +332,9 @@ def update_team_ids(habs_teams):
             api_teams = handler(base_url, league)
         except Exception as e:
             print(f"ERROR fetching {league}: {e}")
-            api_raw = {}
+            # CHANGE: was `api_raw = {}`, which left api_teams undefined.
+            # Skip this league so its existing teams stay in the YAML.
+            continue
 
 
         target_names = {
@@ -361,4 +363,3 @@ def update_team_ids(habs_teams):
         yaml.dump(feeds, f)
 
     print("Team IDs updated.")
-
