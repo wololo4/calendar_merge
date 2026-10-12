@@ -160,8 +160,6 @@ OHL:
         team_id: 11
       - name: North Bay Battalion
         team_id: 19
-      - name: Kitchener Rangers
-        team_id: 10
 SHL:
     parser: shl
     base_url: https://www.shl.se/api/sports-v2/game-schedule
@@ -189,8 +187,6 @@ WHL:
     base_url: 
         https://cluster.leaguestat.com/feed/index.php?feed=modulekit&view=schedule&client_code=whl&key=41b145a848f4bd67
     teams:
-      - name: Regina Pats
-        team_id: 212
       - name: Saskatoon Blades
         team_id: 213
       - name: Penticton Vees
