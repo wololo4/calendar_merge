@@ -4,1265 +4,6 @@ PRODID:-//Hockey Calendar//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:🏒 | Erie Otters @ Kitchener Rangers
-DTSTART:20260925T230000
-DTEND:20260926T013000
-UID:ohl29015
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29015\nStreaming: h
- ttps://www.flohockey.tv/events/16028431-2026-erie-otters-vs-kitchener-rang
- ers
-LOCATION:Kitchener Memorial Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kitchener Rangers @ Erie Otters
-DTSTART:20260926T220000
-DTEND:20260927T003000
-UID:ohl29023
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29023\nStreaming: h
- ttps://www.flohockey.tv/events/16027532-2026-kitchener-rangers-vs-erie-ott
- ers
-LOCATION:Erie Insurance Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kingston Frontenacs @ Kitchener Rangers
-DTSTART:20260927T220000
-DTEND:20260928T003000
-UID:ohl29029
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29029\nStreaming: h
- ttps://www.flohockey.tv/events/16027861-2026-kingston-frontenacs-vs-kitche
- ner-rangers
-LOCATION:Kitchener Memorial Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saginaw Spirit @ Kitchener Rangers
-DTSTART:20261002T230000
-DTEND:20261003T013000
-UID:ohl29039
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29039\nStreaming: h
- ttps://www.flohockey.tv/events/16028273-2026-saginaw-spirit-vs-kitchener-r
- angers
-LOCATION:Kitchener Memorial Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kitchener Rangers @ Guelph Storm
-DTSTART:20261004T180700
-DTEND:20261004T203700
-UID:ohl29050
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29050\nStreaming: h
- ttps://www.flohockey.tv/events/16028376-2026-kitchener-rangers-vs-guelph-s
- torm
-LOCATION:Sleeman Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kitchener Rangers @ Flint Firebirds
-DTSTART:20261007T230000
-DTEND:20261008T013000
-UID:ohl29055
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29055\nStreaming: h
- ttps://www.flohockey.tv/events/16028247-2026-kitchener-rangers-vs-flint-fi
- rebirds
-LOCATION:Dort Financial Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kitchener Rangers @ Soo Greyhounds
-DTSTART:20261009T230700
-DTEND:20261010T013700
-UID:ohl29063
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29063\nStreaming: h
- ttps://www.flohockey.tv/events/16027859-2026-kitchener-rangers-vs-soo-grey
- hounds
-LOCATION:GFL Memorial Gardens
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kitchener Rangers @ Saginaw Spirit
-DTSTART:20261010T230500
-DTEND:20261011T013500
-UID:ohl29070
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29070\nStreaming: h
- ttps://www.flohockey.tv/events/16028468-2026-kitchener-rangers-vs-saginaw-
- spirit
-LOCATION:Dow Event Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | London Knights @ Kitchener Rangers
-DTSTART:20261013T230000
-DTEND:20261014T013000
-UID:ohl29077
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29077\nStreaming: h
- ttps://www.flohockey.tv/events/16027025-2026-london-knights-vs-kitchener-r
- angers
-LOCATION:Kitchener Memorial Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Niagara IceDogs @ Kitchener Rangers
-DTSTART:20261016T230000
-DTEND:20261017T013000
-UID:ohl29087
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29087\nStreaming: h
- ttps://www.flohockey.tv/events/16025601-2026-niagara-icedogs-vs-kitchener-
- rangers
-LOCATION:Kitchener Memorial Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kitchener Rangers @ Oshawa Generals
-DTSTART:20261018T220500
-DTEND:20261019T003500
-UID:ohl29100
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29100\nStreaming: h
- ttps://www.flohockey.tv/events/16028077-2026-kitchener-rangers-vs-oshawa-g
- enerals
-LOCATION:Tribute Communities Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Guelph Storm @ Kitchener Rangers
-DTSTART:20261023T230000
-DTEND:20261024T013000
-UID:ohl29109
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29109\nStreaming: h
- ttps://www.flohockey.tv/events/16028541-2026-guelph-storm-vs-kitchener-ran
- gers
-LOCATION:Kitchener Memorial Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kitchener Rangers @ Guelph Storm
-DTSTART:20261025T180700
-DTEND:20261025T203700
-UID:ohl29123
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29123\nStreaming: h
- ttps://www.flohockey.tv/events/16028185-2026-kitchener-rangers-vs-guelph-s
- torm
-LOCATION:Sleeman Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Flint Firebirds @ Kitchener Rangers
-DTSTART:20261030T230000
-DTEND:20261031T013000
-UID:ohl29135
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29135\nStreaming: h
- ttps://www.flohockey.tv/events/16027083-2026-flint-firebirds-vs-kitchener-
- rangers
-LOCATION:Kitchener Memorial Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Guelph Storm @ Kitchener Rangers
-DTSTART:20261104T000000
-DTEND:20261104T023000
-UID:ohl29153
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29153\nStreaming: h
- ttps://www.flohockey.tv/events/16028089-2026-guelph-storm-vs-kitchener-ran
- gers
-LOCATION:Kitchener Memorial Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | North Bay Battalion @ Kitchener Rangers
-DTSTART:20261107T000000
-DTEND:20261107T023000
-UID:ohl29163
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29163\nStreaming: h
- ttps://www.flohockey.tv/events/16027328-2026-north-bay-battalion-vs-kitche
- ner-rangers
-LOCATION:Kitchener Memorial Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kitchener Rangers @ Erie Otters
-DTSTART:20261112T160000
-DTEND:20261112T183000
-UID:ohl29182
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29182\nStreaming: h
- ttps://www.flohockey.tv/events/16029050-2026-kitchener-rangers-vs-erie-ott
- ers
-LOCATION:Erie Insurance Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Barrie Colts @ Kitchener Rangers
-DTSTART:20261114T000000
-DTEND:20261114T023000
-UID:ohl29190
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29190\nStreaming: h
- ttps://www.flohockey.tv/events/16027574-2026-barrie-colts-vs-kitchener-ran
- gers
-LOCATION:Kitchener Memorial Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Ottawa 67's @ Kitchener Rangers
-DTSTART:20261115T190000
-DTEND:20261115T213000
-UID:ohl29201
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29201\nStreaming: h
- ttps://www.flohockey.tv/events/16028277-2026-ottawa-67s-vs-kitchener-range
- rs
-LOCATION:Kitchener Memorial Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kitchener Rangers @ Sudbury Wolves
-DTSTART:20261119T000500
-DTEND:20261119T023500
-UID:ohl29210
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29210\nStreaming: h
- ttps://www.flohockey.tv/events/16028261-2026-kitchener-rangers-vs-sudbury-
- wolves
-LOCATION:Sudbury Community Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kitchener Rangers @ North Bay Battalion
-DTSTART:20261121T000000
-DTEND:20261121T023000
-UID:ohl29221
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29221\nStreaming: h
- ttps://www.flohockey.tv/events/16028042-2026-kitchener-rangers-vs-north-ba
- y-battalion
-LOCATION:Boart Longyear Memorial Gardens
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kitchener Rangers @ Barrie Colts
-DTSTART:20261122T003000
-DTEND:20261122T030000
-UID:ohl29224
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29224\nStreaming: h
- ttps://www.flohockey.tv/events/16027624-2026-kitchener-rangers-vs-barrie-c
- olts
-LOCATION:Sadlon Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kitchener Rangers @ Windsor Spitfires
-DTSTART:20261126T000500
-DTEND:20261126T023500
-UID:ohl29238
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29238\nStreaming: h
- ttps://www.flohockey.tv/events/16027569-2026-kitchener-rangers-vs-windsor-
- spitfires
-LOCATION:WFCU Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Windsor Spitfires @ Kitchener Rangers
-DTSTART:20261128T000000
-DTEND:20261128T023000
-UID:ohl29245
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29245\nStreaming: h
- ttps://www.flohockey.tv/events/16028827-2026-windsor-spitfires-vs-kitchene
- r-rangers
-LOCATION:Kitchener Memorial Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kitchener Rangers @ London Knights
-DTSTART:20261128T210000
-DTEND:20261128T233000
-UID:ohl29253
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29253\nStreaming: h
- ttps://www.flohockey.tv/events/16027985-2026-kitchener-rangers-vs-london-k
- nights
-LOCATION:Canada Life Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kitchener Rangers @ Windsor Spitfires
-DTSTART:20261206T000500
-DTEND:20261206T023500
-UID:ohl29278
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29278\nStreaming: h
- ttps://www.flohockey.tv/events/16028085-2026-kitchener-rangers-vs-windsor-
- spitfires
-LOCATION:WFCU Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Sarnia Sting @ Kitchener Rangers
-DTSTART:20261209T000000
-DTEND:20261209T023000
-UID:ohl29285
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29285\nStreaming: h
- ttps://www.flohockey.tv/events/16028359-2026-sarnia-sting-vs-kitchener-ran
- gers
-LOCATION:Kitchener Memorial Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Oshawa Generals @ Kitchener Rangers
-DTSTART:20261212T000000
-DTEND:20261212T023000
-UID:ohl29298
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29298\nStreaming: h
- ttps://www.flohockey.tv/events/16027913-2026-oshawa-generals-vs-kitchener-
- rangers
-LOCATION:Kitchener Memorial Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Sudbury Wolves @ Kitchener Rangers
-DTSTART:20261219T000000
-DTEND:20261219T023000
-UID:ohl29324
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29324\nStreaming: h
- ttps://www.flohockey.tv/events/16027625-2026-sudbury-wolves-vs-kitchener-r
- angers
-LOCATION:Kitchener Memorial Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kitchener Rangers @ Guelph Storm
-DTSTART:20261219T190700
-DTEND:20261219T213700
-UID:ohl29330
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29330\nStreaming: h
- ttps://www.flohockey.tv/events/16027577-2026-kitchener-rangers-vs-guelph-s
- torm
-LOCATION:Sleeman Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Guelph Storm @ Kitchener Rangers
-DTSTART:20261230T000000
-DTEND:20261230T023000
-UID:ohl29342
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29342\nStreaming: h
- ttps://www.flohockey.tv/events/16027370-2026-guelph-storm-vs-kitchener-ran
- gers
-LOCATION:Kitchener Memorial Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kitchener Rangers @ Soo Greyhounds
-DTSTART:20270103T000700
-DTEND:20270103T023700
-UID:ohl29364
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29364\nStreaming: h
- ttps://www.flohockey.tv/events/16028378-2027-kitchener-rangers-vs-soo-grey
- hounds
-LOCATION:GFL Memorial Gardens
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kitchener Rangers @ Flint Firebirds
-DTSTART:20270103T210000
-DTEND:20270103T233000
-UID:ohl29365
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29365\nStreaming: h
- ttps://www.flohockey.tv/events/16027416-2027-kitchener-rangers-vs-flint-fi
- rebirds
-LOCATION:Dort Financial Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Erie Otters @ Kitchener Rangers
-DTSTART:20270109T000000
-DTEND:20270109T023000
-UID:ohl29382
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29382\nStreaming: h
- ttps://www.flohockey.tv/events/16028228-2027-erie-otters-vs-kitchener-rang
- ers
-LOCATION:Kitchener Memorial Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kitchener Rangers @ Saginaw Spirit
-DTSTART:20270110T000500
-DTEND:20270110T023500
-UID:ohl29391
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29391\nStreaming: h
- ttps://www.flohockey.tv/events/16025735-2027-kitchener-rangers-vs-saginaw-
- spirit
-LOCATION:Dow Event Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | London Knights @ Kitchener Rangers
-DTSTART:20270113T000000
-DTEND:20270113T023000
-UID:ohl29399
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29399\nStreaming: h
- ttps://www.flohockey.tv/events/16027372-2027-london-knights-vs-kitchener-r
- angers
-LOCATION:Kitchener Memorial Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kitchener Rangers @ Sarnia Sting
-DTSTART:20270114T000500
-DTEND:20270114T023500
-UID:ohl29401
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29401\nStreaming: h
- ttps://www.flohockey.tv/events/16028049-2027-kitchener-rangers-vs-sarnia-s
- ting
-LOCATION:Progressive Auto Sales Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Soo Greyhounds @ Kitchener Rangers
-DTSTART:20270117T190000
-DTEND:20270117T213000
-UID:ohl29422
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29422\nStreaming: h
- ttps://www.flohockey.tv/events/16027170-2027-soo-greyhounds-vs-kitchener-r
- angers
-LOCATION:Kitchener Memorial Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Peterborough Petes @ Kitchener Rangers
-DTSTART:20270123T000000
-DTEND:20270123T023000
-UID:ohl29432
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29432\nStreaming: h
- ttps://www.flohockey.tv/events/16027606-2027-peterborough-petes-vs-kitchen
- er-rangers
-LOCATION:Kitchener Memorial Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kitchener Rangers @ Niagara IceDogs
-DTSTART:20270124T000000
-DTEND:20270124T023000
-UID:ohl29440
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29440\nStreaming: h
- ttps://www.flohockey.tv/events/16028493-2027-kitchener-rangers-vs-niagara-
- icedogs
-LOCATION:Meridian Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kitchener Rangers @ Guelph Storm
-DTSTART:20270127T233700
-DTEND:20270128T020700
-UID:ohl29451
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29451\nStreaming: h
- ttps://www.flohockey.tv/events/16028532-2027-kitchener-rangers-vs-guelph-s
- torm
-LOCATION:Sleeman Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Soo Greyhounds @ Kitchener Rangers
-DTSTART:20270131T190000
-DTEND:20270131T213000
-UID:ohl29471
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29471\nStreaming: h
- ttps://www.flohockey.tv/events/16028467-2027-soo-greyhounds-vs-kitchener-r
- angers
-LOCATION:Kitchener Memorial Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kitchener Rangers @ London Knights
-DTSTART:20270204T000000
-DTEND:20270204T023000
-UID:ohl29477
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29477\nStreaming: h
- ttps://www.flohockey.tv/events/16025736-2027-kitchener-rangers-vs-london-k
- nights
-LOCATION:Canada Life Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Windsor Spitfires @ Kitchener Rangers
-DTSTART:20270206T000000
-DTEND:20270206T023000
-UID:ohl29486
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29486\nStreaming: h
- ttps://www.flohockey.tv/events/16027858-2027-windsor-spitfires-vs-kitchene
- r-rangers
-LOCATION:Kitchener Memorial Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | London Knights @ Kitchener Rangers
-DTSTART:20270210T000000
-DTEND:20270210T023000
-UID:ohl29503
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29503\nStreaming: h
- ttps://www.flohockey.tv/events/16028153-2027-london-knights-vs-kitchener-r
- angers
-LOCATION:Kitchener Memorial Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kitchener Rangers @ Kingston Frontenacs
-DTSTART:20270213T000500
-DTEND:20270213T023500
-UID:ohl29513
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29513\nStreaming: h
- ttps://www.flohockey.tv/events/16028484-2027-kitchener-rangers-vs-kingston
- -frontenacs
-LOCATION:Slush Puppie Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kitchener Rangers @ Ottawa 67's
-DTSTART:20270213T200000
-DTEND:20270213T223000
-UID:ohl29522
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29522\nStreaming: h
- ttps://www.flohockey.tv/events/16028112-2027-kitchener-rangers-vs-ottawa-6
- 7s
-LOCATION:TD Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kitchener Rangers @ Peterborough Petes
-DTSTART:20270215T190500
-DTEND:20270215T213500
-UID:ohl29533
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29533\nStreaming: h
- ttps://www.flohockey.tv/events/16027905-2027-kitchener-rangers-vs-peterbor
- ough-petes
-LOCATION:Peterborough Memorial Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Guelph Storm @ Kitchener Rangers
-DTSTART:20270221T190000
-DTEND:20270221T213000
-UID:ohl29556
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29556\nStreaming: h
- ttps://www.flohockey.tv/events/16027908-2027-guelph-storm-vs-kitchener-ran
- gers
-LOCATION:Kitchener Memorial Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brampton Steelheads @ Kitchener Rangers
-DTSTART:20270227T000000
-DTEND:20270227T023000
-UID:ohl29572
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29572\nStreaming: h
- ttps://www.flohockey.tv/events/16028147-2027-brampton-steelheads-vs-kitche
- ner-rangers
-LOCATION:Kitchener Memorial Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Flint Firebirds @ Kitchener Rangers
-DTSTART:20270303T000000
-DTEND:20270303T023000
-UID:ohl29589
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29589\nStreaming: h
- ttps://www.flohockey.tv/events/16028465-2027-flint-firebirds-vs-kitchener-
- rangers
-LOCATION:Kitchener Memorial Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kitchener Rangers @ London Knights
-DTSTART:20270304T000000
-DTEND:20270304T023000
-UID:ohl29591
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29591\nStreaming: h
- ttps://www.flohockey.tv/events/16028752-2027-kitchener-rangers-vs-london-k
- nights
-LOCATION:Canada Life Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Erie Otters @ Kitchener Rangers
-DTSTART:20270306T000000
-DTEND:20270306T023000
-UID:ohl29601
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29601\nStreaming: h
- ttps://www.flohockey.tv/events/16027065-2027-erie-otters-vs-kitchener-rang
- ers
-LOCATION:Kitchener Memorial Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kitchener Rangers @ Sarnia Sting
-DTSTART:20270307T190500
-DTEND:20270307T213500
-UID:ohl29616
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29616\nStreaming: h
- ttps://www.flohockey.tv/events/16028188-2027-kitchener-rangers-vs-sarnia-s
- ting
-LOCATION:Progressive Auto Sales Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saginaw Spirit @ Kitchener Rangers
-DTSTART:20270313T000000
-DTEND:20270313T023000
-UID:ohl29629
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29629\nStreaming: h
- ttps://www.flohockey.tv/events/16027100-2027-saginaw-spirit-vs-kitchener-r
- angers
-LOCATION:Kitchener Memorial Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kitchener Rangers @ Erie Otters
-DTSTART:20270313T230000
-DTEND:20270314T013000
-UID:ohl29635
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29635\nStreaming: h
- ttps://www.flohockey.tv/events/16028487-2027-kitchener-rangers-vs-erie-ott
- ers
-LOCATION:Erie Insurance Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kitchener Rangers @ Brampton Steelheads
-DTSTART:20270317T163000
-DTEND:20270317T190000
-UID:ohl29648
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29648\nStreaming: h
- ttps://www.flohockey.tv/events/16027904-2027-kitchener-rangers-vs-brampton
- -steelheads
-LOCATION:CAA Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Sarnia Sting @ Kitchener Rangers
-DTSTART:20270319T230000
-DTEND:20270320T013000
-UID:ohl29660
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29660\nStreaming: h
- ttps://www.flohockey.tv/events/16028321-2027-sarnia-sting-vs-kitchener-ran
- gers
-LOCATION:Kitchener Memorial Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Niagara IceDogs @ Brantford Bulldogs
-DTSTART:20260918T230000
-DTEND:20260919T013000
-UID:ohl28994
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/28994\nStreaming: h
- ttps://www.flohockey.tv/events/16027573-2026-niagara-icedogs-vs-brantford-
- bulldogs
-LOCATION:TD Civic Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Guelph Storm @ Brantford Bulldogs
-DTSTART:20260919T200000
-DTEND:20260919T223000
-UID:ohl29002
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29002\nStreaming: h
- ttps://www.flohockey.tv/events/16027867-2026-guelph-storm-vs-brantford-bul
- ldogs
-LOCATION:TD Civic Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Peterborough Petes @ Brantford Bulldogs
-DTSTART:20260925T230000
-DTEND:20260926T013000
-UID:ohl29012
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29012\nStreaming: h
- ttps://www.flohockey.tv/events/16028018-2026-peterborough-petes-vs-brantfo
- rd-bulldogs
-LOCATION:TD Civic Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kingston Frontenacs @ Brantford Bulldogs
-DTSTART:20260926T230000
-DTEND:20260927T013000
-UID:ohl29022
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29022\nStreaming: h
- ttps://www.flohockey.tv/events/16028075-2026-kingston-frontenacs-vs-brantf
- ord-bulldogs
-LOCATION:TD Civic Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brantford Bulldogs @ Oshawa Generals
-DTSTART:20260927T220500
-DTEND:20260928T003500
-UID:ohl29030
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29030\nStreaming: h
- ttps://www.flohockey.tv/events/16027315-2026-brantford-bulldogs-vs-oshawa-
- generals
-LOCATION:Tribute Communities Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brampton Steelheads @ Brantford Bulldogs
-DTSTART:20261002T230000
-DTEND:20261003T013000
-UID:ohl29036
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29036\nStreaming: h
- ttps://www.flohockey.tv/events/16028486-2026-brampton-steelheads-vs-brantf
- ord-bulldogs
-LOCATION:TD Civic Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | North Bay Battalion @ Brantford Bulldogs
-DTSTART:20261003T200000
-DTEND:20261003T223000
-UID:ohl29046
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29046\nStreaming: h
- ttps://www.flohockey.tv/events/16027616-2026-north-bay-battalion-vs-brantf
- ord-bulldogs
-LOCATION:TD Civic Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kingston Frontenacs @ Brantford Bulldogs
-DTSTART:20261010T200000
-DTEND:20261010T223000
-UID:ohl29065
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29065\nStreaming: h
- ttps://www.flohockey.tv/events/16028797-2026-kingston-frontenacs-vs-brantf
- ord-bulldogs
-LOCATION:TD Civic Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Ottawa 67's @ Brantford Bulldogs
-DTSTART:20261011T180000
-DTEND:20261011T203000
-UID:ohl29073
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29073\nStreaming: h
- ttps://www.flohockey.tv/events/16027412-2026-ottawa-67s-vs-brantford-bulld
- ogs
-LOCATION:TD Civic Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Barrie Colts @ Brantford Bulldogs
-DTSTART:20261016T230000
-DTEND:20261017T013000
-UID:ohl29083
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29083\nStreaming: h
- ttps://www.flohockey.tv/events/16027145-2026-barrie-colts-vs-brantford-bul
- ldogs
-LOCATION:TD Civic Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Soo Greyhounds @ Brantford Bulldogs
-DTSTART:20261018T180000
-DTEND:20261018T203000
-UID:ohl29097
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29097\nStreaming: h
- ttps://www.flohockey.tv/events/16028300-2026-soo-greyhounds-vs-brantford-b
- ulldogs
-LOCATION:TD Civic Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brantford Bulldogs @ Brampton Steelheads
-DTSTART:20261023T230000
-DTEND:20261024T013000
-UID:ohl29107
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29107\nStreaming: h
- ttps://www.flohockey.tv/events/16028319-2026-brantford-bulldogs-vs-brampto
- n-steelheads
-LOCATION:CAA Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brampton Steelheads @ Brantford Bulldogs
-DTSTART:20261024T230000
-DTEND:20261025T013000
-UID:ohl29116
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29116\nStreaming: h
- ttps://www.flohockey.tv/events/16027903-2026-brampton-steelheads-vs-brantf
- ord-bulldogs
-LOCATION:TD Civic Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brantford Bulldogs @ Peterborough Petes
-DTSTART:20261029T230500
-DTEND:20261030T013500
-UID:ohl29131
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29131\nStreaming: h
- ttps://www.flohockey.tv/events/16028971-2026-brantford-bulldogs-vs-peterbo
- rough-petes
-LOCATION:Peterborough Memorial Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brantford Bulldogs @ Ottawa 67's
-DTSTART:20261030T230000
-DTEND:20261031T013000
-UID:ohl29137
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29137\nStreaming: h
- ttps://www.flohockey.tv/events/16028432-2026-brantford-bulldogs-vs-ottawa-
- 67s
-LOCATION:TD Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brantford Bulldogs @ Kingston Frontenacs
-DTSTART:20261101T190500
-DTEND:20261101T213500
-UID:ohl29146
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29146\nStreaming: h
- ttps://www.flohockey.tv/events/16027067-2026-brantford-bulldogs-vs-kingsto
- n-frontenacs
-LOCATION:Slush Puppie Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brantford Bulldogs @ Sarnia Sting
-DTSTART:20261107T000500
-DTEND:20261107T023500
-UID:ohl29166
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29166\nStreaming: h
- ttps://www.flohockey.tv/events/16027368-2026-brantford-bulldogs-vs-sarnia-
- sting
-LOCATION:Progressive Auto Sales Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brantford Bulldogs @ Oshawa Generals
-DTSTART:20261108T230500
-DTEND:20261109T013500
-UID:ohl29174
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29174\nStreaming: h
- ttps://www.flohockey.tv/events/16027525-2026-brantford-bulldogs-vs-oshawa-
- generals
-LOCATION:Tribute Communities Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brantford Bulldogs @ Guelph Storm
-DTSTART:20261114T000700
-DTEND:20261114T023700
-UID:ohl29188
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29188\nStreaming: h
- ttps://www.flohockey.tv/events/16027131-2026-brantford-bulldogs-vs-guelph-
- storm
-LOCATION:Sleeman Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Oshawa Generals @ Brantford Bulldogs
-DTSTART:20261115T000000
-DTEND:20261115T023000
-UID:ohl29195
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29195\nStreaming: h
- ttps://www.flohockey.tv/events/16027361-2026-oshawa-generals-vs-brantford-
- bulldogs
-LOCATION:TD Civic Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brantford Bulldogs @ Peterborough Petes
-DTSTART:20261119T000500
-DTEND:20261119T023500
-UID:ohl29209
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29209\nStreaming: h
- ttps://www.flohockey.tv/events/16027417-2026-brantford-bulldogs-vs-peterbo
- rough-petes
-LOCATION:Peterborough Memorial Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brantford Bulldogs @ Sudbury Wolves
-DTSTART:20261121T000500
-DTEND:20261121T023500
-UID:ohl29223
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29223\nStreaming: h
- ttps://www.flohockey.tv/events/16027364-2026-brantford-bulldogs-vs-sudbury
- -wolves
-LOCATION:Sudbury Community Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brantford Bulldogs @ Brampton Steelheads
-DTSTART:20261122T190000
-DTEND:20261122T213000
-UID:ohl29228
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29228\nStreaming: h
- ttps://www.flohockey.tv/events/16028072-2026-brantford-bulldogs-vs-brampto
- n-steelheads
-LOCATION:CAA Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Sudbury Wolves @ Brantford Bulldogs
-DTSTART:20261126T000000
-DTEND:20261126T023000
-UID:ohl29235
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29235\nStreaming: h
- ttps://www.flohockey.tv/events/16027626-2026-sudbury-wolves-vs-brantford-b
- ulldogs
-LOCATION:TD Civic Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brantford Bulldogs @ Niagara IceDogs
-DTSTART:20261128T210000
-DTEND:20261128T233000
-UID:ohl29254
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29254\nStreaming: h
- ttps://www.flohockey.tv/events/16028471-2026-brantford-bulldogs-vs-niagara
- -icedogs
-LOCATION:Meridian Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Oshawa Generals @ Brantford Bulldogs
-DTSTART:20261205T210000
-DTEND:20261205T233000
-UID:ohl29274
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29274\nStreaming: h
- ttps://www.flohockey.tv/events/16027136-2026-oshawa-generals-vs-brantford-
- bulldogs
-LOCATION:TD Civic Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brantford Bulldogs @ Windsor Spitfires
-DTSTART:20261206T210500
-DTEND:20261206T233500
-UID:ohl29284
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29284\nStreaming: h
- ttps://www.flohockey.tv/events/16028315-2026-brantford-bulldogs-vs-windsor
- -spitfires
-LOCATION:WFCU Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brantford Bulldogs @ Niagara IceDogs
-DTSTART:20261211T000000
-DTEND:20261211T023000
-UID:ohl29291
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29291\nStreaming: h
- ttps://www.flohockey.tv/events/16027176-2026-brantford-bulldogs-vs-niagara
- -icedogs
-LOCATION:Meridian Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Peterborough Petes @ Brantford Bulldogs
-DTSTART:20261212T000000
-DTEND:20261212T023000
-UID:ohl29296
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29296\nStreaming: h
- ttps://www.flohockey.tv/events/16027561-2026-peterborough-petes-vs-brantfo
- rd-bulldogs
-LOCATION:TD Civic Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | North Bay Battalion @ Brantford Bulldogs
-DTSTART:20261213T190000
-DTEND:20261213T213000
-UID:ohl29307
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29307\nStreaming: h
- ttps://www.flohockey.tv/events/16025405-2026-north-bay-battalion-vs-brantf
- ord-bulldogs
-LOCATION:TD Civic Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Sarnia Sting @ Brantford Bulldogs
-DTSTART:20261219T000000
-DTEND:20261219T023000
-UID:ohl29322
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29322\nStreaming: h
- ttps://www.flohockey.tv/events/16028502-2026-sarnia-sting-vs-brantford-bul
- ldogs
-LOCATION:TD Civic Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brantford Bulldogs @ Barrie Colts
-DTSTART:20261220T003000
-DTEND:20261220T030000
-UID:ohl29328
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29328\nStreaming: h
- ttps://www.flohockey.tv/events/16027240-2026-brantford-bulldogs-vs-barrie-
- colts
-LOCATION:Sadlon Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brantford Bulldogs @ Brampton Steelheads
-DTSTART:20261229T000000
-DTEND:20261229T023000
-UID:ohl29337
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29337\nStreaming: h
- ttps://www.flohockey.tv/events/16027830-2026-brantford-bulldogs-vs-brampto
- n-steelheads
-LOCATION:CAA Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Erie Otters @ Brantford Bulldogs
-DTSTART:20261230T000000
-DTEND:20261230T023000
-UID:ohl29341
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29341\nStreaming: h
- ttps://www.flohockey.tv/events/16025562-2026-erie-otters-vs-brantford-bull
- dogs
-LOCATION:TD Civic Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brantford Bulldogs @ Erie Otters
-DTSTART:20261231T230000
-DTEND:20270101T013000
-UID:ohl29349
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29349\nStreaming: h
- ttps://www.flohockey.tv/events/16027096-2026-brantford-bulldogs-vs-erie-ot
- ters
-LOCATION:Erie Insurance Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Oshawa Generals @ Brantford Bulldogs
-DTSTART:20270107T000000
-DTEND:20270107T023000
-UID:ohl29372
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29372\nStreaming: h
- ttps://www.flohockey.tv/events/16028223-2027-oshawa-generals-vs-brantford-
- bulldogs
-LOCATION:TD Civic Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Ottawa 67's @ Brantford Bulldogs
-DTSTART:20270109T000000
-DTEND:20270109T023000
-UID:ohl29379
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29379\nStreaming: h
- ttps://www.flohockey.tv/events/16027239-2027-ottawa-67s-vs-brantford-bulld
- ogs
-LOCATION:TD Civic Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brantford Bulldogs @ North Bay Battalion
-DTSTART:20270110T190000
-DTEND:20270110T213000
-UID:ohl29395
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29395\nStreaming: h
- ttps://www.flohockey.tv/events/16028536-2027-brantford-bulldogs-vs-north-b
- ay-battalion
-LOCATION:Boart Longyear Memorial Gardens
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Barrie Colts @ Brantford Bulldogs
-DTSTART:20270116T000000
-DTEND:20270116T023000
-UID:ohl29407
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29407\nStreaming: h
- ttps://www.flohockey.tv/events/16028241-2027-barrie-colts-vs-brantford-bul
- ldogs
-LOCATION:TD Civic Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brampton Steelheads @ Brantford Bulldogs
-DTSTART:20270116T210000
-DTEND:20270116T233000
-UID:ohl29416
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29416\nStreaming: h
- ttps://www.flohockey.tv/events/16028268-2027-brampton-steelheads-vs-brantf
- ord-bulldogs
-LOCATION:TD Civic Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Niagara IceDogs @ Brantford Bulldogs
-DTSTART:20270123T000000
-DTEND:20270123T023000
-UID:ohl29430
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29430\nStreaming: h
- ttps://www.flohockey.tv/events/16027805-2027-niagara-icedogs-vs-brantford-
- bulldogs
-LOCATION:TD Civic Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Peterborough Petes @ Brantford Bulldogs
-DTSTART:20270124T000000
-DTEND:20270124T023000
-UID:ohl29438
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29438\nStreaming: h
- ttps://www.flohockey.tv/events/16025406-2027-peterborough-petes-vs-brantfo
- rd-bulldogs
-LOCATION:TD Civic Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Erie Otters @ Brantford Bulldogs
-DTSTART:20270128T000000
-DTEND:20270128T023000
-UID:ohl29450
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29450\nStreaming: h
- ttps://www.flohockey.tv/events/16027869-2027-erie-otters-vs-brantford-bull
- dogs
-LOCATION:TD Civic Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brantford Bulldogs @ London Knights
-DTSTART:20270130T000000
-DTEND:20270130T023000
-UID:ohl29461
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29461\nStreaming: h
- ttps://www.flohockey.tv/events/16028793-2027-brantford-bulldogs-vs-london-
- knights
-LOCATION:Canada Life Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brantford Bulldogs @ Oshawa Generals
-DTSTART:20270131T230500
-DTEND:20270201T013500
-UID:ohl29472
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29472\nStreaming: h
- ttps://www.flohockey.tv/events/16027134-2027-brantford-bulldogs-vs-oshawa-
- generals
-LOCATION:Tribute Communities Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kingston Frontenacs @ Brantford Bulldogs
-DTSTART:20270204T000000
-DTEND:20270204T023000
-UID:ohl29476
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29476\nStreaming: h
- ttps://www.flohockey.tv/events/16027922-2027-kingston-frontenacs-vs-brantf
- ord-bulldogs
-LOCATION:TD Civic Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brantford Bulldogs @ Flint Firebirds
-DTSTART:20270206T000000
-DTEND:20270206T023000
-UID:ohl29484
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29484\nStreaming: h
- ttps://www.flohockey.tv/events/16027956-2027-brantford-bulldogs-vs-flint-f
- irebirds
-LOCATION:Dort Financial Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brantford Bulldogs @ Saginaw Spirit
-DTSTART:20270207T000500
-DTEND:20270207T023500
-UID:ohl29496
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29496\nStreaming: h
- ttps://www.flohockey.tv/events/16027853-2027-brantford-bulldogs-vs-saginaw
- -spirit
-LOCATION:Dow Event Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Windsor Spitfires @ Brantford Bulldogs
-DTSTART:20270213T000000
-DTEND:20270213T023000
-UID:ohl29510
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29510\nStreaming: h
- ttps://www.flohockey.tv/events/16027536-2027-windsor-spitfires-vs-brantfor
- d-bulldogs
-LOCATION:TD Civic Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Flint Firebirds @ Brantford Bulldogs
-DTSTART:20270213T210000
-DTEND:20270213T233000
-UID:ohl29518
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29518\nStreaming: h
- ttps://www.flohockey.tv/events/16028374-2027-flint-firebirds-vs-brantford-
- bulldogs
-LOCATION:TD Civic Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brantford Bulldogs @ Kingston Frontenacs
-DTSTART:20270215T190500
-DTEND:20270215T213500
-UID:ohl29529
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29529\nStreaming: h
- ttps://www.flohockey.tv/events/16027804-2027-brantford-bulldogs-vs-kingsto
- n-frontenacs
-LOCATION:Slush Puppie Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | London Knights @ Brantford Bulldogs
-DTSTART:20270218T000000
-DTEND:20270218T023000
-UID:ohl29536
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29536\nStreaming: h
- ttps://www.flohockey.tv/events/16027902-2027-london-knights-vs-brantford-b
- ulldogs
-LOCATION:TD Civic Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brantford Bulldogs @ Kitchener Rangers
-DTSTART:20270220T000000
-DTEND:20270220T023000
-UID:ohl29544
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29544\nStreaming: h
- ttps://www.flohockey.tv/events/16028224-2027-brantford-bulldogs-vs-kitchen
- er-rangers
-LOCATION:Kitchener Memorial Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brantford Bulldogs @ Barrie Colts
-DTSTART:20270221T003000
-DTEND:20270221T030000
-UID:ohl29549
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29549\nStreaming: h
- ttps://www.flohockey.tv/events/16028424-2027-brantford-bulldogs-vs-barrie-
- colts
-LOCATION:Sadlon Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kitchener Rangers @ Brantford Bulldogs
-DTSTART:20270225T000000
-DTEND:20270225T023000
-UID:ohl29562
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29562\nStreaming: h
- ttps://www.flohockey.tv/events/16029043-2027-kitchener-rangers-vs-brantfor
- d-bulldogs
-LOCATION:TD Civic Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brantford Bulldogs @ Kingston Frontenacs
-DTSTART:20270227T210500
-DTEND:20270227T233500
-UID:ohl29579
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29579\nStreaming: h
- ttps://www.flohockey.tv/events/16027533-2027-brantford-bulldogs-vs-kingsto
- n-frontenacs
-LOCATION:Slush Puppie Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brantford Bulldogs @ Ottawa 67's
-DTSTART:20270228T200000
-DTEND:20270228T223000
-UID:ohl29586
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29586\nStreaming: h
- ttps://www.flohockey.tv/events/16027837-2027-brantford-bulldogs-vs-ottawa-
- 67s
-LOCATION:TD Place
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Sudbury Wolves @ Brantford Bulldogs
-DTSTART:20270306T000000
-DTEND:20270306T023000
-UID:ohl29598
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29598\nStreaming: h
- ttps://www.flohockey.tv/events/16028084-2027-sudbury-wolves-vs-brantford-b
- ulldogs
-LOCATION:TD Civic Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saginaw Spirit @ Brantford Bulldogs
-DTSTART:20270306T210000
-DTEND:20270306T233000
-UID:ohl29605
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29605\nStreaming: h
- ttps://www.flohockey.tv/events/16027030-2027-saginaw-spirit-vs-brantford-b
- ulldogs
-LOCATION:TD Civic Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brantford Bulldogs @ Niagara IceDogs
-DTSTART:20270310T000000
-DTEND:20270310T023000
-UID:ohl29618
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29618\nStreaming: h
- ttps://www.flohockey.tv/events/16028146-2027-brantford-bulldogs-vs-niagara
- -icedogs
-LOCATION:Meridian Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brantford Bulldogs @ North Bay Battalion
-DTSTART:20270312T000000
-DTEND:20270312T023000
-UID:ohl29624
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29624\nStreaming: h
- ttps://www.flohockey.tv/events/16027408-2027-brantford-bulldogs-vs-north-b
- ay-battalion
-LOCATION:Boart Longyear Memorial Gardens
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brantford Bulldogs @ Soo Greyhounds
-DTSTART:20270313T000700
-DTEND:20270313T023700
-UID:ohl29633
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29633\nStreaming: h
- ttps://www.flohockey.tv/events/16028318-2027-brantford-bulldogs-vs-soo-gre
- yhounds
-LOCATION:GFL Memorial Gardens
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brantford Bulldogs @ Sudbury Wolves
-DTSTART:20270314T180500
-DTEND:20270314T203500
-UID:ohl29645
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29645\nStreaming: h
- ttps://www.flohockey.tv/events/16027294-2027-brantford-bulldogs-vs-sudbury
- -wolves
-LOCATION:Sudbury Community Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Niagara IceDogs @ Brantford Bulldogs
-DTSTART:20270317T230000
-DTEND:20270318T013000
-UID:ohl29649
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29649\nStreaming: h
- ttps://www.flohockey.tv/events/16028115-2027-niagara-icedogs-vs-brantford-
- bulldogs
-LOCATION:TD Civic Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brantford Bulldogs @ Peterborough Petes
-DTSTART:20270318T230500
-DTEND:20270319T013500
-UID:ohl29656
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29656\nStreaming: h
- ttps://www.flohockey.tv/events/16025738-2027-brantford-bulldogs-vs-peterbo
- rough-petes
-LOCATION:Peterborough Memorial Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Brantford Bulldogs @ Erie Otters
-DTSTART:20270320T220000
-DTEND:20270321T003000
-UID:ohl29667
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29667\nStreaming: h
- ttps://www.flohockey.tv/events/16027871-2027-brantford-bulldogs-vs-erie-ot
- ters
-LOCATION:Erie Insurance Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ Kitchener Rangers
-DTSTART:20260918T230000
-DTEND:20260919T013000
-UID:ohl28996
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/28996\nStreaming: h
- ttps://www.flohockey.tv/events/16027530-2026-owen-sound-attack-vs-kitchene
- r-rangers
-LOCATION:Kitchener Memorial Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kitchener Rangers @ Owen Sound Attack
-DTSTART:20260919T230000
-DTEND:20260920T013000
-UID:ohl29004
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29004\nStreaming li
- nk not yet available
-LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Owen Sound Attack @ London Knights
 DTSTART:20260925T230000
 DTEND:20260926T013000
@@ -1423,16 +164,6 @@ DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29161\nStreaming: h
 LOCATION:Sleeman Centre
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Kitchener Rangers @ Owen Sound Attack
-DTSTART:20261108T000000
-DTEND:20261108T023000
-UID:ohl29170
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29170\nStreaming: h
- ttps://www.flohockey.tv/events/16028090-2026-kitchener-rangers-vs-owen-sou
- nd-attack
-LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Barrie Colts @ Owen Sound Attack
 DTSTART:20261112T000000
 DTEND:20261112T023000
@@ -1450,16 +181,6 @@ UID:ohl29198
 DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29198\nStreaming: h
  ttps://www.flohockey.tv/events/16028007-2026-guelph-storm-vs-owen-sound-at
  tack
-LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | North Bay Battalion @ Owen Sound Attack
-DTSTART:20261119T000000
-DTEND:20261119T023000
-UID:ohl29208
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29208\nStreaming: h
- ttps://www.flohockey.tv/events/16029051-2026-north-bay-battalion-vs-owen-s
- ound-attack
 LOCATION:Harry Lumley Bayshore Community Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -1511,16 +232,6 @@ DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29260\nStreaming: h
  ttps://www.flohockey.tv/events/16028087-2026-kingston-frontenacs-vs-owen-s
  ound-attack
 LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ Kitchener Rangers
-DTSTART:20261205T000000
-DTEND:20261205T023000
-UID:ohl29269
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29269\nStreaming: h
- ttps://www.flohockey.tv/events/16028367-2026-owen-sound-attack-vs-kitchene
- r-rangers
-LOCATION:Kitchener Memorial Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Niagara IceDogs @ Owen Sound Attack
@@ -1653,26 +364,6 @@ DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29396\nStreaming: h
 LOCATION:Tribute Communities Centre
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ Kitchener Rangers
-DTSTART:20270116T000000
-DTEND:20270116T023000
-UID:ohl29410
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29410\nStreaming: h
- ttps://www.flohockey.tv/events/16027318-2027-owen-sound-attack-vs-kitchene
- r-rangers
-LOCATION:Kitchener Memorial Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ North Bay Battalion
-DTSTART:20270117T190000
-DTEND:20270117T213000
-UID:ohl29423
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29423\nStreaming: h
- ttps://www.flohockey.tv/events/16027414-2027-owen-sound-attack-vs-north-ba
- y-battalion
-LOCATION:Boart Longyear Memorial Gardens
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Saginaw Spirit @ Owen Sound Attack
 DTSTART:20270124T000000
 DTEND:20270124T023000
@@ -1681,16 +372,6 @@ DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29442\nStreaming: h
  ttps://www.flohockey.tv/events/16027923-2027-saginaw-spirit-vs-owen-sound-
  attack
 LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ Kitchener Rangers
-DTSTART:20270130T000000
-DTEND:20270130T023000
-UID:ohl29460
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29460\nStreaming: h
- ttps://www.flohockey.tv/events/16028324-2027-owen-sound-attack-vs-kitchene
- r-rangers
-LOCATION:Kitchener Memorial Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | London Knights @ Owen Sound Attack
@@ -1823,16 +504,6 @@ DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29573\nStreaming: h
 LOCATION:Canada Life Place
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Kitchener Rangers @ Owen Sound Attack
-DTSTART:20270228T000000
-DTEND:20270228T023000
-UID:ohl29581
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29581\nStreaming: h
- ttps://www.flohockey.tv/events/16028371-2027-kitchener-rangers-vs-owen-sou
- nd-attack
-LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Flint Firebirds @ Owen Sound Attack
 DTSTART:20270304T000000
 DTEND:20270304T023000
@@ -1911,6 +582,1333 @@ DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29658\nStreaming: h
  ttps://www.flohockey.tv/events/16027330-2027-owen-sound-attack-vs-guelph-s
  torm
 LOCATION:Sleeman Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Barrie Colts @ North Bay Battalion
+DTSTART:20260918T230000
+DTEND:20260919T013000
+UID:ohl28998
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/28998\nStreaming li
+ nk not yet available
+LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Bay Battalion @ Oshawa Generals
+DTSTART:20260920T220500
+DTEND:20260921T003500
+UID:ohl29009
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29009\nStreaming li
+ nk not yet available
+LOCATION:Tribute Communities Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Brampton Steelheads @ North Bay Battalion
+DTSTART:20260924T230000
+DTEND:20260925T013000
+UID:ohl29010
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29010\nStreaming: h
+ ttps://www.flohockey.tv/events/16027068-2026-brampton-steelheads-vs-north-
+ bay-battalion
+LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Bay Battalion @ Soo Greyhounds
+DTSTART:20260926T230700
+DTEND:20260927T013700
+UID:ohl29028
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29028\nStreaming: h
+ ttps://www.flohockey.tv/events/16027178-2026-north-bay-battalion-vs-soo-gr
+ eyhounds
+LOCATION:GFL Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Bay Battalion @ Windsor Spitfires
+DTSTART:20261001T230500
+DTEND:20261002T013500
+UID:ohl29035
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29035\nStreaming: h
+ ttps://www.flohockey.tv/events/16027173-2026-north-bay-battalion-vs-windso
+ r-spitfires
+LOCATION:WFCU Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Bay Battalion @ London Knights
+DTSTART:20261002T230000
+DTEND:20261003T013000
+UID:ohl29040
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29040\nStreaming: h
+ ttps://www.flohockey.tv/events/16028246-2026-north-bay-battalion-vs-london
+ -knights
+LOCATION:Canada Life Place
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Bay Battalion @ Brantford Bulldogs
+DTSTART:20261003T200000
+DTEND:20261003T223000
+UID:ohl29046
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29046\nStreaming: h
+ ttps://www.flohockey.tv/events/16027616-2026-north-bay-battalion-vs-brantf
+ ord-bulldogs
+LOCATION:TD Civic Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Sudbury Wolves @ North Bay Battalion
+DTSTART:20261008T230000
+DTEND:20261009T013000
+UID:ohl29058
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29058\nStreaming: h
+ ttps://www.flohockey.tv/events/16028262-2026-sudbury-wolves-vs-north-bay-b
+ attalion
+LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Peterborough Petes @ North Bay Battalion
+DTSTART:20261012T180000
+DTEND:20261012T203000
+UID:ohl29075
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29075\nStreaming: h
+ ttps://www.flohockey.tv/events/16048213-2026-peterborough-petes-vs-north-b
+ ay-battalion
+LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Bay Battalion @ Peterborough Petes
+DTSTART:20261015T230500
+DTEND:20261016T013500
+UID:ohl29080
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29080\nStreaming: h
+ ttps://www.flohockey.tv/events/16028309-2026-north-bay-battalion-vs-peterb
+ orough-petes
+LOCATION:Peterborough Memorial Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Niagara IceDogs @ North Bay Battalion
+DTSTART:20261018T180000
+DTEND:20261018T203000
+UID:ohl29099
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29099\nStreaming: h
+ ttps://www.flohockey.tv/events/16027991-2026-niagara-icedogs-vs-north-bay-
+ battalion
+LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Sudbury Wolves @ North Bay Battalion
+DTSTART:20261022T230000
+DTEND:20261023T013000
+UID:ohl29104
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29104\nStreaming: h
+ ttps://www.flohockey.tv/events/16028325-2026-sudbury-wolves-vs-north-bay-b
+ attalion
+LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Bay Battalion @ Sudbury Wolves
+DTSTART:20261023T230500
+DTEND:20261024T013500
+UID:ohl29114
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29114\nStreaming: h
+ ttps://www.flohockey.tv/events/16027870-2026-north-bay-battalion-vs-sudbur
+ y-wolves
+LOCATION:Sudbury Community Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Bay Battalion @ Barrie Colts
+DTSTART:20261024T233000
+DTEND:20261025T020000
+UID:ohl29115
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29115\nStreaming: h
+ ttps://www.flohockey.tv/events/16027091-2026-north-bay-battalion-vs-barrie
+ -colts
+LOCATION:Sadlon Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | London Knights @ North Bay Battalion
+DTSTART:20261029T230000
+DTEND:20261030T013000
+UID:ohl29130
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29130\nStreaming: h
+ ttps://www.flohockey.tv/events/16027989-2026-london-knights-vs-north-bay-b
+ attalion
+LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Bay Battalion @ Niagara IceDogs
+DTSTART:20261030T230000
+DTEND:20261031T013000
+UID:ohl29136
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29136\nStreaming: h
+ ttps://www.flohockey.tv/events/16027906-2026-north-bay-battalion-vs-niagar
+ a-icedogs
+LOCATION:Meridian Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Val-d'Or Foreurs @ North Bay Battalion
+DTSTART:20261101T190000
+DTEND:20261101T213000
+UID:ohl29148
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29148\nStreaming: h
+ ttps://www.flohockey.tv/events/16027298-2026-val-dor-foreurs-vs-north-bay-
+ battalion
+LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Bay Battalion @ Guelph Storm
+DTSTART:20261107T210700
+DTEND:20261107T233700
+UID:ohl29169
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29169\nStreaming: h
+ ttps://www.flohockey.tv/events/16028311-2026-north-bay-battalion-vs-guelph
+ -storm
+LOCATION:Sleeman Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Sarnia Sting @ North Bay Battalion
+DTSTART:20261113T000000
+DTEND:20261113T023000
+UID:ohl29183
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29183\nStreaming: h
+ ttps://www.flohockey.tv/events/16028317-2026-sarnia-sting-vs-north-bay-bat
+ talion
+LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Sudbury Wolves @ North Bay Battalion
+DTSTART:20261115T200000
+DTEND:20261115T223000
+UID:ohl29203
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29203\nStreaming: h
+ ttps://www.flohockey.tv/events/16028186-2026-sudbury-wolves-vs-north-bay-b
+ attalion
+LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Bay Battalion @ Owen Sound Attack
+DTSTART:20261119T000000
+DTEND:20261119T023000
+UID:ohl29208
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29208\nStreaming: h
+ ttps://www.flohockey.tv/events/16029051-2026-north-bay-battalion-vs-owen-s
+ ound-attack
+LOCATION:Harry Lumley Bayshore Community Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Niagara IceDogs @ North Bay Battalion
+DTSTART:20261122T190000
+DTEND:20261122T213000
+UID:ohl29231
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29231\nStreaming: h
+ ttps://www.flohockey.tv/events/16027855-2026-niagara-icedogs-vs-north-bay-
+ battalion
+LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Bay Battalion @ Brampton Steelheads
+DTSTART:20261128T000000
+DTEND:20261128T023000
+UID:ohl29241
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29241\nStreaming: h
+ ttps://www.flohockey.tv/events/16027623-2026-north-bay-battalion-vs-brampt
+ on-steelheads
+LOCATION:CAA Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Brampton Steelheads @ North Bay Battalion
+DTSTART:20261129T190000
+DTEND:20261129T213000
+UID:ohl29259
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29259\nStreaming: h
+ ttps://www.flohockey.tv/events/16027868-2026-brampton-steelheads-vs-north-
+ bay-battalion
+LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Erie Otters @ North Bay Battalion
+DTSTART:20261204T000000
+DTEND:20261204T023000
+UID:ohl29264
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29264\nStreaming: h
+ ttps://www.flohockey.tv/events/16027363-2026-erie-otters-vs-north-bay-batt
+ alion
+LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Soo Greyhounds @ North Bay Battalion
+DTSTART:20261206T190000
+DTEND:20261206T213000
+UID:ohl29281
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29281\nStreaming: h
+ ttps://www.flohockey.tv/events/16027313-2026-soo-greyhounds-vs-north-bay-b
+ attalion
+LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kingston Frontenacs @ North Bay Battalion
+DTSTART:20261211T000000
+DTEND:20261211T023000
+UID:ohl29292
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29292\nStreaming: h
+ ttps://www.flohockey.tv/events/16028220-2026-kingston-frontenacs-vs-north-
+ bay-battalion
+LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Bay Battalion @ Niagara IceDogs
+DTSTART:20261213T000000
+DTEND:20261213T023000
+UID:ohl29306
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29306\nStreaming: h
+ ttps://www.flohockey.tv/events/16028828-2026-north-bay-battalion-vs-niagar
+ a-icedogs
+LOCATION:Meridian Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Bay Battalion @ Brantford Bulldogs
+DTSTART:20261213T190000
+DTEND:20261213T213000
+UID:ohl29307
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29307\nStreaming: h
+ ttps://www.flohockey.tv/events/16025405-2026-north-bay-battalion-vs-brantf
+ ord-bulldogs
+LOCATION:TD Civic Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Guelph Storm @ North Bay Battalion
+DTSTART:20261218T000000
+DTEND:20261218T023000
+UID:ohl29318
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29318\nStreaming: h
+ ttps://www.flohockey.tv/events/16028310-2026-guelph-storm-vs-north-bay-bat
+ talion
+LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Bay Battalion @ Brampton Steelheads
+DTSTART:20261219T000000
+DTEND:20261219T023000
+UID:ohl29321
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29321\nStreaming: h
+ ttps://www.flohockey.tv/events/16027587-2026-north-bay-battalion-vs-brampt
+ on-steelheads
+LOCATION:CAA Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Brampton Steelheads @ North Bay Battalion
+DTSTART:20261231T180000
+DTEND:20261231T203000
+UID:ohl29353
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29353\nStreaming: h
+ ttps://www.flohockey.tv/events/16048234-2026-brampton-steelheads-vs-north-
+ bay-battalion
+LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Bay Battalion @ Oshawa Generals
+DTSTART:20270101T190500
+DTEND:20270101T213500
+UID:ohl29357
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29357\nStreaming: h
+ ttps://www.flohockey.tv/events/16029042-2027-north-bay-battalion-vs-oshawa
+ -generals
+LOCATION:Tribute Communities Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Peterborough Petes @ North Bay Battalion
+DTSTART:20270103T190000
+DTEND:20270103T213000
+UID:ohl29368
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29368\nStreaming: h
+ ttps://www.flohockey.tv/events/16028533-2027-peterborough-petes-vs-north-b
+ ay-battalion
+LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Windsor Spitfires @ North Bay Battalion
+DTSTART:20270108T000000
+DTEND:20270108T023000
+UID:ohl29376
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29376\nStreaming: h
+ ttps://www.flohockey.tv/events/16028301-2027-windsor-spitfires-vs-north-ba
+ y-battalion
+LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Bay Battalion @ Soo Greyhounds
+DTSTART:20270109T000700
+DTEND:20270109T023700
+UID:ohl29385
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29385\nStreaming: h
+ ttps://www.flohockey.tv/events/16028190-2027-north-bay-battalion-vs-soo-gr
+ eyhounds
+LOCATION:GFL Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Brantford Bulldogs @ North Bay Battalion
+DTSTART:20270110T190000
+DTEND:20270110T213000
+UID:ohl29395
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29395\nStreaming: h
+ ttps://www.flohockey.tv/events/16028536-2027-brantford-bulldogs-vs-north-b
+ ay-battalion
+LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Soo Greyhounds @ North Bay Battalion
+DTSTART:20270115T000000
+DTEND:20270115T023000
+UID:ohl29403
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29403\nStreaming: h
+ ttps://www.flohockey.tv/events/16027987-2027-soo-greyhounds-vs-north-bay-b
+ attalion
+LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Bay Battalion @ Barrie Colts
+DTSTART:20270117T003000
+DTEND:20270117T030000
+UID:ohl29415
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29415\nStreaming: h
+ ttps://www.flohockey.tv/events/16028469-2027-north-bay-battalion-vs-barrie
+ -colts
+LOCATION:Sadlon Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ North Bay Battalion
+DTSTART:20270117T190000
+DTEND:20270117T213000
+UID:ohl29423
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29423\nStreaming: h
+ ttps://www.flohockey.tv/events/16027414-2027-owen-sound-attack-vs-north-ba
+ y-battalion
+LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Flint Firebirds @ North Bay Battalion
+DTSTART:20270122T000000
+DTEND:20270122T023000
+UID:ohl29427
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29427\nStreaming: h
+ ttps://www.flohockey.tv/events/16028080-2027-flint-firebirds-vs-north-bay-
+ battalion
+LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Bay Battalion @ Val-d'Or Foreurs
+DTSTART:20270123T000000
+DTEND:20270123T023000
+UID:ohl29436
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29436\nStreaming: h
+ ttps://www.flohockey.tv/events/16028787-2027-north-bay-battalion-vs-val-do
+ r-foreurs
+LOCATION:Centre Agnico Eagle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Ottawa 67's @ North Bay Battalion
+DTSTART:20270124T190000
+DTEND:20270124T213000
+UID:ohl29446
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29446\nStreaming: h
+ ttps://www.flohockey.tv/events/16027537-2027-ottawa-67s-vs-north-bay-batta
+ lion
+LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Bay Battalion @ Peterborough Petes
+DTSTART:20270129T000500
+DTEND:20270129T023500
+UID:ohl29454
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29454\nStreaming: h
+ ttps://www.flohockey.tv/events/16028417-2027-north-bay-battalion-vs-peterb
+ orough-petes
+LOCATION:Peterborough Memorial Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Bay Battalion @ Kingston Frontenacs
+DTSTART:20270130T210500
+DTEND:20270130T233500
+UID:ohl29467
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29467\nStreaming: h
+ ttps://www.flohockey.tv/events/16028796-2027-north-bay-battalion-vs-kingst
+ on-frontenacs
+LOCATION:Slush Puppie Place
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Bay Battalion @ Ottawa 67's
+DTSTART:20270131T200000
+DTEND:20270131T223000
+UID:ohl29473
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29473\nStreaming: h
+ ttps://www.flohockey.tv/events/16027422-2027-north-bay-battalion-vs-ottawa
+ -67s
+LOCATION:TD Place
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Ottawa 67's @ North Bay Battalion
+DTSTART:20270205T000000
+DTEND:20270205T023000
+UID:ohl29482
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29482\nStreaming: h
+ ttps://www.flohockey.tv/events/16027084-2027-ottawa-67s-vs-north-bay-batta
+ lion
+LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Bay Battalion @ Sudbury Wolves
+DTSTART:20270206T000500
+DTEND:20270206T023500
+UID:ohl29491
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29491\nStreaming: h
+ ttps://www.flohockey.tv/events/16028006-2027-north-bay-battalion-vs-sudbur
+ y-wolves
+LOCATION:Sudbury Community Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Barrie Colts @ North Bay Battalion
+DTSTART:20270207T180000
+DTEND:20270207T203000
+UID:ohl29499
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29499\nStreaming: h
+ ttps://www.flohockey.tv/events/16025726-2027-barrie-colts-vs-north-bay-bat
+ talion
+LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Oshawa Generals @ North Bay Battalion
+DTSTART:20270212T000000
+DTEND:20270212T023000
+UID:ohl29507
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29507\nStreaming: h
+ ttps://www.flohockey.tv/events/16027092-2027-oshawa-generals-vs-north-bay-
+ battalion
+LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saginaw Spirit @ North Bay Battalion
+DTSTART:20270214T190000
+DTEND:20270214T213000
+UID:ohl29525
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29525\nStreaming: h
+ ttps://www.flohockey.tv/events/16027130-2027-saginaw-spirit-vs-north-bay-b
+ attalion
+LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Bay Battalion @ Ottawa 67's
+DTSTART:20270215T200000
+DTEND:20270215T223000
+UID:ohl29532
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29532\nStreaming: h
+ ttps://www.flohockey.tv/events/16027063-2027-north-bay-battalion-vs-ottawa
+ -67s
+LOCATION:TD Place
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Bay Battalion @ Flint Firebirds
+DTSTART:20270220T000000
+DTEND:20270220T023000
+UID:ohl29541
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29541\nStreaming: h
+ ttps://www.flohockey.tv/events/16027857-2027-north-bay-battalion-vs-flint-
+ firebirds
+LOCATION:Dort Financial Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Bay Battalion @ Saginaw Spirit
+DTSTART:20270221T000500
+DTEND:20270221T023500
+UID:ohl29553
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29553\nStreaming: h
+ ttps://www.flohockey.tv/events/16028119-2027-north-bay-battalion-vs-sagina
+ w-spirit
+LOCATION:Dow Event Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Bay Battalion @ Sarnia Sting
+DTSTART:20270221T190500
+DTEND:20270221T213500
+UID:ohl29561
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29561\nStreaming: h
+ ttps://www.flohockey.tv/events/16028415-2027-north-bay-battalion-vs-sarnia
+ -sting
+LOCATION:Progressive Auto Sales Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Niagara IceDogs @ North Bay Battalion
+DTSTART:20270226T000000
+DTEND:20270226T023000
+UID:ohl29567
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29567\nStreaming: h
+ ttps://www.flohockey.tv/events/16027983-2027-niagara-icedogs-vs-north-bay-
+ battalion
+LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Bay Battalion @ Sudbury Wolves
+DTSTART:20270227T000500
+DTEND:20270227T023500
+UID:ohl29575
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29575\nStreaming: h
+ ttps://www.flohockey.tv/events/16027961-2027-north-bay-battalion-vs-sudbur
+ y-wolves
+LOCATION:Sudbury Community Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Barrie Colts @ North Bay Battalion
+DTSTART:20270228T190000
+DTEND:20270228T213000
+UID:ohl29585
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29585\nStreaming: h
+ ttps://www.flohockey.tv/events/16027812-2027-barrie-colts-vs-north-bay-bat
+ talion
+LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Oshawa Generals @ North Bay Battalion
+DTSTART:20270305T000000
+DTEND:20270305T023000
+UID:ohl29596
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29596\nStreaming: h
+ ttps://www.flohockey.tv/events/16025733-2027-oshawa-generals-vs-north-bay-
+ battalion
+LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Bay Battalion @ Erie Otters
+DTSTART:20270306T230000
+DTEND:20270307T013000
+UID:ohl29606
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29606\nStreaming: h
+ ttps://www.flohockey.tv/events/16027247-2027-north-bay-battalion-vs-erie-o
+ tters
+LOCATION:Erie Insurance Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Bay Battalion @ Niagara IceDogs
+DTSTART:20270307T190000
+DTEND:20270307T213000
+UID:ohl29613
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29613\nStreaming: h
+ ttps://www.flohockey.tv/events/16027099-2027-north-bay-battalion-vs-niagar
+ a-icedogs
+LOCATION:Meridian Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Brantford Bulldogs @ North Bay Battalion
+DTSTART:20270312T000000
+DTEND:20270312T023000
+UID:ohl29624
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29624\nStreaming: h
+ ttps://www.flohockey.tv/events/16027408-2027-brantford-bulldogs-vs-north-b
+ ay-battalion
+LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Bay Battalion @ Sudbury Wolves
+DTSTART:20270313T000500
+DTEND:20270313T023500
+UID:ohl29634
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29634\nStreaming: h
+ ttps://www.flohockey.tv/events/16027848-2027-north-bay-battalion-vs-sudbur
+ y-wolves
+LOCATION:Sudbury Community Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Bay Battalion @ Brampton Steelheads
+DTSTART:20270314T180000
+DTEND:20270314T203000
+UID:ohl29641
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29641\nStreaming: h
+ ttps://www.flohockey.tv/events/16028372-2027-north-bay-battalion-vs-brampt
+ on-steelheads
+LOCATION:CAA Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Bay Battalion @ Barrie Colts
+DTSTART:20270317T230000
+DTEND:20270318T013000
+UID:ohl29647
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29647\nStreaming: h
+ ttps://www.flohockey.tv/events/16029041-2027-north-bay-battalion-vs-barrie
+ -colts
+LOCATION:Sadlon Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Sudbury Wolves @ North Bay Battalion
+DTSTART:20270321T180000
+DTEND:20270321T203000
+UID:ohl29671
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29671\nStreaming: h
+ ttps://www.flohockey.tv/events/16028245-2027-sudbury-wolves-vs-north-bay-b
+ attalion
+LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ Kitchener Rangers
+DTSTART:20260918T230000
+DTEND:20260919T013000
+UID:ohl28996
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/28996\nStreaming: h
+ ttps://www.flohockey.tv/events/16027530-2026-owen-sound-attack-vs-kitchene
+ r-rangers
+LOCATION:Kitchener Memorial Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kitchener Rangers @ Owen Sound Attack
+DTSTART:20260919T230000
+DTEND:20260920T013000
+UID:ohl29004
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29004\nStreaming li
+ nk not yet available
+LOCATION:Harry Lumley Bayshore Community Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Erie Otters @ Kitchener Rangers
+DTSTART:20260925T230000
+DTEND:20260926T013000
+UID:ohl29015
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29015\nStreaming: h
+ ttps://www.flohockey.tv/events/16028431-2026-erie-otters-vs-kitchener-rang
+ ers
+LOCATION:Kitchener Memorial Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kitchener Rangers @ Erie Otters
+DTSTART:20260926T220000
+DTEND:20260927T003000
+UID:ohl29023
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29023\nStreaming: h
+ ttps://www.flohockey.tv/events/16027532-2026-kitchener-rangers-vs-erie-ott
+ ers
+LOCATION:Erie Insurance Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kingston Frontenacs @ Kitchener Rangers
+DTSTART:20260927T220000
+DTEND:20260928T003000
+UID:ohl29029
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29029\nStreaming: h
+ ttps://www.flohockey.tv/events/16027861-2026-kingston-frontenacs-vs-kitche
+ ner-rangers
+LOCATION:Kitchener Memorial Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saginaw Spirit @ Kitchener Rangers
+DTSTART:20261002T230000
+DTEND:20261003T013000
+UID:ohl29039
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29039\nStreaming: h
+ ttps://www.flohockey.tv/events/16028273-2026-saginaw-spirit-vs-kitchener-r
+ angers
+LOCATION:Kitchener Memorial Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kitchener Rangers @ Guelph Storm
+DTSTART:20261004T180700
+DTEND:20261004T203700
+UID:ohl29050
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29050\nStreaming: h
+ ttps://www.flohockey.tv/events/16028376-2026-kitchener-rangers-vs-guelph-s
+ torm
+LOCATION:Sleeman Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kitchener Rangers @ Flint Firebirds
+DTSTART:20261007T230000
+DTEND:20261008T013000
+UID:ohl29055
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29055\nStreaming: h
+ ttps://www.flohockey.tv/events/16028247-2026-kitchener-rangers-vs-flint-fi
+ rebirds
+LOCATION:Dort Financial Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kitchener Rangers @ Soo Greyhounds
+DTSTART:20261009T230700
+DTEND:20261010T013700
+UID:ohl29063
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29063\nStreaming: h
+ ttps://www.flohockey.tv/events/16027859-2026-kitchener-rangers-vs-soo-grey
+ hounds
+LOCATION:GFL Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kitchener Rangers @ Saginaw Spirit
+DTSTART:20261010T230500
+DTEND:20261011T013500
+UID:ohl29070
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29070\nStreaming: h
+ ttps://www.flohockey.tv/events/16028468-2026-kitchener-rangers-vs-saginaw-
+ spirit
+LOCATION:Dow Event Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | London Knights @ Kitchener Rangers
+DTSTART:20261013T230000
+DTEND:20261014T013000
+UID:ohl29077
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29077\nStreaming: h
+ ttps://www.flohockey.tv/events/16027025-2026-london-knights-vs-kitchener-r
+ angers
+LOCATION:Kitchener Memorial Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Niagara IceDogs @ Kitchener Rangers
+DTSTART:20261016T230000
+DTEND:20261017T013000
+UID:ohl29087
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29087\nStreaming: h
+ ttps://www.flohockey.tv/events/16025601-2026-niagara-icedogs-vs-kitchener-
+ rangers
+LOCATION:Kitchener Memorial Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kitchener Rangers @ Oshawa Generals
+DTSTART:20261018T220500
+DTEND:20261019T003500
+UID:ohl29100
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29100\nStreaming: h
+ ttps://www.flohockey.tv/events/16028077-2026-kitchener-rangers-vs-oshawa-g
+ enerals
+LOCATION:Tribute Communities Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Guelph Storm @ Kitchener Rangers
+DTSTART:20261023T230000
+DTEND:20261024T013000
+UID:ohl29109
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29109\nStreaming: h
+ ttps://www.flohockey.tv/events/16028541-2026-guelph-storm-vs-kitchener-ran
+ gers
+LOCATION:Kitchener Memorial Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kitchener Rangers @ Guelph Storm
+DTSTART:20261025T180700
+DTEND:20261025T203700
+UID:ohl29123
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29123\nStreaming: h
+ ttps://www.flohockey.tv/events/16028185-2026-kitchener-rangers-vs-guelph-s
+ torm
+LOCATION:Sleeman Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Flint Firebirds @ Kitchener Rangers
+DTSTART:20261030T230000
+DTEND:20261031T013000
+UID:ohl29135
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29135\nStreaming: h
+ ttps://www.flohockey.tv/events/16027083-2026-flint-firebirds-vs-kitchener-
+ rangers
+LOCATION:Kitchener Memorial Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Guelph Storm @ Kitchener Rangers
+DTSTART:20261104T000000
+DTEND:20261104T023000
+UID:ohl29153
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29153\nStreaming: h
+ ttps://www.flohockey.tv/events/16028089-2026-guelph-storm-vs-kitchener-ran
+ gers
+LOCATION:Kitchener Memorial Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | North Bay Battalion @ Kitchener Rangers
+DTSTART:20261107T000000
+DTEND:20261107T023000
+UID:ohl29163
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29163\nStreaming: h
+ ttps://www.flohockey.tv/events/16027328-2026-north-bay-battalion-vs-kitche
+ ner-rangers
+LOCATION:Kitchener Memorial Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kitchener Rangers @ Owen Sound Attack
+DTSTART:20261108T000000
+DTEND:20261108T023000
+UID:ohl29170
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29170\nStreaming: h
+ ttps://www.flohockey.tv/events/16028090-2026-kitchener-rangers-vs-owen-sou
+ nd-attack
+LOCATION:Harry Lumley Bayshore Community Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kitchener Rangers @ Erie Otters
+DTSTART:20261112T160000
+DTEND:20261112T183000
+UID:ohl29182
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29182\nStreaming: h
+ ttps://www.flohockey.tv/events/16029050-2026-kitchener-rangers-vs-erie-ott
+ ers
+LOCATION:Erie Insurance Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Barrie Colts @ Kitchener Rangers
+DTSTART:20261114T000000
+DTEND:20261114T023000
+UID:ohl29190
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29190\nStreaming: h
+ ttps://www.flohockey.tv/events/16027574-2026-barrie-colts-vs-kitchener-ran
+ gers
+LOCATION:Kitchener Memorial Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Ottawa 67's @ Kitchener Rangers
+DTSTART:20261115T190000
+DTEND:20261115T213000
+UID:ohl29201
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29201\nStreaming: h
+ ttps://www.flohockey.tv/events/16028277-2026-ottawa-67s-vs-kitchener-range
+ rs
+LOCATION:Kitchener Memorial Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kitchener Rangers @ Sudbury Wolves
+DTSTART:20261119T000500
+DTEND:20261119T023500
+UID:ohl29210
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29210\nStreaming: h
+ ttps://www.flohockey.tv/events/16028261-2026-kitchener-rangers-vs-sudbury-
+ wolves
+LOCATION:Sudbury Community Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kitchener Rangers @ North Bay Battalion
+DTSTART:20261121T000000
+DTEND:20261121T023000
+UID:ohl29221
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29221\nStreaming: h
+ ttps://www.flohockey.tv/events/16028042-2026-kitchener-rangers-vs-north-ba
+ y-battalion
+LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kitchener Rangers @ Barrie Colts
+DTSTART:20261122T003000
+DTEND:20261122T030000
+UID:ohl29224
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29224\nStreaming: h
+ ttps://www.flohockey.tv/events/16027624-2026-kitchener-rangers-vs-barrie-c
+ olts
+LOCATION:Sadlon Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kitchener Rangers @ Windsor Spitfires
+DTSTART:20261126T000500
+DTEND:20261126T023500
+UID:ohl29238
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29238\nStreaming: h
+ ttps://www.flohockey.tv/events/16027569-2026-kitchener-rangers-vs-windsor-
+ spitfires
+LOCATION:WFCU Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Windsor Spitfires @ Kitchener Rangers
+DTSTART:20261128T000000
+DTEND:20261128T023000
+UID:ohl29245
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29245\nStreaming: h
+ ttps://www.flohockey.tv/events/16028827-2026-windsor-spitfires-vs-kitchene
+ r-rangers
+LOCATION:Kitchener Memorial Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kitchener Rangers @ London Knights
+DTSTART:20261128T210000
+DTEND:20261128T233000
+UID:ohl29253
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29253\nStreaming: h
+ ttps://www.flohockey.tv/events/16027985-2026-kitchener-rangers-vs-london-k
+ nights
+LOCATION:Canada Life Place
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ Kitchener Rangers
+DTSTART:20261205T000000
+DTEND:20261205T023000
+UID:ohl29269
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29269\nStreaming: h
+ ttps://www.flohockey.tv/events/16028367-2026-owen-sound-attack-vs-kitchene
+ r-rangers
+LOCATION:Kitchener Memorial Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kitchener Rangers @ Windsor Spitfires
+DTSTART:20261206T000500
+DTEND:20261206T023500
+UID:ohl29278
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29278\nStreaming: h
+ ttps://www.flohockey.tv/events/16028085-2026-kitchener-rangers-vs-windsor-
+ spitfires
+LOCATION:WFCU Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Sarnia Sting @ Kitchener Rangers
+DTSTART:20261209T000000
+DTEND:20261209T023000
+UID:ohl29285
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29285\nStreaming: h
+ ttps://www.flohockey.tv/events/16028359-2026-sarnia-sting-vs-kitchener-ran
+ gers
+LOCATION:Kitchener Memorial Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Oshawa Generals @ Kitchener Rangers
+DTSTART:20261212T000000
+DTEND:20261212T023000
+UID:ohl29298
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29298\nStreaming: h
+ ttps://www.flohockey.tv/events/16027913-2026-oshawa-generals-vs-kitchener-
+ rangers
+LOCATION:Kitchener Memorial Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Sudbury Wolves @ Kitchener Rangers
+DTSTART:20261219T000000
+DTEND:20261219T023000
+UID:ohl29324
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29324\nStreaming: h
+ ttps://www.flohockey.tv/events/16027625-2026-sudbury-wolves-vs-kitchener-r
+ angers
+LOCATION:Kitchener Memorial Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kitchener Rangers @ Guelph Storm
+DTSTART:20261219T190700
+DTEND:20261219T213700
+UID:ohl29330
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29330\nStreaming: h
+ ttps://www.flohockey.tv/events/16027577-2026-kitchener-rangers-vs-guelph-s
+ torm
+LOCATION:Sleeman Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Guelph Storm @ Kitchener Rangers
+DTSTART:20261230T000000
+DTEND:20261230T023000
+UID:ohl29342
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29342\nStreaming: h
+ ttps://www.flohockey.tv/events/16027370-2026-guelph-storm-vs-kitchener-ran
+ gers
+LOCATION:Kitchener Memorial Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kitchener Rangers @ Soo Greyhounds
+DTSTART:20270103T000700
+DTEND:20270103T023700
+UID:ohl29364
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29364\nStreaming: h
+ ttps://www.flohockey.tv/events/16028378-2027-kitchener-rangers-vs-soo-grey
+ hounds
+LOCATION:GFL Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kitchener Rangers @ Flint Firebirds
+DTSTART:20270103T210000
+DTEND:20270103T233000
+UID:ohl29365
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29365\nStreaming: h
+ ttps://www.flohockey.tv/events/16027416-2027-kitchener-rangers-vs-flint-fi
+ rebirds
+LOCATION:Dort Financial Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Erie Otters @ Kitchener Rangers
+DTSTART:20270109T000000
+DTEND:20270109T023000
+UID:ohl29382
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29382\nStreaming: h
+ ttps://www.flohockey.tv/events/16028228-2027-erie-otters-vs-kitchener-rang
+ ers
+LOCATION:Kitchener Memorial Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kitchener Rangers @ Saginaw Spirit
+DTSTART:20270110T000500
+DTEND:20270110T023500
+UID:ohl29391
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29391\nStreaming: h
+ ttps://www.flohockey.tv/events/16025735-2027-kitchener-rangers-vs-saginaw-
+ spirit
+LOCATION:Dow Event Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | London Knights @ Kitchener Rangers
+DTSTART:20270113T000000
+DTEND:20270113T023000
+UID:ohl29399
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29399\nStreaming: h
+ ttps://www.flohockey.tv/events/16027372-2027-london-knights-vs-kitchener-r
+ angers
+LOCATION:Kitchener Memorial Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kitchener Rangers @ Sarnia Sting
+DTSTART:20270114T000500
+DTEND:20270114T023500
+UID:ohl29401
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29401\nStreaming: h
+ ttps://www.flohockey.tv/events/16028049-2027-kitchener-rangers-vs-sarnia-s
+ ting
+LOCATION:Progressive Auto Sales Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ Kitchener Rangers
+DTSTART:20270116T000000
+DTEND:20270116T023000
+UID:ohl29410
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29410\nStreaming: h
+ ttps://www.flohockey.tv/events/16027318-2027-owen-sound-attack-vs-kitchene
+ r-rangers
+LOCATION:Kitchener Memorial Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Soo Greyhounds @ Kitchener Rangers
+DTSTART:20270117T190000
+DTEND:20270117T213000
+UID:ohl29422
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29422\nStreaming: h
+ ttps://www.flohockey.tv/events/16027170-2027-soo-greyhounds-vs-kitchener-r
+ angers
+LOCATION:Kitchener Memorial Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Peterborough Petes @ Kitchener Rangers
+DTSTART:20270123T000000
+DTEND:20270123T023000
+UID:ohl29432
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29432\nStreaming: h
+ ttps://www.flohockey.tv/events/16027606-2027-peterborough-petes-vs-kitchen
+ er-rangers
+LOCATION:Kitchener Memorial Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kitchener Rangers @ Niagara IceDogs
+DTSTART:20270124T000000
+DTEND:20270124T023000
+UID:ohl29440
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29440\nStreaming: h
+ ttps://www.flohockey.tv/events/16028493-2027-kitchener-rangers-vs-niagara-
+ icedogs
+LOCATION:Meridian Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kitchener Rangers @ Guelph Storm
+DTSTART:20270127T233700
+DTEND:20270128T020700
+UID:ohl29451
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29451\nStreaming: h
+ ttps://www.flohockey.tv/events/16028532-2027-kitchener-rangers-vs-guelph-s
+ torm
+LOCATION:Sleeman Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ Kitchener Rangers
+DTSTART:20270130T000000
+DTEND:20270130T023000
+UID:ohl29460
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29460\nStreaming: h
+ ttps://www.flohockey.tv/events/16028324-2027-owen-sound-attack-vs-kitchene
+ r-rangers
+LOCATION:Kitchener Memorial Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Soo Greyhounds @ Kitchener Rangers
+DTSTART:20270131T190000
+DTEND:20270131T213000
+UID:ohl29471
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29471\nStreaming: h
+ ttps://www.flohockey.tv/events/16028467-2027-soo-greyhounds-vs-kitchener-r
+ angers
+LOCATION:Kitchener Memorial Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kitchener Rangers @ London Knights
+DTSTART:20270204T000000
+DTEND:20270204T023000
+UID:ohl29477
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29477\nStreaming: h
+ ttps://www.flohockey.tv/events/16025736-2027-kitchener-rangers-vs-london-k
+ nights
+LOCATION:Canada Life Place
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Windsor Spitfires @ Kitchener Rangers
+DTSTART:20270206T000000
+DTEND:20270206T023000
+UID:ohl29486
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29486\nStreaming: h
+ ttps://www.flohockey.tv/events/16027858-2027-windsor-spitfires-vs-kitchene
+ r-rangers
+LOCATION:Kitchener Memorial Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | London Knights @ Kitchener Rangers
+DTSTART:20270210T000000
+DTEND:20270210T023000
+UID:ohl29503
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29503\nStreaming: h
+ ttps://www.flohockey.tv/events/16028153-2027-london-knights-vs-kitchener-r
+ angers
+LOCATION:Kitchener Memorial Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kitchener Rangers @ Kingston Frontenacs
+DTSTART:20270213T000500
+DTEND:20270213T023500
+UID:ohl29513
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29513\nStreaming: h
+ ttps://www.flohockey.tv/events/16028484-2027-kitchener-rangers-vs-kingston
+ -frontenacs
+LOCATION:Slush Puppie Place
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kitchener Rangers @ Ottawa 67's
+DTSTART:20270213T200000
+DTEND:20270213T223000
+UID:ohl29522
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29522\nStreaming: h
+ ttps://www.flohockey.tv/events/16028112-2027-kitchener-rangers-vs-ottawa-6
+ 7s
+LOCATION:TD Place
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kitchener Rangers @ Peterborough Petes
+DTSTART:20270215T190500
+DTEND:20270215T213500
+UID:ohl29533
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29533\nStreaming: h
+ ttps://www.flohockey.tv/events/16027905-2027-kitchener-rangers-vs-peterbor
+ ough-petes
+LOCATION:Peterborough Memorial Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Brantford Bulldogs @ Kitchener Rangers
+DTSTART:20270220T000000
+DTEND:20270220T023000
+UID:ohl29544
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29544\nStreaming: h
+ ttps://www.flohockey.tv/events/16028224-2027-brantford-bulldogs-vs-kitchen
+ er-rangers
+LOCATION:Kitchener Memorial Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Guelph Storm @ Kitchener Rangers
+DTSTART:20270221T190000
+DTEND:20270221T213000
+UID:ohl29556
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29556\nStreaming: h
+ ttps://www.flohockey.tv/events/16027908-2027-guelph-storm-vs-kitchener-ran
+ gers
+LOCATION:Kitchener Memorial Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kitchener Rangers @ Brantford Bulldogs
+DTSTART:20270225T000000
+DTEND:20270225T023000
+UID:ohl29562
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29562\nStreaming: h
+ ttps://www.flohockey.tv/events/16029043-2027-kitchener-rangers-vs-brantfor
+ d-bulldogs
+LOCATION:TD Civic Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Brampton Steelheads @ Kitchener Rangers
+DTSTART:20270227T000000
+DTEND:20270227T023000
+UID:ohl29572
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29572\nStreaming: h
+ ttps://www.flohockey.tv/events/16028147-2027-brampton-steelheads-vs-kitche
+ ner-rangers
+LOCATION:Kitchener Memorial Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kitchener Rangers @ Owen Sound Attack
+DTSTART:20270228T000000
+DTEND:20270228T023000
+UID:ohl29581
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29581\nStreaming: h
+ ttps://www.flohockey.tv/events/16028371-2027-kitchener-rangers-vs-owen-sou
+ nd-attack
+LOCATION:Harry Lumley Bayshore Community Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Flint Firebirds @ Kitchener Rangers
+DTSTART:20270303T000000
+DTEND:20270303T023000
+UID:ohl29589
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29589\nStreaming: h
+ ttps://www.flohockey.tv/events/16028465-2027-flint-firebirds-vs-kitchener-
+ rangers
+LOCATION:Kitchener Memorial Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kitchener Rangers @ London Knights
+DTSTART:20270304T000000
+DTEND:20270304T023000
+UID:ohl29591
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29591\nStreaming: h
+ ttps://www.flohockey.tv/events/16028752-2027-kitchener-rangers-vs-london-k
+ nights
+LOCATION:Canada Life Place
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Erie Otters @ Kitchener Rangers
+DTSTART:20270306T000000
+DTEND:20270306T023000
+UID:ohl29601
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29601\nStreaming: h
+ ttps://www.flohockey.tv/events/16027065-2027-erie-otters-vs-kitchener-rang
+ ers
+LOCATION:Kitchener Memorial Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kitchener Rangers @ Sarnia Sting
+DTSTART:20270307T190500
+DTEND:20270307T213500
+UID:ohl29616
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29616\nStreaming: h
+ ttps://www.flohockey.tv/events/16028188-2027-kitchener-rangers-vs-sarnia-s
+ ting
+LOCATION:Progressive Auto Sales Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saginaw Spirit @ Kitchener Rangers
+DTSTART:20270313T000000
+DTEND:20270313T023000
+UID:ohl29629
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29629\nStreaming: h
+ ttps://www.flohockey.tv/events/16027100-2027-saginaw-spirit-vs-kitchener-r
+ angers
+LOCATION:Kitchener Memorial Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kitchener Rangers @ Erie Otters
+DTSTART:20270313T230000
+DTEND:20270314T013000
+UID:ohl29635
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29635\nStreaming: h
+ ttps://www.flohockey.tv/events/16028487-2027-kitchener-rangers-vs-erie-ott
+ ers
+LOCATION:Erie Insurance Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kitchener Rangers @ Brampton Steelheads
+DTSTART:20270317T163000
+DTEND:20270317T190000
+UID:ohl29648
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29648\nStreaming: h
+ ttps://www.flohockey.tv/events/16027904-2027-kitchener-rangers-vs-brampton
+ -steelheads
+LOCATION:CAA Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Sarnia Sting @ Kitchener Rangers
+DTSTART:20270319T230000
+DTEND:20270320T013000
+UID:ohl29660
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29660\nStreaming: h
+ ttps://www.flohockey.tv/events/16028321-2027-sarnia-sting-vs-kitchener-ran
+ gers
+LOCATION:Kitchener Memorial Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Kitchener Rangers @ Owen Sound Attack
