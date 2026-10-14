@@ -4,14 +4,6 @@ PRODID:-//Hockey Calendar//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:🏒 | Izhstal Izhevsk @ Metallurg Novokuznetsk
-DTSTART:20261013T120000Z
-DTEND:20261013T143000Z
-UID:vhl904187
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904187
-LOCATION:Kuznetsk Metallurgists Sports Palace
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Izhstal Izhevsk @ Dynamo Altai Barnaul
 DTSTART:20261015T120000Z
 DTEND:20261015T143000Z
