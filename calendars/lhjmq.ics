@@ -4,616 +4,6 @@ PRODID:-//Hockey Calendar//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:🏒 | Shawinigan Cataractes @ Chicoutimi Saguenéens
-DTSTART:20260918T230000
-DTEND:20260919T013000
-UID:lhjmq32779
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32779\nStreaming:
-  https://www.flohockey.tv/events/16025691-2026-shawinigan-cataractes-vs-ch
- icoutimi-sagueneens
-LOCATION:Centre Georges-Vézina
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Québec Remparts @ Chicoutimi Saguenéens
-DTSTART:20260920T200000
-DTEND:20260920T223000
-UID:lhjmq32780
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32780\nStreaming:
-  https://www.flohockey.tv/events/16025084-2026-quebec-remparts-vs-chicouti
- mi-sagueneens
-LOCATION:Centre Georges-Vézina
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Chicoutimi Saguenéens @ Baie-Comeau Drakkar
-DTSTART:20260925T230000
-DTEND:20260926T013000
-UID:lhjmq32653
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32653\nStreaming:
-  https://www.flohockey.tv/events/16025651-2026-chicoutimi-sagueneens-vs-ba
- ie-comeau-drakkar
-LOCATION:Centre sportif Alcoa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Baie-Comeau Drakkar @ Chicoutimi Saguenéens
-DTSTART:20260927T200000
-DTEND:20260927T223000
-UID:lhjmq32781
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32781\nStreaming:
-  https://www.flohockey.tv/events/16025918-2026-baie-comeau-drakkar-vs-chic
- outimi-sagueneens
-LOCATION:Centre Georges-Vézina
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Charlottetown Islanders @ Chicoutimi Saguenéens
-DTSTART:20261001T230000
-DTEND:20261002T013000
-UID:lhjmq32782
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32782\nStreaming:
-  https://www.flohockey.tv/events/16026169-2026-charlottetown-islanders-vs-
- chicoutimi-sagueneens
-LOCATION:Centre Georges-Vézina
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Victoriaville Tigres @ Chicoutimi Saguenéens
-DTSTART:20261004T200000
-DTEND:20261004T223000
-UID:lhjmq32783
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32783\nStreaming:
-  https://www.flohockey.tv/events/16026031-2026-victoriaville-tigres-vs-chi
- coutimi-sagueneens
-LOCATION:Centre Georges-Vézina
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Cape Breton Eagles @ Chicoutimi Saguenéens
-DTSTART:20261009T230000
-DTEND:20261010T013000
-UID:lhjmq32784
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32784\nStreaming:
-  https://www.flohockey.tv/events/16025094-2026-cape-breton-eagles-vs-chico
- utimi-sagueneens
-LOCATION:Centre Georges-Vézina
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Chicoutimi Saguenéens @ Québec Remparts
-DTSTART:20261011T190000
-DTEND:20261011T213000
-UID:lhjmq32978
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32978\nStreaming:
-  https://www.flohockey.tv/events/16025689-2026-chicoutimi-sagueneens-vs-qu
- ebec-remparts
-LOCATION:Centre Vidéotron
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Chicoutimi Saguenéens @ Gatineau Olympiques
-DTSTART:20261012T180000
-DTEND:20261012T203000
-UID:lhjmq32849
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32849\nStreaming:
-  https://www.flohockey.tv/events/16025792-2026-chicoutimi-sagueneens-vs-ga
- tineau-olympiques
-LOCATION:Centre Slush Puppie
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Sherbrooke Phœnix @ Chicoutimi Saguenéens
-DTSTART:20261017T200000
-DTEND:20261017T223000
-UID:lhjmq32785
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32785\nStreaming:
-  https://www.flohockey.tv/events/16025501-2026-sherbrooke-phœnix-vs-chico
- utimi-sagueneens
-LOCATION:Centre Georges-Vézina
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Chicoutimi Saguenéens @ Rimouski Océanic
-DTSTART:20261018T190000
-DTEND:20261018T213000
-UID:lhjmq33011
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/33011\nStreaming:
-  https://www.flohockey.tv/events/16025990-2026-chicoutimi-sagueneens-vs-ri
- mouski-oceanic
-LOCATION:Colisée Financière Sun Life
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Baie-Comeau Drakkar @ Chicoutimi Saguenéens
-DTSTART:20261023T230000
-DTEND:20261024T013000
-UID:lhjmq32786
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32786\nStreaming:
-  https://www.flohockey.tv/events/16025823-2026-baie-comeau-drakkar-vs-chic
- outimi-sagueneens
-LOCATION:Centre Georges-Vézina
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Chicoutimi Saguenéens @ Baie-Comeau Drakkar
-DTSTART:20261025T200000
-DTEND:20261025T223000
-UID:lhjmq32659
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32659\nStreaming:
-  https://www.flohockey.tv/events/16025401-2026-chicoutimi-sagueneens-vs-ba
- ie-comeau-drakkar
-LOCATION:Centre sportif Alcoa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Chicoutimi Saguenéens @ Sherbrooke Phœnix
-DTSTART:20261030T230000
-DTEND:20261031T013000
-UID:lhjmq33141
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/33141\nStreaming:
-  https://www.flohockey.tv/events/16025585-2026-chicoutimi-sagueneens-vs-sh
- erbrooke-phœnix
-LOCATION:Palais des Sports Léopold-Drolet
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Chicoutimi Saguenéens @ Blainville-Boisbriand Armada
-DTSTART:20261031T180000
-DTEND:20261031T203000
-UID:lhjmq32693
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32693\nStreaming:
-  https://www.flohockey.tv/events/16026029-2026-chicoutimi-sagueneens-vs-bl
- ainville-boisbriand-armada
-LOCATION:Centre Excellence Sports Rousseau
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Blainville-Boisbriand Armada @ Chicoutimi Saguenéens
-DTSTART:20261107T000000
-DTEND:20261107T023000
-UID:lhjmq32787
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32787\nStreaming:
-  https://www.flohockey.tv/events/16025943-2026-blainville-boisbriand-armad
- a-vs-chicoutimi-sagueneens
-LOCATION:Centre Georges-Vézina
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Drummondville Voltigeurs @ Chicoutimi Saguenéens
-DTSTART:20261107T210000
-DTEND:20261107T233000
-UID:lhjmq32788
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32788\nStreaming:
-  https://www.flohockey.tv/events/16026440-2026-drummondville-voltigeurs-vs
- -chicoutimi-sagueneens
-LOCATION:Centre Georges-Vézina
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Chicoutimi Saguenéens @ Gatineau Olympiques
-DTSTART:20261114T210000
-DTEND:20261114T233000
-UID:lhjmq32853
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32853\nStreaming:
-  https://www.flohockey.tv/events/16026421-2026-chicoutimi-sagueneens-vs-ga
- tineau-olympiques
-LOCATION:Centre Slush Puppie
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Chicoutimi Saguenéens @ Drummondville Voltigeurs
-DTSTART:20261115T210000
-DTEND:20261115T233000
-UID:lhjmq32818
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32818\nStreaming:
-  https://www.flohockey.tv/events/16025886-2026-chicoutimi-sagueneens-vs-dr
- ummondville-voltigeurs
-LOCATION:Centre Marcel Dionne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Cape Breton Eagles @ Chicoutimi Saguenéens
-DTSTART:20261121T210000
-DTEND:20261121T233000
-UID:lhjmq32789
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32789\nStreaming:
-  https://www.flohockey.tv/events/16026103-2026-cape-breton-eagles-vs-chico
- utimi-sagueneens
-LOCATION:Centre Georges-Vézina
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Rouyn-Noranda Huskies @ Chicoutimi Saguenéens
-DTSTART:20261122T210000
-DTEND:20261122T233000
-UID:lhjmq32790
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32790\nStreaming:
-  https://www.flohockey.tv/events/16025056-2026-rouyn-noranda-huskies-vs-ch
- icoutimi-sagueneens
-LOCATION:Centre Georges-Vézina
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Chicoutimi Saguenéens @ Newfoundland Regiment
-DTSTART:20261126T223000
-DTEND:20261127T010000
-UID:lhjmq32952
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32952\nStreaming:
-  https://www.flohockey.tv/events/16025642-2026-chicoutimi-sagueneens-vs-ne
- wfoundland-regiment
-LOCATION:Mary Brown's Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Chicoutimi Saguenéens @ Newfoundland Regiment
-DTSTART:20261127T223000
-DTEND:20261128T010000
-UID:lhjmq32953
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32953\nStreaming:
-  https://www.flohockey.tv/events/16025460-2026-chicoutimi-sagueneens-vs-ne
- wfoundland-regiment
-LOCATION:Mary Brown's Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Chicoutimi Saguenéens @ Québec Remparts
-DTSTART:20261129T200000
-DTEND:20261129T223000
-UID:lhjmq32985
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32985\nStreaming:
-  https://www.flohockey.tv/events/16025882-2026-chicoutimi-sagueneens-vs-qu
- ebec-remparts
-LOCATION:Centre Vidéotron
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Rimouski Océanic @ Chicoutimi Saguenéens
-DTSTART:20261205T000000
-DTEND:20261205T023000
-UID:lhjmq32791
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32791\nStreaming:
-  https://www.flohockey.tv/events/16025059-2026-rimouski-oceanic-vs-chicout
- imi-sagueneens
-LOCATION:Centre Georges-Vézina
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Rimouski Océanic @ Chicoutimi Saguenéens
-DTSTART:20261205T210000
-DTEND:20261205T233000
-UID:lhjmq32792
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32792\nStreaming:
-  https://www.flohockey.tv/events/16025710-2026-rimouski-oceanic-vs-chicout
- imi-sagueneens
-LOCATION:Centre Georges-Vézina
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Chicoutimi Saguenéens @ Rouyn-Noranda Huskies
-DTSTART:20261211T000000
-DTEND:20261211T023000
-UID:lhjmq33050
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/33050\nStreaming:
-  https://www.flohockey.tv/events/16026037-2026-chicoutimi-sagueneens-vs-ro
- uyn-noranda-huskies
-LOCATION:Aréna Glencore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Chicoutimi Saguenéens @ Rouyn-Noranda Huskies
-DTSTART:20261212T210000
-DTEND:20261212T233000
-UID:lhjmq33051
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/33051\nStreaming:
-  https://www.flohockey.tv/events/16025618-2026-chicoutimi-sagueneens-vs-ro
- uyn-noranda-huskies
-LOCATION:Aréna Glencore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Québec Remparts @ Chicoutimi Saguenéens
-DTSTART:20261217T000000
-DTEND:20261217T023000
-UID:lhjmq32793
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32793\nStreaming:
-  https://www.flohockey.tv/events/16025709-2026-quebec-remparts-vs-chicouti
- mi-sagueneens
-LOCATION:Centre Georges-Vézina
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Chicoutimi Saguenéens @ Victoriaville Tigres
-DTSTART:20261219T000000
-DTEND:20261219T023000
-UID:lhjmq33215
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/33215\nStreaming:
-  https://www.flohockey.tv/events/16025673-2026-chicoutimi-sagueneens-vs-vi
- ctoriaville-tigres
-LOCATION:Colisée Desjardins
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Chicoutimi Saguenéens @ Rimouski Océanic
-DTSTART:20261229T000000
-DTEND:20261229T023000
-UID:lhjmq33022
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/33022\nStreaming:
-  https://www.flohockey.tv/events/16025754-2026-chicoutimi-sagueneens-vs-ri
- mouski-oceanic
-LOCATION:Colisée Financière Sun Life
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Chicoutimi Saguenéens @ Baie-Comeau Drakkar
-DTSTART:20261231T190000
-DTEND:20261231T213000
-UID:lhjmq32666
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32666\nStreaming:
-  https://www.flohockey.tv/events/16025772-2026-chicoutimi-sagueneens-vs-ba
- ie-comeau-drakkar
-LOCATION:Centre sportif Alcoa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Shawinigan Cataractes @ Chicoutimi Saguenéens
-DTSTART:20270102T210000
-DTEND:20270102T233000
-UID:lhjmq32794
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32794\nStreaming:
-  https://www.flohockey.tv/events/16025778-2027-shawinigan-cataractes-vs-ch
- icoutimi-sagueneens
-LOCATION:Centre Georges-Vézina
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Baie-Comeau Drakkar @ Chicoutimi Saguenéens
-DTSTART:20270103T210000
-DTEND:20270103T233000
-UID:lhjmq32795
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32795\nStreaming:
-  https://www.flohockey.tv/events/16025111-2027-baie-comeau-drakkar-vs-chic
- outimi-sagueneens
-LOCATION:Centre Georges-Vézina
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Chicoutimi Saguenéens @ Shawinigan Cataractes
-DTSTART:20270109T000000
-DTEND:20270109T023000
-UID:lhjmq33119
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/33119\nStreaming:
-  https://www.flohockey.tv/events/16026061-2027-chicoutimi-sagueneens-vs-sh
- awinigan-cataractes
-LOCATION:Centre Gervais Auto
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Rimouski Océanic @ Chicoutimi Saguenéens
-DTSTART:20270110T210000
-DTEND:20270110T233000
-UID:lhjmq32796
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32796\nStreaming:
-  https://www.flohockey.tv/events/16026033-2027-rimouski-oceanic-vs-chicout
- imi-sagueneens
-LOCATION:Centre Georges-Vézina
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Sherbrooke Phœnix @ Chicoutimi Saguenéens
-DTSTART:20270114T000000
-DTEND:20270114T023000
-UID:lhjmq32797
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32797\nStreaming:
-  https://www.flohockey.tv/events/16025281-2027-sherbrooke-phœnix-vs-chico
- utimi-sagueneens
-LOCATION:Centre Georges-Vézina
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Saint John Sea Dogs @ Chicoutimi Saguenéens
-DTSTART:20270116T000000
-DTEND:20270116T023000
-UID:lhjmq32798
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32798\nStreaming:
-  https://www.flohockey.tv/events/16025868-2027-saint-john-sea-dogs-vs-chic
- outimi-sagueneens
-LOCATION:Centre Georges-Vézina
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Halifax Mooseheads @ Chicoutimi Saguenéens
-DTSTART:20270117T210000
-DTEND:20270117T233000
-UID:lhjmq32799
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32799\nStreaming:
-  https://www.flohockey.tv/events/16026011-2027-halifax-mooseheads-vs-chico
- utimi-sagueneens
-LOCATION:Centre Georges-Vézina
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Victoriaville Tigres @ Chicoutimi Saguenéens
-DTSTART:20270121T000000
-DTEND:20270121T023000
-UID:lhjmq32800
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32800\nStreaming:
-  https://www.flohockey.tv/events/16026191-2027-victoriaville-tigres-vs-chi
- coutimi-sagueneens
-LOCATION:Centre Georges-Vézina
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Chicoutimi Saguenéens @ Québec Remparts
-DTSTART:20270124T200000
-DTEND:20270124T223000
-UID:lhjmq32993
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32993\nStreaming:
-  https://www.flohockey.tv/events/16025713-2027-chicoutimi-sagueneens-vs-qu
- ebec-remparts
-LOCATION:Centre Vidéotron
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Chicoutimi Saguenéens @ Halifax Mooseheads
-DTSTART:20270127T230000
-DTEND:20270128T013000
-UID:lhjmq32898
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32898\nStreaming:
-  https://www.flohockey.tv/events/16025057-2027-chicoutimi-sagueneens-vs-ha
- lifax-mooseheads
-LOCATION:Scotiabank Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Chicoutimi Saguenéens @ Moncton Wildcats
-DTSTART:20270128T230000
-DTEND:20270129T013000
-UID:lhjmq32929
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32929\nStreaming:
-  https://www.flohockey.tv/events/16025561-2027-chicoutimi-sagueneens-vs-mo
- ncton-wildcats
-LOCATION:Avenir Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Chicoutimi Saguenéens @ Saint John Sea Dogs
-DTSTART:20270130T200000
-DTEND:20270130T223000
-UID:lhjmq33091
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/33091\nStreaming:
-  https://www.flohockey.tv/events/16026035-2027-chicoutimi-sagueneens-vs-sa
- int-john-sea-dogs
-LOCATION:TD Station
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Chicoutimi Saguenéens @ Charlottetown Islanders
-DTSTART:20270131T190000
-DTEND:20270131T213000
-UID:lhjmq32771
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32771\nStreaming:
-  https://www.flohockey.tv/events/16025988-2027-chicoutimi-sagueneens-vs-ch
- arlottetown-islanders
-LOCATION:Eastlink Centre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Drummondville Voltigeurs @ Chicoutimi Saguenéens
-DTSTART:20270206T000000
-DTEND:20270206T023000
-UID:lhjmq32801
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32801\nStreaming:
-  https://www.flohockey.tv/events/16026253-2027-drummondville-voltigeurs-vs
- -chicoutimi-sagueneens
-LOCATION:Centre Georges-Vézina
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Moncton Wildcats @ Chicoutimi Saguenéens
-DTSTART:20270206T210000
-DTEND:20270206T233000
-UID:lhjmq32802
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32802\nStreaming:
-  https://www.flohockey.tv/events/16025712-2027-moncton-wildcats-vs-chicout
- imi-sagueneens
-LOCATION:Centre Georges-Vézina
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Québec Remparts @ Chicoutimi Saguenéens
-DTSTART:20270213T000000
-DTEND:20270213T023000
-UID:lhjmq32803
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32803\nStreaming:
-  https://www.flohockey.tv/events/16025086-2027-quebec-remparts-vs-chicouti
- mi-sagueneens
-LOCATION:Centre Georges-Vézina
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Blainville-Boisbriand Armada @ Chicoutimi Saguenéens
-DTSTART:20270213T210000
-DTEND:20270213T233000
-UID:lhjmq32804
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32804\nStreaming:
-  https://www.flohockey.tv/events/16025164-2027-blainville-boisbriand-armad
- a-vs-chicoutimi-sagueneens
-LOCATION:Centre Georges-Vézina
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Rimouski Océanic @ Chicoutimi Saguenéens
-DTSTART:20270219T000000
-DTEND:20270219T023000
-UID:lhjmq32805
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32805\nStreaming:
-  https://www.flohockey.tv/events/16025812-2027-rimouski-oceanic-vs-chicout
- imi-sagueneens
-LOCATION:Centre Georges-Vézina
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Gatineau Olympiques @ Chicoutimi Saguenéens
-DTSTART:20270225T000000
-DTEND:20270225T023000
-UID:lhjmq32808
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32808\nStreaming:
-  https://www.flohockey.tv/events/16025159-2027-gatineau-olympiques-vs-chic
- outimi-sagueneens
-LOCATION:Centre Georges-Vézina
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Chicoutimi Saguenéens @ Rimouski Océanic
-DTSTART:20270227T000000
-DTEND:20270227T023000
-UID:lhjmq33033
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/33033\nStreaming:
-  https://www.flohockey.tv/events/16025146-2027-chicoutimi-sagueneens-vs-ri
- mouski-oceanic
-LOCATION:Colisée Financière Sun Life
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Chicoutimi Saguenéens @ Rimouski Océanic
-DTSTART:20270227T210000
-DTEND:20270227T233000
-UID:lhjmq33034
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/33034\nStreaming:
-  https://www.flohockey.tv/events/16026163-2027-chicoutimi-sagueneens-vs-ri
- mouski-oceanic
-LOCATION:Colisée Financière Sun Life
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Chicoutimi Saguenéens @ Québec Remparts
-DTSTART:20270302T000000
-DTEND:20270302T023000
-UID:lhjmq33001
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/33001\nStreaming:
-  https://www.flohockey.tv/events/16025055-2027-chicoutimi-sagueneens-vs-qu
- ebec-remparts
-LOCATION:Centre Vidéotron
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Chicoutimi Saguenéens @ Shawinigan Cataractes
-DTSTART:20270305T000000
-DTEND:20270305T023000
-UID:lhjmq33128
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/33128\nStreaming:
-  https://www.flohockey.tv/events/16025564-2027-chicoutimi-sagueneens-vs-sh
- awinigan-cataractes
-LOCATION:Centre Gervais Auto
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Chicoutimi Saguenéens @ Drummondville Voltigeurs
-DTSTART:20270306T000000
-DTEND:20270306T023000
-UID:lhjmq32839
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32839\nStreaming:
-  https://www.flohockey.tv/events/16025945-2027-chicoutimi-sagueneens-vs-dr
- ummondville-voltigeurs
-LOCATION:Centre Marcel Dionne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Québec Remparts @ Chicoutimi Saguenéens
-DTSTART:20270307T210000
-DTEND:20270307T233000
-UID:lhjmq32809
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32809\nStreaming:
-  https://www.flohockey.tv/events/16025087-2027-quebec-remparts-vs-chicouti
- mi-sagueneens
-LOCATION:Centre Georges-Vézina
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Chicoutimi Saguenéens @ Victoriaville Tigres
-DTSTART:20270313T000000
-DTEND:20270313T023000
-UID:lhjmq33229
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/33229\nStreaming:
-  https://www.flohockey.tv/events/16026456-2027-chicoutimi-sagueneens-vs-vi
- ctoriaville-tigres
-LOCATION:Colisée Desjardins
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Chicoutimi Saguenéens @ Sherbrooke Phœnix
-DTSTART:20270313T210000
-DTEND:20270313T233000
-UID:lhjmq33164
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/33164\nStreaming:
-  https://www.flohockey.tv/events/16025544-2027-chicoutimi-sagueneens-vs-sh
- erbrooke-phœnix
-LOCATION:Palais des Sports Léopold-Drolet
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Baie-Comeau Drakkar @ Chicoutimi Saguenéens
-DTSTART:20270319T230000
-DTEND:20270320T013000
-UID:lhjmq32810
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32810\nStreaming:
-  https://www.flohockey.tv/events/16025304-2027-baie-comeau-drakkar-vs-chic
- outimi-sagueneens
-LOCATION:Centre Georges-Vézina
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Chicoutimi Saguenéens @ Baie-Comeau Drakkar
-DTSTART:20270320T200000
-DTEND:20270320T223000
-UID:lhjmq32682
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32682\nStreaming:
-  https://www.flohockey.tv/events/16025308-2027-chicoutimi-sagueneens-vs-ba
- ie-comeau-drakkar
-LOCATION:Centre sportif Alcoa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Val-d'Or Foreurs @ Victoriaville Tigres
 DTSTART:20260918T230000
 DTEND:20260919T013000
@@ -884,16 +274,6 @@ DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32698\nStreaming:
 LOCATION:Centre Excellence Sports Rousseau
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Chicoutimi Saguenéens @ Val-d'Or Foreurs
-DTSTART:20261212T000000
-DTEND:20261212T023000
-UID:lhjmq33180
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/33180\nStreaming:
-  https://www.flohockey.tv/events/16026226-2026-chicoutimi-sagueneens-vs-va
- l-dor-foreurs
-LOCATION:Centre Agnico Eagle
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Moncton Wildcats @ Val-d'Or Foreurs
 DTSTART:20261212T210000
 DTEND:20261212T233000
@@ -1134,26 +514,6 @@ DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32675\nStreaming:
 LOCATION:Centre sportif Alcoa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Val-d'Or Foreurs @ Chicoutimi Saguenéens
-DTSTART:20270220T210000
-DTEND:20270220T233000
-UID:lhjmq32806
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32806\nStreaming:
-  https://www.flohockey.tv/events/16025594-2027-val-dor-foreurs-vs-chicouti
- mi-sagueneens
-LOCATION:Centre Georges-Vézina
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Val-d'Or Foreurs @ Chicoutimi Saguenéens
-DTSTART:20270221T210000
-DTEND:20270221T233000
-UID:lhjmq32807
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32807\nStreaming:
-  https://www.flohockey.tv/events/16026025-2027-val-dor-foreurs-vs-chicouti
- mi-sagueneens
-LOCATION:Centre Georges-Vézina
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Halifax Mooseheads @ Val-d'Or Foreurs
 DTSTART:20270227T000000
 DTEND:20270227T023000
@@ -1252,5 +612,645 @@ DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/33198\nStreaming:
   https://www.flohockey.tv/events/16025119-2027-victoriaville-tigres-vs-val
  -dor-foreurs
 LOCATION:Centre Agnico Eagle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Shawinigan Cataractes @ Chicoutimi Saguenéens
+DTSTART:20260918T230000
+DTEND:20260919T013000
+UID:lhjmq32779
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32779\nStreaming:
+  https://www.flohockey.tv/events/16025691-2026-shawinigan-cataractes-vs-ch
+ icoutimi-sagueneens
+LOCATION:Centre Georges-Vézina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Québec Remparts @ Chicoutimi Saguenéens
+DTSTART:20260920T200000
+DTEND:20260920T223000
+UID:lhjmq32780
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32780\nStreaming:
+  https://www.flohockey.tv/events/16025084-2026-quebec-remparts-vs-chicouti
+ mi-sagueneens
+LOCATION:Centre Georges-Vézina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chicoutimi Saguenéens @ Baie-Comeau Drakkar
+DTSTART:20260925T230000
+DTEND:20260926T013000
+UID:lhjmq32653
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32653\nStreaming:
+  https://www.flohockey.tv/events/16025651-2026-chicoutimi-sagueneens-vs-ba
+ ie-comeau-drakkar
+LOCATION:Centre sportif Alcoa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Baie-Comeau Drakkar @ Chicoutimi Saguenéens
+DTSTART:20260927T200000
+DTEND:20260927T223000
+UID:lhjmq32781
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32781\nStreaming:
+  https://www.flohockey.tv/events/16025918-2026-baie-comeau-drakkar-vs-chic
+ outimi-sagueneens
+LOCATION:Centre Georges-Vézina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Charlottetown Islanders @ Chicoutimi Saguenéens
+DTSTART:20261001T230000
+DTEND:20261002T013000
+UID:lhjmq32782
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32782\nStreaming:
+  https://www.flohockey.tv/events/16026169-2026-charlottetown-islanders-vs-
+ chicoutimi-sagueneens
+LOCATION:Centre Georges-Vézina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Victoriaville Tigres @ Chicoutimi Saguenéens
+DTSTART:20261004T200000
+DTEND:20261004T223000
+UID:lhjmq32783
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32783\nStreaming:
+  https://www.flohockey.tv/events/16026031-2026-victoriaville-tigres-vs-chi
+ coutimi-sagueneens
+LOCATION:Centre Georges-Vézina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Cape Breton Eagles @ Chicoutimi Saguenéens
+DTSTART:20261009T230000
+DTEND:20261010T013000
+UID:lhjmq32784
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32784\nStreaming:
+  https://www.flohockey.tv/events/16025094-2026-cape-breton-eagles-vs-chico
+ utimi-sagueneens
+LOCATION:Centre Georges-Vézina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chicoutimi Saguenéens @ Québec Remparts
+DTSTART:20261011T190000
+DTEND:20261011T213000
+UID:lhjmq32978
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32978\nStreaming:
+  https://www.flohockey.tv/events/16025689-2026-chicoutimi-sagueneens-vs-qu
+ ebec-remparts
+LOCATION:Centre Vidéotron
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chicoutimi Saguenéens @ Gatineau Olympiques
+DTSTART:20261012T180000
+DTEND:20261012T203000
+UID:lhjmq32849
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32849\nStreaming:
+  https://www.flohockey.tv/events/16025792-2026-chicoutimi-sagueneens-vs-ga
+ tineau-olympiques
+LOCATION:Centre Slush Puppie
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Sherbrooke Phœnix @ Chicoutimi Saguenéens
+DTSTART:20261017T200000
+DTEND:20261017T223000
+UID:lhjmq32785
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32785\nStreaming:
+  https://www.flohockey.tv/events/16025501-2026-sherbrooke-phœnix-vs-chico
+ utimi-sagueneens
+LOCATION:Centre Georges-Vézina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chicoutimi Saguenéens @ Rimouski Océanic
+DTSTART:20261018T190000
+DTEND:20261018T213000
+UID:lhjmq33011
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/33011\nStreaming:
+  https://www.flohockey.tv/events/16025990-2026-chicoutimi-sagueneens-vs-ri
+ mouski-oceanic
+LOCATION:Colisée Financière Sun Life
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Baie-Comeau Drakkar @ Chicoutimi Saguenéens
+DTSTART:20261023T230000
+DTEND:20261024T013000
+UID:lhjmq32786
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32786\nStreaming:
+  https://www.flohockey.tv/events/16025823-2026-baie-comeau-drakkar-vs-chic
+ outimi-sagueneens
+LOCATION:Centre Georges-Vézina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chicoutimi Saguenéens @ Baie-Comeau Drakkar
+DTSTART:20261025T200000
+DTEND:20261025T223000
+UID:lhjmq32659
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32659\nStreaming:
+  https://www.flohockey.tv/events/16025401-2026-chicoutimi-sagueneens-vs-ba
+ ie-comeau-drakkar
+LOCATION:Centre sportif Alcoa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chicoutimi Saguenéens @ Sherbrooke Phœnix
+DTSTART:20261030T230000
+DTEND:20261031T013000
+UID:lhjmq33141
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/33141\nStreaming:
+  https://www.flohockey.tv/events/16025585-2026-chicoutimi-sagueneens-vs-sh
+ erbrooke-phœnix
+LOCATION:Palais des Sports Léopold-Drolet
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chicoutimi Saguenéens @ Blainville-Boisbriand Armada
+DTSTART:20261031T180000
+DTEND:20261031T203000
+UID:lhjmq32693
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32693\nStreaming:
+  https://www.flohockey.tv/events/16026029-2026-chicoutimi-sagueneens-vs-bl
+ ainville-boisbriand-armada
+LOCATION:Centre Excellence Sports Rousseau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Blainville-Boisbriand Armada @ Chicoutimi Saguenéens
+DTSTART:20261107T000000
+DTEND:20261107T023000
+UID:lhjmq32787
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32787\nStreaming:
+  https://www.flohockey.tv/events/16025943-2026-blainville-boisbriand-armad
+ a-vs-chicoutimi-sagueneens
+LOCATION:Centre Georges-Vézina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Drummondville Voltigeurs @ Chicoutimi Saguenéens
+DTSTART:20261107T210000
+DTEND:20261107T233000
+UID:lhjmq32788
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32788\nStreaming:
+  https://www.flohockey.tv/events/16026440-2026-drummondville-voltigeurs-vs
+ -chicoutimi-sagueneens
+LOCATION:Centre Georges-Vézina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chicoutimi Saguenéens @ Gatineau Olympiques
+DTSTART:20261114T210000
+DTEND:20261114T233000
+UID:lhjmq32853
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32853\nStreaming:
+  https://www.flohockey.tv/events/16026421-2026-chicoutimi-sagueneens-vs-ga
+ tineau-olympiques
+LOCATION:Centre Slush Puppie
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chicoutimi Saguenéens @ Drummondville Voltigeurs
+DTSTART:20261115T210000
+DTEND:20261115T233000
+UID:lhjmq32818
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32818\nStreaming:
+  https://www.flohockey.tv/events/16025886-2026-chicoutimi-sagueneens-vs-dr
+ ummondville-voltigeurs
+LOCATION:Centre Marcel Dionne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Cape Breton Eagles @ Chicoutimi Saguenéens
+DTSTART:20261121T210000
+DTEND:20261121T233000
+UID:lhjmq32789
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32789\nStreaming:
+  https://www.flohockey.tv/events/16026103-2026-cape-breton-eagles-vs-chico
+ utimi-sagueneens
+LOCATION:Centre Georges-Vézina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Rouyn-Noranda Huskies @ Chicoutimi Saguenéens
+DTSTART:20261122T210000
+DTEND:20261122T233000
+UID:lhjmq32790
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32790\nStreaming:
+  https://www.flohockey.tv/events/16025056-2026-rouyn-noranda-huskies-vs-ch
+ icoutimi-sagueneens
+LOCATION:Centre Georges-Vézina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chicoutimi Saguenéens @ Newfoundland Regiment
+DTSTART:20261126T223000
+DTEND:20261127T010000
+UID:lhjmq32952
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32952\nStreaming:
+  https://www.flohockey.tv/events/16025642-2026-chicoutimi-sagueneens-vs-ne
+ wfoundland-regiment
+LOCATION:Mary Brown's Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chicoutimi Saguenéens @ Newfoundland Regiment
+DTSTART:20261127T223000
+DTEND:20261128T010000
+UID:lhjmq32953
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32953\nStreaming:
+  https://www.flohockey.tv/events/16025460-2026-chicoutimi-sagueneens-vs-ne
+ wfoundland-regiment
+LOCATION:Mary Brown's Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chicoutimi Saguenéens @ Québec Remparts
+DTSTART:20261129T200000
+DTEND:20261129T223000
+UID:lhjmq32985
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32985\nStreaming:
+  https://www.flohockey.tv/events/16025882-2026-chicoutimi-sagueneens-vs-qu
+ ebec-remparts
+LOCATION:Centre Vidéotron
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Rimouski Océanic @ Chicoutimi Saguenéens
+DTSTART:20261205T000000
+DTEND:20261205T023000
+UID:lhjmq32791
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32791\nStreaming:
+  https://www.flohockey.tv/events/16025059-2026-rimouski-oceanic-vs-chicout
+ imi-sagueneens
+LOCATION:Centre Georges-Vézina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Rimouski Océanic @ Chicoutimi Saguenéens
+DTSTART:20261205T210000
+DTEND:20261205T233000
+UID:lhjmq32792
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32792\nStreaming:
+  https://www.flohockey.tv/events/16025710-2026-rimouski-oceanic-vs-chicout
+ imi-sagueneens
+LOCATION:Centre Georges-Vézina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chicoutimi Saguenéens @ Rouyn-Noranda Huskies
+DTSTART:20261211T000000
+DTEND:20261211T023000
+UID:lhjmq33050
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/33050\nStreaming:
+  https://www.flohockey.tv/events/16026037-2026-chicoutimi-sagueneens-vs-ro
+ uyn-noranda-huskies
+LOCATION:Aréna Glencore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chicoutimi Saguenéens @ Val-d'Or Foreurs
+DTSTART:20261212T000000
+DTEND:20261212T023000
+UID:lhjmq33180
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/33180\nStreaming:
+  https://www.flohockey.tv/events/16026226-2026-chicoutimi-sagueneens-vs-va
+ l-dor-foreurs
+LOCATION:Centre Agnico Eagle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chicoutimi Saguenéens @ Rouyn-Noranda Huskies
+DTSTART:20261212T210000
+DTEND:20261212T233000
+UID:lhjmq33051
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/33051\nStreaming:
+  https://www.flohockey.tv/events/16025618-2026-chicoutimi-sagueneens-vs-ro
+ uyn-noranda-huskies
+LOCATION:Aréna Glencore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Québec Remparts @ Chicoutimi Saguenéens
+DTSTART:20261217T000000
+DTEND:20261217T023000
+UID:lhjmq32793
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32793\nStreaming:
+  https://www.flohockey.tv/events/16025709-2026-quebec-remparts-vs-chicouti
+ mi-sagueneens
+LOCATION:Centre Georges-Vézina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chicoutimi Saguenéens @ Victoriaville Tigres
+DTSTART:20261219T000000
+DTEND:20261219T023000
+UID:lhjmq33215
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/33215\nStreaming:
+  https://www.flohockey.tv/events/16025673-2026-chicoutimi-sagueneens-vs-vi
+ ctoriaville-tigres
+LOCATION:Colisée Desjardins
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chicoutimi Saguenéens @ Rimouski Océanic
+DTSTART:20261229T000000
+DTEND:20261229T023000
+UID:lhjmq33022
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/33022\nStreaming:
+  https://www.flohockey.tv/events/16025754-2026-chicoutimi-sagueneens-vs-ri
+ mouski-oceanic
+LOCATION:Colisée Financière Sun Life
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chicoutimi Saguenéens @ Baie-Comeau Drakkar
+DTSTART:20261231T190000
+DTEND:20261231T213000
+UID:lhjmq32666
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32666\nStreaming:
+  https://www.flohockey.tv/events/16025772-2026-chicoutimi-sagueneens-vs-ba
+ ie-comeau-drakkar
+LOCATION:Centre sportif Alcoa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Shawinigan Cataractes @ Chicoutimi Saguenéens
+DTSTART:20270102T210000
+DTEND:20270102T233000
+UID:lhjmq32794
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32794\nStreaming:
+  https://www.flohockey.tv/events/16025778-2027-shawinigan-cataractes-vs-ch
+ icoutimi-sagueneens
+LOCATION:Centre Georges-Vézina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Baie-Comeau Drakkar @ Chicoutimi Saguenéens
+DTSTART:20270103T210000
+DTEND:20270103T233000
+UID:lhjmq32795
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32795\nStreaming:
+  https://www.flohockey.tv/events/16025111-2027-baie-comeau-drakkar-vs-chic
+ outimi-sagueneens
+LOCATION:Centre Georges-Vézina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chicoutimi Saguenéens @ Shawinigan Cataractes
+DTSTART:20270109T000000
+DTEND:20270109T023000
+UID:lhjmq33119
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/33119\nStreaming:
+  https://www.flohockey.tv/events/16026061-2027-chicoutimi-sagueneens-vs-sh
+ awinigan-cataractes
+LOCATION:Centre Gervais Auto
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Rimouski Océanic @ Chicoutimi Saguenéens
+DTSTART:20270110T210000
+DTEND:20270110T233000
+UID:lhjmq32796
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32796\nStreaming:
+  https://www.flohockey.tv/events/16026033-2027-rimouski-oceanic-vs-chicout
+ imi-sagueneens
+LOCATION:Centre Georges-Vézina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Sherbrooke Phœnix @ Chicoutimi Saguenéens
+DTSTART:20270114T000000
+DTEND:20270114T023000
+UID:lhjmq32797
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32797\nStreaming:
+  https://www.flohockey.tv/events/16025281-2027-sherbrooke-phœnix-vs-chico
+ utimi-sagueneens
+LOCATION:Centre Georges-Vézina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saint John Sea Dogs @ Chicoutimi Saguenéens
+DTSTART:20270116T000000
+DTEND:20270116T023000
+UID:lhjmq32798
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32798\nStreaming:
+  https://www.flohockey.tv/events/16025868-2027-saint-john-sea-dogs-vs-chic
+ outimi-sagueneens
+LOCATION:Centre Georges-Vézina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Halifax Mooseheads @ Chicoutimi Saguenéens
+DTSTART:20270117T210000
+DTEND:20270117T233000
+UID:lhjmq32799
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32799\nStreaming:
+  https://www.flohockey.tv/events/16026011-2027-halifax-mooseheads-vs-chico
+ utimi-sagueneens
+LOCATION:Centre Georges-Vézina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Victoriaville Tigres @ Chicoutimi Saguenéens
+DTSTART:20270121T000000
+DTEND:20270121T023000
+UID:lhjmq32800
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32800\nStreaming:
+  https://www.flohockey.tv/events/16026191-2027-victoriaville-tigres-vs-chi
+ coutimi-sagueneens
+LOCATION:Centre Georges-Vézina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chicoutimi Saguenéens @ Québec Remparts
+DTSTART:20270124T200000
+DTEND:20270124T223000
+UID:lhjmq32993
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32993\nStreaming:
+  https://www.flohockey.tv/events/16025713-2027-chicoutimi-sagueneens-vs-qu
+ ebec-remparts
+LOCATION:Centre Vidéotron
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chicoutimi Saguenéens @ Halifax Mooseheads
+DTSTART:20270127T230000
+DTEND:20270128T013000
+UID:lhjmq32898
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32898\nStreaming:
+  https://www.flohockey.tv/events/16025057-2027-chicoutimi-sagueneens-vs-ha
+ lifax-mooseheads
+LOCATION:Scotiabank Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chicoutimi Saguenéens @ Moncton Wildcats
+DTSTART:20270128T230000
+DTEND:20270129T013000
+UID:lhjmq32929
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32929\nStreaming:
+  https://www.flohockey.tv/events/16025561-2027-chicoutimi-sagueneens-vs-mo
+ ncton-wildcats
+LOCATION:Avenir Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chicoutimi Saguenéens @ Saint John Sea Dogs
+DTSTART:20270130T200000
+DTEND:20270130T223000
+UID:lhjmq33091
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/33091\nStreaming:
+  https://www.flohockey.tv/events/16026035-2027-chicoutimi-sagueneens-vs-sa
+ int-john-sea-dogs
+LOCATION:TD Station
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chicoutimi Saguenéens @ Charlottetown Islanders
+DTSTART:20270131T190000
+DTEND:20270131T213000
+UID:lhjmq32771
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32771\nStreaming:
+  https://www.flohockey.tv/events/16025988-2027-chicoutimi-sagueneens-vs-ch
+ arlottetown-islanders
+LOCATION:Eastlink Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Drummondville Voltigeurs @ Chicoutimi Saguenéens
+DTSTART:20270206T000000
+DTEND:20270206T023000
+UID:lhjmq32801
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32801\nStreaming:
+  https://www.flohockey.tv/events/16026253-2027-drummondville-voltigeurs-vs
+ -chicoutimi-sagueneens
+LOCATION:Centre Georges-Vézina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Moncton Wildcats @ Chicoutimi Saguenéens
+DTSTART:20270206T210000
+DTEND:20270206T233000
+UID:lhjmq32802
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32802\nStreaming:
+  https://www.flohockey.tv/events/16025712-2027-moncton-wildcats-vs-chicout
+ imi-sagueneens
+LOCATION:Centre Georges-Vézina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Québec Remparts @ Chicoutimi Saguenéens
+DTSTART:20270213T000000
+DTEND:20270213T023000
+UID:lhjmq32803
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32803\nStreaming:
+  https://www.flohockey.tv/events/16025086-2027-quebec-remparts-vs-chicouti
+ mi-sagueneens
+LOCATION:Centre Georges-Vézina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Blainville-Boisbriand Armada @ Chicoutimi Saguenéens
+DTSTART:20270213T210000
+DTEND:20270213T233000
+UID:lhjmq32804
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32804\nStreaming:
+  https://www.flohockey.tv/events/16025164-2027-blainville-boisbriand-armad
+ a-vs-chicoutimi-sagueneens
+LOCATION:Centre Georges-Vézina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Rimouski Océanic @ Chicoutimi Saguenéens
+DTSTART:20270219T000000
+DTEND:20270219T023000
+UID:lhjmq32805
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32805\nStreaming:
+  https://www.flohockey.tv/events/16025812-2027-rimouski-oceanic-vs-chicout
+ imi-sagueneens
+LOCATION:Centre Georges-Vézina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Val-d'Or Foreurs @ Chicoutimi Saguenéens
+DTSTART:20270220T210000
+DTEND:20270220T233000
+UID:lhjmq32806
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32806\nStreaming:
+  https://www.flohockey.tv/events/16025594-2027-val-dor-foreurs-vs-chicouti
+ mi-sagueneens
+LOCATION:Centre Georges-Vézina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Val-d'Or Foreurs @ Chicoutimi Saguenéens
+DTSTART:20270221T210000
+DTEND:20270221T233000
+UID:lhjmq32807
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32807\nStreaming:
+  https://www.flohockey.tv/events/16026025-2027-val-dor-foreurs-vs-chicouti
+ mi-sagueneens
+LOCATION:Centre Georges-Vézina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Gatineau Olympiques @ Chicoutimi Saguenéens
+DTSTART:20270225T000000
+DTEND:20270225T023000
+UID:lhjmq32808
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32808\nStreaming:
+  https://www.flohockey.tv/events/16025159-2027-gatineau-olympiques-vs-chic
+ outimi-sagueneens
+LOCATION:Centre Georges-Vézina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chicoutimi Saguenéens @ Rimouski Océanic
+DTSTART:20270227T000000
+DTEND:20270227T023000
+UID:lhjmq33033
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/33033\nStreaming:
+  https://www.flohockey.tv/events/16025146-2027-chicoutimi-sagueneens-vs-ri
+ mouski-oceanic
+LOCATION:Colisée Financière Sun Life
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chicoutimi Saguenéens @ Rimouski Océanic
+DTSTART:20270227T210000
+DTEND:20270227T233000
+UID:lhjmq33034
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/33034\nStreaming:
+  https://www.flohockey.tv/events/16026163-2027-chicoutimi-sagueneens-vs-ri
+ mouski-oceanic
+LOCATION:Colisée Financière Sun Life
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chicoutimi Saguenéens @ Québec Remparts
+DTSTART:20270302T000000
+DTEND:20270302T023000
+UID:lhjmq33001
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/33001\nStreaming:
+  https://www.flohockey.tv/events/16025055-2027-chicoutimi-sagueneens-vs-qu
+ ebec-remparts
+LOCATION:Centre Vidéotron
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chicoutimi Saguenéens @ Shawinigan Cataractes
+DTSTART:20270305T000000
+DTEND:20270305T023000
+UID:lhjmq33128
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/33128\nStreaming:
+  https://www.flohockey.tv/events/16025564-2027-chicoutimi-sagueneens-vs-sh
+ awinigan-cataractes
+LOCATION:Centre Gervais Auto
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chicoutimi Saguenéens @ Drummondville Voltigeurs
+DTSTART:20270306T000000
+DTEND:20270306T023000
+UID:lhjmq32839
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32839\nStreaming:
+  https://www.flohockey.tv/events/16025945-2027-chicoutimi-sagueneens-vs-dr
+ ummondville-voltigeurs
+LOCATION:Centre Marcel Dionne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Québec Remparts @ Chicoutimi Saguenéens
+DTSTART:20270307T210000
+DTEND:20270307T233000
+UID:lhjmq32809
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32809\nStreaming:
+  https://www.flohockey.tv/events/16025087-2027-quebec-remparts-vs-chicouti
+ mi-sagueneens
+LOCATION:Centre Georges-Vézina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chicoutimi Saguenéens @ Victoriaville Tigres
+DTSTART:20270313T000000
+DTEND:20270313T023000
+UID:lhjmq33229
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/33229\nStreaming:
+  https://www.flohockey.tv/events/16026456-2027-chicoutimi-sagueneens-vs-vi
+ ctoriaville-tigres
+LOCATION:Colisée Desjardins
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chicoutimi Saguenéens @ Sherbrooke Phœnix
+DTSTART:20270313T210000
+DTEND:20270313T233000
+UID:lhjmq33164
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/33164\nStreaming:
+  https://www.flohockey.tv/events/16025544-2027-chicoutimi-sagueneens-vs-sh
+ erbrooke-phœnix
+LOCATION:Palais des Sports Léopold-Drolet
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Baie-Comeau Drakkar @ Chicoutimi Saguenéens
+DTSTART:20270319T230000
+DTEND:20270320T013000
+UID:lhjmq32810
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32810\nStreaming:
+  https://www.flohockey.tv/events/16025304-2027-baie-comeau-drakkar-vs-chic
+ outimi-sagueneens
+LOCATION:Centre Georges-Vézina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chicoutimi Saguenéens @ Baie-Comeau Drakkar
+DTSTART:20270320T200000
+DTEND:20270320T223000
+UID:lhjmq32682
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32682\nStreaming:
+  https://www.flohockey.tv/events/16025308-2027-chicoutimi-sagueneens-vs-ba
+ ie-comeau-drakkar
+LOCATION:Centre sportif Alcoa
 END:VEVENT
 END:VCALENDAR

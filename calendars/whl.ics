@@ -743,8 +743,8 @@ LOCATION:SaskTel Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Saskatoon Blades @ Brandon Wheat Kings
-DTSTART:20261108T000000
-DTEND:20261108T023000
+DTSTART:20261107T230000
+DTEND:20261108T013000
 UID:whl1023263
 DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023263\nStreaming:
   https://m.youtube.com/@WHL/streams
@@ -824,8 +824,8 @@ LOCATION:Co-op Place
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Saskatoon Blades @ Brandon Wheat Kings
-DTSTART:20261205T010000
-DTEND:20261205T033000
+DTSTART:20261205T000000
+DTEND:20261205T023000
 UID:whl1023369
 DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023369\nStreaming:
   https://m.youtube.com/@WHL/streams
@@ -1040,8 +1040,8 @@ LOCATION:SaskTel Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Saskatoon Blades @ Brandon Wheat Kings
-DTSTART:20270207T000000
-DTEND:20270207T023000
+DTSTART:20270206T230000
+DTEND:20270207T013000
 UID:whl1023629
 DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023629\nStreaming:
   https://m.youtube.com/@WHL/streams

@@ -120,9 +120,7 @@ DTEND:20261015T020000
 UID:nhl2026020106
 DESCRIPTION:Regular Season Game\nTV (Canada): Prime (Français/Anglais)\nG
  ame Center: https://www.nhl.com/gamecenter/mtl-vs-wsh/2026/10/14/202602010
- 6\nTickets: https://www.ticketmaster.com/event/150064F03462E28A?brand=capi
- tals&artistid=806039&wt.mc_id=NHL_TEAM_WSH_SCHEDULE_GM4&utm_source=club_sc
- hedule&utm_medium=web_organic&utm_campaign=2627sgb_ca1014mc
+ 6
 LOCATION:Capital One Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -839,7 +837,10 @@ DTEND:20270225T053000
 UID:nhl2026021003
 DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
  ais)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-lak/2027/02/24/20
- 26021003\nTickets: https://www.nhl.com/kings/tickets/single-game-tickets
+ 26021003\nTickets: https://www.axs.com/events/1458544/la-kings-vs-montreal
+ -canadiens-tickets?skin=lakings&cpch=LAKSCHED&cpdn=website&cpdate=LAK27022
+ 4&cpsrc=single-game&utm_source=LAKSCHED&utm_medium=website&utm_campaign=si
+ ngle-game&utm_content=LAK270224&tags=LAKWEB
 LOCATION:Crypto.com Arena
 END:VEVENT
 BEGIN:VEVENT
