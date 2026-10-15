@@ -77,10 +77,10 @@ LHJMQ:
     base_url: 
         https://cluster.leaguestat.com/feed/index.php?feed=modulekit&view=schedule&client_code=lhjmq&key=f322673b6bcae299
     teams:
-      - name: Saguenéens Chicoutimi
-        team_id: 10
       - name: Foreurs Val-d'Or
         team_id: 15
+      - name: Saguenéens Chicoutimi
+        team_id: 10
 LHMAAAQ:
     parser: publicationsports
     base_url: "https://www.m18aaa.com/fr/stats/horaire.html?"
@@ -140,9 +140,9 @@ NCAA_NCHC:
     base_url: 
         https://nchchockey.com/services/responsive-calendar.ashx?sport_id=0&school_id=0
     teams:
-      - name: Western Michigan Broncos
-      - name: St. Cloud State Huskies
       - name: Denver Pioneers
+      - name: St. Cloud State Huskies
+      - name: Western Michigan Broncos
 NHL:
     parser: nhl
     teams:
