@@ -72,7 +72,7 @@ DTSTART:20261015T170000
 DTEND:20261015T193000
 UID:shlpkjfr73iqb
 DESCRIPTION:Game Center: https://www.shl.se/game-center/pkjfr73iqb/qa98unl
- bd6/?state=pre-game
+ bd6/?state=post-game
 LOCATION:Löfbergs Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -513,7 +513,7 @@ DTSTART:20261015T170000
 DTEND:20261015T193000
 UID:shlpqcc7xg1m4
 DESCRIPTION:Game Center: https://www.shl.se/game-center/pqcc7xg1m4/qa98unl
- bd6/?state=pre-game
+ bd6/?state=post-game
 LOCATION:Vida Arena
 END:VEVENT
 BEGIN:VEVENT

@@ -103,6 +103,15 @@ DESCRIPTION:https://www.lhjaaaq.com/fr/stats/sommaire.html?season=4908&sub
 LOCATION:Laval\, Colisée de Laval
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Prédateurs de Joliette @ L'Énergie de Laval
+DTSTART:20261028T193000
+DTEND:20261028T220000
+UID:LHJAAAQ1901697
+DESCRIPTION:https://www.lhjaaaq.com/fr/stats/sommaire.html?season=4908&sub
+ Season=4910&category=1093&game=1901697
+LOCATION:Laval\, Colisée de Laval
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | L'Énergie de Laval @ Braves de Valleyfield
 DTSTART:20261030T193000
 DTEND:20261030T220000
@@ -164,6 +173,15 @@ UID:LHJAAAQ1901791
 DESCRIPTION:https://www.lhjaaaq.com/fr/stats/sommaire.html?season=4908&sub
  Season=4910&category=1093&game=1901791
 LOCATION:CS Léonard-Grondin B (Granby)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Nomad de Gatineau @ L'Énergie de Laval
+DTSTART:20261119T193000
+DTEND:20261119T220000
+UID:LHJAAAQ1901682
+DESCRIPTION:https://www.lhjaaaq.com/fr/stats/sommaire.html?season=4908&sub
+ Season=4910&category=1093&game=1901682
+LOCATION:Laval\, Colisée de Laval
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Prédateurs de Joliette @ L'Énergie de Laval

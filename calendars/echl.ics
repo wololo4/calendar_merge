@@ -9,7 +9,8 @@ DTSTART:20261016T230000
 DTEND:20261017T013000
 UID:echl25493
 DESCRIPTION:Game Center: https://echl.com/games/2026/10/16/trois-rivieres-
- lions-vs-trenton-ironhawks\nTV: TVAS\nStreaming link not yet available
+ lions-vs-trenton-ironhawks\nTV: TVAS\nStreaming: https://www.flohockey.tv/
+ events/16023320-2026-trenton-ironhawks-vs-trois-rivieres-lions
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -18,7 +19,8 @@ DTSTART:20261018T190500
 DTEND:20261018T213500
 UID:echl25512
 DESCRIPTION:Game Center: https://echl.com/games/2026/10/18/worcester-raile
- rs-vs-trois-rivieres-lions\nStreaming link not yet available
+ rs-vs-trois-rivieres-lions\nStreaming: https://www.flohockey.tv/events/160
+ 23411-2026-trois-rivieres-lions-vs-worcester-railers
 LOCATION:DCU Center
 END:VEVENT
 BEGIN:VEVENT
@@ -27,7 +29,8 @@ DTSTART:20261023T230500
 DTEND:20261024T013500
 UID:echl25518
 DESCRIPTION:Game Center: https://echl.com/games/2026/10/23/norfolk-admiral
- s-vs-trois-rivieres-lions\nStreaming link not yet available
+ s-vs-trois-rivieres-lions\nStreaming: https://www.flohockey.tv/events/1602
+ 3548-2026-trois-rivieres-lions-vs-norfolk-admirals
 LOCATION:Norfolk Scope
 END:VEVENT
 BEGIN:VEVENT
@@ -36,7 +39,8 @@ DTSTART:20261024T230500
 DTEND:20261025T013500
 UID:echl25529
 DESCRIPTION:Game Center: https://echl.com/games/2026/10/24/norfolk-admiral
- s-vs-trois-rivieres-lions\nStreaming link not yet available
+ s-vs-trois-rivieres-lions\nStreaming: https://www.flohockey.tv/events/1602
+ 4677-2026-trois-rivieres-lions-vs-norfolk-admirals
 LOCATION:Norfolk Scope
 END:VEVENT
 BEGIN:VEVENT
@@ -45,7 +49,8 @@ DTSTART:20261025T190500
 DTEND:20261025T213500
 UID:echl25540
 DESCRIPTION:Game Center: https://echl.com/games/2026/10/25/norfolk-admiral
- s-vs-trois-rivieres-lions\nStreaming link not yet available
+ s-vs-trois-rivieres-lions\nStreaming: https://www.flohockey.tv/events/1602
+ 4682-2026-trois-rivieres-lions-vs-norfolk-admirals
 LOCATION:Norfolk Scope
 END:VEVENT
 BEGIN:VEVENT
@@ -54,7 +59,8 @@ DTSTART:20261030T230000
 DTEND:20261031T013000
 UID:echl25563
 DESCRIPTION:Game Center: https://echl.com/games/2026/10/30/trois-rivieres-
- lions-vs-maine-mariners\nTV: TVAS\nStreaming link not yet available
+ lions-vs-maine-mariners\nTV: TVAS\nStreaming: https://www.flohockey.tv/eve
+ nts/16024179-2026-maine-mariners-vs-trois-rivieres-lions
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -63,7 +69,8 @@ DTSTART:20261031T170000
 DTEND:20261031T193000
 UID:echl25573
 DESCRIPTION:Game Center: https://echl.com/games/2026/10/31/trois-rivieres-
- lions-vs-maine-mariners\nTV: TVAS\nStreaming link not yet available
+ lions-vs-maine-mariners\nTV: TVAS\nStreaming: https://www.flohockey.tv/eve
+ nts/16024472-2026-maine-mariners-vs-trois-rivieres-lions
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -72,7 +79,8 @@ DTSTART:20261107T000000
 DTEND:20261107T023000
 UID:echl25602
 DESCRIPTION:Game Center: https://echl.com/games/2026/11/06/trois-rivieres-
- lions-vs-adirondack-thunder\nTV: TVAS\nStreaming link not yet available
+ lions-vs-adirondack-thunder\nTV: TVAS\nStreaming: https://www.flohockey.tv
+ /events/16023286-2026-adirondack-thunder-vs-trois-rivieres-lions
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -81,7 +89,8 @@ DTSTART:20261107T200000
 DTEND:20261107T223000
 UID:echl25614
 DESCRIPTION:Game Center: https://echl.com/games/2026/11/07/trois-rivieres-
- lions-vs-adirondack-thunder\nTV: TVAS\nStreaming link not yet available
+ lions-vs-adirondack-thunder\nTV: TVAS\nStreaming: https://www.flohockey.tv
+ /events/16024020-2026-adirondack-thunder-vs-trois-rivieres-lions
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -90,7 +99,8 @@ DTSTART:20261113T000000
 DTEND:20261113T023000
 UID:echl25632
 DESCRIPTION:Game Center: https://echl.com/games/2026/11/12/savannah-ghost-
- pirates-vs-trois-rivieres-lions\nStreaming link not yet available
+ pirates-vs-trois-rivieres-lions\nStreaming: https://www.flohockey.tv/event
+ s/16024460-2026-trois-rivieres-lions-vs-savannah-ghost-pirates
 LOCATION:Enmarket Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -119,7 +129,8 @@ DTSTART:20261121T000000
 DTEND:20261121T023000
 UID:echl25685
 DESCRIPTION:Game Center: https://echl.com/games/2026/11/20/trois-rivieres-
- lions-vs-adirondack-thunder\nTV: TVAS\nStreaming link not yet available
+ lions-vs-adirondack-thunder\nTV: TVAS\nStreaming: https://www.flohockey.tv
+ /events/16025024-2026-adirondack-thunder-vs-trois-rivieres-lions
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -128,7 +139,8 @@ DTSTART:20261121T200000
 DTEND:20261121T223000
 UID:echl25696
 DESCRIPTION:Game Center: https://echl.com/games/2026/11/21/trois-rivieres-
- lions-vs-adirondack-thunder\nTV: TVAS\nStreaming link not yet available
+ lions-vs-adirondack-thunder\nTV: TVAS\nStreaming: https://www.flohockey.tv
+ /events/16024074-2026-adirondack-thunder-vs-trois-rivieres-lions
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -137,7 +149,8 @@ DTSTART:20261126T000000
 DTEND:20261126T023000
 UID:echl25706
 DESCRIPTION:Game Center: https://echl.com/games/2026/11/25/adirondack-thun
- der-vs-trois-rivieres-lions\nStreaming link not yet available
+ der-vs-trois-rivieres-lions\nStreaming: https://www.flohockey.tv/events/16
+ 023482-2026-trois-rivieres-lions-vs-adirondack-thunder
 LOCATION:Harding Mazzotti Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -146,7 +159,8 @@ DTSTART:20261128T000000
 DTEND:20261128T023000
 UID:echl25731
 DESCRIPTION:Game Center: https://echl.com/games/2026/11/27/trenton-ironhaw
- ks-vs-trois-rivieres-lions\nStreaming link not yet available
+ ks-vs-trois-rivieres-lions\nStreaming: https://www.flohockey.tv/events/160
+ 24959-2026-trois-rivieres-lions-vs-trenton-ironhawks
 LOCATION:CURE Insurance Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -165,7 +179,8 @@ DTSTART:20261205T000000
 DTEND:20261205T023000
 UID:echl25772
 DESCRIPTION:Game Center: https://echl.com/games/2026/12/04/trois-rivieres-
- lions-vs-greensboro-gargoyles\nTV: TVAS\nStreaming link not yet available
+ lions-vs-greensboro-gargoyles\nTV: TVAS\nStreaming: https://www.flohockey.
+ tv/events/16022957-2026-greensboro-gargoyles-vs-trois-rivieres-lions
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -174,7 +189,8 @@ DTSTART:20261205T200000
 DTEND:20261205T223000
 UID:echl25786
 DESCRIPTION:Game Center: https://echl.com/games/2026/12/05/trois-rivieres-
- lions-vs-greensboro-gargoyles\nTV: TVAS\nStreaming link not yet available
+ lions-vs-greensboro-gargoyles\nTV: TVAS\nStreaming: https://www.flohockey.
+ tv/events/16023852-2026-greensboro-gargoyles-vs-trois-rivieres-lions
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -183,7 +199,8 @@ DTSTART:20261206T180000
 DTEND:20261206T203000
 UID:echl25794
 DESCRIPTION:Game Center: https://echl.com/games/2026/12/06/trois-rivieres-
- lions-vs-greensboro-gargoyles\nTV: TVAS\nStreaming link not yet available
+ lions-vs-greensboro-gargoyles\nTV: TVAS\nStreaming: https://www.flohockey.
+ tv/events/16023748-2026-greensboro-gargoyles-vs-trois-rivieres-lions
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -192,7 +209,8 @@ DTSTART:20261211T000000
 DTEND:20261211T023000
 UID:echl25805
 DESCRIPTION:Game Center: https://echl.com/games/2026/12/10/trenton-ironhaw
- ks-vs-trois-rivieres-lions\nStreaming link not yet available
+ ks-vs-trois-rivieres-lions\nStreaming: https://www.flohockey.tv/events/160
+ 23627-2026-trois-rivieres-lions-vs-trenton-ironhawks
 LOCATION:CURE Insurance Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -201,7 +219,8 @@ DTSTART:20261212T000000
 DTEND:20261212T023000
 UID:echl25818
 DESCRIPTION:Game Center: https://echl.com/games/2026/12/11/trenton-ironhaw
- ks-vs-trois-rivieres-lions\nStreaming link not yet available
+ ks-vs-trois-rivieres-lions\nStreaming: https://www.flohockey.tv/events/160
+ 24833-2026-trois-rivieres-lions-vs-trenton-ironhawks
 LOCATION:CURE Insurance Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -210,7 +229,8 @@ DTSTART:20261213T000000
 DTEND:20261213T023000
 UID:echl25830
 DESCRIPTION:Game Center: https://echl.com/games/2026/12/12/reading-royals-
- vs-trois-rivieres-lions\nStreaming link not yet available
+ vs-trois-rivieres-lions\nStreaming: https://www.flohockey.tv/events/160229
+ 58-2026-trois-rivieres-lions-vs-reading-royals
 LOCATION:Santander Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -219,7 +239,8 @@ DTSTART:20261217T000000
 DTEND:20261217T023000
 UID:echl25846
 DESCRIPTION:Game Center: https://echl.com/games/2026/12/16/trois-rivieres-
- lions-vs-norfolk-admirals\nTV: TVAS\nStreaming link not yet available
+ lions-vs-norfolk-admirals\nTV: TVAS\nStreaming: https://www.flohockey.tv/e
+ vents/16023266-2026-norfolk-admirals-vs-trois-rivieres-lions
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -228,7 +249,8 @@ DTSTART:20261219T000000
 DTEND:20261219T023000
 UID:echl25859
 DESCRIPTION:Game Center: https://echl.com/games/2026/12/18/trois-rivieres-
- lions-vs-norfolk-admirals\nTV: TVAS\nStreaming link not yet available
+ lions-vs-norfolk-admirals\nTV: TVAS\nStreaming: https://www.flohockey.tv/e
+ vents/16024968-2026-norfolk-admirals-vs-trois-rivieres-lions
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -237,7 +259,8 @@ DTSTART:20261219T200000
 DTEND:20261219T223000
 UID:echl25870
 DESCRIPTION:Game Center: https://echl.com/games/2026/12/19/trois-rivieres-
- lions-vs-norfolk-admirals\nTV: TVAS\nStreaming link not yet available
+ lions-vs-norfolk-admirals\nTV: TVAS\nStreaming: https://www.flohockey.tv/e
+ vents/16023544-2026-norfolk-admirals-vs-trois-rivieres-lions
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -246,7 +269,8 @@ DTSTART:20261227T200000
 DTEND:20261227T223000
 UID:echl25909
 DESCRIPTION:Game Center: https://echl.com/games/2026/12/27/trois-rivieres-
- lions-vs-reading-royals\nTV: TVAS\nStreaming link not yet available
+ lions-vs-reading-royals\nTV: TVAS\nStreaming: https://www.flohockey.tv/eve
+ nts/16023547-2026-reading-royals-vs-trois-rivieres-lions
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -255,7 +279,8 @@ DTSTART:20261229T000000
 DTEND:20261229T023000
 UID:echl25912
 DESCRIPTION:Game Center: https://echl.com/games/2026/12/28/trois-rivieres-
- lions-vs-reading-royals\nTV: TVAS\nStreaming link not yet available
+ lions-vs-reading-royals\nTV: TVAS\nStreaming: https://www.flohockey.tv/eve
+ nts/16024295-2026-reading-royals-vs-trois-rivieres-lions
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -264,7 +289,8 @@ DTSTART:20270101T220500
 DTEND:20270102T003500
 UID:echl25943
 DESCRIPTION:Game Center: https://echl.com/games/2027/01/01/worcester-raile
- rs-vs-trois-rivieres-lions\nStreaming link not yet available
+ rs-vs-trois-rivieres-lions\nStreaming: https://www.flohockey.tv/events/160
+ 23881-2027-trois-rivieres-lions-vs-worcester-railers
 LOCATION:DCU Center
 END:VEVENT
 BEGIN:VEVENT
@@ -273,7 +299,8 @@ DTSTART:20270102T230000
 DTEND:20270103T013000
 UID:echl25955
 DESCRIPTION:Game Center: https://echl.com/games/2027/01/02/trenton-ironhaw
- ks-vs-trois-rivieres-lions\nStreaming link not yet available
+ ks-vs-trois-rivieres-lions\nStreaming: https://www.flohockey.tv/events/160
+ 24813-2027-trois-rivieres-lions-vs-trenton-ironhawks
 LOCATION:CURE Insurance Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -282,7 +309,8 @@ DTSTART:20270103T200000
 DTEND:20270103T223000
 UID:echl25964
 DESCRIPTION:Game Center: https://echl.com/games/2027/01/03/trenton-ironhaw
- ks-vs-trois-rivieres-lions\nStreaming link not yet available
+ ks-vs-trois-rivieres-lions\nStreaming: https://www.flohockey.tv/events/160
+ 24770-2027-trois-rivieres-lions-vs-trenton-ironhawks
 LOCATION:CURE Insurance Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -291,7 +319,8 @@ DTSTART:20270109T000000
 DTEND:20270109T023000
 UID:echl25982
 DESCRIPTION:Game Center: https://echl.com/games/2027/01/08/trois-rivieres-
- lions-vs-adirondack-thunder\nTV: TVAS\nStreaming link not yet available
+ lions-vs-adirondack-thunder\nTV: TVAS\nStreaming: https://www.flohockey.tv
+ /events/16024725-2027-adirondack-thunder-vs-trois-rivieres-lions
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -300,7 +329,8 @@ DTSTART:20270110T000000
 DTEND:20270110T023000
 UID:echl25985
 DESCRIPTION:Game Center: https://echl.com/games/2027/01/09/adirondack-thun
- der-vs-trois-rivieres-lions\nStreaming link not yet available
+ der-vs-trois-rivieres-lions\nStreaming: https://www.flohockey.tv/events/16
+ 024215-2027-trois-rivieres-lions-vs-adirondack-thunder
 LOCATION:Harding Mazzotti Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -309,7 +339,8 @@ DTSTART:20270110T200000
 DTEND:20270110T223000
 UID:echl25999
 DESCRIPTION:Game Center: https://echl.com/games/2027/01/10/adirondack-thun
- der-vs-trois-rivieres-lions\nStreaming link not yet available
+ der-vs-trois-rivieres-lions\nStreaming: https://www.flohockey.tv/events/16
+ 024612-2027-trois-rivieres-lions-vs-adirondack-thunder
 LOCATION:Harding Mazzotti Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -318,7 +349,8 @@ DTSTART:20270116T000000
 DTEND:20270116T023000
 UID:echl26019
 DESCRIPTION:Game Center: https://echl.com/games/2027/01/15/reading-royals-
- vs-trois-rivieres-lions\nStreaming link not yet available
+ vs-trois-rivieres-lions\nStreaming: https://www.flohockey.tv/events/160237
+ 81-2027-trois-rivieres-lions-vs-reading-royals
 LOCATION:Santander Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -327,7 +359,8 @@ DTSTART:20270117T000000
 DTEND:20270117T023000
 UID:echl26034
 DESCRIPTION:Game Center: https://echl.com/games/2027/01/16/reading-royals-
- vs-trois-rivieres-lions\nStreaming link not yet available
+ vs-trois-rivieres-lions\nStreaming: https://www.flohockey.tv/events/160248
+ 68-2027-trois-rivieres-lions-vs-reading-royals
 LOCATION:Santander Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -336,7 +369,8 @@ DTSTART:20270121T000000
 DTEND:20270121T023000
 UID:echl26054
 DESCRIPTION:Game Center: https://echl.com/games/2027/01/20/trois-rivieres-
- lions-vs-fort-wayne-komets\nTV: TVAS\nStreaming link not yet available
+ lions-vs-fort-wayne-komets\nTV: TVAS\nStreaming: https://www.flohockey.tv/
+ events/16023374-2027-fort-wayne-komets-vs-trois-rivieres-lions
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -345,7 +379,8 @@ DTSTART:20270123T000000
 DTEND:20270123T023000
 UID:echl26069
 DESCRIPTION:Game Center: https://echl.com/games/2027/01/22/trois-rivieres-
- lions-vs-fort-wayne-komets\nTV: TVAS\nStreaming link not yet available
+ lions-vs-fort-wayne-komets\nTV: TVAS\nStreaming: https://www.flohockey.tv/
+ events/16022483-2027-fort-wayne-komets-vs-trois-rivieres-lions
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -354,7 +389,8 @@ DTSTART:20270123T200000
 DTEND:20270123T223000
 UID:echl26084
 DESCRIPTION:Game Center: https://echl.com/games/2027/01/23/trois-rivieres-
- lions-vs-fort-wayne-komets\nTV: TVAS\nStreaming link not yet available
+ lions-vs-fort-wayne-komets\nTV: TVAS\nStreaming: https://www.flohockey.tv/
+ events/16023850-2027-fort-wayne-komets-vs-trois-rivieres-lions
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -363,7 +399,8 @@ DTSTART:20270130T003500
 DTEND:20270130T030500
 UID:echl26096
 DESCRIPTION:Game Center: https://echl.com/games/2027/01/29/fort-wayne-kome
- ts-vs-trois-rivieres-lions\nStreaming link not yet available
+ ts-vs-trois-rivieres-lions\nStreaming: https://www.flohockey.tv/events/160
+ 24580-2027-trois-rivieres-lions-vs-fort-wayne-komets
 LOCATION:Memorial Coliseum
 END:VEVENT
 BEGIN:VEVENT
@@ -372,7 +409,8 @@ DTSTART:20270131T003500
 DTEND:20270131T030500
 UID:echl26110
 DESCRIPTION:Game Center: https://echl.com/games/2027/01/30/fort-wayne-kome
- ts-vs-trois-rivieres-lions\nStreaming link not yet available
+ ts-vs-trois-rivieres-lions\nStreaming: https://www.flohockey.tv/events/160
+ 22928-2027-trois-rivieres-lions-vs-fort-wayne-komets
 LOCATION:Memorial Coliseum
 END:VEVENT
 BEGIN:VEVENT
@@ -381,7 +419,8 @@ DTSTART:20270131T220500
 DTEND:20270201T003500
 UID:echl26124
 DESCRIPTION:Game Center: https://echl.com/games/2027/01/31/fort-wayne-kome
- ts-vs-trois-rivieres-lions\nStreaming link not yet available
+ ts-vs-trois-rivieres-lions\nStreaming: https://www.flohockey.tv/events/160
+ 24457-2027-trois-rivieres-lions-vs-fort-wayne-komets
 LOCATION:Memorial Coliseum
 END:VEVENT
 BEGIN:VEVENT
@@ -390,7 +429,8 @@ DTSTART:20270204T000000
 DTEND:20270204T023000
 UID:echl26138
 DESCRIPTION:Game Center: https://echl.com/games/2027/02/03/trois-rivieres-
- lions-vs-adirondack-thunder\nTV: TVAS\nStreaming link not yet available
+ lions-vs-adirondack-thunder\nTV: TVAS\nStreaming: https://www.flohockey.tv
+ /events/16024920-2027-adirondack-thunder-vs-trois-rivieres-lions
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -399,7 +439,8 @@ DTSTART:20270206T000000
 DTEND:20270206T023000
 UID:echl26151
 DESCRIPTION:Game Center: https://echl.com/games/2027/02/05/trois-rivieres-
- lions-vs-norfolk-admirals\nTV: TVAS\nStreaming link not yet available
+ lions-vs-norfolk-admirals\nTV: TVAS\nStreaming: https://www.flohockey.tv/e
+ vents/16023262-2027-norfolk-admirals-vs-trois-rivieres-lions
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -408,7 +449,8 @@ DTSTART:20270206T200000
 DTEND:20270206T223000
 UID:echl26166
 DESCRIPTION:Game Center: https://echl.com/games/2027/02/06/trois-rivieres-
- lions-vs-norfolk-admirals\nTV: TVAS\nStreaming link not yet available
+ lions-vs-norfolk-admirals\nTV: TVAS\nStreaming: https://www.flohockey.tv/e
+ vents/16023260-2027-norfolk-admirals-vs-trois-rivieres-lions
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -417,7 +459,8 @@ DTSTART:20270207T200000
 DTEND:20270207T223000
 UID:echl26173
 DESCRIPTION:Game Center: https://echl.com/games/2027/02/07/maine-mariners-
- vs-trois-rivieres-lions\nStreaming link not yet available
+ vs-trois-rivieres-lions\nStreaming: https://www.flohockey.tv/events/160237
+ 46-2027-trois-rivieres-lions-vs-maine-mariners
 LOCATION:Cross Insurance Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -426,7 +469,8 @@ DTSTART:20270211T000500
 DTEND:20270211T023500
 UID:echl26182
 DESCRIPTION:Game Center: https://echl.com/games/2027/02/10/cincinnati-cycl
- ones-vs-trois-rivieres-lions\nStreaming link not yet available
+ ones-vs-trois-rivieres-lions\nStreaming: https://www.flohockey.tv/events/1
+ 6022834-2027-trois-rivieres-lions-vs-cincinnati-cyclones
 LOCATION:Heritage Bank Center
 END:VEVENT
 BEGIN:VEVENT
@@ -435,7 +479,8 @@ DTSTART:20270213T010000
 DTEND:20270213T033000
 UID:echl26192
 DESCRIPTION:Game Center: https://echl.com/games/2027/02/12/bloomington-bis
- on-vs-trois-rivieres-lions\nStreaming link not yet available
+ on-vs-trois-rivieres-lions\nStreaming: https://www.flohockey.tv/events/160
+ 24807-2027-trois-rivieres-lions-vs-bloomington-bison
 LOCATION:Grossinger Motors Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -444,7 +489,8 @@ DTSTART:20270214T010000
 DTEND:20270214T033000
 UID:echl26202
 DESCRIPTION:Game Center: https://echl.com/games/2027/02/13/bloomington-bis
- on-vs-trois-rivieres-lions\nStreaming link not yet available
+ on-vs-trois-rivieres-lions\nStreaming: https://www.flohockey.tv/events/160
+ 23559-2027-trois-rivieres-lions-vs-bloomington-bison
 LOCATION:Grossinger Motors Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -453,7 +499,8 @@ DTSTART:20270220T000000
 DTEND:20270220T023000
 UID:echl26238
 DESCRIPTION:Game Center: https://echl.com/games/2027/02/19/trois-rivieres-
- lions-vs-maine-mariners\nTV: TVAS\nStreaming link not yet available
+ lions-vs-maine-mariners\nTV: TVAS\nStreaming: https://www.flohockey.tv/eve
+ nts/16024018-2027-maine-mariners-vs-trois-rivieres-lions
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -462,7 +509,8 @@ DTSTART:20270220T200000
 DTEND:20270220T223000
 UID:echl26254
 DESCRIPTION:Game Center: https://echl.com/games/2027/02/20/trois-rivieres-
- lions-vs-maine-mariners\nTV: TVAS\nStreaming link not yet available
+ lions-vs-maine-mariners\nTV: TVAS\nStreaming: https://www.flohockey.tv/eve
+ nts/16023919-2027-maine-mariners-vs-trois-rivieres-lions
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -471,7 +519,8 @@ DTSTART:20270221T200000
 DTEND:20270221T223000
 UID:echl26259
 DESCRIPTION:Game Center: https://echl.com/games/2027/02/21/maine-mariners-
- vs-trois-rivieres-lions\nStreaming link not yet available
+ vs-trois-rivieres-lions\nStreaming: https://www.flohockey.tv/events/160241
+ 10-2027-trois-rivieres-lions-vs-maine-mariners
 LOCATION:Cross Insurance Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -480,7 +529,8 @@ DTSTART:20270227T000000
 DTEND:20270227T023000
 UID:echl26281
 DESCRIPTION:Game Center: https://echl.com/games/2027/02/26/trois-rivieres-
- lions-vs-worcester-railers\nTV: TVAS\nStreaming link not yet available
+ lions-vs-worcester-railers\nTV: TVAS\nStreaming: https://www.flohockey.tv/
+ events/16048247-2027-worcester-railers-vs-trois-rivieres-lions
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -489,7 +539,8 @@ DTSTART:20270227T200000
 DTEND:20270227T223000
 UID:echl26296
 DESCRIPTION:Game Center: https://echl.com/games/2027/02/27/trois-rivieres-
- lions-vs-worcester-railers\nTV: TVAS\nStreaming link not yet available
+ lions-vs-worcester-railers\nTV: TVAS\nStreaming: https://www.flohockey.tv/
+ events/16023381-2027-worcester-railers-vs-trois-rivieres-lions
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -498,7 +549,8 @@ DTSTART:20270228T180000
 DTEND:20270228T203000
 UID:echl26305
 DESCRIPTION:Game Center: https://echl.com/games/2027/02/28/trois-rivieres-
- lions-vs-worcester-railers\nTV: TVAS\nStreaming link not yet available
+ lions-vs-worcester-railers\nTV: TVAS\nStreaming: https://www.flohockey.tv/
+ events/16024213-2027-worcester-railers-vs-trois-rivieres-lions
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -507,7 +559,8 @@ DTSTART:20270306T000000
 DTEND:20270306T023000
 UID:echl26325
 DESCRIPTION:Game Center: https://echl.com/games/2027/03/05/trois-rivieres-
- lions-vs-greensboro-gargoyles\nTV: TVAS\nStreaming link not yet available
+ lions-vs-greensboro-gargoyles\nTV: TVAS\nStreaming: https://www.flohockey.
+ tv/events/16024113-2027-greensboro-gargoyles-vs-trois-rivieres-lions
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -516,7 +569,8 @@ DTSTART:20270306T200000
 DTEND:20270306T223000
 UID:echl26340
 DESCRIPTION:Game Center: https://echl.com/games/2027/03/06/trois-rivieres-
- lions-vs-greensboro-gargoyles\nTV: TVAS\nStreaming link not yet available
+ lions-vs-greensboro-gargoyles\nTV: TVAS\nStreaming: https://www.flohockey.
+ tv/events/16024458-2027-greensboro-gargoyles-vs-trois-rivieres-lions
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -525,7 +579,8 @@ DTSTART:20270307T180000
 DTEND:20270307T203000
 UID:echl26346
 DESCRIPTION:Game Center: https://echl.com/games/2027/03/07/trois-rivieres-
- lions-vs-greensboro-gargoyles\nTV: TVAS\nStreaming link not yet available
+ lions-vs-greensboro-gargoyles\nTV: TVAS\nStreaming: https://www.flohockey.
+ tv/events/16023915-2027-greensboro-gargoyles-vs-trois-rivieres-lions
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -534,7 +589,8 @@ DTSTART:20270311T000000
 DTEND:20270311T023000
 UID:echl26351
 DESCRIPTION:Game Center: https://echl.com/games/2027/03/10/trois-rivieres-
- lions-vs-adirondack-thunder\nTV: TVAS\nStreaming link not yet available
+ lions-vs-adirondack-thunder\nTV: TVAS\nStreaming: https://www.flohockey.tv
+ /events/16024420-2027-adirondack-thunder-vs-trois-rivieres-lions
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -543,7 +599,8 @@ DTSTART:20270313T000000
 DTEND:20270313T023000
 UID:echl26353
 DESCRIPTION:Game Center: https://echl.com/games/2027/03/12/adirondack-thun
- der-vs-trois-rivieres-lions\nStreaming link not yet available
+ der-vs-trois-rivieres-lions\nStreaming: https://www.flohockey.tv/events/16
+ 024997-2027-trois-rivieres-lions-vs-adirondack-thunder
 LOCATION:Harding Mazzotti Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -552,7 +609,8 @@ DTSTART:20270314T000000
 DTEND:20270314T023000
 UID:echl26368
 DESCRIPTION:Game Center: https://echl.com/games/2027/03/13/adirondack-thun
- der-vs-trois-rivieres-lions\nStreaming link not yet available
+ der-vs-trois-rivieres-lions\nStreaming: https://www.flohockey.tv/events/16
+ 023098-2027-trois-rivieres-lions-vs-adirondack-thunder
 LOCATION:Harding Mazzotti Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -571,7 +629,8 @@ DTSTART:20270320T190000
 DTEND:20270320T213000
 UID:echl26429
 DESCRIPTION:Game Center: https://echl.com/games/2027/03/20/trois-rivieres-
- lions-vs-trenton-ironhawks\nTV: TVAS\nStreaming link not yet available
+ lions-vs-trenton-ironhawks\nTV: TVAS\nStreaming: https://www.flohockey.tv/
+ events/16023491-2027-trenton-ironhawks-vs-trois-rivieres-lions
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -580,7 +639,8 @@ DTSTART:20270321T170000
 DTEND:20270321T193000
 UID:echl26438
 DESCRIPTION:Game Center: https://echl.com/games/2027/03/21/trois-rivieres-
- lions-vs-trenton-ironhawks\nTV: TVAS\nStreaming link not yet available
+ lions-vs-trenton-ironhawks\nTV: TVAS\nStreaming: https://www.flohockey.tv/
+ events/16024244-2027-trenton-ironhawks-vs-trois-rivieres-lions
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -589,7 +649,8 @@ DTSTART:20270326T230000
 DTEND:20270327T013000
 UID:echl26448
 DESCRIPTION:Game Center: https://echl.com/games/2027/03/26/greensboro-garg
- oyles-vs-trois-rivieres-lions\nStreaming link not yet available
+ oyles-vs-trois-rivieres-lions\nStreaming: https://www.flohockey.tv/events/
+ 16024260-2027-trois-rivieres-lions-vs-greensboro-gargoyles
 LOCATION:First Horizon Coliseum
 END:VEVENT
 BEGIN:VEVENT
@@ -598,7 +659,8 @@ DTSTART:20270327T230000
 DTEND:20270328T013000
 UID:echl26462
 DESCRIPTION:Game Center: https://echl.com/games/2027/03/27/greensboro-garg
- oyles-vs-trois-rivieres-lions\nStreaming link not yet available
+ oyles-vs-trois-rivieres-lions\nStreaming: https://www.flohockey.tv/events/
+ 16024251-2027-trois-rivieres-lions-vs-greensboro-gargoyles
 LOCATION:First Horizon Coliseum
 END:VEVENT
 BEGIN:VEVENT
@@ -607,7 +669,8 @@ DTSTART:20270402T230000
 DTEND:20270403T013000
 UID:echl26493
 DESCRIPTION:Game Center: https://echl.com/games/2027/04/02/trois-rivieres-
- lions-vs-reading-royals\nTV: TVAS\nStreaming link not yet available
+ lions-vs-reading-royals\nTV: TVAS\nStreaming: https://www.flohockey.tv/eve
+ nts/16023451-2027-reading-royals-vs-trois-rivieres-lions
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -616,7 +679,8 @@ DTSTART:20270403T190000
 DTEND:20270403T213000
 UID:echl26511
 DESCRIPTION:Game Center: https://echl.com/games/2027/04/03/trois-rivieres-
- lions-vs-reading-royals\nTV: TVAS\nStreaming link not yet available
+ lions-vs-reading-royals\nTV: TVAS\nStreaming: https://www.flohockey.tv/eve
+ nts/16023416-2027-reading-royals-vs-trois-rivieres-lions
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -625,7 +689,8 @@ DTSTART:20270404T170000
 DTEND:20270404T193000
 UID:echl26520
 DESCRIPTION:Game Center: https://echl.com/games/2027/04/04/trois-rivieres-
- lions-vs-reading-royals\nTV: TVAS\nStreaming link not yet available
+ lions-vs-reading-royals\nTV: TVAS\nStreaming: https://www.flohockey.tv/eve
+ nts/16024820-2027-reading-royals-vs-trois-rivieres-lions
 LOCATION:Colisée Vidéotron
 END:VEVENT
 BEGIN:VEVENT
@@ -644,7 +709,8 @@ DTSTART:20270410T220500
 DTEND:20270411T003500
 UID:echl26555
 DESCRIPTION:Game Center: https://echl.com/games/2027/04/10/worcester-raile
- rs-vs-trois-rivieres-lions\nStreaming link not yet available
+ rs-vs-trois-rivieres-lions\nStreaming: https://www.flohockey.tv/events/160
+ 24771-2027-trois-rivieres-lions-vs-worcester-railers
 LOCATION:DCU Center
 END:VEVENT
 BEGIN:VEVENT
@@ -653,7 +719,8 @@ DTSTART:20270411T190500
 DTEND:20270411T213500
 UID:echl26566
 DESCRIPTION:Game Center: https://echl.com/games/2027/04/11/worcester-raile
- rs-vs-trois-rivieres-lions\nStreaming link not yet available
+ rs-vs-trois-rivieres-lions\nStreaming: https://www.flohockey.tv/events/160
+ 24367-2027-trois-rivieres-lions-vs-worcester-railers
 LOCATION:DCU Center
 END:VEVENT
 END:VCALENDAR

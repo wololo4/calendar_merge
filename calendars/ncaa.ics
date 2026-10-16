@@ -1414,7 +1414,8 @@ SUMMARY:🏒 | Boston University Terriers @ Vermont Catamounts
 DTSTART:20261016T230000
 DTEND:20261017T013000
 UID:ncaa33105
-DESCRIPTION:Streaming: ESPN+
+DESCRIPTION:Live Stats: https://uvmathletics.com/sidearmstats/mhockey/summ
+ ary\nStreaming: ESPN+
 LOCATION:Gutterson Fieldhouse
 END:VEVENT
 BEGIN:VEVENT
@@ -1422,7 +1423,8 @@ SUMMARY:🏒 | Boston University Terriers @ Vermont Catamounts
 DTSTART:20261017T230000
 DTEND:20261018T013000
 UID:ncaa33106
-DESCRIPTION:Streaming: ESPN+
+DESCRIPTION:Live Stats: https://uvmathletics.com/sidearmstats/mhockey/summ
+ ary\nStreaming: ESPN+
 LOCATION:Gutterson Fieldhouse
 END:VEVENT
 BEGIN:VEVENT
@@ -1465,6 +1467,8 @@ SUMMARY:🏒 | Boston University Terriers @ Michigan State Spartans
 DTSTART:20261107T000000
 DTEND:20261107T023000
 UID:ncaa33111
+DESCRIPTION:Live Stats: https://www.statbroadcast.com/events/statmonitr.ph
+ p?gid=msu
 LOCATION:Munn Ice Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1965,6 +1969,7 @@ SUMMARY:🏒 | Boston College Eagles @ Denver Pioneers
 DTSTART:20261024T010000
 DTEND:20261024T033000
 UID:ncaa20747
+DESCRIPTION:Streaming: Ryz Sports Network
 LOCATION:Magness Arena
 END:VEVENT
 BEGIN:VEVENT
