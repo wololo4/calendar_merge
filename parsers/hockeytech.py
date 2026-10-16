@@ -7,6 +7,7 @@ from utils.ics import ICSEventBuilder
 
 HCanada_Tournament = {
     "7": "World Junior Championship",
+    "8": "Sprengler Cup",
     "24": "Telus Cup",
     "26": "World U18 Championship",
     "27": "World Championship",
