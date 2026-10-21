@@ -4,14 +4,6 @@ PRODID:-//Hockey Calendar//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:🏒 | Omskie Krylya Omsk @ Izhstal Izhevsk
-DTSTART:20261020T143000Z
-DTEND:20261020T170000Z
-UID:vhl904216
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904216
-LOCATION:Sports Palace Izhstal
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Zauralye Kurgan @ Izhstal Izhevsk
 DTSTART:20261022T143000Z
 DTEND:20261022T170000Z
@@ -658,14 +650,6 @@ DTEND:20270315T183000Z
 UID:vhl904849
 DESCRIPTION:Game Center: https://online.vhlru.ru/online/904849
 LOCATION:Ice Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Akademia Mikhailov @ Khimik Voskresensk
-DTSTART:20261020T153000Z
-DTEND:20261020T180000Z
-UID:vhl904217
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904217
-LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | HC Kaluga @ Khimik Voskresensk

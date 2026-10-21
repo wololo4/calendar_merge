@@ -815,8 +815,8 @@ LOCATION:South Okanagan Events Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Penticton Vees @ Spokane Chiefs
-DTSTART:20261122T010500
-DTEND:20261122T033500
+DTSTART:20261122T020500
+DTEND:20261122T043500
 UID:whl1023330
 DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023330\nStreaming:
   https://m.youtube.com/@WHL/streams
@@ -833,8 +833,8 @@ LOCATION:Toyota Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Penticton Vees @ Wenatchee Wild
-DTSTART:20261129T010000
-DTEND:20261129T033000
+DTSTART:20261129T020000
+DTEND:20261129T043000
 UID:whl1023362
 DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023362\nStreaming:
   https://m.youtube.com/@WHL/streams
@@ -887,8 +887,8 @@ LOCATION:Langley Events Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Penticton Vees @ Everett Silvertips
-DTSTART:20261213T230500
-DTEND:20261214T013500
+DTSTART:20261214T000500
+DTEND:20261214T023500
 UID:whl1023423
 DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023423\nStreaming:
   https://m.youtube.com/@WHL/streams
@@ -1004,8 +1004,8 @@ LOCATION:Save-On-Foods Memorial Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Penticton Vees @ Spokane Chiefs
-DTSTART:20270130T020500
-DTEND:20270130T043500
+DTSTART:20270130T030500
+DTEND:20270130T053500
 UID:whl1023596
 DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023596\nStreaming:
   https://m.youtube.com/@WHL/streams
