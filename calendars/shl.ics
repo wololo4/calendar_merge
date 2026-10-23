@@ -90,7 +90,7 @@ DTSTART:20261022T170000
 DTEND:20261022T193000
 UID:shlxfqs8keoej
 DESCRIPTION:Game Center: https://www.shl.se/game-center/xfqs8keoej/qa98unl
- bd6/?state=pre-game
+ bd6/?state=post-game
 LOCATION:Vida Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -531,7 +531,7 @@ DTSTART:20261022T170000
 DTEND:20261022T193000
 UID:shlnuf5t434fs
 DESCRIPTION:Game Center: https://www.shl.se/game-center/nuf5t434fs/qa98unl
- bd6/?state=pre-game
+ bd6/?state=post-game
 LOCATION:Skellefteå Kraft Arena
 END:VEVENT
 BEGIN:VEVENT
