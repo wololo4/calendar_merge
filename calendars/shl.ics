@@ -99,7 +99,7 @@ DTSTART:20261024T160000
 DTEND:20261024T183000
 UID:shlff03esqk6r
 DESCRIPTION:Game Center: https://www.shl.se/game-center/ff03esqk6r/qa98unl
- bd6/?state=pre-game
+ bd6/?state=post-game
 LOCATION:Coop Norrbotten Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -540,7 +540,7 @@ DTSTART:20261024T131500
 DTEND:20261024T154500
 UID:shlee8nz8n7s1
 DESCRIPTION:Game Center: https://www.shl.se/game-center/ee8nz8n7s1/qa98unl
- bd6/?state=pre-game
+ bd6/?state=post-game
 LOCATION:Visionite Arena
 END:VEVENT
 BEGIN:VEVENT

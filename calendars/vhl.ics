@@ -4,14 +4,6 @@ PRODID:-//Hockey Calendar//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:🏒 | Rubin Tyumen @ Izhstal Izhevsk
-DTSTART:20261024T130000Z
-DTEND:20261024T153000Z
-UID:vhl904239
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904239
-LOCATION:Sports Palace Izhstal
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Ugra Khanty-Mansiysk @ Izhstal Izhevsk
 DTSTART:20261026T143000Z
 DTEND:20261026T170000Z
@@ -322,14 +314,6 @@ DTEND:20270318T170000Z
 UID:vhl904861
 DESCRIPTION:Game Center: https://online.vhlru.ru/online/904861
 LOCATION:Sports Palace Izhstal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Akademia Mikhailov @ Dynamo Saint-Petersburg
-DTSTART:20261024T100000Z
-DTEND:20261024T123000Z
-UID:vhl904240
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904240
-LOCATION:Yubileyny Sports Palace
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Akademia Mikhailov @ SKA-VMF Saint Petersburg
