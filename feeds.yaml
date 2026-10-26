@@ -110,9 +110,9 @@ NCAA_BIG10:
     base_url: 
         https://bigten.org/services/responsive-calendar.ashx?sport_id=9&school_id=0
     teams:
+      - name: Michigan Wolverines
       - name: Minnesota Golden Gophers
       - name: Wisconsin Badgers
-      - name: Michigan Wolverines
 NCAA_CCHA:
     parser: ncaa_conf
     base_url: 
@@ -140,8 +140,8 @@ NCAA_NCHC:
         https://nchchockey.com/services/responsive-calendar.ashx?sport_id=0&school_id=0
     teams:
       - name: Denver Pioneers
-      - name: St. Cloud State Huskies
       - name: Miami RedHawks
+      - name: St. Cloud State Huskies
       - name: Western Michigan Broncos
 NHL:
     parser: nhl
