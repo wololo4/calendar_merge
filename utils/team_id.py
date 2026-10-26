@@ -192,6 +192,7 @@ def update_team_ids(habs_teams):
                     print(f"WARNING: CHL -> Team not found in API: {name}")
                     continue
                 fresh.append({"name": name, "code": match})
+            fresh.sort(key=lambda team: team["name"].casefold())
             data["teams"].clear()
             data["teams"].extend(fresh)
             continue
@@ -206,6 +207,7 @@ def update_team_ids(habs_teams):
                     print(f"WARNING: DEL -> Team not found in API: {name}")
                     continue
                 fresh.append({"name": name, "team_id": int(tid)})
+            fresh.sort(key=lambda team: team["name"].casefold())
             data["teams"].clear()
             data["teams"].extend(fresh)
             continue
@@ -220,6 +222,7 @@ def update_team_ids(habs_teams):
                     print(f"WARNING: KHL -> Team not found in API: {name}")
                     continue
                 fresh.append({"name": name, "team_id": tid})
+            fresh.sort(key=lambda team: team["name"].casefold())
             data["teams"].clear()
             data["teams"].extend(fresh)
             continue
@@ -234,6 +237,7 @@ def update_team_ids(habs_teams):
                     print(f"WARNING: LIIGA -> Team not found in API: {name}")
                     continue
                 fresh.append({"name": name, "team_id": str(tid)})
+            fresh.sort(key=lambda team: team["name"].casefold())
             data["teams"].clear()
             data["teams"].extend(fresh)
             continue
@@ -248,6 +252,7 @@ def update_team_ids(habs_teams):
                     print(f"WARNING: MHL -> Team not found in API: {name}")
                     continue
                 fresh.append({"name": name, "team_id": tid})
+            fresh.sort(key=lambda team: team["name"].casefold())
             data["teams"].clear()
             data["teams"].extend(fresh)
             continue
@@ -276,6 +281,7 @@ def update_team_ids(habs_teams):
                     "base_url": entry["base_url"],
                     "sport_id": sport_id,
                 })
+            fresh.sort(key=lambda team: team["name"].casefold())
             data["teams"].clear()
             data["teams"].extend(fresh)
             continue
@@ -290,6 +296,7 @@ def update_team_ids(habs_teams):
                     print(f"WARNING: NL -> Team not found in API: {name}")
                     continue
                 fresh.append({"name": name, "team_id": int(tid)})
+            fresh.sort(key=lambda team: team["name"].casefold())
             data["teams"].clear()
             data["teams"].extend(fresh)
             continue
@@ -304,6 +311,7 @@ def update_team_ids(habs_teams):
                     print(f"WARNING: SHL -> Team not found in API: {name}")
                     continue
                 fresh.append({"name": name, "uuid": uuid})
+            fresh.sort(key=lambda team: team["name"].casefold())
             data["teams"].clear()
             data["teams"].extend(fresh)
             continue
@@ -356,6 +364,7 @@ def update_team_ids(habs_teams):
                 print(f"Warning: {league} -> Team not found in API: {name}")
                 continue
             fresh.append({"name": name, "team_id": match})
+        fresh.sort(key=lambda team: team["name"].casefold())
         data["teams"].clear()
         data["teams"].extend(fresh)
 
