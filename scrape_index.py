@@ -119,7 +119,7 @@ def scrape_russia(filename):
     russia = {"KHL": [], "VHL": [], "MHL": []}
 
     for td in soup.find_all(["td", "span"], class_="Style2"):
-        # CHANGE 3: skip injured players
+        # skip injured players
         if is_injured(td.get_text(" ", strip=True)):
             continue
 
@@ -137,7 +137,7 @@ def scrape_russia(filename):
         if "MHL" in league_tag:
             russia["MHL"].append(team_name)
 
-    return russia
+    return {league: sorted(teams) for league, teams in russia.items()}
 
 def scrape_chl_page(filename):
     soup = fetch_soup(BASE_URL + filename)
