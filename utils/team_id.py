@@ -263,7 +263,9 @@ def update_team_ids(habs_teams):
                 for n in habs_teams.get(league, [])
                 if n.strip()
             }
-            data["teams"] = [{"name": n} for n in name]
+            data["teams"] = [
+                {"name": n} for n in sorted(names, key=str.casefold)
+            ]
             continue
 
         if league == "NCAA_EAST":
