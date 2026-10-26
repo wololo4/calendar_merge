@@ -211,15 +211,6 @@ DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023193\nStreaming:
 LOCATION:Scotiabank Saddledome
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Edmonton Oil Kings
-DTSTART:20261024T010000
-DTEND:20261024T033000
-UID:whl1023201
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023201\nStreaming:
-  https://m.youtube.com/@WHL/streams
-LOCATION:Rogers Place
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Penticton Vees @ Red Deer Rebels
 DTSTART:20261024T010000
 DTEND:20261024T033000
@@ -229,13 +220,13 @@ DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023206\nStreaming:
 LOCATION:Marchant Crane Centrium
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Calgary Hitmen
-DTSTART:20261025T220000
-DTEND:20261026T003000
-UID:whl1023218
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023218\nStreaming:
+SUMMARY:🏒 | Saskatoon Blades @ Edmonton Oil Kings
+DTSTART:20261024T010000
+DTEND:20261024T033000
+UID:whl1023201
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023201\nStreaming:
   https://m.youtube.com/@WHL/streams
-LOCATION:Scotiabank Saddledome
+LOCATION:Rogers Place
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Penticton Vees @ Edmonton Oil Kings
@@ -245,6 +236,15 @@ UID:whl1023219
 DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023219\nStreaming:
   https://m.youtube.com/@WHL/streams
 LOCATION:Rogers Place
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Calgary Hitmen
+DTSTART:20261025T220000
+DTEND:20261026T003000
+UID:whl1023218
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023218\nStreaming:
+  https://m.youtube.com/@WHL/streams
+LOCATION:Scotiabank Saddledome
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Saskatoon Blades @ Red Deer Rebels
@@ -913,15 +913,6 @@ DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023652\nStreaming:
 LOCATION:South Okanagan Events Centre
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Medicine Hat Tigers
-DTSTART:20270214T010000
-DTEND:20270214T033000
-UID:whl1023663
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023663\nStreaming:
-  https://m.youtube.com/@WHL/streams
-LOCATION:Co-op Place
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Penticton Vees @ Kamloops Blazers
 DTSTART:20270214T010000
 DTEND:20270214T033000
@@ -929,6 +920,15 @@ UID:whl1023662
 DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023662\nStreaming:
   https://m.youtube.com/@WHL/streams
 LOCATION:Sandman Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Medicine Hat Tigers
+DTSTART:20270214T010000
+DTEND:20270214T033000
+UID:whl1023663
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023663\nStreaming:
+  https://m.youtube.com/@WHL/streams
+LOCATION:Co-op Place
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Prince George Cougars @ Penticton Vees
@@ -949,15 +949,6 @@ DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023678\nStreaming:
 LOCATION:InnovationPlex
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Calgary Hitmen @ Saskatoon Blades
-DTSTART:20270220T010000
-DTEND:20270220T033000
-UID:whl1023687
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023687\nStreaming:
-  https://m.youtube.com/@WHL/streams
-LOCATION:SaskTel Centre
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Penticton Vees @ Lethbridge Hurricanes
 DTSTART:20270220T010000
 DTEND:20270220T033000
@@ -965,6 +956,15 @@ UID:whl1023682
 DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023682\nStreaming:
   https://m.youtube.com/@WHL/streams
 LOCATION:VisitLethbridge.com Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Calgary Hitmen @ Saskatoon Blades
+DTSTART:20270220T010000
+DTEND:20270220T033000
+UID:whl1023687
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023687\nStreaming:
+  https://m.youtube.com/@WHL/streams
+LOCATION:SaskTel Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Penticton Vees @ Medicine Hat Tigers
@@ -985,15 +985,6 @@ DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023713\nStreaming:
 LOCATION:Langley Events Centre
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Saskatoon Blades @ Victoria Royals
-DTSTART:20270227T020500
-DTEND:20270227T043500
-UID:whl1023723
-DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023723\nStreaming:
-  https://m.youtube.com/@WHL/streams
-LOCATION:Save-On-Foods Memorial Centre
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Penticton Vees @ Kelowna Rockets
 DTSTART:20270227T020500
 DTEND:20270227T043500
@@ -1001,6 +992,15 @@ UID:whl1023719
 DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023719\nStreaming:
   https://m.youtube.com/@WHL/streams
 LOCATION:Prospera Place
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Saskatoon Blades @ Victoria Royals
+DTSTART:20270227T020500
+DTEND:20270227T043500
+UID:whl1023723
+DESCRIPTION:Game Center: https://chl.ca/whl/gamecentre/1023723\nStreaming:
+  https://m.youtube.com/@WHL/streams
+LOCATION:Save-On-Foods Memorial Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Kelowna Rockets @ Penticton Vees
