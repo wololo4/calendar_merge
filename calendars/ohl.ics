@@ -4,6 +4,15 @@ PRODID:-//Hockey Calendar//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+SUMMARY:🏒 | Barrie Colts @ North Bay Battalion
+DTSTART:20260918T230000
+DTEND:20260919T013000
+UID:ohl28998
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/28998\nStreaming li
+ nk not yet available
+LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Owen Sound Attack @ Kitchener Rangers
 DTSTART:20260918T230000
 DTEND:20260919T013000
@@ -12,15 +21,6 @@ DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/28996\nStreaming: h
  ttps://www.flohockey.tv/events/16027530-2026-owen-sound-attack-vs-kitchene
  r-rangers
 LOCATION:Kitchener Memorial Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Barrie Colts @ North Bay Battalion
-DTSTART:20260918T230000
-DTEND:20260919T013000
-UID:ohl28998
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/28998\nStreaming li
- nk not yet available
-LOCATION:Boart Longyear Memorial Gardens
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Kitchener Rangers @ Owen Sound Attack
@@ -221,16 +221,6 @@ DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29101\nStreaming: h
 LOCATION:Dow Event Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ Barrie Colts
-DTSTART:20261022T230000
-DTEND:20261023T013000
-UID:ohl29103
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29103\nStreaming: h
- ttps://www.flohockey.tv/events/16027921-2026-owen-sound-attack-vs-barrie-c
- olts
-LOCATION:Sadlon Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Sudbury Wolves @ North Bay Battalion
 DTSTART:20261022T230000
 DTEND:20261023T013000
@@ -239,6 +229,16 @@ DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29104\nStreaming: h
  ttps://www.flohockey.tv/events/16028325-2026-sudbury-wolves-vs-north-bay-b
  attalion
 LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ Barrie Colts
+DTSTART:20261022T230000
+DTEND:20261023T013000
+UID:ohl29103
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29103\nStreaming: h
+ ttps://www.flohockey.tv/events/16027921-2026-owen-sound-attack-vs-barrie-c
+ olts
+LOCATION:Sadlon Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | North Bay Battalion @ Sudbury Wolves
@@ -431,16 +431,6 @@ DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29208\nStreaming: h
 LOCATION:Harry Lumley Bayshore Community Centre
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ Niagara IceDogs
-DTSTART:20261121T000000
-DTEND:20261121T023000
-UID:ohl29220
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29220\nStreaming: h
- ttps://www.flohockey.tv/events/16028298-2026-owen-sound-attack-vs-niagara-
- icedogs
-LOCATION:Meridian Centre
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Kitchener Rangers @ North Bay Battalion
 DTSTART:20261121T000000
 DTEND:20261121T023000
@@ -449,6 +439,16 @@ DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29221\nStreaming: h
  ttps://www.flohockey.tv/events/16028042-2026-kitchener-rangers-vs-north-ba
  y-battalion
 LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ Niagara IceDogs
+DTSTART:20261121T000000
+DTEND:20261121T023000
+UID:ohl29220
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29220\nStreaming: h
+ ttps://www.flohockey.tv/events/16028298-2026-owen-sound-attack-vs-niagara-
+ icedogs
+LOCATION:Meridian Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Owen Sound Attack @ Erie Otters
@@ -471,16 +471,6 @@ DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29231\nStreaming: h
 LOCATION:Boart Longyear Memorial Gardens
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ Brantford Bulldogs
-DTSTART:20261128T000000
-DTEND:20261128T023000
-UID:ohl29242
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29242\nStreaming: h
- ttps://www.flohockey.tv/events/16028303-2026-owen-sound-attack-vs-brantfor
- d-bulldogs
-LOCATION:TD Civic Centre
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | North Bay Battalion @ Brampton Steelheads
 DTSTART:20261128T000000
 DTEND:20261128T023000
@@ -489,6 +479,16 @@ DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29241\nStreaming: h
  ttps://www.flohockey.tv/events/16027623-2026-north-bay-battalion-vs-brampt
  on-steelheads
 LOCATION:CAA Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ Brantford Bulldogs
+DTSTART:20261128T000000
+DTEND:20261128T023000
+UID:ohl29242
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29242\nStreaming: h
+ ttps://www.flohockey.tv/events/16028303-2026-owen-sound-attack-vs-brantfor
+ d-bulldogs
+LOCATION:TD Civic Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Ottawa 67's @ Owen Sound Attack
@@ -561,16 +561,6 @@ DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29281\nStreaming: h
 LOCATION:Boart Longyear Memorial Gardens
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ Barrie Colts
-DTSTART:20261211T000000
-DTEND:20261211T023000
-UID:ohl29290
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29290\nStreaming: h
- ttps://www.flohockey.tv/events/16027175-2026-owen-sound-attack-vs-barrie-c
- olts
-LOCATION:Sadlon Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Kingston Frontenacs @ North Bay Battalion
 DTSTART:20261211T000000
 DTEND:20261211T023000
@@ -579,6 +569,16 @@ DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29292\nStreaming: h
  ttps://www.flohockey.tv/events/16028220-2026-kingston-frontenacs-vs-north-
  bay-battalion
 LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ Barrie Colts
+DTSTART:20261211T000000
+DTEND:20261211T023000
+UID:ohl29290
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29290\nStreaming: h
+ ttps://www.flohockey.tv/events/16027175-2026-owen-sound-attack-vs-barrie-c
+ olts
+LOCATION:Sadlon Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Owen Sound Attack @ Sudbury Wolves
@@ -711,16 +711,6 @@ DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29362\nStreaming: h
 LOCATION:Harry Lumley Bayshore Community Centre
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Erie Otters @ Owen Sound Attack
-DTSTART:20270103T190000
-DTEND:20270103T213000
-UID:ohl29371
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29371\nStreaming: h
- ttps://www.flohockey.tv/events/16025411-2027-erie-otters-vs-owen-sound-att
- ack
-LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Peterborough Petes @ North Bay Battalion
 DTSTART:20270103T190000
 DTEND:20270103T213000
@@ -729,6 +719,16 @@ DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29368\nStreaming: h
  ttps://www.flohockey.tv/events/16028533-2027-peterborough-petes-vs-north-b
  ay-battalion
 LOCATION:Boart Longyear Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Erie Otters @ Owen Sound Attack
+DTSTART:20270103T190000
+DTEND:20270103T213000
+UID:ohl29371
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29371\nStreaming: h
+ ttps://www.flohockey.tv/events/16025411-2027-erie-otters-vs-owen-sound-att
+ ack
+LOCATION:Harry Lumley Bayshore Community Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Windsor Spitfires @ North Bay Battalion
@@ -741,16 +741,6 @@ DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29376\nStreaming: h
 LOCATION:Boart Longyear Memorial Gardens
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Owen Sound Attack @ Guelph Storm
-DTSTART:20270109T000700
-DTEND:20270109T023700
-UID:ohl29381
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29381\nStreaming: h
- ttps://www.flohockey.tv/events/16028008-2027-owen-sound-attack-vs-guelph-s
- torm
-LOCATION:Sleeman Centre
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | North Bay Battalion @ Soo Greyhounds
 DTSTART:20270109T000700
 DTEND:20270109T023700
@@ -759,6 +749,16 @@ DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29385\nStreaming: h
  ttps://www.flohockey.tv/events/16028190-2027-north-bay-battalion-vs-soo-gr
  eyhounds
 LOCATION:GFL Memorial Gardens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Owen Sound Attack @ Guelph Storm
+DTSTART:20270109T000700
+DTEND:20270109T023700
+UID:ohl29381
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29381\nStreaming: h
+ ttps://www.flohockey.tv/events/16028008-2027-owen-sound-attack-vs-guelph-s
+ torm
+LOCATION:Sleeman Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Guelph Storm @ Owen Sound Attack
@@ -1291,16 +1291,6 @@ DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29641\nStreaming: h
 LOCATION:CAA Centre
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | London Knights @ Owen Sound Attack
-DTSTART:20270317T230000
-DTEND:20270318T013000
-UID:ohl29653
-DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29653\nStreaming: h
- ttps://www.flohockey.tv/events/16027356-2027-london-knights-vs-owen-sound-
- attack
-LOCATION:Harry Lumley Bayshore Community Centre
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | North Bay Battalion @ Barrie Colts
 DTSTART:20270317T230000
 DTEND:20270318T013000
@@ -1309,6 +1299,16 @@ DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29647\nStreaming: h
  ttps://www.flohockey.tv/events/16029041-2027-north-bay-battalion-vs-barrie
  -colts
 LOCATION:Sadlon Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | London Knights @ Owen Sound Attack
+DTSTART:20270317T230000
+DTEND:20270318T013000
+UID:ohl29653
+DESCRIPTION:Game Center: https://chl.ca/ohl/gamecentre/29653\nStreaming: h
+ ttps://www.flohockey.tv/events/16027356-2027-london-knights-vs-owen-sound-
+ attack
+LOCATION:Harry Lumley Bayshore Community Centre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Owen Sound Attack @ Guelph Storm
