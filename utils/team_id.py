@@ -214,7 +214,7 @@ def update_team_ids(habs_teams):
             hp_list = habs_teams.get("KHL", [])
             khl_map = khl_fetch(data["base_url"])
             fresh = []
-            for name in hp_list:
+            for name in dict.fromkeys(hp_list):
                 tid = khl_map.get(name)
                 if not tid:
                     print(f"WARNING: KHL -> Team not found in API: {name}")
@@ -242,7 +242,7 @@ def update_team_ids(habs_teams):
             hp_list = habs_teams.get("MHL", [])
             khl_map = khl_fetch(data["base_url"])
             fresh = []
-            for name in hp_list:
+            for name in dict.fromkeys(hp_list):
                 tid = khl_map.get(name)
                 if not tid:
                     print(f"WARNING: MHL -> Team not found in API: {name}")
