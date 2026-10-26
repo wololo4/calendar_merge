@@ -4,14 +4,15 @@ PRODID:-//Hockey Calendar//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:🥏 | Montreal Royal @ Toronto Rush
-DTSTART:20260509T200000
-DTEND:20260509T223000
-UID:ufa2026-05-09-MTL-TOR
-DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-05-09-M
- TL-TOR\nWatch Live: https://watchufa.tv/videos/montreal-at-toronto-5-9-202
- 6-05-09-2026-22-46-42
-LOCATION:Varsity Stadium
+SUMMARY:🥏 | Montreal Royal @ Boston Glory
+DTSTART:20260502T180000
+DTEND:20260502T203000
+UID:ufa2026-05-02-MTL-BOS
+DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-05-02-M
+ TL-BOS\nWatch Live: https://watchufa.tv/videos/montreal-at-boston-5-2-2026
+ -05-02-2026-20-22-04\nTickets: https://shop.bostonglory.com/collections/ti
+ ckets
+LOCATION:Hormel Stadium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🥏 | Montreal Royal @ DC Breeze
@@ -24,86 +25,14 @@ DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-05-03-M
 LOCATION:Carlini Field\, Catholic U
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🥏 | Toronto Rush @ Montreal Royal
-DTSTART:20260705T170000
-DTEND:20260705T193000
-UID:ufa2026-07-05-TOR-MTL
-DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-07-05-T
- OR-MTL\nWatch Live: https://watchufa.tv/videos/toronto-at-montreal-7-4-202
- 6-07-05-2026-19-16-40\nTickets: https://boutique.royalultimate.com/
-LOCATION:Complexe sportif Claude-Robillard
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🥏 | New York Empire @ Montreal Royal
-DTSTART:20260606T230000
-DTEND:20260607T013000
-UID:ufa2026-06-06-NY-MTL
-DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-06-06-N
- Y-MTL\nWatch Live: https://watchufa.tv/videos/new-york-at-montreal-6-6-202
- 6-06-07-2026-01-00-05\nTickets: https://boutique.royalultimate.com/
-LOCATION:Complexe sportif Claude-Robillard
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🥏 | Boston Glory @ Montreal Royal
-DTSTART:20260516T220000
-DTEND:20260517T003000
-UID:ufa2026-05-16-BOS-MTL
-DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-05-16-B
- OS-MTL\nWatch Live: https://watchufa.tv/videos/boston-at-montreal-5-16-202
- 6-05-17-2026-00-31-47\nTickets: https://www.zeffy.com/fr-CA/ticketing/bill
- ets-ou-partie-1-sam-16-mai-18hrs-boson-ou-saison--2026
-LOCATION:Complexe sportif Claude-Robillard
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🥏 | DC Breeze @ Montreal Royal
-DTSTART:20260530T220000
-DTEND:20260531T003000
-UID:ufa2026-05-30-DC-MTL
-DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-05-30-D
- C-MTL\nWatch Live: https://watchufa.tv/videos/dc-at-montreal-5-30-2026-05-
- 31-2026-00-09-18\nTickets: https://boutique.royalultimate.com/
-LOCATION:Complexe sportif Claude-Robillard
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🥏 | Philadelphia Phoenix @ Montreal Royal
-DTSTART:20260619T230000
-DTEND:20260620T013000
-UID:ufa2026-06-19-PHI-MTL
-DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-06-19-P
- HI-MTL\nWatch Live: https://watchufa.tv/videos/philadelphia-at-montreal-6-
- 19-2026-06-20-2026-01-16-44\nTickets: https://boutique.royalultimate.com/
-LOCATION:Complexe sportif Claude-Robillard
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🥏 | Toronto Rush @ Montreal Royal
-DTSTART:20260523T170000
-DTEND:20260523T193000
-UID:ufa2026-05-23-TOR-MTL
-DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-05-23-T
- OR-MTL\nWatch Live: https://watchufa.tv/videos/toronto-at-montreal-5-23-20
- 26-05-23-2026-19-07-22\nTickets: https://boutique.royalultimate.com/
-LOCATION:Complexe sportif Claude-Robillard
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🥏 | Montreal Royal @ Boston Glory
-DTSTART:20260718T230000
-DTEND:20260719T013000
-UID:ufa2026-07-18-MTL-BOS
-DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-07-18-M
- TL-BOS\nWatch Live: https://watchufa.tv/events/montreal-at-boston-7-18-202
- 6\nTickets: https://shop.bostonglory.com/collections/tickets
-LOCATION:Hormel Stadium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🥏 | Montreal Royal @ Boston Glory
-DTSTART:20260502T180000
-DTEND:20260502T203000
-UID:ufa2026-05-02-MTL-BOS
-DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-05-02-M
- TL-BOS\nWatch Live: https://watchufa.tv/videos/montreal-at-boston-5-2-2026
- -05-02-2026-20-22-04\nTickets: https://shop.bostonglory.com/collections/ti
- ckets
-LOCATION:Hormel Stadium
+SUMMARY:🥏 | Montreal Royal @ Toronto Rush
+DTSTART:20260509T200000
+DTEND:20260509T223000
+UID:ufa2026-05-09-MTL-TOR
+DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-05-09-M
+ TL-TOR\nWatch Live: https://watchufa.tv/videos/montreal-at-toronto-5-9-202
+ 6-05-09-2026-22-46-42
+LOCATION:Varsity Stadium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🥏 | Montreal Royal @ Pittsburgh Thunderbirds
@@ -117,6 +46,47 @@ DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-05-10-M
 LOCATION:F.N.B. Stadium
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🥏 | Boston Glory @ Montreal Royal
+DTSTART:20260516T220000
+DTEND:20260517T003000
+UID:ufa2026-05-16-BOS-MTL
+DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-05-16-B
+ OS-MTL\nWatch Live: https://watchufa.tv/videos/boston-at-montreal-5-16-202
+ 6-05-17-2026-00-31-47\nTickets: https://www.zeffy.com/fr-CA/ticketing/bill
+ ets-ou-partie-1-sam-16-mai-18hrs-boson-ou-saison--2026
+LOCATION:Complexe sportif Claude-Robillard
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥏 | Toronto Rush @ Montreal Royal
+DTSTART:20260523T170000
+DTEND:20260523T193000
+UID:ufa2026-05-23-TOR-MTL
+DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-05-23-T
+ OR-MTL\nWatch Live: https://watchufa.tv/videos/toronto-at-montreal-5-23-20
+ 26-05-23-2026-19-07-22\nTickets: https://boutique.royalultimate.com/
+LOCATION:Complexe sportif Claude-Robillard
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥏 | DC Breeze @ Montreal Royal
+DTSTART:20260530T220000
+DTEND:20260531T003000
+UID:ufa2026-05-30-DC-MTL
+DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-05-30-D
+ C-MTL\nWatch Live: https://watchufa.tv/videos/dc-at-montreal-5-30-2026-05-
+ 31-2026-00-09-18\nTickets: https://boutique.royalultimate.com/
+LOCATION:Complexe sportif Claude-Robillard
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥏 | New York Empire @ Montreal Royal
+DTSTART:20260606T230000
+DTEND:20260607T013000
+UID:ufa2026-06-06-NY-MTL
+DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-06-06-N
+ Y-MTL\nWatch Live: https://watchufa.tv/videos/new-york-at-montreal-6-6-202
+ 6-06-07-2026-01-00-05\nTickets: https://boutique.royalultimate.com/
+LOCATION:Complexe sportif Claude-Robillard
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🥏 | Montreal Royal @ Philadelphia Phoenix
 DTSTART:20260613T220000
 DTEND:20260614T003000
@@ -126,5 +96,35 @@ DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-06-13-M
  13-2026\nTickets: https://www.phoenixulti.com/?srsltid=AfmBOooQMfbHExyS-6k
  5qH47poLLpuDKEw_9O3DhulD7HcAJ-dFlXB5l
 LOCATION:Neumann University turf field
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥏 | Philadelphia Phoenix @ Montreal Royal
+DTSTART:20260619T230000
+DTEND:20260620T013000
+UID:ufa2026-06-19-PHI-MTL
+DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-06-19-P
+ HI-MTL\nWatch Live: https://watchufa.tv/videos/philadelphia-at-montreal-6-
+ 19-2026-06-20-2026-01-16-44\nTickets: https://boutique.royalultimate.com/
+LOCATION:Complexe sportif Claude-Robillard
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥏 | Toronto Rush @ Montreal Royal
+DTSTART:20260705T170000
+DTEND:20260705T193000
+UID:ufa2026-07-05-TOR-MTL
+DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-07-05-T
+ OR-MTL\nWatch Live: https://watchufa.tv/videos/toronto-at-montreal-7-4-202
+ 6-07-05-2026-19-16-40\nTickets: https://boutique.royalultimate.com/
+LOCATION:Complexe sportif Claude-Robillard
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥏 | Montreal Royal @ Boston Glory
+DTSTART:20260718T230000
+DTEND:20260719T013000
+UID:ufa2026-07-18-MTL-BOS
+DESCRIPTION:Game Center: https://www.watchufa.com/league/game/2026-07-18-M
+ TL-BOS\nWatch Live: https://watchufa.tv/events/montreal-at-boston-7-18-202
+ 6\nTickets: https://shop.bostonglory.com/collections/tickets
+LOCATION:Hormel Stadium
 END:VEVENT
 END:VCALENDAR

@@ -4,12 +4,12 @@ PRODID:-//Hockey Calendar//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:🏒 | Ugra Khanty-Mansiysk @ Izhstal Izhevsk
-DTSTART:20261026T143000Z
-DTEND:20261026T170000Z
-UID:vhl904251
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904251
-LOCATION:Sports Palace Izhstal
+SUMMARY:🏒 | Khimik Voskresensk @ HC Norilsk
+DTSTART:20261030T120000Z
+DTEND:20261030T143000Z
+UID:vhl904263
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904263
+LOCATION:Artika Sport Palace
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Izhstal Izhevsk @ Buran Voronezh
@@ -20,308 +20,12 @@ DESCRIPTION:Game Center: https://online.vhlru.ru/online/904271
 LOCATION:LDS Jubileiny
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Izhstal Izhevsk @ HC Tambov
-DTSTART:20261103T153000Z
-DTEND:20261103T180000Z
-UID:vhl904279
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904279
-LOCATION:Crystall Ice Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Izhstal Izhevsk @ Dizel Penza
-DTSTART:20261105T160000Z
-DTEND:20261105T183000Z
-UID:vhl904290
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904290
-LOCATION:Dizel Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Izhstal Izhevsk @ Kristall Saratov
-DTSTART:20261107T130000Z
-DTEND:20261107T153000Z
-UID:vhl904301
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904301
-LOCATION:Sports Palace Kristall
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Izhstal Izhevsk @ Toros Neftekamsk
-DTSTART:20261116T140000Z
-DTEND:20261116T163000Z
-UID:vhl904343
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904343
-LOCATION:Ice Palace Neftekamsk
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Izhstal Izhevsk @ Molot Perm
-DTSTART:20261118T140000Z
-DTEND:20261118T163000Z
-UID:vhl904355
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904355
-LOCATION:Universal Sports Palace Molot
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Izhstal Izhevsk @ Olympiya Kirovo-Chepetsk
-DTSTART:20261120T153000Z
-DTEND:20261120T180000Z
-UID:vhl904364
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904364
-LOCATION:Olimp-Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Yuzhny Ural Orsk @ Izhstal Izhevsk
-DTSTART:20261127T143000Z
-DTEND:20261127T170000Z
-UID:vhl904393
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904393
-LOCATION:Sports Palace Izhstal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Magnitka Magnitogorsk @ Izhstal Izhevsk
-DTSTART:20261129T130000Z
-DTEND:20261129T153000Z
-UID:vhl904406
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904406
-LOCATION:Sports Palace Izhstal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Chelmet Chelyabinsk @ Izhstal Izhevsk
-DTSTART:20261201T143000Z
-DTEND:20261201T170000Z
-UID:vhl904416
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904416
-LOCATION:Sports Palace Izhstal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Gornyak-UGMK Verkhnyaya Pyshma @ Izhstal Izhevsk
-DTSTART:20261203T143000Z
-DTEND:20261203T170000Z
-UID:vhl904423
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904423
-LOCATION:Sports Palace Izhstal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Izhstal Izhevsk @ Zvezda Moscow
-DTSTART:20261211T153000Z
-DTEND:20261211T180000Z
-UID:vhl904456
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904456
-LOCATION:CSKA Ice Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Izhstal Izhevsk @ Dynamo Saint-Petersburg
-DTSTART:20261213T100000Z
-DTEND:20261213T123000Z
-UID:vhl904465
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904465
-LOCATION:Yubileyny Sports Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Izhstal Izhevsk @ SKA-VMF Saint Petersburg
-DTSTART:20261215T160000Z
-DTEND:20261215T183000Z
-UID:vhl904476
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904476
-LOCATION:Hockey City Sport Complex
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | CSK VVS Samara @ Izhstal Izhevsk
-DTSTART:20261222T143000Z
-DTEND:20261222T170000Z
-UID:vhl904502
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904502
-LOCATION:Sports Palace Izhstal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Neftyanik Almetyevsk @ Izhstal Izhevsk
-DTSTART:20261224T143000Z
-DTEND:20261224T170000Z
-UID:vhl904514
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904514
-LOCATION:Sports Palace Izhstal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Bars Kazan @ Izhstal Izhevsk
-DTSTART:20261226T130000Z
-DTEND:20261226T153000Z
-UID:vhl904525
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904525
-LOCATION:Sports Palace Izhstal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Izhstal Izhevsk @ HC Kaluga
-DTSTART:20270112T160000Z
-DTEND:20270112T183000Z
-UID:vhl904554
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904554
-LOCATION:Central Sports Palace Ice Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Izhstal Izhevsk @ Ryazan-VDV
-DTSTART:20270116T140000Z
-DTEND:20270116T163000Z
-UID:vhl904581
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904581
-LOCATION:Ryazan Olympic Sports Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Dynamo Altai Barnaul @ Izhstal Izhevsk
-DTSTART:20270122T143000Z
-DTEND:20270122T170000Z
-UID:vhl904602
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904602
-LOCATION:Sports Palace Izhstal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Metallurg Novokuznetsk @ Izhstal Izhevsk
-DTSTART:20270124T130000Z
-DTEND:20270124T153000Z
-UID:vhl904615
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904615
-LOCATION:Sports Palace Izhstal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Sokol Krasnoyarsk @ Izhstal Izhevsk
-DTSTART:20270126T143000Z
-DTEND:20270126T170000Z
-UID:vhl904627
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904627
-LOCATION:Sports Palace Izhstal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | HC Norilsk @ Izhstal Izhevsk
-DTSTART:20270128T143000Z
-DTEND:20270128T170000Z
-UID:vhl904636
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904636
-LOCATION:Sports Palace Izhstal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Izhstal Izhevsk @ Ugra Khanty-Mansiysk
-DTSTART:20270203T140000Z
-DTEND:20270203T163000Z
-UID:vhl904659
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904659
-LOCATION:Arena Ugra
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Izhstal Izhevsk @ Rubin Tyumen
-DTSTART:20270205T140000Z
-DTEND:20270205T163000Z
-UID:vhl904671
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904671
-LOCATION:Partikum Ice Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Izhstal Izhevsk @ Zauralye Kurgan
-DTSTART:20270207T120000Z
-DTEND:20270207T143000Z
-UID:vhl904683
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904683
-LOCATION:Ice Sports Palace Mostovik
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Izhstal Izhevsk @ Omskie Krylya Omsk
-DTSTART:20270209T130000Z
-DTEND:20270209T153000Z
-UID:vhl904691
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904691
-LOCATION:Avangard Hockey Academy
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kristall Saratov @ Izhstal Izhevsk
-DTSTART:20270215T143000Z
-DTEND:20270215T170000Z
-UID:vhl904717
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904717
-LOCATION:Sports Palace Izhstal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Dizel Penza @ Izhstal Izhevsk
-DTSTART:20270217T143000Z
-DTEND:20270217T170000Z
-UID:vhl904731
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904731
-LOCATION:Sports Palace Izhstal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | HC Tambov @ Izhstal Izhevsk
-DTSTART:20270219T143000Z
-DTEND:20270219T170000Z
-UID:vhl904742
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904742
-LOCATION:Sports Palace Izhstal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Buran Voronezh @ Izhstal Izhevsk
-DTSTART:20270221T130000Z
-DTEND:20270221T153000Z
-UID:vhl904750
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904750
-LOCATION:Sports Palace Izhstal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Molot Perm @ Izhstal Izhevsk
-DTSTART:20270225T143000Z
-DTEND:20270225T170000Z
-UID:vhl904763
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904763
-LOCATION:Sports Palace Izhstal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Toros Neftekamsk @ Izhstal Izhevsk
-DTSTART:20270227T130000Z
-DTEND:20270227T153000Z
-UID:vhl904774
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904774
-LOCATION:Sports Palace Izhstal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Izhstal Izhevsk @ Gornyak-UGMK Verkhnyaya Pyshma
-DTSTART:20270307T080000Z
-DTEND:20270307T103000Z
-UID:vhl904807
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904807
-LOCATION:Alexei Kozitsyn Ice Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Izhstal Izhevsk @ Chelmet Chelyabinsk
-DTSTART:20270309T133000Z
-DTEND:20270309T160000Z
-UID:vhl904813
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904813
-LOCATION:Yunost Sport Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Izhstal Izhevsk @ Magnitka Magnitogorsk
-DTSTART:20270311T140000Z
-DTEND:20270311T163000Z
-UID:vhl904821
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904821
-LOCATION:Arena Metallurg
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Izhstal Izhevsk @ Yuzhny Ural Orsk
-DTSTART:20270313T080000Z
-DTEND:20270313T103000Z
-UID:vhl904834
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904834
-LOCATION:Ice Palace Yubileyny
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Olympiya Kirovo-Chepetsk @ Izhstal Izhevsk
-DTSTART:20270318T143000Z
-DTEND:20270318T170000Z
-UID:vhl904861
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904861
-LOCATION:Sports Palace Izhstal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Akademia Mikhailov @ SKA-VMF Saint Petersburg
-DTSTART:20261026T160000Z
-DTEND:20261026T183000Z
-UID:vhl904253
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904253
-LOCATION:Hockey City Sport Complex
+SUMMARY:🏒 | Khimik Voskresensk @ Sokol Krasnoyarsk
+DTSTART:20261102T120000Z
+DTEND:20261102T143000Z
+UID:vhl904273
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904273
+LOCATION:Arena Sever
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Bars Kazan @ Akademia Mikhailov
@@ -332,308 +36,12 @@ DESCRIPTION:Game Center: https://online.vhlru.ru/online/904275
 LOCATION:Ice Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Neftyanik Almetyevsk @ Akademia Mikhailov
-DTSTART:20261105T160000Z
-DTEND:20261105T183000Z
-UID:vhl904289
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904289
-LOCATION:Ice Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | CSK VVS Samara @ Akademia Mikhailov
-DTSTART:20261107T100000Z
-DTEND:20261107T123000Z
-UID:vhl904302
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904302
-LOCATION:Ice Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Ryazan-VDV @ Akademia Mikhailov
-DTSTART:20261113T160000Z
-DTEND:20261113T183000Z
-UID:vhl904329
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904329
-LOCATION:Ice Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Akademia Mikhailov @ HC Kaluga
-DTSTART:20261117T160000Z
-DTEND:20261117T183000Z
-UID:vhl904344
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904344
-LOCATION:Central Sports Palace Ice Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Akademia Mikhailov @ HC Norilsk
-DTSTART:20261123T120000Z
-DTEND:20261123T143000Z
-UID:vhl904372
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904372
-LOCATION:Artika Sport Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Akademia Mikhailov @ Sokol Krasnoyarsk
-DTSTART:20261126T120000Z
-DTEND:20261126T143000Z
-UID:vhl904383
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904383
-LOCATION:Arena Sever
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Akademia Mikhailov @ Metallurg Novokuznetsk
-DTSTART:20261128T060000Z
-DTEND:20261128T083000Z
-UID:vhl904394
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904394
-LOCATION:Kuznetsk Metallurgists Sports Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Akademia Mikhailov @ Dynamo Altai Barnaul
-DTSTART:20261130T120000Z
-DTEND:20261130T143000Z
-UID:vhl904407
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904407
-LOCATION:Titov Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Omskie Krylya Omsk @ Akademia Mikhailov
-DTSTART:20261207T160000Z
-DTEND:20261207T183000Z
-UID:vhl904435
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904435
-LOCATION:Ice Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Zauralye Kurgan @ Akademia Mikhailov
-DTSTART:20261209T160000Z
-DTEND:20261209T183000Z
-UID:vhl904442
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904442
-LOCATION:Ice Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Rubin Tyumen @ Akademia Mikhailov
-DTSTART:20261211T160000Z
-DTEND:20261211T183000Z
-UID:vhl904454
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904454
-LOCATION:Ice Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Ugra Khanty-Mansiysk @ Akademia Mikhailov
-DTSTART:20261213T100000Z
-DTEND:20261213T123000Z
-UID:vhl904464
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904464
-LOCATION:Ice Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Akademia Mikhailov @ Kristall Saratov
-DTSTART:20261221T143000Z
-DTEND:20261221T170000Z
-UID:vhl904497
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904497
-LOCATION:Sports Palace Kristall
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Akademia Mikhailov @ Dizel Penza
-DTSTART:20261223T160000Z
-DTEND:20261223T183000Z
-UID:vhl904512
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904512
-LOCATION:Dizel Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Akademia Mikhailov @ HC Tambov
-DTSTART:20261225T153000Z
-DTEND:20261225T180000Z
-UID:vhl904521
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904521
+SUMMARY:🏒 | Izhstal Izhevsk @ HC Tambov
+DTSTART:20261103T153000Z
+DTEND:20261103T180000Z
+UID:vhl904279
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904279
 LOCATION:Crystall Ice Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Akademia Mikhailov @ Buran Voronezh
-DTSTART:20261227T140000Z
-DTEND:20261227T163000Z
-UID:vhl904531
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904531
-LOCATION:LDS Jubileiny
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Molot Perm @ Akademia Mikhailov
-DTSTART:20270110T100000Z
-DTEND:20270110T123000Z
-UID:vhl904550
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904550
-LOCATION:Ice Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Toros Neftekamsk @ Akademia Mikhailov
-DTSTART:20270112T160000Z
-DTEND:20270112T183000Z
-UID:vhl904558
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904558
-LOCATION:Ice Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Izhstal Izhevsk @ Akademia Mikhailov
-DTSTART:20270114T160000Z
-DTEND:20270114T183000Z
-UID:vhl904569
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904569
-LOCATION:Ice Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Olympiya Kirovo-Chepetsk @ Akademia Mikhailov
-DTSTART:20270116T100000Z
-DTEND:20270116T123000Z
-UID:vhl904579
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904579
-LOCATION:Ice Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Akademia Mikhailov @ Gornyak-UGMK Verkhnyaya Pyshma
-DTSTART:20270122T133000Z
-DTEND:20270122T160000Z
-UID:vhl904598
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904598
-LOCATION:Alexei Kozitsyn Ice Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Akademia Mikhailov @ Chelmet Chelyabinsk
-DTSTART:20270124T080000Z
-DTEND:20270124T103000Z
-UID:vhl904614
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904614
-LOCATION:Yunost Sport Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Akademia Mikhailov @ Magnitka Magnitogorsk
-DTSTART:20270126T080000Z
-DTEND:20270126T103000Z
-UID:vhl904624
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904624
-LOCATION:Arena Metallurg
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Akademia Mikhailov @ Yuzhny Ural Orsk
-DTSTART:20270128T133000Z
-DTEND:20270128T160000Z
-UID:vhl904634
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904634
-LOCATION:Ice Palace Yubileyny
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | SKA-VMF Saint Petersburg @ Akademia Mikhailov
-DTSTART:20270202T160000Z
-DTEND:20270202T183000Z
-UID:vhl904655
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904655
-LOCATION:Ice Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Dynamo Saint-Petersburg @ Akademia Mikhailov
-DTSTART:20270204T160000Z
-DTEND:20270204T183000Z
-UID:vhl904666
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904666
-LOCATION:Ice Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Zvezda Moscow @ Akademia Mikhailov
-DTSTART:20270206T100000Z
-DTEND:20270206T123000Z
-UID:vhl904678
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904678
-LOCATION:Ice Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Akademia Mikhailov @ Bars Kazan
-DTSTART:20270214T100000Z
-DTEND:20270214T123000Z
-UID:vhl904707
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904707
-LOCATION:Sports Palace Kazan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Akademia Mikhailov @ Neftyanik Almetyevsk
-DTSTART:20270216T153000Z
-DTEND:20270216T180000Z
-UID:vhl904720
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904720
-LOCATION:Yubileyny Sports Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Akademia Mikhailov @ CSK VVS Samara
-DTSTART:20270218T150000Z
-DTEND:20270218T173000Z
-UID:vhl904733
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904733
-LOCATION:Vladimir Vysotsky Sport Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | HC Kaluga @ Akademia Mikhailov
-DTSTART:20270227T100000Z
-DTEND:20270227T123000Z
-UID:vhl904775
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904775
-LOCATION:Ice Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Akademia Mikhailov @ Ryazan-VDV
-DTSTART:20270303T160000Z
-DTEND:20270303T183000Z
-UID:vhl904797
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904797
-LOCATION:Ryazan Olympic Sports Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Dynamo Altai Barnaul @ Akademia Mikhailov
-DTSTART:20270309T160000Z
-DTEND:20270309T183000Z
-UID:vhl904816
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904816
-LOCATION:Ice Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Metallurg Novokuznetsk @ Akademia Mikhailov
-DTSTART:20270311T160000Z
-DTEND:20270311T183000Z
-UID:vhl904825
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904825
-LOCATION:Ice Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Sokol Krasnoyarsk @ Akademia Mikhailov
-DTSTART:20270313T100000Z
-DTEND:20270313T123000Z
-UID:vhl904836
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904836
-LOCATION:Ice Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | HC Norilsk @ Akademia Mikhailov
-DTSTART:20270315T160000Z
-DTEND:20270315T183000Z
-UID:vhl904849
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904849
-LOCATION:Ice Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Khimik Voskresensk @ HC Norilsk
-DTSTART:20261030T120000Z
-DTEND:20261030T143000Z
-UID:vhl904263
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904263
-LOCATION:Artika Sport Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Khimik Voskresensk @ Sokol Krasnoyarsk
-DTSTART:20261102T120000Z
-DTEND:20261102T143000Z
-UID:vhl904273
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904273
-LOCATION:Arena Sever
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Khimik Voskresensk @ Metallurg Novokuznetsk
@@ -644,12 +52,44 @@ DESCRIPTION:Game Center: https://online.vhlru.ru/online/904283
 LOCATION:Kuznetsk Metallurgists Sports Palace
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk @ Dizel Penza
+DTSTART:20261105T160000Z
+DTEND:20261105T183000Z
+UID:vhl904290
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904290
+LOCATION:Dizel Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Neftyanik Almetyevsk @ Akademia Mikhailov
+DTSTART:20261105T160000Z
+DTEND:20261105T183000Z
+UID:vhl904289
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904289
+LOCATION:Ice Palace
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Khimik Voskresensk @ Dynamo Altai Barnaul
 DTSTART:20261106T120000Z
 DTEND:20261106T143000Z
 UID:vhl904292
 DESCRIPTION:Game Center: https://online.vhlru.ru/online/904292
 LOCATION:Titov Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | CSK VVS Samara @ Akademia Mikhailov
+DTSTART:20261107T100000Z
+DTEND:20261107T123000Z
+UID:vhl904302
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904302
+LOCATION:Ice Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk @ Kristall Saratov
+DTSTART:20261107T130000Z
+DTEND:20261107T153000Z
+UID:vhl904301
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904301
+LOCATION:Sports Palace Kristall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Omskie Krylya Omsk @ Khimik Voskresensk
@@ -668,12 +108,28 @@ DESCRIPTION:Game Center: https://online.vhlru.ru/online/904328
 LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Ryazan-VDV @ Akademia Mikhailov
+DTSTART:20261113T160000Z
+DTEND:20261113T183000Z
+UID:vhl904329
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904329
+LOCATION:Ice Palace
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Rubin Tyumen @ Khimik Voskresensk
 DTSTART:20261115T140000Z
 DTEND:20261115T163000Z
 UID:vhl904341
 DESCRIPTION:Game Center: https://online.vhlru.ru/online/904341
 LOCATION:Podmoskovie Ice Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk @ Toros Neftekamsk
+DTSTART:20261116T140000Z
+DTEND:20261116T163000Z
+UID:vhl904343
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904343
+LOCATION:Ice Palace Neftekamsk
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Ugra Khanty-Mansiysk @ Khimik Voskresensk
@@ -684,12 +140,44 @@ DESCRIPTION:Game Center: https://online.vhlru.ru/online/904351
 LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Akademia Mikhailov @ HC Kaluga
+DTSTART:20261117T160000Z
+DTEND:20261117T183000Z
+UID:vhl904344
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904344
+LOCATION:Central Sports Palace Ice Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk @ Molot Perm
+DTSTART:20261118T140000Z
+DTEND:20261118T163000Z
+UID:vhl904355
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904355
+LOCATION:Universal Sports Palace Molot
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk @ Olympiya Kirovo-Chepetsk
+DTSTART:20261120T153000Z
+DTEND:20261120T180000Z
+UID:vhl904364
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904364
+LOCATION:Olimp-Arena
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Khimik Voskresensk @ Buran Voronezh
 DTSTART:20261122T140000Z
 DTEND:20261122T163000Z
 UID:vhl904371
 DESCRIPTION:Game Center: https://online.vhlru.ru/online/904371
 LOCATION:LDS Jubileiny
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Akademia Mikhailov @ HC Norilsk
+DTSTART:20261123T120000Z
+DTEND:20261123T143000Z
+UID:vhl904372
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904372
+LOCATION:Artika Sport Palace
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Khimik Voskresensk @ HC Tambov
@@ -700,6 +188,14 @@ DESCRIPTION:Game Center: https://online.vhlru.ru/online/904379
 LOCATION:Crystall Ice Palace
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Akademia Mikhailov @ Sokol Krasnoyarsk
+DTSTART:20261126T120000Z
+DTEND:20261126T143000Z
+UID:vhl904383
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904383
+LOCATION:Arena Sever
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Khimik Voskresensk @ Dizel Penza
 DTSTART:20261126T160000Z
 DTEND:20261126T183000Z
@@ -708,12 +204,60 @@ DESCRIPTION:Game Center: https://online.vhlru.ru/online/904389
 LOCATION:Dizel Arena
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Yuzhny Ural Orsk @ Izhstal Izhevsk
+DTSTART:20261127T143000Z
+DTEND:20261127T170000Z
+UID:vhl904393
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904393
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Akademia Mikhailov @ Metallurg Novokuznetsk
+DTSTART:20261128T060000Z
+DTEND:20261128T083000Z
+UID:vhl904394
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904394
+LOCATION:Kuznetsk Metallurgists Sports Palace
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Khimik Voskresensk @ Kristall Saratov
 DTSTART:20261128T130000Z
 DTEND:20261128T153000Z
 UID:vhl904395
 DESCRIPTION:Game Center: https://online.vhlru.ru/online/904395
 LOCATION:Sports Palace Kristall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Magnitka Magnitogorsk @ Izhstal Izhevsk
+DTSTART:20261129T130000Z
+DTEND:20261129T153000Z
+UID:vhl904406
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904406
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Akademia Mikhailov @ Dynamo Altai Barnaul
+DTSTART:20261130T120000Z
+DTEND:20261130T143000Z
+UID:vhl904407
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904407
+LOCATION:Titov Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Chelmet Chelyabinsk @ Izhstal Izhevsk
+DTSTART:20261201T143000Z
+DTEND:20261201T170000Z
+UID:vhl904416
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904416
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Gornyak-UGMK Verkhnyaya Pyshma @ Izhstal Izhevsk
+DTSTART:20261203T143000Z
+DTEND:20261203T170000Z
+UID:vhl904423
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904423
+LOCATION:Sports Palace Izhstal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Molot Perm @ Khimik Voskresensk
@@ -732,6 +276,14 @@ DESCRIPTION:Game Center: https://online.vhlru.ru/online/904434
 LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Omskie Krylya Omsk @ Akademia Mikhailov
+DTSTART:20261207T160000Z
+DTEND:20261207T183000Z
+UID:vhl904435
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904435
+LOCATION:Ice Palace
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Izhstal Izhevsk @ Khimik Voskresensk
 DTSTART:20261209T153000Z
 DTEND:20261209T180000Z
@@ -740,12 +292,60 @@ DESCRIPTION:Game Center: https://online.vhlru.ru/online/904441
 LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Zauralye Kurgan @ Akademia Mikhailov
+DTSTART:20261209T160000Z
+DTEND:20261209T183000Z
+UID:vhl904442
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904442
+LOCATION:Ice Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk @ Zvezda Moscow
+DTSTART:20261211T153000Z
+DTEND:20261211T180000Z
+UID:vhl904456
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904456
+LOCATION:CSKA Ice Palace
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Olympiya Kirovo-Chepetsk @ Khimik Voskresensk
 DTSTART:20261211T153000Z
 DTEND:20261211T180000Z
 UID:vhl904453
 DESCRIPTION:Game Center: https://online.vhlru.ru/online/904453
 LOCATION:Podmoskovie Ice Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Rubin Tyumen @ Akademia Mikhailov
+DTSTART:20261211T160000Z
+DTEND:20261211T183000Z
+UID:vhl904454
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904454
+LOCATION:Ice Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk @ Dynamo Saint-Petersburg
+DTSTART:20261213T100000Z
+DTEND:20261213T123000Z
+UID:vhl904465
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904465
+LOCATION:Yubileyny Sports Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Ugra Khanty-Mansiysk @ Akademia Mikhailov
+DTSTART:20261213T100000Z
+DTEND:20261213T123000Z
+UID:vhl904464
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904464
+LOCATION:Ice Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk @ SKA-VMF Saint Petersburg
+DTSTART:20261215T160000Z
+DTEND:20261215T183000Z
+UID:vhl904476
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904476
+LOCATION:Hockey City Sport Complex
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Khimik Voskresensk @ Gornyak-UGMK Verkhnyaya Pyshma
@@ -772,12 +372,68 @@ DESCRIPTION:Game Center: https://online.vhlru.ru/online/904495
 LOCATION:Arena Metallurg
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Akademia Mikhailov @ Kristall Saratov
+DTSTART:20261221T143000Z
+DTEND:20261221T170000Z
+UID:vhl904497
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904497
+LOCATION:Sports Palace Kristall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | CSK VVS Samara @ Izhstal Izhevsk
+DTSTART:20261222T143000Z
+DTEND:20261222T170000Z
+UID:vhl904502
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904502
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Khimik Voskresensk @ Yuzhny Ural Orsk
 DTSTART:20261223T133000Z
 DTEND:20261223T160000Z
 UID:vhl904506
 DESCRIPTION:Game Center: https://online.vhlru.ru/online/904506
 LOCATION:Ice Palace Yubileyny
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Akademia Mikhailov @ Dizel Penza
+DTSTART:20261223T160000Z
+DTEND:20261223T183000Z
+UID:vhl904512
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904512
+LOCATION:Dizel Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Neftyanik Almetyevsk @ Izhstal Izhevsk
+DTSTART:20261224T143000Z
+DTEND:20261224T170000Z
+UID:vhl904514
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904514
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Akademia Mikhailov @ HC Tambov
+DTSTART:20261225T153000Z
+DTEND:20261225T180000Z
+UID:vhl904521
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904521
+LOCATION:Crystall Ice Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Bars Kazan @ Izhstal Izhevsk
+DTSTART:20261226T130000Z
+DTEND:20261226T153000Z
+UID:vhl904525
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904525
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Akademia Mikhailov @ Buran Voronezh
+DTSTART:20261227T140000Z
+DTEND:20261227T163000Z
+UID:vhl904531
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904531
+LOCATION:LDS Jubileiny
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Zvezda Moscow @ Khimik Voskresensk
@@ -788,12 +444,52 @@ DESCRIPTION:Game Center: https://online.vhlru.ru/online/904538
 LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Molot Perm @ Akademia Mikhailov
+DTSTART:20270110T100000Z
+DTEND:20270110T123000Z
+UID:vhl904550
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904550
+LOCATION:Ice Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk @ HC Kaluga
+DTSTART:20270112T160000Z
+DTEND:20270112T183000Z
+UID:vhl904554
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904554
+LOCATION:Central Sports Palace Ice Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Toros Neftekamsk @ Akademia Mikhailov
+DTSTART:20270112T160000Z
+DTEND:20270112T183000Z
+UID:vhl904558
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904558
+LOCATION:Ice Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk @ Akademia Mikhailov
+DTSTART:20270114T160000Z
+DTEND:20270114T183000Z
+UID:vhl904569
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904569
+LOCATION:Ice Palace
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Khimik Voskresensk @ SKA-VMF Saint Petersburg
 DTSTART:20270114T160000Z
 DTEND:20270114T183000Z
 UID:vhl904572
 DESCRIPTION:Game Center: https://online.vhlru.ru/online/904572
 LOCATION:Hockey City Sport Complex
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Olympiya Kirovo-Chepetsk @ Akademia Mikhailov
+DTSTART:20270116T100000Z
+DTEND:20270116T123000Z
+UID:vhl904579
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904579
+LOCATION:Ice Palace
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Khimik Voskresensk @ Dynamo Saint-Petersburg
@@ -804,12 +500,68 @@ DESCRIPTION:Game Center: https://online.vhlru.ru/online/904580
 LOCATION:Yubileyny Sports Palace
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk @ Ryazan-VDV
+DTSTART:20270116T140000Z
+DTEND:20270116T163000Z
+UID:vhl904581
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904581
+LOCATION:Ryazan Olympic Sports Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Akademia Mikhailov @ Gornyak-UGMK Verkhnyaya Pyshma
+DTSTART:20270122T133000Z
+DTEND:20270122T160000Z
+UID:vhl904598
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904598
+LOCATION:Alexei Kozitsyn Ice Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Dynamo Altai Barnaul @ Izhstal Izhevsk
+DTSTART:20270122T143000Z
+DTEND:20270122T170000Z
+UID:vhl904602
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904602
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Akademia Mikhailov @ Chelmet Chelyabinsk
+DTSTART:20270124T080000Z
+DTEND:20270124T103000Z
+UID:vhl904614
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904614
+LOCATION:Yunost Sport Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Metallurg Novokuznetsk @ Izhstal Izhevsk
+DTSTART:20270124T130000Z
+DTEND:20270124T153000Z
+UID:vhl904615
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904615
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Bars Kazan @ Khimik Voskresensk
 DTSTART:20270125T153000Z
 DTEND:20270125T180000Z
 UID:vhl904617
 DESCRIPTION:Game Center: https://online.vhlru.ru/online/904617
 LOCATION:Podmoskovie Ice Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Akademia Mikhailov @ Magnitka Magnitogorsk
+DTSTART:20270126T080000Z
+DTEND:20270126T103000Z
+UID:vhl904624
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904624
+LOCATION:Arena Metallurg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Sokol Krasnoyarsk @ Izhstal Izhevsk
+DTSTART:20270126T143000Z
+DTEND:20270126T170000Z
+UID:vhl904627
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904627
+LOCATION:Sports Palace Izhstal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Neftyanik Almetyevsk @ Khimik Voskresensk
@@ -820,12 +572,68 @@ DESCRIPTION:Game Center: https://online.vhlru.ru/online/904629
 LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Akademia Mikhailov @ Yuzhny Ural Orsk
+DTSTART:20270128T133000Z
+DTEND:20270128T160000Z
+UID:vhl904634
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904634
+LOCATION:Ice Palace Yubileyny
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | HC Norilsk @ Izhstal Izhevsk
+DTSTART:20270128T143000Z
+DTEND:20270128T170000Z
+UID:vhl904636
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904636
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | CSK VVS Samara @ Khimik Voskresensk
 DTSTART:20270129T153000Z
 DTEND:20270129T180000Z
 UID:vhl904639
 DESCRIPTION:Game Center: https://online.vhlru.ru/online/904639
 LOCATION:Podmoskovie Ice Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | SKA-VMF Saint Petersburg @ Akademia Mikhailov
+DTSTART:20270202T160000Z
+DTEND:20270202T183000Z
+UID:vhl904655
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904655
+LOCATION:Ice Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk @ Ugra Khanty-Mansiysk
+DTSTART:20270203T140000Z
+DTEND:20270203T163000Z
+UID:vhl904659
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904659
+LOCATION:Arena Ugra
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Dynamo Saint-Petersburg @ Akademia Mikhailov
+DTSTART:20270204T160000Z
+DTEND:20270204T183000Z
+UID:vhl904666
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904666
+LOCATION:Ice Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk @ Rubin Tyumen
+DTSTART:20270205T140000Z
+DTEND:20270205T163000Z
+UID:vhl904671
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904671
+LOCATION:Partikum Ice Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Zvezda Moscow @ Akademia Mikhailov
+DTSTART:20270206T100000Z
+DTEND:20270206T123000Z
+UID:vhl904678
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904678
+LOCATION:Ice Palace
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Khimik Voskresensk @ HC Kaluga
@@ -836,12 +644,28 @@ DESCRIPTION:Game Center: https://online.vhlru.ru/online/904674
 LOCATION:Central Sports Palace Ice Arena
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk @ Zauralye Kurgan
+DTSTART:20270207T120000Z
+DTEND:20270207T143000Z
+UID:vhl904683
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904683
+LOCATION:Ice Sports Palace Mostovik
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Khimik Voskresensk @ Akademia Mikhailov
 DTSTART:20270208T160000Z
 DTEND:20270208T183000Z
 UID:vhl904687
 DESCRIPTION:Game Center: https://online.vhlru.ru/online/904687
 LOCATION:Ice Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk @ Omskie Krylya Omsk
+DTSTART:20270209T130000Z
+DTEND:20270209T153000Z
+UID:vhl904691
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904691
+LOCATION:Avangard Hockey Academy
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Khimik Voskresensk @ Ryazan-VDV
@@ -852,12 +676,52 @@ DESCRIPTION:Game Center: https://online.vhlru.ru/online/904694
 LOCATION:Ryazan Olympic Sports Palace
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Akademia Mikhailov @ Bars Kazan
+DTSTART:20270214T100000Z
+DTEND:20270214T123000Z
+UID:vhl904707
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904707
+LOCATION:Sports Palace Kazan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kristall Saratov @ Izhstal Izhevsk
+DTSTART:20270215T143000Z
+DTEND:20270215T170000Z
+UID:vhl904717
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904717
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Akademia Mikhailov @ Neftyanik Almetyevsk
+DTSTART:20270216T153000Z
+DTEND:20270216T180000Z
+UID:vhl904720
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904720
+LOCATION:Yubileyny Sports Palace
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Dynamo Altai Barnaul @ Khimik Voskresensk
 DTSTART:20270216T153000Z
 DTEND:20270216T180000Z
 UID:vhl904721
 DESCRIPTION:Game Center: https://online.vhlru.ru/online/904721
 LOCATION:Podmoskovie Ice Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Dizel Penza @ Izhstal Izhevsk
+DTSTART:20270217T143000Z
+DTEND:20270217T170000Z
+UID:vhl904731
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904731
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Akademia Mikhailov @ CSK VVS Samara
+DTSTART:20270218T150000Z
+DTEND:20270218T173000Z
+UID:vhl904733
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904733
+LOCATION:Vladimir Vysotsky Sport Palace
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Metallurg Novokuznetsk @ Khimik Voskresensk
@@ -868,6 +732,14 @@ DESCRIPTION:Game Center: https://online.vhlru.ru/online/904735
 LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | HC Tambov @ Izhstal Izhevsk
+DTSTART:20270219T143000Z
+DTEND:20270219T170000Z
+UID:vhl904742
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904742
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Sokol Krasnoyarsk @ Khimik Voskresensk
 DTSTART:20270220T153000Z
 DTEND:20270220T180000Z
@@ -876,12 +748,44 @@ DESCRIPTION:Game Center: https://online.vhlru.ru/online/904746
 LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Buran Voronezh @ Izhstal Izhevsk
+DTSTART:20270221T130000Z
+DTEND:20270221T153000Z
+UID:vhl904750
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904750
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | HC Norilsk @ Khimik Voskresensk
 DTSTART:20270222T140000Z
 DTEND:20270222T163000Z
 UID:vhl904753
 DESCRIPTION:Game Center: https://online.vhlru.ru/online/904753
 LOCATION:Podmoskovie Ice Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Molot Perm @ Izhstal Izhevsk
+DTSTART:20270225T143000Z
+DTEND:20270225T170000Z
+UID:vhl904763
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904763
+LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | HC Kaluga @ Akademia Mikhailov
+DTSTART:20270227T100000Z
+DTEND:20270227T123000Z
+UID:vhl904775
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904775
+LOCATION:Ice Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Toros Neftekamsk @ Izhstal Izhevsk
+DTSTART:20270227T130000Z
+DTEND:20270227T153000Z
+UID:vhl904774
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904774
+LOCATION:Sports Palace Izhstal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Khimik Voskresensk @ Ugra Khanty-Mansiysk
@@ -900,6 +804,14 @@ DESCRIPTION:Game Center: https://online.vhlru.ru/online/904791
 LOCATION:Partikum Ice Palace
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Akademia Mikhailov @ Ryazan-VDV
+DTSTART:20270303T160000Z
+DTEND:20270303T183000Z
+UID:vhl904797
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904797
+LOCATION:Ryazan Olympic Sports Palace
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Khimik Voskresensk @ Zauralye Kurgan
 DTSTART:20270304T133000Z
 DTEND:20270304T160000Z
@@ -916,12 +828,68 @@ DESCRIPTION:Game Center: https://online.vhlru.ru/online/904805
 LOCATION:Avangard Hockey Academy
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk @ Gornyak-UGMK Verkhnyaya Pyshma
+DTSTART:20270307T080000Z
+DTEND:20270307T103000Z
+UID:vhl904807
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904807
+LOCATION:Alexei Kozitsyn Ice Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk @ Chelmet Chelyabinsk
+DTSTART:20270309T133000Z
+DTEND:20270309T160000Z
+UID:vhl904813
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904813
+LOCATION:Yunost Sport Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Dynamo Altai Barnaul @ Akademia Mikhailov
+DTSTART:20270309T160000Z
+DTEND:20270309T183000Z
+UID:vhl904816
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904816
+LOCATION:Ice Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk @ Magnitka Magnitogorsk
+DTSTART:20270311T140000Z
+DTEND:20270311T163000Z
+UID:vhl904821
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904821
+LOCATION:Arena Metallurg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Metallurg Novokuznetsk @ Akademia Mikhailov
+DTSTART:20270311T160000Z
+DTEND:20270311T183000Z
+UID:vhl904825
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904825
+LOCATION:Ice Palace
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | HC Tambov @ Khimik Voskresensk
 DTSTART:20270312T153000Z
 DTEND:20270312T180000Z
 UID:vhl904829
 DESCRIPTION:Game Center: https://online.vhlru.ru/online/904829
 LOCATION:Podmoskovie Ice Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Izhstal Izhevsk @ Yuzhny Ural Orsk
+DTSTART:20270313T080000Z
+DTEND:20270313T103000Z
+UID:vhl904834
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904834
+LOCATION:Ice Palace Yubileyny
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Sokol Krasnoyarsk @ Akademia Mikhailov
+DTSTART:20270313T100000Z
+DTEND:20270313T123000Z
+UID:vhl904836
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904836
+LOCATION:Ice Palace
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Buran Voronezh @ Khimik Voskresensk
@@ -932,12 +900,28 @@ DESCRIPTION:Game Center: https://online.vhlru.ru/online/904845
 LOCATION:Podmoskovie Ice Palace
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | HC Norilsk @ Akademia Mikhailov
+DTSTART:20270315T160000Z
+DTEND:20270315T183000Z
+UID:vhl904849
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904849
+LOCATION:Ice Palace
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Kristall Saratov @ Khimik Voskresensk
 DTSTART:20270316T153000Z
 DTEND:20270316T180000Z
 UID:vhl904852
 DESCRIPTION:Game Center: https://online.vhlru.ru/online/904852
 LOCATION:Podmoskovie Ice Palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Olympiya Kirovo-Chepetsk @ Izhstal Izhevsk
+DTSTART:20270318T143000Z
+DTEND:20270318T170000Z
+UID:vhl904861
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904861
+LOCATION:Sports Palace Izhstal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Dizel Penza @ Khimik Voskresensk

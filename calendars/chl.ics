@@ -14,76 +14,6 @@ DESCRIPTION:Stage: Regular Season\nRound: Game Day 1\nGame Center: https:/
 LOCATION:Eisarena Salzburg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Kölner Haie @ Tappara Tampere
-DTSTART:20260905T140000
-DTEND:20260905T163000
-UID:chleu3000
-DESCRIPTION:Stage: Regular Season\nRound: Game Day 2\nGame Center: https:/
- /www.chl.hockey/en/matches/8ed94128f8806f40a2957687/tappara-tampere-vs-kol
- ner-haie
-LOCATION:Hakametsä
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Frölunda Gothenburg @ Kölner Haie
-DTSTART:20260910T173000
-DTEND:20260910T200000
-UID:chleu3017
-DESCRIPTION:Stage: Regular Season\nRound: Game Day 3\nGame Center: https:/
- /www.chl.hockey/en/matches/d90c226758cacdc373f4946e/kolner-haie-vs-frolund
- a-gothenburg
-LOCATION:LANXESS Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | KAC Klagenfurt @ Kölner Haie
-DTSTART:20260912T150000
-DTEND:20260912T173000
-UID:chleu3029
-DESCRIPTION:Stage: Regular Season\nRound: Game Day 4\nGame Center: https:/
- /www.chl.hockey/en/matches/a36c2ac20069ca066d69c16d/kolner-haie-vs-kac-kla
- genfurt
-LOCATION:Yayla-Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Herning Blue Fox @ Kölner Haie
-DTSTART:20261007T173000
-DTEND:20261007T200000
-UID:chleu3044
-DESCRIPTION:Stage: Regular Season\nRound: Game Day 5\nGame Center: https:/
- /www.chl.hockey/en/matches/1304690b8a655c2c91cec3d8/kolner-haie-vs-herning
- -blue-fox
-LOCATION:LANXESS Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kölner Haie @ Genève-Servette
-DTSTART:20261014T174500
-DTEND:20261014T201500
-UID:chleu3059
-DESCRIPTION:Stage: Regular Season\nRound: Game Day 6\nGame Center: https:/
- /www.chl.hockey/en/matches/5ed0449680b6681769378978/geneve-servette-vs-kol
- ner-haie
-LOCATION:Patinoire des Vernets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Bílí Tygři Liberec @ Kölner Haie
-DTSTART:20261111T183000
-DTEND:20261111T210000
-UID:chleu3084
-DESCRIPTION:Stage: Round of 16\nRound: First Game\nGame Center: https://ww
- w.chl.hockey/en/matches/da94cfe11fd66ebd4e06b65a/kolner-haie-vs-bili-tygri
- -liberec
-LOCATION:LANXESS Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Kölner Haie @ Bílí Tygři Liberec
-DTSTART:20261117T140000
-DTEND:20261117T163000
-UID:chleu3086
-DESCRIPTION:Stage: Round of 16\nRound: Return Game\nGame Center: https://w
- ww.chl.hockey/en/matches/56e1a84c4c3e8d75f3015c1a/bili-tygri-liberec-vs-ko
- lner-haie
-LOCATION:Home Credit Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Skellefteå AIK @ HK Nitra
 DTSTART:20260904T160000
 DTEND:20260904T183000
@@ -92,6 +22,16 @@ DESCRIPTION:Stage: Regular Season\nRound: Game Day 1\nGame Center: https:/
  /www.chl.hockey/en/matches/2955e4b9c682514ca88e1d64/hk-nitra-vs-skelleftea
  -aik
 LOCATION:Tiposbet Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kölner Haie @ Tappara Tampere
+DTSTART:20260905T140000
+DTEND:20260905T163000
+UID:chleu3000
+DESCRIPTION:Stage: Regular Season\nRound: Game Day 2\nGame Center: https:/
+ /www.chl.hockey/en/matches/8ed94128f8806f40a2957687/tappara-tampere-vs-kol
+ ner-haie
+LOCATION:Hakametsä
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Skellefteå AIK @ Adler Mannheim
@@ -114,6 +54,16 @@ DESCRIPTION:Stage: Regular Season\nRound: Game Day 3\nGame Center: https:/
 LOCATION:Skellefteå Kraft Arena
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Frölunda Gothenburg @ Kölner Haie
+DTSTART:20260910T173000
+DTEND:20260910T200000
+UID:chleu3017
+DESCRIPTION:Stage: Regular Season\nRound: Game Day 3\nGame Center: https:/
+ /www.chl.hockey/en/matches/d90c226758cacdc373f4946e/kolner-haie-vs-frolund
+ a-gothenburg
+LOCATION:LANXESS Arena
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | HC Davos @ Skellefteå AIK
 DTSTART:20260912T123000
 DTEND:20260912T150000
@@ -122,6 +72,16 @@ DESCRIPTION:Stage: Regular Season\nRound: Game Day 4\nGame Center: https:/
  /www.chl.hockey/en/matches/2c97b18b6dcb99eed865e111/skelleftea-aik-vs-hc-d
  avos
 LOCATION:Skellefteå Kraft Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | KAC Klagenfurt @ Kölner Haie
+DTSTART:20260912T150000
+DTEND:20260912T173000
+UID:chleu3029
+DESCRIPTION:Stage: Regular Season\nRound: Game Day 4\nGame Center: https:/
+ /www.chl.hockey/en/matches/a36c2ac20069ca066d69c16d/kolner-haie-vs-kac-kla
+ genfurt
+LOCATION:Yayla-Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Skellefteå AIK @ HC Pilsen
@@ -134,6 +94,16 @@ DESCRIPTION:Stage: Regular Season\nRound: Game Day 5\nGame Center: https:/
 LOCATION:Logspeed CZ Aréna
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Herning Blue Fox @ Kölner Haie
+DTSTART:20261007T173000
+DTEND:20261007T200000
+UID:chleu3044
+DESCRIPTION:Stage: Regular Season\nRound: Game Day 5\nGame Center: https:/
+ /www.chl.hockey/en/matches/1304690b8a655c2c91cec3d8/kolner-haie-vs-herning
+ -blue-fox
+LOCATION:LANXESS Arena
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Red Bull Salzburg @ Skellefteå AIK
 DTSTART:20261013T170000
 DTEND:20261013T193000
@@ -144,6 +114,16 @@ DESCRIPTION:Stage: Regular Season\nRound: Game Day 6\nGame Center: https:/
 LOCATION:Skellefteå Kraft Arena
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Kölner Haie @ Genève-Servette
+DTSTART:20261014T174500
+DTEND:20261014T201500
+UID:chleu3059
+DESCRIPTION:Stage: Regular Season\nRound: Game Day 6\nGame Center: https:/
+ /www.chl.hockey/en/matches/5ed0449680b6681769378978/geneve-servette-vs-kol
+ ner-haie
+LOCATION:Patinoire des Vernets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Skellefteå AIK @ Rögle Ängelholm
 DTSTART:20261110T180000
 DTEND:20261110T203000
@@ -152,6 +132,26 @@ DESCRIPTION:Stage: Round of 16\nRound: First Game\nGame Center: https://ww
  w.chl.hockey/en/matches/7c42f333c74f91b84f18931d/rogle-angelholm-vs-skelle
  ftea-aik
 LOCATION:Catena Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Bílí Tygři Liberec @ Kölner Haie
+DTSTART:20261111T183000
+DTEND:20261111T210000
+UID:chleu3084
+DESCRIPTION:Stage: Round of 16\nRound: First Game\nGame Center: https://ww
+ w.chl.hockey/en/matches/da94cfe11fd66ebd4e06b65a/kolner-haie-vs-bili-tygri
+ -liberec
+LOCATION:LANXESS Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kölner Haie @ Bílí Tygři Liberec
+DTSTART:20261117T140000
+DTEND:20261117T163000
+UID:chleu3086
+DESCRIPTION:Stage: Round of 16\nRound: Return Game\nGame Center: https://w
+ ww.chl.hockey/en/matches/56e1a84c4c3e8d75f3015c1a/bili-tygri-liberec-vs-ko
+ lner-haie
+LOCATION:Home Credit Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Rögle Ängelholm @ Skellefteå AIK

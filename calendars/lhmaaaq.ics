@@ -252,15 +252,6 @@ LOCATION:Châteauguay\, Multisport Léo-Crépin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Forestiers d'Amos @ Rousseau-Royal Laval-Montréal
-DTSTART:20261205T193000
-DTEND:20261205T220000
-UID:LHMAAAQ1904277
-DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
- eason=4951&category=5366&game=1904277
-LOCATION:Laval\, Complexe Sportif Guimond-3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Forestiers d'Amos @ Rousseau-Royal Laval-Montréal
 DTSTART:20261205T130000
 DTEND:20261205T153000
 UID:LHMAAAQ1904279
@@ -269,13 +260,13 @@ DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
 LOCATION:Laval\, Complexe Sportif Guimond-3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Rousseau-Royal Laval-Montréal @ Forestiers d'Amos
-DTSTART:20261212T190000
-DTEND:20261212T213000
-UID:LHMAAAQ1904305
+SUMMARY:🏒 | Forestiers d'Amos @ Rousseau-Royal Laval-Montréal
+DTSTART:20261205T193000
+DTEND:20261205T220000
+UID:LHMAAAQ1904277
 DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
- eason=4951&category=5366&game=1904305
-LOCATION:C. Sportif Desjardins Pav. Paul-Carrière
+ eason=4951&category=5366&game=1904277
+LOCATION:Laval\, Complexe Sportif Guimond-3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Rousseau-Royal Laval-Montréal @ Forestiers d'Amos
@@ -284,6 +275,15 @@ DTEND:20261212T153000
 UID:LHMAAAQ1904313
 DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
  eason=4951&category=5366&game=1904313
+LOCATION:C. Sportif Desjardins Pav. Paul-Carrière
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Rousseau-Royal Laval-Montréal @ Forestiers d'Amos
+DTSTART:20261212T190000
+DTEND:20261212T213000
+UID:LHMAAAQ1904305
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1904305
 LOCATION:C. Sportif Desjardins Pav. Paul-Carrière
 END:VEVENT
 BEGIN:VEVENT
@@ -296,21 +296,21 @@ DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
 LOCATION:Laval\, Complexe Sportif Guimond-3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Lions du Lac St-Louis @ Rousseau-Royal Laval-Montréal
-DTSTART:20270117T190000
-DTEND:20270117T213000
-UID:LHMAAAQ1904375
-DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
- eason=4951&category=5366&game=1904375
-LOCATION:Laval\, Complexe Sportif Guimond-3
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Grenadiers de Châteauguay @ Rousseau-Royal Laval-Montréal
 DTSTART:20270117T133000
 DTEND:20270117T160000
 UID:LHMAAAQ1904381
 DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
  eason=4951&category=5366&game=1904381
+LOCATION:Laval\, Complexe Sportif Guimond-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Lions du Lac St-Louis @ Rousseau-Royal Laval-Montréal
+DTSTART:20270117T190000
+DTEND:20270117T213000
+UID:LHMAAAQ1904375
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1904375
 LOCATION:Laval\, Complexe Sportif Guimond-3
 END:VEVENT
 BEGIN:VEVENT
@@ -332,15 +332,6 @@ DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
 LOCATION:C. Sportif Desjardins Pav. Paul-Carrière
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | L'Intrépide de Gatineau @ Rousseau-Royal Laval-Montréal
-DTSTART:20270130T193000
-DTEND:20270130T220000
-UID:LHMAAAQ1904435
-DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
- eason=4951&category=5366&game=1904435
-LOCATION:Laval\, Complexe Sportif Guimond-3
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Rousseau-Royal Laval-Montréal @ Lions du Lac St-Louis
 DTSTART:20270130T141500
 DTEND:20270130T164500
@@ -348,6 +339,15 @@ UID:LHMAAAQ1904439
 DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
  eason=4951&category=5366&game=1904439
 LOCATION:DDO\, Centre Civique de DDO 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | L'Intrépide de Gatineau @ Rousseau-Royal Laval-Montréal
+DTSTART:20270130T193000
+DTEND:20270130T220000
+UID:LHMAAAQ1904435
+DESCRIPTION:https://www.m18aaa.com/fr/stats/boxscore.html?season=4939&subS
+ eason=4951&category=5366&game=1904435
+LOCATION:Laval\, Complexe Sportif Guimond-3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Rousseau-Royal Laval-Montréal @ Vikings de Saint-Eustache
