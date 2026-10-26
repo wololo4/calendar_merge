@@ -57,16 +57,14 @@ KHL:
     parser: khl
     base_url: https://khl.api.webcaster.pro/api/khl_mobile/events_v2.json
     teams:
-      - name: Torpedo Nizhny Novgorod
-        team_id: 22
       - name: Amur Khabarovsk
         team_id: 12
-      - name: Torpedo Nizhny Novgorod
-        team_id: 22
-      - name: Spartak Moscow
-        team_id: 18
       - name: Salavat Yulaev Ufa
         team_id: 32
+      - name: Spartak Moscow
+        team_id: 18
+      - name: Torpedo Nizhny Novgorod
+        team_id: 22
 LHJAAAQ:
     parser: publicationsports
     base_url: "https://www.lhjaaaq.com/fr/stats/horaire.html?"
@@ -79,10 +77,10 @@ LHJMQ:
     base_url: 
         https://cluster.leaguestat.com/feed/index.php?feed=modulekit&view=schedule&client_code=lhjmq&key=f322673b6bcae299
     teams:
-      - name: Foreurs Val-d'Or
-        team_id: 15
       - name: Saguenéens Chicoutimi
         team_id: 10
+      - name: Foreurs Val-d'Or
+        team_id: 15
 LHMAAAQ:
     parser: publicationsports
     base_url: "https://www.m18aaa.com/fr/stats/horaire.html?"
@@ -112,9 +110,9 @@ NCAA_BIG10:
     base_url: 
         https://bigten.org/services/responsive-calendar.ashx?sport_id=9&school_id=0
     teams:
+      - name: Minnesota Golden Gophers
       - name: Michigan Wolverines
       - name: Wisconsin Badgers
-      - name: Minnesota Golden Gophers
 NCAA_CCHA:
     parser: ncaa_conf
     base_url: 
@@ -141,10 +139,10 @@ NCAA_NCHC:
     base_url: 
         https://nchchockey.com/services/responsive-calendar.ashx?sport_id=0&school_id=0
     teams:
-      - name: Western Michigan Broncos
-      - name: Miami RedHawks
       - name: St. Cloud State Huskies
+      - name: Miami RedHawks
       - name: Denver Pioneers
+      - name: Western Michigan Broncos
 NHL:
     parser: nhl
     teams:
@@ -185,8 +183,8 @@ VHL:
     parser: vhl
     base_url: https://www.vhlru.ru/en/calendar/
     teams:
-      - name: Izhstal Izhevsk
       - name: Akademia Mikhailov
+      - name: Izhstal Izhevsk
       - name: Khimik Voskresensk
 WHL:
     parser: hockeytech
