@@ -79,10 +79,10 @@ LHJMQ:
     base_url: 
         https://cluster.leaguestat.com/feed/index.php?feed=modulekit&view=schedule&client_code=lhjmq&key=f322673b6bcae299
     teams:
-      - name: Saguenéens Chicoutimi
-        team_id: 10
       - name: Foreurs Val-d'Or
         team_id: 15
+      - name: Saguenéens Chicoutimi
+        team_id: 10
 LHMAAAQ:
     parser: publicationsports
     base_url: "https://www.m18aaa.com/fr/stats/horaire.html?"
@@ -112,9 +112,9 @@ NCAA_BIG10:
     base_url: 
         https://bigten.org/services/responsive-calendar.ashx?sport_id=9&school_id=0
     teams:
-      - name: Minnesota Golden Gophers
       - name: Michigan Wolverines
       - name: Wisconsin Badgers
+      - name: Minnesota Golden Gophers
 NCAA_CCHA:
     parser: ncaa_conf
     base_url: 
@@ -141,9 +141,9 @@ NCAA_NCHC:
     base_url: 
         https://nchchockey.com/services/responsive-calendar.ashx?sport_id=0&school_id=0
     teams:
-      - name: St. Cloud State Huskies
-      - name: Miami RedHawks
       - name: Western Michigan Broncos
+      - name: Miami RedHawks
+      - name: St. Cloud State Huskies
       - name: Denver Pioneers
 NHL:
     parser: nhl
@@ -193,7 +193,7 @@ WHL:
     base_url: 
         https://cluster.leaguestat.com/feed/index.php?feed=modulekit&view=schedule&client_code=whl&key=41b145a848f4bd67
     teams:
-      - name: Saskatoon Blades
-        team_id: 213
       - name: Penticton Vees
         team_id: 277
+      - name: Saskatoon Blades
+        team_id: 213
