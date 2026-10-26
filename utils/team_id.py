@@ -264,7 +264,7 @@ def update_team_ids(habs_teams):
                 if n.strip()
             }
             data["teams"] = [
-                {"name": n} for n in sorted(names, key=str.casefold)
+                {"name": n} for n in sorted(name, key=str.casefold)
             ]
             continue
 
