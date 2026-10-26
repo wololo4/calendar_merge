@@ -1,7 +1,7 @@
 import os
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor
-from datetime import datetime
+from datetime import datetime, timezone
 
 from utils.database import export_calendar_from_db, initialize_database, store_event, clear_league
 from utils.downloader import download_single_feed
@@ -92,6 +92,22 @@ def main():
         if len(events) == 0:
             clear_league(league)
         output = export_calendar_from_db(league=league)
+        output.subcomponents[:] = sorted(
+            output.subcomponents,
+            key=lambda component: (
+                1,
+                datetime.max,
+            ) if component.name != "VEVENT" or component.get("DTSTART") is None
+            else (
+                0,
+                (
+                    component.get("DTSTART").dt.astimezone(timezone.utc).replace(tzinfo=None)
+                    if isinstance(component.get("DTSTART").dt, datetime)
+                    and component.get("DTSTART").dt.tzinfo is not None
+                    else component.get("DTSTART").dt
+                ),
+            ),
+        )
 
         filename = f"calendars/{league.lower()}.ics"
         with open(filename, "wb") as file:
