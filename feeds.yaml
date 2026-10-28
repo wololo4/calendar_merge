@@ -61,8 +61,6 @@ KHL:
         team_id: 12
       - name: Salavat Yulaev Ufa
         team_id: 32
-      - name: Spartak Moscow
-        team_id: 18
       - name: Torpedo Nizhny Novgorod
         team_id: 22
 LHJAAAQ:
@@ -98,7 +96,9 @@ Liiga:
 MHL:
     parser: khl
     base_url: https://khl.api.webcaster.pro/api/mhl_mobile/events_v2.json
-    teams: []
+    teams:
+      - name: Chaika Nizhny Novgorod
+        team_id: 351
 NCAA_AHA:
     parser: ncaa_conf
     base_url: 
