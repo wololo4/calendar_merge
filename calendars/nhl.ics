@@ -180,9 +180,7 @@ DTEND:20261030T023000
 UID:nhl2026020209
 DESCRIPTION:Regular Season Game\nTV (Canada): TSN2 (Anglais)\, RDS (Franç
  ais)\nGame Center: https://www.nhl.com/gamecenter/mtl-vs-dal/2026/10/29/20
- 26020209\nTickets: https://www.ticketmaster.com/event/0C0064EDDB92A48B?bra
- nd=dallas_stars&wt.mc_id=NHL_TEAM_DAL_SCHEDULE_GM8&utm_source=NHL.com&utm_
- medium=client&utm_campaign=NHL_TEAM_DAL&utm_content=SCHEDULE_GM8
+ 26020209
 LOCATION:American Airlines Center
 END:VEVENT
 BEGIN:VEVENT
@@ -190,12 +188,12 @@ SUMMARY:🏒 | Pittsburgh Penguins @ Montréal Canadiens
 DTSTART:20261031T230000
 DTEND:20261101T013000
 UID:nhl2026020223
-DESCRIPTION:Regular Season Game\nTV (Canada): SNE (Anglais)\, TVAS (Franç
- ais)\nGame Center: https://www.nhl.com/gamecenter/pit-vs-mtl/2026/10/31/20
- 26020223\nTickets: https://www.ticketmaster.ca/event/310064FACABD873B?lang
- =en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_MTL_SCHEDULE_GM7&
- utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_MTL&utm_content
- =SCHEDULE_GM7
+DESCRIPTION:Regular Season Game\nTV (Canada): SNE (Anglais)\, SN1 (Anglais
+ )\, TVAS (Français)\nGame Center: https://www.nhl.com/gamecenter/pit-vs-m
+ tl/2026/10/31/2026020223\nTickets: https://www.ticketmaster.ca/event/31006
+ 4FACABD873B?lang=en-ca&brand=canadiens&artistid=805975&wt.mc_id=NHL_TEAM_M
+ TL_SCHEDULE_GM7&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM
+ _MTL&utm_content=SCHEDULE_GM7
 LOCATION:Centre Bell
 END:VEVENT
 BEGIN:VEVENT
