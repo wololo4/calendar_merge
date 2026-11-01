@@ -592,14 +592,6 @@ DESCRIPTION:Streaming: BTN
 LOCATION:3M Arena at Mariucci
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Wisconsin Badgers @ Minnesota Golden Gophers
-DTSTART:20261107T000000
-DTEND:20261107T023000
-UID:ncaa410000
-DESCRIPTION:Game time to be determined\nStreaming: Fox 9+ / B1G+
-LOCATION:3M Arena at Mariucci
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Yale Bulldogs @ Dartmouth College Big Green
 DTSTART:20261107T000000
 DTEND:20261107T023000
@@ -688,6 +680,14 @@ DTEND:20261108T023700
 UID:ncaa20607
 DESCRIPTION:Streaming: Midco Sports
 LOCATION:Ralph Engelstad Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Wisconsin Badgers @ Minnesota Golden Gophers
+DTSTART:20261108T010000
+DTEND:20261108T033000
+UID:ncaa410000
+DESCRIPTION:Streaming: Fox 9+ / B1G+
+LOCATION:3M Arena at Mariucci
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | St. Cloud State Huskies @ Omaha Mavericks

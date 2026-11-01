@@ -234,7 +234,7 @@ DTSTART:20261031T141500
 DTEND:20261031T164500
 UID:shlv35qq3250h
 DESCRIPTION:Game Center: https://www.shl.se/game-center/v35qq3250h/qa98unl
- bd6/?state=pre-game
+ bd6/?state=post-game
 LOCATION:Skellefteå Kraft Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -243,7 +243,7 @@ DTSTART:20261031T170000
 DTEND:20261031T193000
 UID:shlptbs69o5d8
 DESCRIPTION:Game Center: https://www.shl.se/game-center/ptbs69o5d8/qa98unl
- bd6/?state=pre-game
+ bd6/?state=post-game
 LOCATION:SCA Arena
 END:VEVENT
 BEGIN:VEVENT
