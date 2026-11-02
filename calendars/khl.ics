@@ -20,14 +20,6 @@ DESCRIPTION:Game Center: https://en.khl.ru/game/1436/901979/preview
 LOCATION:CSKA Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Amur Khabarovsk @ Metallurg Magnitogorsk
-DTSTART:20260906T113000Z
-DTEND:20260906T140000Z
-UID:khl901984
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/901984/preview
-LOCATION:Arena Metallurg
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Salavat Yulaev Ufa @ Avangard Omsk
 DTSTART:20260907T133000Z
 DTEND:20260907T160000Z
@@ -42,14 +34,6 @@ DTEND:20260907T184000Z
 UID:khl901986
 DESCRIPTION:Game Center: https://en.khl.ru/game/1436/901986/preview
 LOCATION:Minsk Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Amur Khabarovsk @ Metallurg Magnitogorsk
-DTSTART:20260908T140000Z
-DTEND:20260908T163000Z
-UID:khl901993
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/901993/preview
-LOCATION:Arena Metallurg
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Salavat Yulaev Ufa @ Barys Astana
@@ -68,28 +52,12 @@ DESCRIPTION:Game Center: https://en.khl.ru/game/1436/901997/preview
 LOCATION:CSKA Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Amur Khabarovsk @ Sibir Novosibrisk Region
-DTSTART:20260910T123000Z
-DTEND:20260910T150000Z
-UID:khl902003
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902003/preview
-LOCATION:Sibir Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Torpedo Nizhny Novgorod @ Lada Togliatti
 DTSTART:20260911T150000Z
 DTEND:20260911T173000Z
 UID:khl902007
 DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902007/preview
 LOCATION:Lada Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Amur Khabarovsk @ Barys Astana
-DTSTART:20260912T113000Z
-DTEND:20260912T140000Z
-UID:khl902010
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902010/preview
-LOCATION:Barys Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Ak Bars Kazan @ Torpedo Nizhny Novgorod
@@ -124,14 +92,6 @@ DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902035/preview
 LOCATION:CEC Nagorny
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Dynamo Moscow @ Amur Khabarovsk
-DTSTART:20260919T070000Z
-DTEND:20260919T093000Z
-UID:khl902037
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902037/preview
-LOCATION:Platinum Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Spartak Moscow @ Salavat Yulaev Ufa
 DTSTART:20260920T113000Z
 DTEND:20260920T140000Z
@@ -140,28 +100,12 @@ DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902040/preview
 LOCATION:Ufa Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Severstal Cherepovets @ Amur Khabarovsk
-DTSTART:20260921T090000Z
-DTEND:20260921T113000Z
-UID:khl902045
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902045/preview
-LOCATION:Platinum Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Avangard Omsk @ Torpedo Nizhny Novgorod
 DTSTART:20260922T163000Z
 DTEND:20260922T190000Z
 UID:khl902049
 DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902049/preview
 LOCATION:CEC Nagorny
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | CSKA Moscow @ Amur Khabarovsk
-DTSTART:20260923T090000Z
-DTEND:20260923T113000Z
-UID:khl902053
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902053/preview
-LOCATION:Platinum Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Metallurg Magnitogorsk @ Salavat Yulaev Ufa
@@ -180,14 +124,6 @@ DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902055/preview
 LOCATION:CEC Nagorny
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Lokomotiv Yaroslavl @ Amur Khabarovsk
-DTSTART:20260925T090000Z
-DTEND:20260925T113000Z
-UID:khl902060
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902060/preview
-LOCATION:Platinum Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Salavat Yulaev Ufa @ Dynamo Moscow
 DTSTART:20260926T140000Z
 DTEND:20260926T163000Z
@@ -202,14 +138,6 @@ DTEND:20260928T190000Z
 UID:khl902074
 DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902074/preview
 LOCATION:CEC Nagorny
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Neftekhimik Nizhnekamsk @ Amur Khabarovsk
-DTSTART:20260929T090000Z
-DTEND:20260929T113000Z
-UID:khl902078
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902078/preview
-LOCATION:Platinum Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Salavat Yulaev Ufa @ HC Sochi
@@ -228,14 +156,6 @@ DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902087/preview
 LOCATION:CSKA Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Amur Khabarovsk @ Avtomobilist Ekaterinburg
-DTSTART:20261002T140000Z
-DTEND:20261002T163000Z
-UID:khl902091
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902091/preview
-LOCATION:UMMC Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Sibir Novosibrisk Region @ Salavat Yulaev Ufa
 DTSTART:20261002T140000Z
 DTEND:20261002T163000Z
@@ -250,14 +170,6 @@ DTEND:20261003T190000Z
 UID:khl902097
 DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902097/preview
 LOCATION:Bolshoy Ice Dome
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Amur Khabarovsk @ Avtomobilist Ekaterinburg
-DTSTART:20261004T113000Z
-DTEND:20261004T140000Z
-UID:khl902101
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902101/preview
-LOCATION:UMMC Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Salavat Yulaev Ufa @ CSKA Moscow
@@ -276,28 +188,12 @@ DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902105/preview
 LOCATION:Minsk Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Amur Khabarovsk @ Traktor Chelyabinsk
-DTSTART:20261006T140000Z
-DTEND:20261006T163000Z
-UID:khl902109
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902109/preview
-LOCATION:Traktor Ice Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Salavat Yulaev Ufa @ Sibir Novosibrisk Region
 DTSTART:20261007T123000Z
 DTEND:20261007T150000Z
 UID:khl902110
 DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902110/preview
 LOCATION:Sibir Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Amur Khabarovsk @ Traktor Chelyabinsk
-DTSTART:20261008T140000Z
-DTEND:20261008T163000Z
-UID:khl902116
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902116/preview
-LOCATION:Traktor Ice Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Severstal Cherepovets @ Torpedo Nizhny Novgorod
@@ -316,14 +212,6 @@ DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902120/preview
 LOCATION:Arena Metallurg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Lada Togliatti @ Amur Khabarovsk
-DTSTART:20261012T090000Z
-DTEND:20261012T113000Z
-UID:khl902130
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902130/preview
-LOCATION:Platinum Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Neftekhimik Nizhnekamsk @ Salavat Yulaev Ufa
 DTSTART:20261012T113000Z
 DTEND:20261012T140000Z
@@ -338,14 +226,6 @@ DTEND:20261012T190000Z
 UID:khl902132
 DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902132/preview
 LOCATION:CEC Nagorny
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Spartak Moscow @ Amur Khabarovsk
-DTSTART:20261014T090000Z
-DTEND:20261014T113000Z
-UID:khl902139
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902139/preview
-LOCATION:Platinum Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Sibir Novosibrisk Region @ Salavat Yulaev Ufa
@@ -369,14 +249,6 @@ DTSTART:20261017T070000Z
 DTEND:20261017T093000Z
 UID:khl902150
 DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902150/preview
-LOCATION:Platinum Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Barys Astana @ Amur Khabarovsk
-DTSTART:20261019T090000Z
-DTEND:20261019T113000Z
-UID:khl902156
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902156/preview
 LOCATION:Platinum Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -420,14 +292,6 @@ DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902176/preview
 LOCATION:CEC Nagorny
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Admiral Vladivostok @ Amur Khabarovsk
-DTSTART:20261025T070000Z
-DTEND:20261025T093000Z
-UID:khl902180
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902180/preview
-LOCATION:Platinum Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Ak Bars Kazan @ Salavat Yulaev Ufa
 DTSTART:20261025T113000Z
 DTEND:20261025T140000Z
@@ -452,36 +316,12 @@ DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902188/preview
 LOCATION:SKA Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Amur Khabarovsk @ Dynamo Moscow
-DTSTART:20261028T163000Z
-DTEND:20261028T190000Z
-UID:khl902193
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902193/preview
-LOCATION:CSKA Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Torpedo Nizhny Novgorod @ Avtomobilist Ekaterinburg
 DTSTART:20261029T140000Z
 DTEND:20261029T163000Z
 UID:khl902195
 DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902195/preview
 LOCATION:UMMC Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Amur Khabarovsk @ Ak Bars Kazan
-DTSTART:20261030T160000Z
-DTEND:20261030T183000Z
-UID:khl902202
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902202/preview
-LOCATION:Tatneft Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Amur Khabarovsk @ Admiral Vladivostok
-DTSTART:20261101T070000Z
-DTEND:20261101T093000Z
-UID:khl902212
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902212/preview
-LOCATION:Fetisov Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Salavat Yulaev Ufa @ Shanghai Dragons
@@ -508,14 +348,6 @@ DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902222/preview
 LOCATION:Ufa Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | SKA Saint Petersburg @ Amur Khabarovsk
-DTSTART:20261106T090000Z
-DTEND:20261106T113000Z
-UID:khl902230
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902230/preview
-LOCATION:Platinum Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Avtomobilist Ekaterinburg @ Salavat Yulaev Ufa
 DTSTART:20261106T140000Z
 DTEND:20261106T163000Z
@@ -530,14 +362,6 @@ DTEND:20261107T163000Z
 UID:khl902147
 DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902147/preview
 LOCATION:CEC Nagorny
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Barys Astana @ Amur Khabarovsk
-DTSTART:20261108T070000Z
-DTEND:20261108T093000Z
-UID:khl902238
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902238/preview
-LOCATION:Platinum Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Torpedo Nizhny Novgorod @ Ak Bars Kazan
@@ -572,28 +396,12 @@ DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902252/preview
 LOCATION:Ufa Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Amur Khabarovsk @ Spartak Moscow
-DTSTART:20261112T163000Z
-DTEND:20261112T190000Z
-UID:khl902253
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902253/preview
-LOCATION:CSKA Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Lada Togliatti @ Torpedo Nizhny Novgorod
 DTSTART:20261113T160000Z
 DTEND:20261113T183000Z
 UID:khl902256
 DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902256/preview
 LOCATION:CEC Nagorny
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Amur Khabarovsk @ HC Sochi
-DTSTART:20261114T140000Z
-DTEND:20261114T163000Z
-UID:khl902257
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902257/preview
-LOCATION:Bolshoy Ice Dome
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Dinamo Minsk @ Torpedo Nizhny Novgorod
@@ -612,36 +420,12 @@ DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902266/preview
 LOCATION:Ufa Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Amur Khabarovsk @ CSKA Moscow
-DTSTART:20261116T163000Z
-DTEND:20261116T190000Z
-UID:khl902267
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902267/preview
-LOCATION:CSKA Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Barys Astana @ Salavat Yulaev Ufa
 DTSTART:20261118T140000Z
 DTEND:20261118T163000Z
 UID:khl902278
 DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902278/preview
 LOCATION:Ufa Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Amur Khabarovsk @ Shanghai Dragons
-DTSTART:20261118T163000Z
-DTEND:20261118T190000Z
-UID:khl902276
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902276/preview
-LOCATION:SKA Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Amur Khabarovsk @ Severstal Cherepovets
-DTSTART:20261120T160000Z
-DTEND:20261120T183000Z
-UID:khl902285
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902285/preview
-LOCATION:Ice Palace
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Lokomotiv Yaroslavl @ Torpedo Nizhny Novgorod
@@ -676,28 +460,12 @@ DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902301/preview
 LOCATION:CEC Nagorny
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Ak Bars Kazan @ Amur Khabarovsk
-DTSTART:20261126T090000Z
-DTEND:20261126T113000Z
-UID:khl902306
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902306/preview
-LOCATION:Platinum Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Dinamo Minsk @ Salavat Yulaev Ufa
 DTSTART:20261126T140000Z
 DTEND:20261126T163000Z
 UID:khl902308
 DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902308/preview
 LOCATION:Ufa Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Avangard Omsk @ Amur Khabarovsk
-DTSTART:20261128T070000Z
-DTEND:20261128T093000Z
-UID:khl902315
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902315/preview
-LOCATION:Platinum Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Torpedo Nizhny Novgorod @ Spartak Moscow
@@ -732,14 +500,6 @@ DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902323/preview
 LOCATION:Tatneft Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Amur Khabarovsk @ Neftekhimik Nizhnekamsk
-DTSTART:20261202T160000Z
-DTEND:20261202T183000Z
-UID:khl902327
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902327/preview
-LOCATION:Neftekhim Ice Palace
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | HC Sochi @ Torpedo Nizhny Novgorod
 DTSTART:20261202T160000Z
 DTEND:20261202T183000Z
@@ -764,28 +524,12 @@ DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902333/preview
 LOCATION:CEC Nagorny
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Amur Khabarovsk @ Avangard Omsk
-DTSTART:20261206T110000Z
-DTEND:20261206T133000Z
-UID:khl902343
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902343/preview
-LOCATION:G-Drive Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Severstal Cherepovets @ Salavat Yulaev Ufa
 DTSTART:20261206T113000Z
 DTEND:20261206T140000Z
 UID:khl902348
 DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902348/preview
 LOCATION:Ufa Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Amur Khabarovsk @ Admiral Vladivostok
-DTSTART:20261215T093000Z
-DTEND:20261215T120000Z
-UID:khl902349
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902349/preview
-LOCATION:Fetisov Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Lada Togliatti @ Torpedo Nizhny Novgorod
@@ -804,14 +548,6 @@ DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902357/preview
 LOCATION:Tatneft Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Amur Khabarovsk @ Sibir Novosibrisk Region
-DTSTART:20261217T123000Z
-DTEND:20261217T150000Z
-UID:khl902360
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902360/preview
-LOCATION:Sibir Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | CSKA Moscow @ Torpedo Nizhny Novgorod
 DTSTART:20261217T160000Z
 DTEND:20261217T183000Z
@@ -826,14 +562,6 @@ DTEND:20261219T140000Z
 UID:khl902372
 DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902372/preview
 LOCATION:Ufa Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Amur Khabarovsk @ Barys Astana
-DTSTART:20261219T120000Z
-DTEND:20261219T143000Z
-UID:khl902368
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902368/preview
-LOCATION:Barys Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Lokomotiv Yaroslavl @ Torpedo Nizhny Novgorod
@@ -868,14 +596,6 @@ DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902384/preview
 LOCATION:Neftekhim Ice Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Admiral Vladivostok @ Amur Khabarovsk
-DTSTART:20261225T090000Z
-DTEND:20261225T113000Z
-UID:khl902392
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902392/preview
-LOCATION:Platinum Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Avtomobilist Ekaterinburg @ Salavat Yulaev Ufa
 DTSTART:20261226T113000Z
 DTEND:20261226T140000Z
@@ -890,14 +610,6 @@ DTEND:20261226T153000Z
 UID:khl902396
 DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902396/preview
 LOCATION:Lada Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Sibir Novosibrisk Region @ Amur Khabarovsk
-DTSTART:20261228T090000Z
-DTEND:20261228T113000Z
-UID:khl902407
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902407/preview
-LOCATION:Platinum Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Metallurg Magnitogorsk @ Salavat Yulaev Ufa
@@ -916,28 +628,12 @@ DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902403/preview
 LOCATION:CEC Nagorny
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | HC Sochi @ Amur Khabarovsk
-DTSTART:20261230T090000Z
-DTEND:20261230T113000Z
-UID:khl902415
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902415/preview
-LOCATION:Platinum Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Severstal Cherepovets @ Torpedo Nizhny Novgorod
 DTSTART:20261230T160000Z
 DTEND:20261230T183000Z
 UID:khl902413
 DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902413/preview
 LOCATION:CEC Nagorny
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Amur Khabarovsk @ Sibir Novosibrisk Region
-DTSTART:20270103T103000Z
-DTEND:20270103T130000Z
-UID:khl902423
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902423/preview
-LOCATION:Sibir Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Lada Togliatti @ Torpedo Nizhny Novgorod
@@ -964,28 +660,12 @@ DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902432/preview
 LOCATION:Sibir Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Amur Khabarovsk @ Barys Astana
-DTSTART:20270105T120000Z
-DTEND:20270105T143000Z
-UID:khl902428
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902428/preview
-LOCATION:Barys Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Salavat Yulaev Ufa @ Traktor Chelyabinsk
 DTSTART:20270106T110000Z
 DTEND:20270106T133000Z
 UID:khl902436
 DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902436/preview
 LOCATION:Traktor Ice Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Amur Khabarovsk @ Neftekhimik Nizhnekamsk
-DTSTART:20270107T110000Z
-DTEND:20270107T133000Z
-UID:khl902441
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902441/preview
-LOCATION:Neftekhim Ice Palace
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Torpedo Nizhny Novgorod @ Barys Astana
@@ -1012,14 +692,6 @@ DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902451/preview
 LOCATION:CEC Nagorny
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Shanghai Dragons @ Amur Khabarovsk
-DTSTART:20270111T090000Z
-DTEND:20270111T113000Z
-UID:khl902454
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902454/preview
-LOCATION:Platinum Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Avangard Omsk @ Salavat Yulaev Ufa
 DTSTART:20270111T140000Z
 DTEND:20270111T163000Z
@@ -1044,36 +716,12 @@ DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902466/preview
 LOCATION:Ufa Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Metallurg Magnitogorsk @ Amur Khabarovsk
-DTSTART:20270114T090000Z
-DTEND:20270114T113000Z
-UID:khl902467
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902467/preview
-LOCATION:Platinum Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Traktor Chelyabinsk @ Salavat Yulaev Ufa
 DTSTART:20270115T140000Z
 DTEND:20270115T163000Z
 UID:khl902472
 DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902472/preview
 LOCATION:Ufa Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Metallurg Magnitogorsk @ Amur Khabarovsk
-DTSTART:20270116T070000Z
-DTEND:20270116T093000Z
-UID:khl902475
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902475/preview
-LOCATION:Platinum Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Ak Bars Kazan @ Amur Khabarovsk
-DTSTART:20270118T090000Z
-DTEND:20270118T113000Z
-UID:khl902485
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902485/preview
-LOCATION:Platinum Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Torpedo Nizhny Novgorod @ Severstal Cherepovets
@@ -1100,14 +748,6 @@ DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902492/preview
 LOCATION:SKA Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Amur Khabarovsk @ Lada Togliatti
-DTSTART:20270121T150000Z
-DTEND:20270121T173000Z
-UID:khl902494
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902494/preview
-LOCATION:Lada Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Salavat Yulaev Ufa @ Spartak Moscow
 DTSTART:20270121T163000Z
 DTEND:20270121T190000Z
@@ -1122,14 +762,6 @@ DTEND:20270122T190000Z
 UID:khl902501
 DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902501/preview
 LOCATION:Bolshoy Ice Dome
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Amur Khabarovsk @ Ak Bars Kazan
-DTSTART:20270123T140000Z
-DTEND:20270123T163000Z
-UID:khl902502
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902502/preview
-LOCATION:Tatneft Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Salavat Yulaev Ufa @ Lokomotiv Yaroslavl
@@ -1148,14 +780,6 @@ DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902507/preview
 LOCATION:Arena Metallurg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Amur Khabarovsk @ Avangard Omsk
-DTSTART:20270125T133000Z
-DTEND:20270125T160000Z
-UID:khl902510
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902510/preview
-LOCATION:G-Drive Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Shanghai Dragons @ Salavat Yulaev Ufa
 DTSTART:20270126T140000Z
 DTEND:20270126T163000Z
@@ -1170,14 +794,6 @@ DTEND:20270128T183000Z
 UID:khl902523
 DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902523/preview
 LOCATION:CEC Nagorny
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Dinamo Minsk @ Amur Khabarovsk
-DTSTART:20270129T090000Z
-DTEND:20270129T113000Z
-UID:khl902527
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902527/preview
-LOCATION:Platinum Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Salavat Yulaev Ufa @ Lada Togliatti
@@ -1196,28 +812,12 @@ DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902534/preview
 LOCATION:CEC Nagorny
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Avangard Omsk @ Amur Khabarovsk
-DTSTART:20270131T070000Z
-DTEND:20270131T093000Z
-UID:khl902536
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902536/preview
-LOCATION:Platinum Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Salavat Yulaev Ufa @ Avtomobilist Ekaterinburg
 DTSTART:20270131T120000Z
 DTEND:20270131T143000Z
 UID:khl902535
 DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902535/preview
 LOCATION:UMMC Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Barys Astana @ Amur Khabarovsk
-DTSTART:20270202T090000Z
-DTEND:20270202T113000Z
-UID:khl902548
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902548/preview
-LOCATION:Platinum Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Torpedo Nizhny Novgorod @ Admiral Vladivostok
@@ -1268,14 +868,6 @@ DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902572/preview
 LOCATION:UMMC Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Amur Khabarovsk @ Lokomotiv Yaroslavl
-DTSTART:20270211T160000Z
-DTEND:20270211T183000Z
-UID:khl902569
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902569/preview
-LOCATION:Arena-2000 Lokomotiv
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | CSKA Moscow @ Salavat Yulaev Ufa
 DTSTART:20270213T113000Z
 DTEND:20270213T140000Z
@@ -1316,14 +908,6 @@ DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902598/preview
 LOCATION:Neftekhim Ice Palace
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Traktor Chelyabinsk @ Amur Khabarovsk
-DTSTART:20270219T090000Z
-DTEND:20270219T113000Z
-UID:khl902602
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902602/preview
-LOCATION:Platinum Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Torpedo Nizhny Novgorod @ Avangard Omsk
 DTSTART:20270220T133000Z
 DTEND:20270220T160000Z
@@ -1340,14 +924,6 @@ DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902608/preview
 LOCATION:Ufa Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Traktor Chelyabinsk @ Amur Khabarovsk
-DTSTART:20270221T070000Z
-DTEND:20270221T093000Z
-UID:khl902611
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902611/preview
-LOCATION:Platinum Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | SKA Saint Petersburg @ Torpedo Nizhny Novgorod
 DTSTART:20270222T140000Z
 DTEND:20270222T163000Z
@@ -1356,28 +932,12 @@ DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902614/preview
 LOCATION:CEC Nagorny
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Avtomobilist Ekaterinburg @ Amur Khabarovsk
-DTSTART:20270223T070000Z
-DTEND:20270223T093000Z
-UID:khl902618
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902618/preview
-LOCATION:Platinum Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Salavat Yulaev Ufa @ HC Sochi
 DTSTART:20270223T140000Z
 DTEND:20270223T163000Z
 UID:khl902619
 DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902619/preview
 LOCATION:Bolshoy Ice Dome
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Avtomobilist Ekaterinburg @ Amur Khabarovsk
-DTSTART:20270225T090000Z
-DTEND:20270225T113000Z
-UID:khl902627
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902627/preview
-LOCATION:Platinum Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Salavat Yulaev Ufa @ Barys Astana
@@ -1412,36 +972,12 @@ DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902644/preview
 LOCATION:Ufa Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Neftekhimik Nizhnekamsk @ Amur Khabarovsk
-DTSTART:20270302T090000Z
-DTEND:20270302T113000Z
-UID:khl902647
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902647/preview
-LOCATION:Platinum Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Sibir Novosibrisk Region @ Amur Khabarovsk
-DTSTART:20270304T090000Z
-DTEND:20270304T113000Z
-UID:khl902656
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902656/preview
-LOCATION:Platinum Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Barys Astana @ Torpedo Nizhny Novgorod
 DTSTART:20270304T160000Z
 DTEND:20270304T183000Z
 UID:khl902659
 DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902659/preview
 LOCATION:CEC Nagorny
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Sibir Novosibrisk Region @ Amur Khabarovsk
-DTSTART:20270306T070000Z
-DTEND:20270306T093000Z
-UID:khl902664
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902664/preview
-LOCATION:Platinum Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Salavat Yulaev Ufa @ Admiral Vladivostok
@@ -1484,14 +1020,6 @@ DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902679/preview
 LOCATION:Sibir Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Admiral Vladivostok @ Amur Khabarovsk
-DTSTART:20270311T090000Z
-DTEND:20270311T113000Z
-UID:khl902682
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902682/preview
-LOCATION:Platinum Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Torpedo Nizhny Novgorod @ Traktor Chelyabinsk
 DTSTART:20270311T140000Z
 DTEND:20270311T163000Z
@@ -1524,14 +1052,6 @@ DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902701/preview
 LOCATION:Lada Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Amur Khabarovsk @ SKA Saint Petersburg
-DTSTART:20270316T163000Z
-DTEND:20270316T190000Z
-UID:khl902704
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902704/preview
-LOCATION:SKA Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Barys Astana @ Salavat Yulaev Ufa
 DTSTART:20270317T140000Z
 DTEND:20270317T163000Z
@@ -1546,22 +1066,6 @@ DTEND:20270318T183000Z
 UID:khl902712
 DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902712/preview
 LOCATION:Neftekhim Ice Palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Amur Khabarovsk @ Dinamo Minsk
-DTSTART:20270318T161000Z
-DTEND:20270318T184000Z
-UID:khl902713
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902713/preview
-LOCATION:Minsk Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Amur Khabarovsk @ Admiral Vladivostok
-DTSTART:20270320T070000Z
-DTEND:20270320T093000Z
-UID:khl902718
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902718/preview
-LOCATION:Fetisov Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Traktor Chelyabinsk @ Salavat Yulaev Ufa
