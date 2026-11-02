@@ -4,6 +4,116 @@ PRODID:-//Hockey Calendar//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+SUMMARY:🏒 | Finland @ United States
+DTSTART:20260726T160000
+DTEND:20260726T183000
+UID:hockeycanada5731
+DESCRIPTION:Tournament: National Junior Summer Showcase - 2026 Summer\nGam
+ e Center: https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26
+ /world-championship/stats/game-summary/5731\nTV: RDS\nStreaming link not y
+ et available
+LOCATION:WFCU Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Sweden @ United States
+DTSTART:20260726T200000
+DTEND:20260726T223000
+UID:hockeycanada5732
+DESCRIPTION:Tournament: National Junior Summer Showcase - 2026 Summer\nGam
+ e Center: https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26
+ /world-championship/stats/game-summary/5732\nTV: RDS\nStreaming link not y
+ et available
+LOCATION:WFCU Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | United States @ Finland
+DTSTART:20260727T190000
+DTEND:20260727T213000
+UID:hockeycanada5733
+DESCRIPTION:Tournament: National Junior Summer Showcase - 2026 Summer\nGam
+ e Center: https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26
+ /world-championship/stats/game-summary/5733\nTV: RDS\nStreaming link not y
+ et available
+LOCATION:WFCU Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | United States @ Sweden
+DTSTART:20260727T230000
+DTEND:20260728T013000
+UID:hockeycanada5734
+DESCRIPTION:Tournament: National Junior Summer Showcase - 2026 Summer\nGam
+ e Center: https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26
+ /world-championship/stats/game-summary/5734\nTV: RDS\nStreaming link not y
+ et available
+LOCATION:WFCU Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Finland @ United States
+DTSTART:20260729T190000
+DTEND:20260729T213000
+UID:hockeycanada5735
+DESCRIPTION:Tournament: National Junior Summer Showcase - 2026 Summer\nGam
+ e Center: https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26
+ /world-championship/stats/game-summary/5735\nTV: RDS\nStreaming link not y
+ et available
+LOCATION:WFCU Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Sweden @ Canada
+DTSTART:20260729T230000
+DTEND:20260730T013000
+UID:hockeycanada5736
+DESCRIPTION:Tournament: National Junior Summer Showcase - 2026 Summer\nGam
+ e Center: https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26
+ /world-championship/stats/game-summary/5736\nTV: RDS\nStreaming link not y
+ et available
+LOCATION:WFCU Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | United States @ Sweden
+DTSTART:20260730T190000
+DTEND:20260730T213000
+UID:hockeycanada5737
+DESCRIPTION:Tournament: National Junior Summer Showcase - 2026 Summer\nGam
+ e Center: https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26
+ /world-championship/stats/game-summary/5737\nTV: RDS\nStreaming link not y
+ et available
+LOCATION:WFCU Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Canada @ Finland
+DTSTART:20260730T230000
+DTEND:20260731T013000
+UID:hockeycanada5738
+DESCRIPTION:Tournament: National Junior Summer Showcase - 2026 Summer\nGam
+ e Center: https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26
+ /world-championship/stats/game-summary/5738\nTV: RDS\nStreaming link not y
+ et available
+LOCATION:WFCU Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Sweden @ Finland
+DTSTART:20260801T160000
+DTEND:20260801T183000
+UID:hockeycanada5739
+DESCRIPTION:Tournament: National Junior Summer Showcase - 2026 Summer\nGam
+ e Center: https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26
+ /world-championship/stats/game-summary/5739\nTV: RDS\nStreaming link not y
+ et available
+LOCATION:WFCU Centre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | United States @ Canada
+DTSTART:20260801T200000
+DTEND:20260801T223000
+UID:hockeycanada5740
+DESCRIPTION:Tournament: National Junior Summer Showcase - 2026 Summer\nGam
+ e Center: https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26
+ /world-championship/stats/game-summary/5740\nTV: RDS\nStreaming link not y
+ et available
+LOCATION:WFCU Centre
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | United States @ Czechia
 DTSTART:20260803T190000
 DTEND:20260803T213000
@@ -182,6 +292,147 @@ DESCRIPTION:Tournament: Hlinka Gretzky Cup - Gold\nGame Center: https://ww
  w.hlinkagretzkycup.ca/en-ca/season/2026/stats/game-summary?gameid=5726\nTV
  : RDS\nStreaming link not yet available
 LOCATION:Rogers Place
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Canada White @ Czechia
+DTSTART:20261101T203000
+DTEND:20261101T230000
+UID:hockeycanada5835
+DESCRIPTION:Tournament: World U17 Hockey Challenge - Preliminary\nGame Cen
+ ter: https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26/worl
+ d-championship/stats/game-summary/5835\nTV: RDS\nStreaming link not yet av
+ ailable
+LOCATION:Sixteen Mile Sports Complex
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Canada Red @ Finland
+DTSTART:20261102T003000
+DTEND:20261102T030000
+UID:hockeycanada5836
+DESCRIPTION:Tournament: World U17 Hockey Challenge - Preliminary\nGame Cen
+ ter: https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26/worl
+ d-championship/stats/game-summary/5836\nTV: RDS\nStreaming link not yet av
+ ailable
+LOCATION:Sixteen Mile Sports Complex
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Czechia @ Sweden
+DTSTART:20261102T203000
+DTEND:20261102T230000
+UID:hockeycanada5837
+DESCRIPTION:Tournament: World U17 Hockey Challenge - Preliminary\nGame Cen
+ ter: https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26/worl
+ d-championship/stats/game-summary/5837\nTV: RDS\nStreaming link not yet av
+ ailable
+LOCATION:Sixteen Mile Sports Complex
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | United States @ Canada Red
+DTSTART:20261103T003000
+DTEND:20261103T030000
+UID:hockeycanada5838
+DESCRIPTION:Tournament: World U17 Hockey Challenge - Preliminary\nGame Cen
+ ter: https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26/worl
+ d-championship/stats/game-summary/5838\nTV: RDS\nStreaming link not yet av
+ ailable
+LOCATION:Sixteen Mile Sports Complex
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Finland @ United States
+DTSTART:20261103T203000
+DTEND:20261103T230000
+UID:hockeycanada5839
+DESCRIPTION:Tournament: World U17 Hockey Challenge - Preliminary\nGame Cen
+ ter: https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26/worl
+ d-championship/stats/game-summary/5839\nTV: RDS\nStreaming link not yet av
+ ailable
+LOCATION:Sixteen Mile Sports Complex
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Sweden @ Canada White
+DTSTART:20261104T003000
+DTEND:20261104T030000
+UID:hockeycanada5840
+DESCRIPTION:Tournament: World U17 Hockey Challenge - Preliminary\nGame Cen
+ ter: https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26/worl
+ d-championship/stats/game-summary/5840\nTV: RDS\nStreaming link not yet av
+ ailable
+LOCATION:Sixteen Mile Sports Complex
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | TBD @ TBD
+DTSTART:20261105T203000
+DTEND:20261105T230000
+UID:hockeycanada5841
+DESCRIPTION:Tournament: World U17 Hockey Challenge - Quarterfinal\nGame Ce
+ nter: https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26/wor
+ ld-championship/stats/game-summary/5841\nTV: RDS\nStreaming link not yet a
+ vailable
+LOCATION:Sixteen Mile Sports Complex
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | TBD @ TBD
+DTSTART:20261106T003000
+DTEND:20261106T030000
+UID:hockeycanada5842
+DESCRIPTION:Tournament: World U17 Hockey Challenge - Quarterfinal\nGame Ce
+ nter: https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26/wor
+ ld-championship/stats/game-summary/5842\nTV: RDS\nStreaming link not yet a
+ vailable
+LOCATION:Sixteen Mile Sports Complex
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | TBD @ TBD
+DTSTART:20261106T203000
+DTEND:20261106T230000
+UID:hockeycanada5843
+DESCRIPTION:Tournament: World U17 Hockey Challenge - Semifinal\nGame Cente
+ r: https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26/world-
+ championship/stats/game-summary/5843\nTV: RDS\nStreaming link not yet avai
+ lable
+LOCATION:Sixteen Mile Sports Complex
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | TBD @ TBD
+DTSTART:20261107T003000
+DTEND:20261107T030000
+UID:hockeycanada5844
+DESCRIPTION:Tournament: World U17 Hockey Challenge - Semifinal\nGame Cente
+ r: https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26/world-
+ championship/stats/game-summary/5844\nTV: RDS\nStreaming link not yet avai
+ lable
+LOCATION:Sixteen Mile Sports Complex
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | L7 @ L8
+DTSTART:20261107T170000
+DTEND:20261107T193000
+UID:hockeycanada5845
+DESCRIPTION:Tournament: World U17 Hockey Challenge - 5th\nGame Center: htt
+ ps://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26/world-champi
+ onship/stats/game-summary/5845\nTV: RDS\nStreaming link not yet available
+LOCATION:Sixteen Mile Sports Complex
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | L9 @ L10
+DTSTART:20261107T203000
+DTEND:20261107T230000
+UID:hockeycanada5846
+DESCRIPTION:Tournament: World U17 Hockey Challenge - Bronze\nGame Center: 
+ https://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26/world-cha
+ mpionship/stats/game-summary/5846\nTV: RDS\nStreaming link not yet availab
+ le
+LOCATION:Sixteen Mile Sports Complex
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | W9 @ W10
+DTSTART:20261108T003000
+DTEND:20261108T030000
+UID:hockeycanada5847
+DESCRIPTION:Tournament: World U17 Hockey Challenge - Gold\nGame Center: ht
+ tps://www.hockeycanada.ca/en-ca/team-canada/men/junior/2025-26/world-champ
+ ionship/stats/game-summary/5847\nTV: RDS\nStreaming link not yet available
+LOCATION:Sixteen Mile Sports Complex
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Czechia @ Norway
