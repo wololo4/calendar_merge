@@ -73,7 +73,7 @@ def hockeytech_game_center(league, game_id, yyyy, mm, dd, home_slug, away_slug, 
 def hockeycanada_game_center(league_id, game_id, current_year, current_season):
     routes = {
         "7": f"https://www.hockeycanada.ca/en-ca/team-canada/men/junior/{current_season}/world-championship/stats/game-summary/{game_id}",
-        "10": f"https://www.hockeycanada.ca/en-ca/team-canada/men/junior/{current_season}/world-championship/stats/game-summary/{game_id}",
+        "10": f"https://www.hockeycanada.ca/en-ca/national-championships/men/world-u17/{current_year}/schedule-results/stats/game-summary/{game_id}",
         "11": f"https://www.hockeycanada.ca/en-ca/team-canada/men/junior/{current_season}/world-championship/stats/game-summary/{game_id}",
         "24": f"https://www.hockeycanada.ca/en-ca/national-championships/men/u18-club/{current_year}/stats/game-summary/{game_id}",
         "26": f"https://www.hockeycanada.ca/en-ca/team-canada/men/under-18/{current_season}/world-championship/stats/game-summary/{game_id}",
