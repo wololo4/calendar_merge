@@ -8,12 +8,15 @@ from utils.ics import ICSEventBuilder
 HCanada_Tournament = {
     "7": "World Junior Championship",
     "8": "Sprengler Cup",
+    "10": "World U17 Hockey Challenge",
+    "11": "World Junior A Challenge",
     "24": "Telus Cup",
     "26": "World U18 Championship",
     "27": "World Championship",
     "32": "Centennial Cup",
     "34": "Hlinka Gretzky Cup",
     "38": "Olympic Games",
+    "45": "National Junior Summer Showcase",
 }
 
 BROADCASTERS = {
@@ -70,12 +73,15 @@ def hockeytech_game_center(league, game_id, yyyy, mm, dd, home_slug, away_slug, 
 def hockeycanada_game_center(league_id, game_id, current_year, current_season):
     routes = {
         "7": f"https://www.hockeycanada.ca/en-ca/team-canada/men/junior/{current_season}/world-championship/stats/game-summary/{game_id}",
+        "10": f"https://www.hockeycanada.ca/en-ca/team-canada/men/junior/{current_season}/world-championship/stats/game-summary/{game_id}",
+        "11": f"https://www.hockeycanada.ca/en-ca/team-canada/men/junior/{current_season}/world-championship/stats/game-summary/{game_id}",
         "24": f"https://www.hockeycanada.ca/en-ca/national-championships/men/u18-club/{current_year}/stats/game-summary/{game_id}",
         "26": f"https://www.hockeycanada.ca/en-ca/team-canada/men/under-18/{current_season}/world-championship/stats/game-summary/{game_id}",
         "27": f"https://www.hockeycanada.ca/en-ca/team-canada/men/national/{current_season}/world-championship/stats/game-summary/{game_id}",
         "32": f"https://www.hockeycanada.ca/en-ca/national-championships/men/national-junior-a/{current_year}/stats/game-summary/{game_id}",
         "34": f"https://www.hlinkagretzkycup.ca/en-ca/season/{current_year}/stats/game-summary?gameid={game_id}",
         "38": f"https://www.hockeycanada.ca/en-ca/team-canada/men/olympics/{current_year}/stats/game-summary/{game_id}",
+        "45": f"https://www.hockeycanada.ca/en-ca/team-canada/men/junior/{current_season}/world-championship/stats/game-summary/{game_id}",
     }
     return routes.get(league_id)
 
