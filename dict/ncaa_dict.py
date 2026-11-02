@@ -61,6 +61,7 @@ CITY_TO_ARENA = {
     "Grand Rapids, Mich.": "Van Andel Arena",
     "Grand Rapids, Mich. (Great Lakes Invitational)": "Van Andel Arena",
     "Green Bay, Wisc.": "Lambeau Field", 
+    "Green Bay, Wis.": "Lambeau Field",
     "Hamden, CT": "M&T Bank Arena",
     "Hamilton, NY": "Class of 1965 Arena",
     "Hanover, NH": "Thompson Arena",
@@ -197,6 +198,7 @@ NCAA_MASCOT_FIX = {
 }
 
 NCAA_TEAM_FIX = {
+    "#19 Minnesota State": "Minnesota State",
     "Alaska Fairbanks": "Alaska",
     "Army": "Army West Point",
     "Boston": "Boston University",
