@@ -163,7 +163,7 @@ DESCRIPTION:Streaming: None
 LOCATION:Mayo Clinic HSEC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Wisconsin Badgers @ #19 Minnesota State
+SUMMARY:🏒 | Wisconsin Badgers @ Minnesota State Mavericks
 DTSTART:20261010T000000
 DTEND:20261010T023000
 UID:ncaa412808
@@ -208,7 +208,7 @@ UID:ncaa409833
 LOCATION:Yost Ice Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Wisconsin Badgers @ #19 Minnesota State
+SUMMARY:🏒 | Wisconsin Badgers @ Minnesota State Mavericks
 DTSTART:20261010T230000
 DTEND:20261011T013000
 UID:ncaa412809
@@ -693,10 +693,21 @@ UID:ncaa20786
 LOCATION:Mullett Arena
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Boston University Terriers @ Michigan State Spartans
+DTSTART:20261107T213000
+DTEND:20261108T000000
+UID:ncaa33112
+DESCRIPTION:Live Stats: https://www.statbroadcast.com/events/statmonitr.ph
+ p?gid=msu
+LOCATION:Munn Ice Arena
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Providence College Friars @ UConn Huskies
 DTSTART:20261107T220000
 DTEND:20261108T003000
 UID:ncaa12606
+DESCRIPTION:Live Stats: https://www.statbroadcast.com/events/statmonitr.ph
+ p?gid=conn
 LOCATION:Toscano Ice Forum
 END:VEVENT
 BEGIN:VEVENT
@@ -2528,7 +2539,7 @@ DTSTART:20270221T000000
 DTEND:20270221T023000
 UID:ncaa412818
 DESCRIPTION:Streaming: BTN
-LOCATION:Green Bay\, Wis.
+LOCATION:Lambeau Field
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Ohio State Buckeyes @ Minnesota Golden Gophers
