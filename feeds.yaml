@@ -59,6 +59,8 @@ KHL:
     teams:
       - name: Salavat Yulaev Ufa
         team_id: 32
+      - name: Spartak Moscow
+        team_id: 18
       - name: Torpedo Nizhny Novgorod
         team_id: 22
 LHJAAAQ:
@@ -183,7 +185,6 @@ VHL:
     teams:
       - name: Akademia Mikhailov
       - name: Izhstal Izhevsk
-      - name: Khimik Voskresensk
 WHL:
     parser: hockeytech
     base_url: 
