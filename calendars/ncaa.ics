@@ -653,7 +653,7 @@ DTSTART:20261107T000000
 DTEND:20261107T023000
 UID:ncaa33111
 DESCRIPTION:Live Stats: https://www.statbroadcast.com/events/statmonitr.ph
- p?gid=msu
+ p?gid=msu\nStreaming: B1G+
 LOCATION:Munn Ice Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -698,7 +698,7 @@ DTSTART:20261107T213000
 DTEND:20261108T000000
 UID:ncaa33112
 DESCRIPTION:Live Stats: https://www.statbroadcast.com/events/statmonitr.ph
- p?gid=msu
+ p?gid=msu\nStreaming: B1G+
 LOCATION:Munn Ice Arena
 END:VEVENT
 BEGIN:VEVENT
