@@ -382,7 +382,7 @@ DESCRIPTION:Tournament: World U17 Hockey Challenge - Quarterfinal\nGame Ce
 LOCATION:Sixteen Mile Sports Complex
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | TBD @ TBD
+SUMMARY:🏒 | Canada Red @ Czechia
 DTSTART:20261106T203000
 DTEND:20261106T230000
 UID:hockeycanada5843
@@ -393,7 +393,7 @@ DESCRIPTION:Tournament: World U17 Hockey Challenge - Semifinal\nGame Cente
 LOCATION:Sixteen Mile Sports Complex
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | TBD @ TBD
+SUMMARY:🏒 | Canada White @ United States
 DTSTART:20261107T003000
 DTEND:20261107T030000
 UID:hockeycanada5844
@@ -404,7 +404,7 @@ DESCRIPTION:Tournament: World U17 Hockey Challenge - Semifinal\nGame Cente
 LOCATION:Sixteen Mile Sports Complex
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | L7 @ L8
+SUMMARY:🏒 | Sweden @ Finland
 DTSTART:20261107T170000
 DTEND:20261107T193000
 UID:hockeycanada5845
