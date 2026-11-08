@@ -415,7 +415,7 @@ DESCRIPTION:Tournament: World U17 Hockey Challenge - 5th\nGame Center: htt
 LOCATION:Sixteen Mile Sports Complex
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | L9 @ L10
+SUMMARY:🏒 | Canada Red @ Canada White
 DTSTART:20261107T203000
 DTEND:20261107T230000
 UID:hockeycanada5846
@@ -426,7 +426,7 @@ DESCRIPTION:Tournament: World U17 Hockey Challenge - Bronze\nGame Center:
 LOCATION:Sixteen Mile Sports Complex
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | W9 @ W10
+SUMMARY:🏒 | United States @ Czechia
 DTSTART:20261108T003000
 DTEND:20261108T030000
 UID:hockeycanada5847
