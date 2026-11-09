@@ -190,7 +190,5 @@ WHL:
     base_url: 
         https://cluster.leaguestat.com/feed/index.php?feed=modulekit&view=schedule&client_code=whl&key=41b145a848f4bd67
     teams:
-      - name: Penticton Vees
-        team_id: 277
       - name: Saskatoon Blades
         team_id: 213
