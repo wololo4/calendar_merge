@@ -17,6 +17,10 @@ HCanada_Tournament = {
     "34": "Hlinka Gretzky Cup",
     "38": "Olympic Games",
     "45": "National Junior Summer Showcase",
+    "54": "Canada Winter Games",
+    "56": "Youth Olympic Games",
+    "86": "4 Nations Faceoff",
+    #"?": "World Cup of Hockey", tba 2028
 }
 
 BROADCASTERS = {
@@ -82,6 +86,8 @@ def hockeycanada_game_center(league_id, game_id, current_year, current_season):
         "34": f"https://www.hlinkagretzkycup.ca/en-ca/season/{current_year}/stats/game-summary?gameid={game_id}",
         "38": f"https://www.hockeycanada.ca/en-ca/team-canada/men/olympics/{current_year}/stats/game-summary/{game_id}",
         "45": f"https://www.hockeycanada.ca/en-ca/team-canada/men/junior/{current_season}/world-championship/stats/game-summary/{game_id}",
+        "54": f"https://www.hockeycanada.ca/en-ca/team-canada/men/national/{current_season}/world-championship/stats/game-summary/{game_id}",
+        "56": f"https://www.hockeycanada.ca/en-ca/team-canada/men/national/{current_season}/world-championship/stats/game-summary/{game_id}",
     }
     return routes.get(league_id)
 
