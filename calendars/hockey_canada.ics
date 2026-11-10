@@ -755,17 +755,6 @@ DESCRIPTION:Tournament: World Junior Championship - Gold\nGame Center: htt
 LOCATION:Rogers Place
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | United States @ Kazakhstan
-DTSTART:20270219T152000
-DTEND:20270219T175000
-UID:hockeycanada5948
-DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
- ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
- pionship/stats/game-summary/5948\nTV: RDS\nStreaming link not yet availabl
- e
-LOCATION:Dusseldorf Dome
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Sweden @ Latvia
 DTSTART:20270421T160000
 DTEND:20270421T183000
@@ -1259,17 +1248,6 @@ DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
 LOCATION:SAP Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Canada @ Norway
-DTSTART:20270517T142000
-DTEND:20270517T165000
-UID:hockeycanada5940
-DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
- ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
- pionship/stats/game-summary/5940\nTV: RDS\nStreaming link not yet availabl
- e
-LOCATION:Dusseldorf Dome
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Slovenia @ Sweden
 DTSTART:20270517T142000
 DTEND:20270517T165000
@@ -1281,13 +1259,13 @@ DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
 LOCATION:SAP Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | United States @ Czechia
-DTSTART:20270517T182000
-DTEND:20270517T205000
-UID:hockeycanada5942
+SUMMARY:🏒 | Canada @ Norway
+DTSTART:20270517T142000
+DTEND:20270517T165000
+UID:hockeycanada5940
 DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
  ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
- pionship/stats/game-summary/5942\nTV: RDS\nStreaming link not yet availabl
+ pionship/stats/game-summary/5940\nTV: RDS\nStreaming link not yet availabl
  e
 LOCATION:Dusseldorf Dome
 END:VEVENT
@@ -1301,6 +1279,17 @@ DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
  pionship/stats/game-summary/5941\nTV: RDS\nStreaming link not yet availabl
  e
 LOCATION:SAP Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | United States @ Czechia
+DTSTART:20270517T182000
+DTEND:20270517T205000
+UID:hockeycanada5942
+DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
+ ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
+ pionship/stats/game-summary/5942\nTV: RDS\nStreaming link not yet availabl
+ e
+LOCATION:Dusseldorf Dome
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Kazakhstan @ Denmark
@@ -1347,17 +1336,6 @@ DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
 LOCATION:Dusseldorf Dome
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Germany @ Finland
-DTSTART:20270519T142000
-DTEND:20270519T165000
-UID:hockeycanada5947
-DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
- ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
- pionship/stats/game-summary/5947\nTV: RDS\nStreaming link not yet availabl
- e
-LOCATION:SAP Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | United States @ Kazakhstan
 DTSTART:20270519T142000
 DTEND:20270519T165000
@@ -1369,15 +1347,15 @@ DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
 LOCATION:Dusseldorf Dome
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Czechia @ Hungary
-DTSTART:20270519T182000
-DTEND:20270519T205000
-UID:hockeycanada5951
+SUMMARY:🏒 | Germany @ Finland
+DTSTART:20270519T142000
+DTEND:20270519T165000
+UID:hockeycanada5947
 DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
  ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
- pionship/stats/game-summary/5951\nTV: RDS\nStreaming link not yet availabl
+ pionship/stats/game-summary/5947\nTV: RDS\nStreaming link not yet availabl
  e
-LOCATION:Dusseldorf Dome
+LOCATION:SAP Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Slovakia @ Ukraine 
@@ -1389,6 +1367,17 @@ DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
  pionship/stats/game-summary/5949\nTV: RDS\nStreaming link not yet availabl
  e
 LOCATION:SAP Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Czechia @ Hungary
+DTSTART:20270519T182000
+DTEND:20270519T205000
+UID:hockeycanada5951
+DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
+ ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
+ pionship/stats/game-summary/5951\nTV: RDS\nStreaming link not yet availabl
+ e
+LOCATION:Dusseldorf Dome
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Sweden @ Austria
@@ -1413,17 +1402,6 @@ DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
 LOCATION:Dusseldorf Dome
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Germany @ Slovakia
-DTSTART:20270520T182000
-DTEND:20270520T205000
-UID:hockeycanada5954
-DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
- ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
- pionship/stats/game-summary/5954\nTV: RDS\nStreaming link not yet availabl
- e
-LOCATION:SAP Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Denmark @ Norway
 DTSTART:20270520T182000
 DTEND:20270520T205000
@@ -1435,13 +1413,13 @@ DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
 LOCATION:Dusseldorf Dome
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Latvia @ Ukraine 
-DTSTART:20270521T142000
-DTEND:20270521T165000
-UID:hockeycanada5956
+SUMMARY:🏒 | Germany @ Slovakia
+DTSTART:20270520T182000
+DTEND:20270520T205000
+UID:hockeycanada5954
 DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
  ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
- pionship/stats/game-summary/5956\nTV: RDS\nStreaming link not yet availabl
+ pionship/stats/game-summary/5954\nTV: RDS\nStreaming link not yet availabl
  e
 LOCATION:SAP Arena
 END:VEVENT
@@ -1457,13 +1435,13 @@ DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
 LOCATION:Dusseldorf Dome
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Sweden @ Switzerland
-DTSTART:20270521T182000
-DTEND:20270521T205000
-UID:hockeycanada5958
+SUMMARY:🏒 | Latvia @ Ukraine 
+DTSTART:20270521T142000
+DTEND:20270521T165000
+UID:hockeycanada5956
 DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
  ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
- pionship/stats/game-summary/5958\nTV: RDS\nStreaming link not yet availabl
+ pionship/stats/game-summary/5956\nTV: RDS\nStreaming link not yet availabl
  e
 LOCATION:SAP Arena
 END:VEVENT
@@ -1477,6 +1455,17 @@ DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
  pionship/stats/game-summary/5959\nTV: RDS\nStreaming link not yet availabl
  e
 LOCATION:Dusseldorf Dome
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Sweden @ Switzerland
+DTSTART:20270521T182000
+DTEND:20270521T205000
+UID:hockeycanada5958
+DESCRIPTION:Tournament: World Championship - Preliminary\nGame Center: htt
+ ps://www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-cham
+ pionship/stats/game-summary/5958\nTV: RDS\nStreaming link not yet availabl
+ e
+LOCATION:SAP Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Norway @ Kazakhstan
@@ -1770,16 +1759,6 @@ UID:hockeycanada5986
 DESCRIPTION:Tournament: World Championship - Bronze\nGame Center: https://
  www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-champions
  hip/stats/game-summary/5986\nTV: RDS\nStreaming link not yet available
-LOCATION:Dusseldorf Dome
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | L61 @ L62
-DTSTART:20270530T132000
-DTEND:20270530T155000
-UID:hockeycanada5987
-DESCRIPTION:Tournament: World Championship - Bronze\nGame Center: https://
- www.hockeycanada.ca/en-ca/team-canada/men/national/2025-26/world-champions
- hip/stats/game-summary/5987\nTV: RDS\nStreaming link not yet available
 LOCATION:Dusseldorf Dome
 END:VEVENT
 BEGIN:VEVENT

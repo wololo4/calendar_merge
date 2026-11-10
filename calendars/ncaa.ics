@@ -1518,8 +1518,8 @@ LOCATION:Herb Brooks National Hockey Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Dartmouth College Big Green @ Vermont Catamounts
-DTSTART:20261219T210000
-DTEND:20261219T233000
+DTSTART:20261220T000000
+DTEND:20261220T023000
 UID:ncaa17754
 DESCRIPTION:Streaming: ESPN+
 LOCATION:Gutterson Fieldhouse
@@ -2118,6 +2118,14 @@ DESCRIPTION:Live Stats: https://friars.com/sidearmstats/mhockey/summary
 LOCATION:Schneider Arena
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Dartmouth College Big Green @ Merrimack Warriors
+DTSTART:20270131T000000
+DTEND:20270131T023000
+UID:ncaa17755
+DESCRIPTION:Game time to be determined\nStreaming: ESPN+
+LOCATION:Lawler Arena
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Bemidji State Beavers @ Minnesota State Mavericks
 DTSTART:20270131T000700
 DTEND:20270131T023700
@@ -2138,14 +2146,6 @@ DTSTART:20270131T010000
 DTEND:20270131T033000
 UID:ncaa20452
 LOCATION:Ed Robson Arena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏒 | Dartmouth College Big Green @ Merrimack Warriors
-DTSTART:20270131T190000
-DTEND:20270131T213000
-UID:ncaa17755
-DESCRIPTION:Streaming: ESPN+
-LOCATION:Lawler Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Boston University Terriers @ Boston College Eagles
