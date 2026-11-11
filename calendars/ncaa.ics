@@ -951,8 +951,8 @@ LOCATION:Agganis Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Providence College Friars @ UMass Minutemen
-DTSTART:20261120T000000
-DTEND:20261120T023000
+DTSTART:20261119T230000
+DTEND:20261120T013000
 UID:ncaa12609
 LOCATION:Mullins Center
 END:VEVENT
@@ -2523,14 +2523,6 @@ DESCRIPTION:Game time to be determined\nStreaming: None
 LOCATION:Lambeau Field
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Northeastern Huskies @ Providence College Friars
-DTSTART:20270220T230000
-DTEND:20270221T013000
-UID:ncaa12629
-DESCRIPTION:Live Stats: https://friars.com/sidearmstats/mhockey/summary
-LOCATION:Schneider Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Minnesota Duluth Bulldogs @ Western Michigan Broncos
 DTSTART:20270220T230000
 DTEND:20270221T013000
@@ -2560,6 +2552,14 @@ DTEND:20270221T023000
 UID:ncaa33136
 DESCRIPTION:Streaming: ESPN+
 LOCATION:Whittemore Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Northeastern Huskies @ Providence College Friars
+DTSTART:20270221T000000
+DTEND:20270221T023000
+UID:ncaa12629
+DESCRIPTION:Live Stats: https://friars.com/sidearmstats/mhockey/summary
+LOCATION:Schneider Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Augustana Vikings @ Bemidji State Beavers
