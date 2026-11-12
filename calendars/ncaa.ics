@@ -2181,14 +2181,6 @@ DESCRIPTION:Streaming: FS1
 LOCATION:Munn Ice Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Michigan State Spartans @ Michigan Wolverines
-DTSTART:20270206T000000
-DTEND:20270206T023000
-UID:ncaa409814
-DESCRIPTION:Game time to be determined\nStreaming: Big Ten Network
-LOCATION:To be determined
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Harvard Crimson @ Dartmouth College Big Green
 DTSTART:20270206T000000
 DTEND:20270206T023000
@@ -2239,6 +2231,14 @@ DTSTART:20270206T020000
 DTEND:20270206T043000
 UID:ncaa20765
 LOCATION:Magness Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Michigan State Spartans @ Michigan Wolverines
+DTSTART:20270206T050000
+DTEND:20270206T073000
+UID:ncaa409814
+DESCRIPTION:Game time to be determined\nStreaming: None
+LOCATION:To be determined
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Long Island Sharks @ Providence College Friars
