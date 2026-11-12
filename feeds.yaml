@@ -183,12 +183,14 @@ VHL:
     parser: vhl
     base_url: https://www.vhlru.ru/en/calendar/
     teams:
-      - name: Akademia Mikhailov
       - name: Izhstal Izhevsk
+      - name: Khimik Voskresensk
 WHL:
     parser: hockeytech
     base_url: 
         https://cluster.leaguestat.com/feed/index.php?feed=modulekit&view=schedule&client_code=whl&key=41b145a848f4bd67
     teams:
+      - name: Penticton Vees
+        team_id: 277
       - name: Saskatoon Blades
         team_id: 213
