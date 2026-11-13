@@ -252,7 +252,7 @@ DTSTART:20261112T180000
 DTEND:20261112T203000
 UID:shllossvjltt3
 DESCRIPTION:Game Center: https://www.shl.se/game-center/lossvjltt3/qa98unl
- bd6/?state=pre-game
+ bd6/?state=post-game
 LOCATION:Husqvarna Garden
 END:VEVENT
 BEGIN:VEVENT
@@ -261,7 +261,7 @@ DTSTART:20261112T180000
 DTEND:20261112T203000
 UID:shlimds3e8pm2
 DESCRIPTION:Game Center: https://www.shl.se/game-center/imds3e8pm2/qa98unl
- bd6/?state=pre-game
+ bd6/?state=post-game
 LOCATION:Monitor ERP Arena
 END:VEVENT
 BEGIN:VEVENT

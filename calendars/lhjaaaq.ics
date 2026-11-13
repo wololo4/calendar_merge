@@ -355,6 +355,15 @@ DESCRIPTION:https://www.lhjaaaq.com/fr/stats/sommaire.html?season=4908&sub
 LOCATION:Laval\, Colisée de Laval
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏒 | Nomad de Gatineau @ L'Énergie de Laval
+DTSTART:20270211T193000
+DTEND:20270211T220000
+UID:LHJAAAQ1901682
+DESCRIPTION:https://www.lhjaaaq.com/fr/stats/sommaire.html?season=4908&sub
+ Season=4910&category=1093&game=1901682
+LOCATION:Laval\, Colisée de Laval
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏒 | Collège Français de Longueuil @ L'Énergie de Laval
 DTSTART:20270214T133500
 DTEND:20270214T160500
