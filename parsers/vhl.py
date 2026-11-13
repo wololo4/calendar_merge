@@ -44,8 +44,15 @@ def parse_vhl_html(html, team_name, season_id):
             continue
                 
         for match in matches:
-            home_raw = match.select(".calendar-page__match-team--home .calendar-page__match-team-name")[0].text.strip()
-            away_raw = match.select(".calendar-page__match-team--guest .calendar-page__match-team-name")[0].text.strip()
+            home_tag = match.select_one(".calendar-page__match-team--home .calendar-page__match-team-name")
+            away_tag = match.select_one(".calendar-page__match-team--guest .calendar-page__match-team-name")
+
+            if not home_tag or not away_tag:
+                print(f"[WARN] Skipping match with missing team info: {match.get_text(' ', strip=True)[:100]}")
+                continue
+
+            home_raw = home_tag.text.strip()
+            away_raw = away_tag.text.strip()
             
             home = normalize_vhl(home_raw)
             away = normalize_vhl(away_raw)
@@ -70,6 +77,7 @@ def parse_vhl_html(html, team_name, season_id):
                 minute = int(minute_str)
             except ValueError:
                 print(f"WARNING Cannot parse time {time_text}")
+                continue
             msk = timezone(timedelta(hours=3))
             dtstart_msk = dt_date.replace(hour=hour, minute=minute, tzinfo=msk)
             end_dt_msk = dtstart_msk + timedelta(hours=2, minutes=30)
