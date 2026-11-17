@@ -852,20 +852,20 @@ DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902379/preview
 LOCATION:Minsk Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Dynamo Moscow @ Spartak Moscow
-DTSTART:20261222T163000Z
-DTEND:20261222T190000Z
-UID:khl902380
-DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902380/preview
-LOCATION:CSKA Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | SKA Saint Petersburg @ Torpedo Nizhny Novgorod
 DTSTART:20261222T163000Z
 DTEND:20261222T190000Z
 UID:khl902381
 DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902381/preview
 LOCATION:CEC Nagorny
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Dynamo Moscow @ Spartak Moscow
+DTSTART:20261222T164600Z
+DTEND:20261222T191600Z
+UID:khl902380
+DESCRIPTION:Game Center: https://en.khl.ru/game/1436/902380/preview
+LOCATION:CSKA Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Salavat Yulaev Ufa @ Neftekhimik Nizhnekamsk
