@@ -163,4 +163,44 @@ DESCRIPTION:Stage: Round of 16\nRound: Return Game\nGame Center: https://w
  angelholm
 LOCATION:Skellefteå Kraft Arena
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Kölner Haie @ Frölunda Gothenburg
+DTSTART:20261201T180000
+DTEND:20261201T203000
+UID:chleu3094
+DESCRIPTION:Stage: Quarter-Finals\nRound: First Game\nGame Center: https:/
+ /www.chl.hockey/en/matches/5c2542351e0f0c6c4fc30486/frolunda-gothenburg-vs
+ -kolner-haie
+LOCATION:Frölundaborg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Skellefteå AIK @ Fribourg-Gottéron
+DTSTART:20261201T184500
+DTEND:20261201T211500
+UID:chleu3096
+DESCRIPTION:Stage: Quarter-Finals\nRound: First Game\nGame Center: https:/
+ /www.chl.hockey/en/matches/ac25bad1cec4592ab2b7f487/fribourg-gotteron-vs-s
+ kelleftea-aik
+LOCATION:BCF Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Fribourg-Gottéron @ Skellefteå AIK
+DTSTART:20261215T180000
+DTEND:20261215T203000
+UID:chleu3099
+DESCRIPTION:Stage: Quarter-Finals\nRound: Return Game\nGame Center: https:
+ //www.chl.hockey/en/matches/6a4701d06118e4f4bbfe5e4a/skelleftea-aik-vs-fri
+ bourg-gotteron
+LOCATION:Skellefteå Kraft Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Frölunda Gothenburg @ Kölner Haie
+DTSTART:20261215T183000
+DTEND:20261215T210000
+UID:chleu3100
+DESCRIPTION:Stage: Quarter-Finals\nRound: Return Game\nGame Center: https:
+ //www.chl.hockey/en/matches/436f8fcd11f240a5d7059879/kolner-haie-vs-frolun
+ da-gothenburg
+LOCATION:LANXESS Arena
+END:VEVENT
 END:VCALENDAR

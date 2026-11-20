@@ -288,7 +288,7 @@ DTSTART:20261119T180000
 DTEND:20261119T203000
 UID:shlreb7yn6bn7
 DESCRIPTION:Game Center: https://www.shl.se/game-center/reb7yn6bn7/qa98unl
- bd6/?state=pre-game
+ bd6/?state=post-game
 LOCATION:Monitor ERP Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -297,7 +297,7 @@ DTSTART:20261119T180000
 DTEND:20261119T203000
 UID:shlls7erm61l1
 DESCRIPTION:Game Center: https://www.shl.se/game-center/ls7erm61l1/qa98unl
- bd6/?state=pre-game
+ bd6/?state=post-game
 LOCATION:Hovet
 END:VEVENT
 BEGIN:VEVENT
