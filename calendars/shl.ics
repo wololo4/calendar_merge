@@ -306,7 +306,7 @@ DTSTART:20261121T141500
 DTEND:20261121T164500
 UID:shlvvv334lwlo
 DESCRIPTION:Game Center: https://www.shl.se/game-center/vvv334lwlo/qa98unl
- bd6/?state=pre-game
+ bd6/?state=post-game
 LOCATION:Hovet
 END:VEVENT
 BEGIN:VEVENT
@@ -315,7 +315,7 @@ DTSTART:20261121T170000
 DTEND:20261121T193000
 UID:shlkbza79tlxu
 DESCRIPTION:Game Center: https://www.shl.se/game-center/kbza79tlxu/qa98unl
- bd6/?state=pre-game
+ bd6/?state=post-game
 LOCATION:Behrn Arena
 END:VEVENT
 BEGIN:VEVENT
