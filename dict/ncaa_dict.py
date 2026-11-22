@@ -215,6 +215,7 @@ NCAA_TEAM_FIX = {
     "Providence": "Providence College",
     "Providence/Minnesota-Duluth": "To be determined",
     "Rensselaer Polytechnic Institute": "RPI",
+    "Rochester Institute of Technology": :"RIT",
     "Stonehill College": "Stonehill",
     "UConn/Colgate": "To be determined",
     "UConn/Colgate/Providence": "To be determined",
