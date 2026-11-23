@@ -110,7 +110,6 @@ NCAA_BIG10:
     base_url: 
         https://bigten.org/services/responsive-calendar.ashx?sport_id=9&school_id=0
     teams:
-      - name: Michigan Wolverines
       - name: Minnesota Golden Gophers
       - name: Wisconsin Badgers
 NCAA_CCHA:
