@@ -4,14 +4,6 @@ PRODID:-//Hockey Calendar//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:🏒 | Khimik Voskresensk @ HC Tambov
-DTSTART:20261124T153000Z
-DTEND:20261124T180000Z
-UID:vhl904379
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904379
-LOCATION:Crystall Ice Palace
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Khimik Voskresensk @ Dizel Penza
 DTSTART:20261126T160000Z
 DTEND:20261126T183000Z
@@ -148,14 +140,6 @@ DESCRIPTION:Game Center: https://online.vhlru.ru/online/904502
 LOCATION:Sports Palace Izhstal
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Khimik Voskresensk @ Yuzhny Ural Orsk
-DTSTART:20261223T133000Z
-DTEND:20261223T160000Z
-UID:vhl904506
-DESCRIPTION:Game Center: https://online.vhlru.ru/online/904506
-LOCATION:Ice Palace Yubileyny
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Neftyanik Almetyevsk @ Izhstal Izhevsk
 DTSTART:20261224T143000Z
 DTEND:20261224T170000Z
@@ -226,6 +210,14 @@ DTEND:20270122T170000Z
 UID:vhl904602
 DESCRIPTION:Game Center: https://online.vhlru.ru/online/904602
 LOCATION:Sports Palace Izhstal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Khimik Voskresensk @ Yuzhny Ural Orsk
+DTSTART:20270123T070000Z
+DTEND:20270123T093000Z
+UID:vhl904506
+DESCRIPTION:Game Center: https://online.vhlru.ru/online/904506
+LOCATION:Ice Palace Yubileyny
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Metallurg Novokuznetsk @ Izhstal Izhevsk
