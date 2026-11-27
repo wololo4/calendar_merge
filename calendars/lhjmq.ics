@@ -404,16 +404,6 @@ DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/33144\nStreaming:
 LOCATION:Palais des Sports Léopold-Drolet
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Val-d'Or Foreurs @ Drummondville Voltigeurs
-DTSTART:20261121T000000
-DTEND:20261121T023000
-UID:lhjmq32819
-DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32819\nStreaming:
-  https://www.flohockey.tv/events/16026251-2026-val-dor-foreurs-vs-drummond
- ville-voltigeurs
-LOCATION:Centre Marcel Dionne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏒 | Cape Breton Eagles @ Chicoutimi Saguenéens
 DTSTART:20261121T210000
 DTEND:20261121T233000
@@ -532,6 +522,16 @@ DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32698\nStreaming:
   https://www.flohockey.tv/events/16026038-2026-val-dor-foreurs-vs-blainvil
  le-boisbriand-armada
 LOCATION:Centre Excellence Sports Rousseau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏒 | Val-d'Or Foreurs @ Drummondville Voltigeurs
+DTSTART:20261209T000000
+DTEND:20261209T023000
+UID:lhjmq32819
+DESCRIPTION:Game Center: https://chl.ca/lhjmq/gamecentre/32819\nStreaming:
+  https://www.flohockey.tv/events/16026251-2026-val-dor-foreurs-vs-drummond
+ ville-voltigeurs
+LOCATION:Centre Marcel Dionne
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏒 | Chicoutimi Saguenéens @ Rouyn-Noranda Huskies

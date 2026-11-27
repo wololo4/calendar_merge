@@ -1137,6 +1137,7 @@ SUMMARY:🏒 | Providence College Friars @ Minnesota Duluth Bulldogs
 DTSTART:20261127T140000
 DTEND:20261127T163000
 UID:ncaa12611
+DESCRIPTION:Live Stats: https://friars.com/sidearmstats/mhockey/
 LOCATION:The O2 Belfast
 END:VEVENT
 BEGIN:VEVENT
@@ -1191,7 +1192,8 @@ SUMMARY:🏒 | Providence College Friars @ To be determined
 DTSTART:20261128T050000
 DTEND:20261128T073000
 UID:ncaa12612
-DESCRIPTION:Game date to be determined
+DESCRIPTION:Game date to be determined\nLive Stats: https://friars.com/sid
+ earmstats/mhockey/
 LOCATION:The O2 Belfast
 END:VEVENT
 BEGIN:VEVENT
@@ -1449,6 +1451,7 @@ SUMMARY:🏒 | Denver Pioneers @ St. Cloud State Huskies
 DTSTART:20261212T010000
 DTEND:20261212T033000
 UID:ncaa20831
+DESCRIPTION:Streaming: Twin Cities CW
 LOCATION:Herb Brooks National Hockey Center
 END:VEVENT
 BEGIN:VEVENT
@@ -1503,6 +1506,7 @@ SUMMARY:🏒 | Denver Pioneers @ St. Cloud State Huskies
 DTSTART:20261213T000000
 DTEND:20261213T023000
 UID:ncaa20832
+DESCRIPTION:Streaming: Twin Cities CW
 LOCATION:Herb Brooks National Hockey Center
 END:VEVENT
 BEGIN:VEVENT
@@ -1633,6 +1637,7 @@ SUMMARY:🏒 | Alaska Nanooks @ St. Cloud State Huskies
 DTSTART:20270102T010000
 DTEND:20270102T033000
 UID:ncaa20854
+DESCRIPTION:Streaming: Twin Cities CW
 LOCATION:Herb Brooks National Hockey Center
 END:VEVENT
 BEGIN:VEVENT
@@ -1670,6 +1675,7 @@ SUMMARY:🏒 | Alaska Nanooks @ St. Cloud State Huskies
 DTSTART:20270103T000000
 DTEND:20270103T023000
 UID:ncaa20855
+DESCRIPTION:Streaming: Twin Cities CW
 LOCATION:Herb Brooks National Hockey Center
 END:VEVENT
 BEGIN:VEVENT
@@ -1876,6 +1882,7 @@ SUMMARY:🏒 | Miami RedHawks @ St. Cloud State Huskies
 DTSTART:20270116T010000
 DTEND:20270116T033000
 UID:ncaa20848
+DESCRIPTION:Streaming: Twin Cities CW
 LOCATION:Herb Brooks National Hockey Center
 END:VEVENT
 BEGIN:VEVENT
@@ -1938,6 +1945,7 @@ SUMMARY:🏒 | Miami RedHawks @ St. Cloud State Huskies
 DTSTART:20270117T000000
 DTEND:20270117T023000
 UID:ncaa20849
+DESCRIPTION:Streaming: Twin Cities CW
 LOCATION:Herb Brooks National Hockey Center
 END:VEVENT
 BEGIN:VEVENT
@@ -2022,6 +2030,7 @@ SUMMARY:🏒 | Denver Pioneers @ Minnesota Duluth Bulldogs
 DTSTART:20270123T010700
 DTEND:20270123T033700
 UID:ncaa20668
+DESCRIPTION:Streaming: My9 Sports
 LOCATION:AMSOIL Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2082,6 +2091,7 @@ SUMMARY:🏒 | Denver Pioneers @ Minnesota Duluth Bulldogs
 DTSTART:20270124T000700
 DTEND:20270124T023700
 UID:ncaa20669
+DESCRIPTION:Streaming: My9 Sports
 LOCATION:AMSOIL Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2397,6 +2407,7 @@ SUMMARY:🏒 | Omaha Mavericks @ St. Cloud State Huskies
 DTSTART:20270213T010000
 DTEND:20270213T033000
 UID:ncaa20835
+DESCRIPTION:Streaming: Twin Cities CW
 LOCATION:Herb Brooks National Hockey Center
 END:VEVENT
 BEGIN:VEVENT
@@ -2465,6 +2476,7 @@ SUMMARY:🏒 | Omaha Mavericks @ St. Cloud State Huskies
 DTSTART:20270214T000000
 DTEND:20270214T023000
 UID:ncaa20836
+DESCRIPTION:Streaming: Twin Cities CW
 LOCATION:Herb Brooks National Hockey Center
 END:VEVENT
 BEGIN:VEVENT
@@ -2681,6 +2693,7 @@ SUMMARY:🏒 | St. Thomas Tommies @ St. Cloud State Huskies
 DTSTART:20270227T010000
 DTEND:20270227T033000
 UID:ncaa20843
+DESCRIPTION:Streaming: Twin Cities CW
 LOCATION:Herb Brooks National Hockey Center
 END:VEVENT
 BEGIN:VEVENT
@@ -2742,6 +2755,7 @@ SUMMARY:🏒 | St. Thomas Tommies @ St. Cloud State Huskies
 DTSTART:20270228T000000
 DTEND:20270228T023000
 UID:ncaa20844
+DESCRIPTION:Streaming: Twin Cities CW
 LOCATION:Herb Brooks National Hockey Center
 END:VEVENT
 BEGIN:VEVENT
