@@ -1188,12 +1188,11 @@ DESCRIPTION:Streaming: ESPN+
 LOCATION:Bright-Landry Hockey Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏒 | Providence College Friars @ To be determined
-DTSTART:20261128T050000
-DTEND:20261128T073000
+SUMMARY:🏒 | Providence College Friars @ UConn Huskies
+DTSTART:20261128T190000
+DTEND:20261128T213000
 UID:ncaa12612
-DESCRIPTION:Game date to be determined\nLive Stats: https://friars.com/sid
- earmstats/mhockey/
+DESCRIPTION:Live Stats: https://friars.com/sidearmstats/mhockey/
 LOCATION:The O2 Belfast
 END:VEVENT
 BEGIN:VEVENT
@@ -1333,7 +1332,7 @@ SUMMARY:🏒 | North Dakota Fighting Hawks @ Denver Pioneers
 DTSTART:20261205T020000
 DTEND:20261205T043000
 UID:ncaa20634
-DESCRIPTION:Streaming: Midco Sports / Altitude
+DESCRIPTION:Streaming: Midco Sports / Altitude / TSN2
 LOCATION:Magness Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1482,6 +1481,7 @@ SUMMARY:🏒 | Western Michigan Broncos @ Arizona State Sun Devils
 DTSTART:20261212T020000
 DTEND:20261212T043000
 UID:ncaa20735
+DESCRIPTION:Streaming: FOX 10
 LOCATION:Mullett Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1514,6 +1514,7 @@ SUMMARY:🏒 | Western Michigan Broncos @ Arizona State Sun Devils
 DTSTART:20261213T000000
 DTEND:20261213T023000
 UID:ncaa20736
+DESCRIPTION:Streaming: FOX 10
 LOCATION:Mullett Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2277,6 +2278,7 @@ SUMMARY:🏒 | Arizona State Sun Devils @ Denver Pioneers
 DTSTART:20270206T020000
 DTEND:20270206T043000
 UID:ncaa20765
+DESCRIPTION:Streaming: Altitude 2
 LOCATION:Magness Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2321,6 +2323,7 @@ SUMMARY:🏒 | Arizona State Sun Devils @ Denver Pioneers
 DTSTART:20270207T010000
 DTEND:20270207T033000
 UID:ncaa20766
+DESCRIPTION:Streaming: Altitude
 LOCATION:Magness Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2562,6 +2565,7 @@ SUMMARY:🏒 | St. Cloud State Huskies @ Denver Pioneers
 DTSTART:20270220T020000
 DTEND:20270220T043000
 UID:ncaa20761
+DESCRIPTION:Streaming: Altitude
 LOCATION:Magness Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2639,6 +2643,7 @@ SUMMARY:🏒 | St. Cloud State Huskies @ Denver Pioneers
 DTSTART:20270221T010000
 DTEND:20270221T033000
 UID:ncaa20762
+DESCRIPTION:Streaming: Altitude 2
 LOCATION:Magness Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2701,6 +2706,7 @@ SUMMARY:🏒 | Colorado College Tigers @ Denver Pioneers
 DTSTART:20270227T020000
 DTEND:20270227T043000
 UID:ncaa20537
+DESCRIPTION:Streaming: Altitude
 LOCATION:Magness Arena
 END:VEVENT
 BEGIN:VEVENT
